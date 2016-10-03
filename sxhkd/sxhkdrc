@@ -1,0 +1,111 @@
+super + shift + Escape
+    pkill xinit
+
+super + Return
+	urxvt
+
+super + space
+	bashrun --toggle
+
+super + shift + Return
+	killw $(pfw); \
+    focus.pl prev
+
+super + shift + x
+    pkill -USR1 -x sxhkd
+
+#window mvmnt hotkeys
+
+alt + shift + k 
+    fullscreen.pl           
+
+alt + shift + j
+    quarterscreen.pl
+
+alt + shift + l
+    nextmon.pl
+
+alt + shift + h
+    prevmon.pl
+
+alt + shift + 1
+    wtp 20 40 930 1020 $(pfw)
+
+alt + shift + 2
+    wtp 970 40 930 1020 $(pfw)
+
+alt + shift + 3
+    wtp 1940 40 930 1020 $(pfw)
+
+alt + shift + 4
+    wtp 2890 40 930 1020 $(pfw)
+
+alt + shift + 5
+    wtp 2890 40 930 500 $(pfw)
+
+alt + shift + 6
+    wtp 2890 560 930 500 $(pfw)
+
+super + shift + Right
+	wrs 10 0 $(pfw)
+
+super + shift + Left
+	wrs -10 0 $(pfw)
+
+super + shift + Up
+	wrs 0 -10 $(pfw)
+
+super + shift + Down
+   wrs 0 10 $(pfw)
+
+alt + Tab
+    focus.pl next  
+
+alt + Escape
+    focus.pl prev
+
+alt + {h,l}
+   closest.pl {-prev, -next}
+
+alt + shift + Up
+    wmv 0 -10 $(pfw)
+
+alt + shift + Down
+    wmv 0 10 $(pfw)
+
+alt + shift + Right
+	wmv 10 0 $(pfw)
+
+alt + shift + Left
+	wmv -10 0 $(pfw)
+
+
+#using the mouse
+
+# move windows with the mouse
+#alt + shift + w 
+#    xmmv $(pfw)
+
+#super + !button3
+#    wrs -a %i %i $(pfw)
+
+# focus on clicked window
+~button1
+    focus.pl $(underneath.sh)
+#    focus.pl $(pfw)
+
+
+#window groups
+super + shift + {1, 2, 3, 4, 5, 6}
+    groups.sh -s $(pfw) {1, 2, 3, 4, 5, 6}
+
+super + {1, 2, 3, 4, 5, 6}
+    groups.sh -t {1, 2, 3, 4, 5, 6}
+
+
+#other scripts
+alt + Print
+    /home/derrick/scripts/screenshot.sh
+
+
+    

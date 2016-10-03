@@ -1,0 +1,26 @@
+[Added Associations]
+text/markdown=firefox.desktop;
+x-scheme-handler/http=userapp-Firefox-TKH3MY.desktop;
+x-scheme-handler/https=userapp-Firefox-TKH3MY.desktop;
+x-scheme-handler/ftp=userapp-Firefox-TKH3MY.desktop;
+x-scheme-handler/chrome=userapp-Firefox-TKH3MY.desktop;
+text/html=userapp-Firefox-TKH3MY.desktop;
+application/x-extension-htm=userapp-Firefox-TKH3MY.desktop;
+application/x-extension-html=userapp-Firefox-TKH3MY.desktop;
+application/x-extension-shtml=userapp-Firefox-TKH3MY.desktop;
+application/xhtml+xml=userapp-Firefox-TKH3MY.desktop;
+application/x-extension-xhtml=userapp-Firefox-TKH3MY.desktop;
+application/x-extension-xht=userapp-Firefox-TKH3MY.desktop;
+
+[Default Applications]
+x-scheme-handler/http=userapp-Firefox-TKH3MY.desktop
+x-scheme-handler/https=userapp-Firefox-TKH3MY.desktop
+x-scheme-handler/ftp=userapp-Firefox-TKH3MY.desktop
+x-scheme-handler/chrome=userapp-Firefox-TKH3MY.desktop
+text/html=userapp-Firefox-TKH3MY.desktop
+application/x-extension-htm=userapp-Firefox-TKH3MY.desktop
+application/x-extension-html=userapp-Firefox-TKH3MY.desktop
+application/x-extension-shtml=userapp-Firefox-TKH3MY.desktop
+application/xhtml+xml=userapp-Firefox-TKH3MY.desktop
+application/x-extension-xhtml=userapp-Firefox-TKH3MY.desktop
+application/x-extension-xht=userapp-Firefox-TKH3MY.desktop

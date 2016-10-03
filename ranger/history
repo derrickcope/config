@@ -1,0 +1,50 @@
+rename swmot.c
+open_with 1
+rename X-Factor001 (1986).cbz
+rename X-Factor002.cbz
+rename X-Factor003.cbz
+rename X-Factor004.cbr
+rename X-Factor005.cbz
+deleted
+rename fall2016Taiwanpreorder.xlsx
+rename EOM ex pics
+rename EOM clip pics
+rename DISK_IMG
+rename nike supercup
+rename nike superworkshop
+mkdir 2016
+rename .interrobangrc
+rename config
+mkdir interrobang
+mkdir videos
+mkdir eomtalk
+touch 
+rename 510053.mp3
+rename 510289.mp3
+rename Joereformer.mp4
+rename digiarch4k.JPG
+rename wickedprogs
+rename Wicked_Cool_Perl_Scripts_Useful.pdf
+ProgrammingPerl.chm
+rename ProgrammingPerl.chm
+rename nvim
+shell umount /dev/sdd1
+rename .archey3.cfg
+open_with lodraw
+open_with
+mkdir spachina
+mkdir 
+open_with mupdf
+open_with s
+open_with nv
+shell umount /dev/sdc2
+shell umount /dev/sde
+shell umount /dev/sdd
+mkdir podcasts
+
+open_with nvim
+shell 
+delete
+shell umount /dev/sdc1
+open_with 
+open_with leafpad
