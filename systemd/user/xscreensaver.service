@@ -1,8 +1,0 @@
-# Screensaver systemd
-
-[Unit]
-Description=XScreenSaver
-[Service]
-ExecStart=/usr/bin/xscreensaver
-[Install]
-WantedBy=default.target

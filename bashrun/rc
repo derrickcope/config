@@ -141,6 +141,7 @@ HANDLERS=(
 # of them.
 
 BOOKMARKS=(
+    www.bing.com
     www.google.com
     www.archlinux.org
     www.slashdot.org

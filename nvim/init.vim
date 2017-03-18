@@ -29,6 +29,11 @@ set showmatch                                   " When a bracket is inserted, br
                                                 " screen. The time to show the match can be set with
                                                 " 'matchtime'.
                                                 "
+set inccommand=nosplit                          "
+
+set nocompatible
+
+filetype plugin on
                         
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "Search
@@ -63,9 +68,6 @@ set foldopen=all
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 syntax enable
 
-"set t_CO=256                                    " force 256 colors in terminal
-"set termguicolors
-
 "colorscheme flattened_dark
 "colorscheme onedark
 "colorscheme candy
@@ -77,27 +79,22 @@ colorscheme molokai
 set noshowmode
 let g:airline_theme='dark'
 let g:airline#extensions#tabline#enabled = 1
-let NERDTreeMapOpenInTab='<ENTER>'              " NerdTree opens files in new tab
+" let NERDTreeMapOpenInTab='<ENTER>'              " NerdTree opens files in new tab
+let g:netrw_liststyle = 3                       " netrw view style
+let g:netrw_banner = 0                          " no netrw banner
+let g:netrw_browse_split = 4                    " vertical split netrw 
+let g:netrw_altv = 1
+let g:netrw_winsize = 25
 
-" NeoSolarized options
-" default value is "normal", Setting this option to "high" or "low" does use the 
-" same Solarized palette but simply shifts some values up or down in order to 
-" expand or compress the tonal range displayed.
-let g:neosolarized_contrast = "normal"
+" Customize settings for vim-template plugin
+let g:email = "derrick(at)thecopes.me"             " set email for template
+let g:user  = "derrick cope"                    " set user name for template
 
-" Special characters such as trailing whitespace, tabs, newlines, when displayed 
-" using ":set list" can be set to one of three levels depending on your needs. 
-" Default value is "normal". Provide "high" and "low" options.
-let g:neosolarized_visibility = "normal"
+" table-mode markdown compatible
+let g:table_mode_corner="|"
 
-" If you wish to enable/disable NeoSolarized from displaying bold, underlined or italicized 
-" typefaces, simply assign 1 or 0 to the appropriate variable. Default values:  
-let g:neosolarized_bold = 1
-let g:neosolarized_underline = 1
-let g:neosolarized_italic = 1
-
-" Use Unix as the standard file type
-"set ffs=unix,dos,mac
+let g:textutil_txt_encoding='utf-8'
+"set ffs=unix,dos,mac                           "set ffs=unix,dos,mac
 
 
 "set backspace=2                                " Influences the working of <BS>, <Del>, CTRL-W
@@ -133,9 +130,11 @@ nmap <Leader>ev :tabedit $MYVIMRC<cr>           " edit config in new tab
 nmap <Leader>nh :nohlsearch<cr>                 " turn off highlighting
 nmap <C-Right> <C-W><C-L>                       " change window during vsplit
 nmap <C-Left> <C-W><C-H>
-nmap <Leader><Space> :NERDTreeToggle<cr>        " \ space open file browser
-nnoremap <C-L> :tabnext<cr>                     " control l next tab
-nnoremap <C-H> :tabprevious<cr>                 " control h previous tab
+" nmap <Leader><Space> :NERDTreeToggle<cr>        " \ space open file browser
+nmap <Leader><Space> :Vexplore<cr>
+nnoremap <C-L> :bnext<cr>                       " control l next buffer
+nnoremap <C-H> :bNext<cr>                       " control h previous buffer
+nmap <Leader>p :TogglePencil<cr>                " toggle pencil
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "autocommands
@@ -146,7 +145,20 @@ augroup autosourcing
     autocmd BufWritePost  ~/.config/nvim/init.vim source %      "autosave config file 
 augroup END
 
+" augroup ProjectDrawer
+"    autocmd!
+"    autocmd VimEnter * :Vexplore
+" augroup END
 
+augroup pencil
+    autocmd!
+    autocmd FileType markdown       call pencil#init({'wrap': 'soft', 'textwidth': 72})
+                                \ | call lexical#init()
+    autocmd FileType text           call pencil#init({'wrap': 'soft', 'textwidth': 72})
+                                \ | call lexical#init()
+    autocmd FileType mail           call pencil#init({'wrap': 'soft', 'textwidth': 72})
+                                \ | call lexical#init()
+augroup END
 "plugins
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 so ~/.config/nvim/plugins.vim

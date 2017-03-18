@@ -1,8 +1,3 @@
-rename swmot.c
-open_with 1
-rename X-Factor001 (1986).cbz
-rename X-Factor002.cbz
-rename X-Factor003.cbz
 rename X-Factor004.cbr
 rename X-Factor005.cbz
 deleted
@@ -28,7 +23,6 @@ rename Wicked_Cool_Perl_Scripts_Useful.pdf
 ProgrammingPerl.chm
 rename ProgrammingPerl.chm
 rename nvim
-shell umount /dev/sdd1
 rename .archey3.cfg
 open_with lodraw
 open_with
@@ -41,10 +35,16 @@ shell umount /dev/sdc2
 shell umount /dev/sde
 shell umount /dev/sdd
 mkdir podcasts
-
-open_with nvim
 shell 
-delete
-shell umount /dev/sdc1
-open_with 
+open_with 3
+rename The_Dollop_with_Dave_Anthony_and_Gareth_Reynolds.mp3
+rename 224_-_Bundy_2_Oregon_Takeover_Live_wWil_Anderson.mp3
+rename 223_-_The_Night_of_Terror.mp3
 open_with leafpad
+open_with 
+shell umount /dev/sdc1
+shell umount /dev/sdd1
+open_with nvim
+
+open_with 4
+delete

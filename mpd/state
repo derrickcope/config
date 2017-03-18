@@ -1,8 +1,8 @@
-sw_volume: 96
+sw_volume: 100
 audio_device_state:1:My Pulse Output
 state: pause
-current: 9
-time: 5.561000
+current: 2
+time: 7795.134000
 random: 0
 repeat: 0
 single: 0
@@ -11,14 +11,7 @@ crossfade: 10
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:U2/Joshua Tres/01 - Still haven't found.mp3
-1:U2/Joshua Tres/02 - ÇúÄ¿ 2.mp3
-2:George Michael - Official Discography (1987-2014) {FLAC} vtwin88cube/(1990) George Michael - Listen Without Prejudice, Vol. 1 {FLAC}/02.Freedom.flac
-3:George Michael - Official Discography (1987-2014) {FLAC} vtwin88cube/(2004) George Michael - Patience {FLAC}/01.Patience.flac
-4:George Michael - Official Discography (1987-2014) {FLAC} vtwin88cube/(2004) George Michael - Patience {FLAC}/02.Amazing.flac
-5:George Michael - Official Discography (1987-2014) {FLAC} vtwin88cube/(1987) George Michael - Faith {FLAC}/09.Kissing A Fool.flac
-6:George Michael - Official Discography (1987-2014) {FLAC} vtwin88cube/(1987) George Michael - Faith {FLAC}/03.I Want Your Sex (Parts I & II).flac
-7:podcasts/On_Point_with_Tom_Ashbrook__Podcasts/npr_495955988.mp3
-8:podcasts/On_Point_with_Tom_Ashbrook__Podcasts/npr_496105176.mp3
-9:podcasts/Political_Junkie/Podcast_FINAL_9-28-16_mixdown.mp3
+0:Bob Dylan - Studio Discography [1962 - 2016] [320Kbps] [Pirate Shovon]/[1965] - Highway 61 Revisited/02 - Tombstone Blues.mp3
+1:podcasts/All_Jupiter_Broadcasting_Shows/Shell-Shocked_2016__LUP_176.mp3
+2:podcasts/All_Jupiter_Broadcasting_Shows/The_Many_Faces_of_Linux__LUP_177.mp3
 playlist_end

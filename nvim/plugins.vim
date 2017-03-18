@@ -10,16 +10,17 @@ Plug 'tpope/vim-surround'
 Plug 'tpope/vim-markdown'
 
 " Vinegar
-"Plug 'tpope/vim-vinegar'
+Plug 'tpope/vim-vinegar'
 
 " Syntastic
-"Plug 'scrooloose/syntastic'
+Plug 'scrooloose/syntastic'
 
 " nerdtree
-Plug 'scrooloose/nerdtree'
+" Plug 'scrooloose/nerdtree'
 
 " Perl Support
-Plug 'WolfgangMehner/perl-support'
+" Plug 'WolfgangMehner/perl-support'
+" Plug 'vim-perl/vim-perl', { 'for': 'perl', 'do': 'make clean carp dancer highlight-all-pragmas moose test-more try-tiny' }
 
 " Airline themes
 Plug 'vim-airline/vim-airline'
@@ -28,15 +29,20 @@ Plug 'vim-airline/vim-airline-themes'
 " Various themes
 Plug 'tomasr/molokai'
 
-" Flattened
-Plug 'romainl/flattened'
+" For composition
+Plug 'reedes/vim-lexical'
+Plug 'reedes/vim-pencil'
 
-" NeoSolarized
-"Plug 'iCyMind/NeoSolarized'
+" Add templates
+Plug 'aperezdc/vim-template'
+
+" Vim table mode
+Plug 'dhruvasagar/vim-table-mode'
+
+" edit doc files
+" Plug 'vim-scripts/textutil.vim'
 
 "Plug '0ax1/lxvc'
-
-"Plug 'bounceme/highwayman''vim-airline/vim-airline'
 
 " Ctrl-P
 " Plug 'ctrlpvim/ctrlp.vim'
@@ -57,10 +63,6 @@ Plug 'romainl/flattened'
 
 " Group dependencies, vim-snippets depends on ultisnips
 " Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
-
-" On-demand loading
-" Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
-" Plug 'tpope/vim-fireplace', { 'for': 'clojure' }
 
 " Using git URL
 " Plug 'https://github.com/junegunn/vim-github-dashboard.git'
