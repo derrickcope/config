@@ -65,7 +65,8 @@ alt + Escape
     focus.pl prev
 
 alt + {h,l}
-   closest.pl {-prev, -next}
+#   closest.pl {-prev, -next}
+    nextwin.pl {--right, --left}
 
 alt + shift + Up
     wmv 0 -10 $(pfw)
@@ -89,9 +90,16 @@ alt + shift + Left
 #super + !button3
 #    wrs -a %i %i $(pfw)
 
+#button4
+#    focus.sh $(underneath.sh)
+
+#button5
+#    focus.sh $(underneath.sh)
+
+
 # focus on clicked window
-~button1
-    focus.pl $(underneath.sh)
+#~button1
+#    focus.sh $(underneath.sh)
 #    focus.pl $(pfw)
 
 

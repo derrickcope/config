@@ -79,7 +79,6 @@ colorscheme molokai
 set noshowmode
 let g:airline_theme='dark'
 let g:airline#extensions#tabline#enabled = 1
-" let NERDTreeMapOpenInTab='<ENTER>'              " NerdTree opens files in new tab
 let g:netrw_liststyle = 3                       " netrw view style
 let g:netrw_banner = 0                          " no netrw banner
 let g:netrw_browse_split = 4                    " vertical split netrw 
@@ -92,6 +91,16 @@ let g:user  = "derrick cope"                    " set user name for template
 
 " table-mode markdown compatible
 let g:table_mode_corner="|"
+
+let g:lexical#spell_key = '<leader>s'
+
+let g:lexical#dictionary_key = '<leader>k'
+
+let g:lexical#thesaurus_key = '<leader>t'
+
+let g:lexical#thesaurus = ['~/.config/nvim/thesaurus/words.txt',]
+
+let g:lexical#spellfile = ['~/.config/nvim/spell/en.utf-8.add',]
 
 let g:textutil_txt_encoding='utf-8'
 "set ffs=unix,dos,mac                           "set ffs=unix,dos,mac
@@ -126,16 +135,18 @@ set splitbelow
 """""""""""""""""""""""""""""""""""""""""""""""""
 "mappings
 """"""""""""""""""""""""""""""""""""""""""""""""
-nmap <Leader>ev :tabedit $MYVIMRC<cr>           " edit config in new tab
+nmap <Leader>ev :edit $MYVIMRC<cr>              " edit config in new buffer
 nmap <Leader>nh :nohlsearch<cr>                 " turn off highlighting
 nmap <C-Right> <C-W><C-L>                       " change window during vsplit
 nmap <C-Left> <C-W><C-H>
-" nmap <Leader><Space> :NERDTreeToggle<cr>        " \ space open file browser
+
 nmap <Leader><Space> :Vexplore<cr>
 nnoremap <C-L> :bnext<cr>                       " control l next buffer
 nnoremap <C-H> :bNext<cr>                       " control h previous buffer
 nmap <Leader>p :TogglePencil<cr>                " toggle pencil
 
+nmap    zz :wq<cr>                              " save and exit
+nmap    zq :q<cr>                               " exit without saving
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "autocommands
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -150,6 +161,13 @@ augroup END
 "    autocmd VimEnter * :Vexplore
 " augroup END
 
+"augroup lexical
+"  autocmd!
+"  autocmd FileType markdown,mkd call lexical#init()
+"  autocmd FileType textile call lexical#init()
+"  autocmd FileType text call lexical#init({ 'spell': 0 })
+"augroup END
+
 augroup pencil
     autocmd!
     autocmd FileType markdown       call pencil#init({'wrap': 'soft', 'textwidth': 72})
@@ -159,6 +177,7 @@ augroup pencil
     autocmd FileType mail           call pencil#init({'wrap': 'soft', 'textwidth': 72})
                                 \ | call lexical#init()
 augroup END
+
 "plugins
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 so ~/.config/nvim/plugins.vim

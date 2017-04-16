@@ -1,0 +1,91 @@
+[KFileDialog Settings]
+Recent Files[$e]=10 Snowboard Butter Tricks to Learn First-G9qlTInKbNE.mkv,file:$HOME/pilates/synapseeducation/marketing/derrickwechatqr.png,file:$HOME/nike/2017NSC/Nike Synapse logo.png,file:$HOME/pilates/synapsestudio/synapselogonew/Synapse bby logo.jpg,file:$HOME/pilates/synapsestudio/synapselogonew/Synapse white logo.png,file:$HOME/pilates/synapsestudio/synapselogonew/flowRoot5229.png,file:$HOME/10 Beginner Snowboard Skills - First Day Riding-S0kX1JeecSQ.mkv,file:$HOME/downloads/10 Snowboard Butter Tricks to Learn First-G9qlTInKbNE.mkv
+Recent URLs[$e]=file:$HOME/downloads/,file:$HOME/pilates/synapsestudio/synapselogonew/,file:$HOME/pilates/synapsestudio/,file:$HOME/nike/2017NSC/,file:$HOME/pilates/synapseeducation/marketing/
+
+[MainWindow]
+Height 1080=1058
+State=AAAA/wAAAAD9AAAAAQAAAAIAAAeAAAABJPwBAAAADPsAAAAYAG4AbwB0AGUAcwBfAHcAaQBkAGcAZQB0AAAAAAD/////AAAARgD////7AAAADgBsAGkAYgByAGEAcgB5AAAAAAD/////AAAAWAD////7AAAAGgBhAHUAZABpAG8AcwBwAGUAYwB0AHIAdQBtAAAAAAD/////AAAAaQD////7AAAAFgBwAHIAbwBqAGUAYwB0AF8AYgBpAG4BAAAAAAAAANUAAABYAP////wAAADbAAABcQAAAQEA////+gAAAAABAAAAAvsAAAAYAGUAZgBmAGUAYwB0AF8AcwB0AGEAYwBrAQAAAAD/////AAABAQD////7AAAAHgBjAGwAaQBwAF8AcAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAAEQA/////AAAAlIAAAH1AAAAugD////6AAAAAQEAAAAC+wAAAB4AdAByAGEAbgBzAGkAdABpAG8AbgBfAGwAaQBzAHQBAAAAAP////8AAABWAP////sAAAAWAGUAZgBmAGUAYwB0AF8AbABpAHMAdAEAAAAA/////wAAALoA/////AAABE0AAAMzAAABQAD////6AAAAAQEAAAAC+wAAABgAYwBsAGkAcABfAG0AbwBuAGkAdABvAHIBAAAAAP////8AAAFAAP////sAAAAeAHAAcgBvAGoAZQBjAHQAXwBtAG8AbgBpAHQAbwByAQAAAAD/////AAABQAD////7AAAAGAB1AG4AZABvAF8AaABpAHMAdABvAHIAeQAAAAAA/////wAAAEYA////+wAAABYAdgBlAGMAdABvAHIAcwBjAG8AcABlAAAAAAD/////AAABKAD////7AAAAEAB3AGEAdgBlAGYAbwByAG0AAAAAAP////8AAACgAP////sAAAAUAHIAZwBiAF8AcABhAHIAYQBkAGUAAAAAAP////8AAACdAP////sAAAASAGgAaQBzAHQAbwBnAHIAYQBtAAAAAAD/////AAABOQD///8AAAeAAAACpAAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABgAZQB4AHQAcgBhAFQAbwBvAGwAQgBhAHIBAAACFP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+Width 1920=1920
+
+[Recent Dirs]
+KdenliveClipFolder[$e]=$HOME/pilates/synapseeducation/marketing/,$HOME/nike/2017NSC/,$HOME/pilates/synapsestudio/synapselogonew/
+KdenliveProjectsFolder[$e]=$HOME/nike/2017NSC,$HOME/nike/2017NSC/,$HOME/Documents
+
+[Recent Files]
+File1[$e]=$HOME/nike/2017NSC/pilatessnow.kdenlive
+Name1[$e]=pilatessnow.kdenlive
+
+[Scope_Histogram]
+autoRefresh=true
+bEnabled=true
+gEnabled=true
+rEnabled=true
+realtime=false
+rec601=false
+sEnabled=false
+yEnabled=true
+
+[Scope_RGB Parade]
+autoRefresh=true
+axis=false
+gradref=false
+paintmode=0
+realtime=false
+
+[Scope_Vectorscope]
+75PBox=false
+autoRefresh=true
+axis=false
+backgroundmode=0
+colorspace_ypbpr=false
+gain=1
+iqlines=false
+paintmode=0
+realtime=false
+
+[Scope_Waveform]
+autoRefresh=true
+paintmode=0
+realtime=false
+rec601=false
+
+[bin]
+treeviewheaders=AAAA/wAAAAAAAAABAAAAAQAAAAABAAAAAAAAAAAAAAADBgAAAAIAAAACAAAAZAAAAAEAAAA4AAAAwQAAAAMBAQABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAMAAADBAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAPoAAAAAD8=
+
+[capture]
+decklink_extension=mov
+decklink_parameters=vcodec=dnxhd vb=145000k acodec=pcm_s16le threads=%threads
+grab_extension=mov
+grab_parameters=-crf 25 -vcodec libx264 -preset veryfast -threads 0
+v4l_extension=mpg
+v4l_parameters=qscale=4 ab=192k vcodec=mpeg2video acodec=mp2 threads=%threads
+
+[env]
+defaultimageapp=/usr/bin/gimp
+defaultprojectfolder[$e]=$HOME/Documents
+ffmpegpath[$e]=/usr/bin/ffmpeg
+ffplaypath[$e]=/usr/bin/ffplay
+ffprobepath[$e]=/usr/bin/ffprobe
+mltpath[$e]=/usr/share/mlt/profiles/
+rendererpath[$e]=/bin/melt
+
+[project]
+proxyextension=mpg
+proxyparams=-vf scale=640:-1 -g 5 -qscale 6 -ab 128k -vcodec mpeg2video -acodec mp2
+
+[timeline]
+trackheight=59
+
+[unmanaged]
+current_profile=atsc_1080p_25
+default_profile=atsc_1080p_25
+defaultrescaleheight=180
+force_breeze=true
+monitor_audio=false
+producerslist=qimage,qtext,kdenlivetitle,avformat,avformat-novalidate,sdl_image,slowmotion,pgm,framebuffer,abnormal,color,colour,consumer,hold,loader,melt,melt_file,noise,timewarp,tone,decklink,xml,xml-string,xml-nogl,blipflash,count,frei0r.ising0r,frei0r.lissajous0r,frei0r.nois0r,frei0r.onecol0r,frei0r.partik0l,frei0r.plasma,frei0r.test_pat_B,frei0r.test_pat_C,frei0r.test_pat_G,frei0r.test_pat_I,frei0r.test_pat_L,frei0r.test_pat_R,pango,pixbuf
+project_display_ratio=1.7777777777777777
+selected_effecttab=1
+
+[version]
+version=16.12.3

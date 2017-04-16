@@ -20,7 +20,7 @@ Plug 'scrooloose/syntastic'
 
 " Perl Support
 " Plug 'WolfgangMehner/perl-support'
-" Plug 'vim-perl/vim-perl', { 'for': 'perl', 'do': 'make clean carp dancer highlight-all-pragmas moose test-more try-tiny' }
+Plug 'vim-perl/vim-perl', { 'for': 'perl', 'do': 'make clean carp dancer highlight-all-pragmas moose test-more try-tiny' }
 
 " Airline themes
 Plug 'vim-airline/vim-airline'

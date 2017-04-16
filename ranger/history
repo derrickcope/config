@@ -1,6 +1,3 @@
-rename X-Factor004.cbr
-rename X-Factor005.cbz
-deleted
 rename fall2016Taiwanpreorder.xlsx
 rename EOM ex pics
 rename EOM clip pics
@@ -41,10 +38,13 @@ rename The_Dollop_with_Dave_Anthony_and_Gareth_Reynolds.mp3
 rename 224_-_Bundy_2_Oregon_Takeover_Live_wWil_Anderson.mp3
 rename 223_-_The_Night_of_Terror.mp3
 open_with leafpad
-open_with 
-shell umount /dev/sdc1
 shell umount /dev/sdd1
 open_with nvim
 
 open_with 4
 delete
+shell chmod +x todois
+open_with 
+rename todoist
+shell chmod +x todoist
+shell umount /dev/sdc1
