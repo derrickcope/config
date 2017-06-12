@@ -34,6 +34,8 @@ set inccommand=nosplit                          "
 set nocompatible
 
 filetype plugin on
+
+set omnifunc=syntaxcomplete#Complete            " completion ctrl x, ctrl o
                         
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "Search
@@ -92,32 +94,24 @@ let g:user  = "derrick cope"                    " set user name for template
 " table-mode markdown compatible
 let g:table_mode_corner="|"
 
-let g:lexical#spell_key = '<leader>s'
-
-let g:lexical#dictionary_key = '<leader>k'
-
-let g:lexical#thesaurus_key = '<leader>t'
-
-let g:lexical#thesaurus = ['~/.config/nvim/thesaurus/words.txt',]
-
-let g:lexical#spellfile = ['~/.config/nvim/spell/en.utf-8.add',]
 
 let g:textutil_txt_encoding='utf-8'
 "set ffs=unix,dos,mac                           "set ffs=unix,dos,mac
 
 
 "set backspace=2                                " Influences the working of <BS>, <Del>, CTRL-W
-                                                " 
                                                 " and CTRL-U in Insert mode. This is a list of items,
                                                 " separated by commas. Each item allows a way to backspace
-                                  
                                                 " over something.
- 
+
+let g:vimwiki_list = [{ 'syntax': 'markdown', 'ext': '.md' }]
+                                                " set documents in markdown syntax
+                                                "
 set autoindent                                  " Copy indent from current line when starting a new line
                                                 
 " (typing <CR> in Insert mode
                                                 " or when using the "o" or "O"
-                                                " command).
+                                                 " command).
  
 set textwidth=175                               " Maximum width of text that is being inserted. A longer
 
@@ -143,40 +137,22 @@ nmap <C-Left> <C-W><C-H>
 nmap <Leader><Space> :Vexplore<cr>
 nnoremap <C-L> :bnext<cr>                       " control l next buffer
 nnoremap <C-H> :bNext<cr>                       " control h previous buffer
-nmap <Leader>p :TogglePencil<cr>                " toggle pencil
+nmap <Leader>s :set spell!<cr>                  " spell on
+nmap <Leader>ns :set nospell!<cr>               " spell off
+nmap <Leader>cs :set spell spellang=cn<cr>       " spell on cn
 
 nmap    zz :wq<cr>                              " save and exit
 nmap    zq :q<cr>                               " exit without saving
+nmap    qq :q!<cr>                              " force exit without saving
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "autocommands
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 augroup autosourcing
     autocmd!
-    autocmd BufWritePost  ~/.config/nvim/init.vim source %      "autosave config file 
+     autocmd BufWritePost  ~/.config/nvim/init.vim source %      "autosave config file 
 augroup END
 
-" augroup ProjectDrawer
-"    autocmd!
-"    autocmd VimEnter * :Vexplore
-" augroup END
-
-"augroup lexical
-"  autocmd!
-"  autocmd FileType markdown,mkd call lexical#init()
-"  autocmd FileType textile call lexical#init()
-"  autocmd FileType text call lexical#init({ 'spell': 0 })
-"augroup END
-
-augroup pencil
-    autocmd!
-    autocmd FileType markdown       call pencil#init({'wrap': 'soft', 'textwidth': 72})
-                                \ | call lexical#init()
-    autocmd FileType text           call pencil#init({'wrap': 'soft', 'textwidth': 72})
-                                \ | call lexical#init()
-    autocmd FileType mail           call pencil#init({'wrap': 'soft', 'textwidth': 72})
-                                \ | call lexical#init()
-augroup END
 
 "plugins
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""

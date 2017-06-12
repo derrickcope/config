@@ -198,16 +198,16 @@
     </keybind>
   
   <!-- Keybindings for desktop switching -->
-    <keybind key="C-A-Left">
+    <keybind key="C-A-h">
         <action name="GoToDesktop"><to>left</to><wrap>no</wrap></action>
     </keybind>
-    <keybind key="C-A-Right">
+    <keybind key="C-A-l">
         <action name="GoToDesktop"><to>right</to><wrap>no</wrap></action>
     </keybind>
-    <keybind key="W-C-Left">
+    <keybind key="W-C-h">
         <action name="SendToDesktop"><to>left</to><wrap>no</wrap></action>
     </keybind>
-    <keybind key="W-C-Right">
+    <keybind key="W-C-l">
         <action name="SendToDesktop"><to>right</to><wrap>no</wrap></action>
     </keybind>
     <keybind key="A-C-1">
@@ -295,7 +295,7 @@
         <direction>north</direction>
         </action>
     </keybind>
-    <keybind key="W-S-Down">
+    <keybind key="W-S-j">
         <action name="Iconify">
         </action>
     </keybind>
@@ -371,28 +371,35 @@
             <height>505</height>
         </action> 
     </keybind>
-    <keybind key="A-S-Left">
+    <keybind key="A-S-h">
         <action name="MoveResizeTo">
             <monitor>2</monitor>
         </action>
     </keybind>
-    <keybind key="A-S-Right">
+    <keybind key="A-S-l">
         <action name ="MoveResizeTo">
             <monitor>1</monitor>
         </action>
     </keybind>
 
-  <!-- Keybindings for running applications -->
-    <keybind key="W-Return">
+<!-- Keybindings for running applications -->
+    <keybind key="W-Return"> <!-- open uxvrt terminal -->
         <action name="Execute">
             <command>urxvt</command>
         </action>
     </keybind>
-    <keybind key="W-space">
+    <keybind key="W-space"> <!-- open bashrun launcher -->
         <action name="Execute">
             <command>bashrun --toggle</command>
         </action>
     </keybind>
+<!-- Keybinds for system management -->
+    <keybind key="W-S-Backspace">
+        <action name="Exit">
+            <prompt>yes</prompt>
+        </action>
+    </keybind>
+
 </keyboard>
 
 <mouse>

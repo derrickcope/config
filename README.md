@@ -1,1 +1,1 @@
-# files that I am currently using on my current linux setup
+# files that I am using on my current linux setup

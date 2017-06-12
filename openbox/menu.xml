@@ -382,14 +382,31 @@
   <menu id="apps-multimedia-menu"/>
   <menu id="apps-term-menu"/>
   <menu id="apps-fileman-menu"/>
-  <separator label="System" />
-  <menu id="system-menu"/>
-  <separator />
-  <item label="Log Out">
-    <action name="Exit">
-      <prompt>yes</prompt>
-    </action>
-  </item>
+    <separator label="System" />
+        <menu id="system-menu"/>
+    <separator />
+        <item label="Log Out">
+            <action name="Execute">
+               <prompt>Do you want to exit?</prompt>
+               <execute>openbox --exit</execute>
+           </action>
+        </item>
+        <item label="Reboot">
+            <action name="Execute">
+                <prompt>Do you want to reboot?</prompt>
+            <execute>sudo shutdown -r now</execute>
+        </action>
+    </item>
+    <item label="Shutdown">
+        <action name="Execute">
+            <prompt>
+                Do you want to shutdown?
+            </prompt>
+            <execute>
+                sudo shutdown -h now
+            </execute>
+        </action>
+    </item>
 </menu>
 
 </openbox_menu>

@@ -30,8 +30,8 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'tomasr/molokai'
 
 " For composition
-Plug 'reedes/vim-lexical'
-Plug 'reedes/vim-pencil'
+"Plug 'reedes/vim-lexical'
+"Plug 'reedes/vim-pencil'
 
 " Add templates
 Plug 'aperezdc/vim-template'
@@ -42,7 +42,8 @@ Plug 'dhruvasagar/vim-table-mode'
 " edit doc files
 " Plug 'vim-scripts/textutil.vim'
 
-"Plug '0ax1/lxvc'
+" Vimwiki Plugin
+Plug 'vimwiki/vimwiki'
 
 " Ctrl-P
 " Plug 'ctrlpvim/ctrlp.vim'

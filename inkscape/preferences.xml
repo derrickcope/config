@@ -223,7 +223,7 @@
        keep_selected="1"
        tremor="0"
        wiggle="0"
-       selcue="1">
+       selcue="0">
       <group
          id="preset">
         <group
@@ -328,7 +328,7 @@
        id="lpetool"
        mode="drag"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
-       unit="px"
+       unit="mm"
        show_bbox="1" />
     <eventcontext
        id="text"
@@ -340,8 +340,8 @@
        selcue="1"
        outer_style="0">
       <group
-         display_unit="1"
-         id="lineheight" />
+         id="lineheight"
+         display_unit="1" />
     </eventcontext>
     <eventcontext
        id="nodes"
@@ -428,12 +428,12 @@
        offset="0"
        offsetunits="cm" />
     <group
-       unit="px"
-       offset="5"
-       scale="100"
-       precision="2"
+       id="measure"
        fontsize="10"
-       id="measure" />
+       precision="2"
+       scale="100"
+       offset="5"
+       unit="mm" />
   </group>
   <group
      id="palette">
@@ -577,7 +577,7 @@
        panel_mode="1"
        panel_wrap="0"
        panel_border="0"
-       page="0"
+       page="2"
        x="3453"
        y="0"
        w="383"
@@ -634,9 +634,9 @@
        panel_mode="1"
        panel_wrap="0"
        panel_border="0"
-       x="1280"
-       y="0"
-       w="636"
+       x="637"
+       y="167"
+       w="645"
        h="768"
        visible="0"
        placement="1" />
@@ -676,7 +676,7 @@
        placement="1">
       <group
          id="exportarea"
-         value="drawing" />
+         value="page" />
       <group
          id="defaultxdpi"
          value="300" />
@@ -750,19 +750,19 @@
        on-blur="0.50"
        animate-time="100" />
     <group
-       id="inputdevices"
-       panel_size="1"
-       panel_ratio="100"
-       panel_mode="1"
-       panel_wrap="0"
-       panel_border="0"
-       x="1920"
-       y="582"
-       w="383"
-       h="426"
-       visible="1"
+       placement="5"
        state="2"
-       placement="5" />
+       visible="1"
+       h="426"
+       w="383"
+       y="582"
+       x="1920"
+       panel_border="0"
+       panel_wrap="0"
+       panel_mode="1"
+       panel_ratio="100"
+       panel_size="1"
+       id="inputdevices" />
   </group>
   <group
      id="printing">
@@ -1053,7 +1053,7 @@
      id="extensions" />
   <group
      id="desktop"
-     style="line-height:25px;font-size:45.33333333px;-inkscape-font-specification:'WenQuanYi Zen Hei Bold';font-family:'WenQuanYi Zen Hei';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#ff00ff;fill-opacity:1">
+     style="line-height:25px;font-size:45.33333333px;-inkscape-font-specification:'WenQuanYi Zen Hei Bold';font-family:'WenQuanYi Zen Hei';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#333333;fill-opacity:1">
     <group
        width="1918"
        height="1060"
