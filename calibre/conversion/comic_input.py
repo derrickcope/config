@@ -1,3 +1,0 @@
-{
-	'dont_grayscale' : True,
-}
