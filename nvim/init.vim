@@ -1,12 +1,12 @@
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "" ~/.config/nvim/init.vim
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 set mouse=a                                     " Enable the use of the mouse.
 
-set tabstop=4      	                            " Number of spaces that a <Tab> in the file counts for.
+set tabstop=2      	                            " Number of spaces that a <Tab> in the file counts for.
  
-set shiftwidth=4                                " Number of spaces to use for each step of (auto)indent.
+set shiftwidth=2                                " Number of spaces to use for each step of (auto)indent.
  
 set expandtab                                   " Use the appropriate number of spaces to insert a <Tab>.
                                                 " 
@@ -28,14 +28,19 @@ set showmatch                                   " When a bracket is inserted, br
                                                 " one. The jump is only done if the match can be seen on the
                                                 " screen. The time to show the match can be set with
                                                 " 'matchtime'.
-                                                "
+
+set backspace=indent,eol,start                  " Influences the working of <BS>, <Del>, CTRL-W
+                                                " and CTRL-U in Insert mode. This is a list of items,
+                                                " separated by commas. Each item allows a way to backspace
+                                                " over something.
+
 set inccommand=nosplit                          "
 
 set nocompatible
 
 filetype plugin on
 
-set omnifunc=syntaxcomplete#Complete            " completion ctrl x, ctrl o
+" set omnifunc=syntaxcomplete#Complete            " completion ctrl x, ctrl o
                         
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "Search
@@ -59,11 +64,12 @@ set incsearch                                   " While typing a search command,
 
 set foldenable                                  " Turn on folding
 set foldmethod=indent                           " Fold on the indent
-"set foldlevel=100                              " Don't autofold anything (but I can still fold manually)
+set foldlevel=10                             " Don't autofold anything (but I can still fold manually)
 "set foldopen=block,hor,mark,percent,quickfix,tag " what movements open folds
 "set foldclose=all
+set foldminlines=5
 set foldcolumn=1
-set foldopen=all 
+"set foldopen=all 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Visuals
@@ -99,17 +105,13 @@ let g:textutil_txt_encoding='utf-8'
 "set ffs=unix,dos,mac                           "set ffs=unix,dos,mac
 
 
-"set backspace=2                                " Influences the working of <BS>, <Del>, CTRL-W
-                                                " and CTRL-U in Insert mode. This is a list of items,
-                                                " separated by commas. Each item allows a way to backspace
-                                                " over something.
 
 let g:vimwiki_list = [{ 'syntax': 'markdown', 'ext': '.md' }]
                                                 " set documents in markdown syntax
                                                 "
 set autoindent                                  " Copy indent from current line when starting a new line
                                                 
-" (typing <CR> in Insert mode
+                                                " (typing <CR> in Insert mode
                                                 " or when using the "o" or "O"
                                                  " command).
  
@@ -131,8 +133,6 @@ set splitbelow
 """"""""""""""""""""""""""""""""""""""""""""""""
 nmap <Leader>ev :edit $MYVIMRC<cr>              " edit config in new buffer
 nmap <Leader>nh :nohlsearch<cr>                 " turn off highlighting
-nmap <C-Right> <C-W><C-L>                       " change window during vsplit
-nmap <C-Left> <C-W><C-H>
 
 nmap <Leader><Space> :Vexplore<cr>
 nnoremap <C-L> :bnext<cr>                       " control l next buffer
@@ -141,9 +141,9 @@ nmap <Leader>s :set spell!<cr>                  " spell on
 nmap <Leader>ns :set nospell!<cr>               " spell off
 nmap <Leader>cs :set spell spellang=cn<cr>       " spell on cn
 
-nmap    zz :wq<cr>                              " save and exit
-nmap    zq :q<cr>                               " exit without saving
-nmap    qq :q!<cr>                              " force exit without saving
+nmap    WW :w<cr>                               " save without exiting
+nmap    QQ :q!<cr>                              " force exit without saving
+tnoremap <ESC> <C-\><C-n>                       " remap ESC in terminal
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "autocommands
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""

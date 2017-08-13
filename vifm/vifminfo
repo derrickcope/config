@@ -1,14 +1,6 @@
 # You can edit this file by hand, but it's recommended not to do that.
 
 # Marks:
-'b
-	/home/derrick/bin/
-	..
-1497246271
-'h
-	/home/derrick/
-	..
-1497246271
 'H
 	/home/derrick/
 	..
@@ -17,6 +9,14 @@
 	/home/derrick/build/tinywm
 	README
 1484314237
+'b
+	/home/derrick/bin/
+	..
+1497246271
+'h
+	/home/derrick/
+	..
+1497246271
 'i
 	/home/derrick/downloads/The.Expanse.S02E10.HDTV.x264-SVA[PRiME]
 	The.Expanse.S02E10.HDTV.x264-SVA[PRiME].mkv
@@ -25,14 +25,18 @@
 	/home/derrick/code/perl/IntermediatePerl
 	xcb.pl
 1491660540
+'m
+	/home/derrick/downloads
+	taiwanINV13319-2017.pdf
+1501735899
+'r
+	/home/derrick/scripts/config
+	vifm
+1497247716
 'u
 	/home/derrick
 	music
 1484046802
-'z
-	/home/derrick/.config/vifm
-	..
-1484022831
 
 # Bookmarks:
 
@@ -46,195 +50,57 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/derrick/mail
-	drafts
+d/home/derrick/.gem/ruby/2.4.0/gems/rubypodder-1.0.0/tests
+	..
+0
+d/home/derrick/.gem/ruby/2.4.0/gems/rubypodder-1.0.0
+	lib
 2
-d/home/derrick/mail/drafts
-	..
-0
-d/home/derrick/mail
-	inbox
-3
-d/home/derrick/mail/inbox
-	..
-0
-d/home/derrick/mail
-	spam
-8
-d/home/derrick/mail/spam
-	..
-0
-d/home/derrick/mail
-	spam
-8
-d/home/derrick/.mutt
-	muttrc
-7
-d/home/derrick/downloads
-	Kong.Skull.Island.2017.HC.HDRip.1080P.AAC.[2CH].H.265.[HEVC]-GunGravE.mkv
-33
-d/home/derrick/.config/nvim
-	init.vim
-7
-d/home/derrick/code
-	perl
-4
-d/home/derrick/code/perl
-	IntermediatePerl
-4
-d/home/derrick/code/perl/IntermediatePerl
-	chpt8
-7
-d/home/derrick/code/perl/IntermediatePerl/chpt8
-	test.txt
-5
-d/home/derrick/code/perl/IntermediatePerl
-	chpt8
-7
-d/home/derrick/code/perl
-	IntermediatePerl
-4
-d/home/derrick/code
-	perl
-4
-d/home/derrick/downloads
-	Saturday.Night.Live.S42E17.Louis.C.K.720p.HDTV.x264-CROOKS[ettv]
-4
-d/home/derrick/downloads
-	Saturday.Night.Live.S42E17.Louis.C.K.720p.HDTV.x264-CROOKS[ettv]
-4
-d/home/derrick/.config/nvim
-	plugged
-3
-d/home/derrick/.config/nvim/plugged
-	vim-surround
-9
-d/home/derrick/.config/nvim/plugged/vim-surround
-	plugin
-3
-d/home/derrick/.config/nvim/plugged/vim-surround/plugin
-	surround.vim
+d/home/derrick/.gem/ruby/2.4.0/gems/rubypodder-1.0.0/lib
+	rubypodder.rb
 1
-d/home/derrick/.config/nvim/plugged/vim-surround
-	plugin
+d/home/derrick/.gem/ruby/2.4.0/gems/rubypodder-1.0.0
+	tests
 3
-d/home/derrick/.config/nvim/plugged
-	vim-surround
-9
-d/home/derrick/.config/nvim
-	plugged
-3
-d/home/derrick/downloads
-	Skyfall (2012) [1080p]
-6
-d/home/derrick/downloads
-	Skyfall (2012) [1080p]
-6
-d/home/derrick/code
-	perl
-4
-d/home/derrick/code/perl
-	IntermediatePerl
-4
-d/home/derrick/code/perl/IntermediatePerl
-	chpt9
-8
-d/home/derrick/code/perl/IntermediatePerl/chpt9
-	p130.pl
+d/home/derrick/.gem/ruby/2.4.0/gems/rubypodder-1.0.0/tests
+	tc_rubypodder.rb
 1
-d/home/derrick/code/perl/IntermediatePerl
-	chpt9
-8
-d/home/derrick/code/perl/IntermediatePerl/chpt9
-	p131.pl
+d/home/derrick/.gem/ruby/2.4.0/gems/rubypodder-1.0.0
+	tests
+3
+d/home/derrick/.gem/ruby/2.4.0/gems
+	rubypodder-1.0.0
+36
+d/home/derrick/.gem/ruby/2.4.0/gems/rubypodder-1.0.0
+	lib
 2
-d/home/derrick/code/perl/IntermediatePerl
-	chpt9
-8
-d/home/derrick/code/perl
-	IntermediatePerl
-4
-d/home/derrick/code
-	perl
-4
-d/home/derrick/personal
-	passport.jpg
-26
-d/home/derrick/downloads
-	perl1liners.pdf
-46
-d/home/derrick/code
-	perl
-4
-d/home/derrick/code/perl
-	IntermediatePerl
-4
-d/home/derrick/code/perl/IntermediatePerl
-	chpt8
-7
-d/home/derrick/code/perl/IntermediatePerl/chpt8
-	output.txt
+d/home/derrick/.gem/ruby/2.4.0/gems/rubypodder-1.0.0/lib
+	rubypodder.rb
 1
-d/home/derrick/code/perl/IntermediatePerl
-	chpt8
-7
-d/home/derrick/code/perl
-	sample.txt
-32
-d/home/derrick/code
-	perl
-4
-d/home/derrick/personal
-	passport.jpg
-26
-d/home/derrick/downloads
-	rtlcover.pdf
-41
-d/home/derrick/downloads
-	rtlcover.pdf
-41
-d/home/derrick/code
-	perl
-4
-d/home/derrick/code/perl
-	test.txt
-41
-d/home/derrick/code
-	perl
-4
-d/home/derrick/downloads
-	Casino.Royale.1967.720p.BRRip.x264.AAC-ETRG
-8
-d/home/derrick/downloads
-	James Bond Casino Royale (2006) [1080p]
-12
-d/home/derrick/downloads
-	new images
-8
-d/home/derrick/downloads/new images
-	Backstroke.101.xcf
+d/home/derrick/.gem/ruby/2.4.0/gems/rubypodder-1.0.0
+	bin
 1
-d/home/derrick/downloads
-	__MACOSX
-7
-d/home/derrick/downloads
-	Sunni Nova [Extreme Teen 4] Young Asian Cutie Chooses Anal Over Studying!
-11
-d/home/derrick/downloads
-	Sunni Nova [Extreme Teen 4] Young Asian Cutie Chooses Anal Over Studying!
-11
-d/home
+d/home/derrick/.gem/ruby/2.4.0/gems/rubypodder-1.0.0/bin
+	rubypodder
+1
+d/home/derrick/.gem/ruby/2.4.0/gems/rubypodder-1.0.0
+	bin
+1
+d/home/derrick/.gem/ruby/2.4.0/gems
 	..
 0
-d/
-	home
-4
-d/home
-	..
-0
-d/
-	home
-4
+d/home/derrick/.gem/ruby/2.4.0
+	gems
+6
+d/home/derrick/.gem/ruby
+	2.4.0
+2
+d/home/derrick/.gem
+	ruby
+1
+d/home/derrick
+	.gem
+6
 d/home
 	derrick
 1
@@ -243,292 +109,550 @@ d/home/derrick
 3
 d/home/derrick/.config
 	vifm
-27
+28
 d/home/derrick/.config/vifm
-	colors
-1
-d/home/derrick/.config/vifm/colors
-	Default.vifm
-1
-d/home/derrick/.config/vifm
-	vifmrc
-4
+	..
+0
 d/home/derrick/.config
 	vifm
-27
-d/home/derrick/.config/vifm
-	vifmrc
-4
-d/home/derrick/.config
-	vifm
-27
-d/home/derrick/.config/vifm
-	scripts
-2
-d/home/derrick/.config
-	vifm
-27
-d/home/derrick/.config/vifm
-	vifmrc
-5
-d/home/derrick/.config
-	vifm
-27
+28
 d/home/derrick
-	scripts
-44
-d/home/derrick/scripts
-	.config
-2
-d/home/derrick/scripts/.config
-	ranger
-21
-d/home/derrick/scripts
-	.config
-2
-d/home/derrick/scripts/.config
-	ranger
-21
-d/home/derrick/scripts
-	.config
-2
-d/home/derrick
-	scripts
-44
-d/home/derrick/scripts
-	.config
-2
+	.ncmpc
+9
+d/home/derrick/.ncmpc
+	config
+1
 d/home/derrick
 	.config
 3
 d/home/derrick/.config
-	vifm
-27
-d/home/derrick/.config/vifm
-	colors
+	mpd
+20
+d/home/derrick/.config/mpd
+	mpd.conf
+5
+d/home/derrick/.config
+	mpd
+20
+d/home/derrick
+	.ncmpc
+15
+d/home/derrick/.ncmpc
+	config
 1
-d/home/derrick/.config/vifm/colors
-	Default.vifm
+d/home/derrick
+	.config
+3
+d/home/derrick/.config
+	mpd
+20
+d/home/derrick/.config/mpd
+	mpd.conf
+5
+d/home/derrick/.config
+	cmus
+7
+d/home/derrick/.config/cmus
+	..
+0
+d/home/derrick/.config
+	cmus
+7
+d/home/derrick/.config/cmus
+	..
+0
+d/home/derrick/.config
+	cmus
+7
+d/home/derrick
+	.config
+3
+d/home/derrick/.config
+	cmus
+7
+d/home/derrick/.config/cmus
+	..
+0
+d/home/derrick/.config
+	cmus
+7
+d/home/derrick
+	music
+25
+d/home/derrick/music
+	Jeff Buckley - Hallelujah.mp3 Req
+16
+d/home/derrick/music/Jeff Buckley - Hallelujah.mp3 Req
+	..
+0
+d/home/derrick/music
+	CD1
+8
+d/home/derrick/music/CD1
+	..
+0
+d/home/derrick/music
+	CD1
+8
+d/home/derrick/music/CD1
+	..
+0
+d/home/derrick/music
+	David Bowie – The 100 Greatest Songs (2015) 320 KBPS
+10
+d/home/derrick/music/David Bowie – The 100 Greatest Songs (2015) 320 KBPS
+	CD1
 1
-d/home/derrick/.config/vifm
-	colors
+d/home/derrick/music/David Bowie – The 100 Greatest Songs (2015) 320 KBPS/CD1
+	..
+0
+d/home/derrick/music/David Bowie – The 100 Greatest Songs (2015) 320 KBPS
+	CD1
+1
+d/home/derrick/music
+	David Bowie - CD1
+9
+d/home/derrick/music/David Bowie - CD1
+	..
+0
+d/home/derrick/music
+	David Bowie – The 100 Greatest Songs (2015) 320 KBPS
+10
+d/home/derrick/music/David Bowie – The 100 Greatest Songs (2015) 320 KBPS
+	CD1
+1
+d/home/derrick/music/David Bowie – The 100 Greatest Songs (2015) 320 KBPS/CD1
+	..
+0
+d/home/derrick/music/David Bowie – The 100 Greatest Songs (2015) 320 KBPS
+	CD1
+1
+d/home/derrick/music
+	podcasts
+46
+d/home/derrick/music/podcasts
+	..
+0
+d/home/derrick/music
+	podcasts
+46
+d/home/derrick/music/podcasts
+	..
+0
+d/home/derrick/music
+	paul simon - graceland
+45
+d/home/derrick
+	.config
+3
+d/home/derrick/.config
+	bspwm
+5
+d/home/derrick/.config/bspwm
+	..
+0
+d/home/derrick/.config
+	bspwm
+5
+d/home/derrick/.config/bspwm
+	bspwmrc
 1
 d/home/derrick/.config
-	vifm
-27
+	bspwm
+5
 d/home/derrick
-	scripts
-46
-d/home/derrick/scripts
-	.getmail
+	.config
+3
+d/home
+	derrick
+1
+d/home/derrick
+	.config
+3
+d/home/derrick/.config
+	nvim
+23
+d/home/derrick/.config/nvim
+	init.vim
+8
+d/home/derrick/.config
+	mpv
+22
+d/home/derrick
+	.config
+3
+d/home/derrick/.config
+	bspwm
+5
+d/home/derrick/.config/bspwm
+	bspwmrc
+1
+d/home/derrick/.config
+	chromium
+6
+d/home/derrick
+	.bin
+1
+d/home/derrick/.bin
+	panel_colors
+10
+d/home/derrick
+	.bin
+1
+d/home/derrick/.bin
+	panel
+8
+d/home/derrick
+	.bin
+1
+d/home
+	derrick
+1
+d/
+	usr
+17
+d/usr
+	local
+5
+d/usr/local
+	bin
+1
+d/usr/local/bin
+	clock
 2
 d/home/derrick
-	scripts
-46
-d/home/derrick/scripts
-	config
-9
-d/home/derrick/scripts/config
-	vifm
-19
+	.bin
+1
+d/home/derrick/.bin
+	panel
+8
+d/home/derrick
+	.config
+3
+d/home/derrick/.config
+	bspwm
+5
+d/home/derrick/.config/bspwm
+	bspwmrc
+1
+d/home/derrick/.config
+	bspwm
+5
+d/home/derrick
+	.bin
+1
+d/home/derrick/.bin
+	panel
+8
+d/home/derrick
+	.bin
+1
+d/home/derrick/.bin
+	panel
+8
 d
 
 # Right window history (oldest to newest):
-D/home/derrick/downloads
-	Shogun.1980.Restored.Complete.Bluray.1080p.DTS-HD.x264-Grym
-16
-D/home/derrick/downloads/Shogun.1980.Restored.Complete.Bluray.1080p.DTS-HD.x264-Grym
-	..
-0
-D/home/derrick/downloads
-	Saturday.Night.Live.S42E12.Aziz.Ansari.HDTV.x264-CROOKS[ettv]
-12
-D/home/derrick/downloads
-	Saturday.Night.Live.S42E12.Aziz.Ansari.HDTV.x264-CROOKS[ettv]
-12
-D/run
-	sudo
-11
-D/home/derrick/scripts
-	mail
-11
-D/home/derrick/scripts/mail
-	..
-0
-D/home/derrick/scripts
-	mail
-11
-D/home/derrick/scripts
-	mail
-11
-D/home/derrick/scripts/mail
-	..
-0
-D/home/derrick/scripts
-	mail
-11
-D/home/derrick/scripts
-	wmutilsscripts
-14
-D/home/derrick/scripts/wmutilsscripts
-	..
-0
-D/home/derrick/scripts
-	.fehbg
-21
-D/home/derrick/scripts
-	.mutt
-5
-D/home/derrick/scripts/.mutt
-	..
-0
-D/home/derrick/scripts
-	.getmail
-3
-D/home/derrick/scripts/.getmail
-	..
-0
-D/home/derrick/scripts
-	..
-0
-D/home/derrick/pilates
-	PMA
-4
-D/home/derrick/pilates/PMA
-	approvedprogram
-13
-D/home/derrick/pilates/PMA/approvedprogram
-	Sample Mission and Goals Template 9_23_16.pdf
-4
-D/home/derrick/pilates/PMA
-	approvedprogram
-13
-D/home/derrick/pilates/PMA/approvedprogram
-	MissionGoalswebsite.pdf
-2
-D/home/derrick/pilates/PMA
-	approvedprogram
-13
-D/home/derrick/pilates
-	PMA
-4
-D/home/derrick/pilates
-	synapseeducation
-9
-D/home/derrick/pilates/synapseeducation
-	studio pics
-13
-D/home/derrick/pilates/synapseeducation/studio pics
-	studiotwo
-3
-D/home/derrick/pilates/synapseeducation/studio pics/studiotwo
-	c01
-1
-D/home/derrick/pilates/synapseeducation/studio pics/studiotwo/c01
-	DSCN5423.JPG
-1
-D/home/derrick/pilates/synapseeducation/studio pics/studiotwo
-	c01
-1
-D/home/derrick/pilates/synapseeducation/studio pics/studiotwo/c01
-	DSCN5423.JPG
-1
-D/home/derrick/pilates/synapseeducation/studio pics/studiotwo
-	c01
-1
-D/home/derrick/pilates/synapseeducation/studio pics/studiotwo/c01
-	DSCN5423.JPG
-1
-D/home/derrick/pilates/synapseeducation/studio pics/studiotwo
-	c01
-1
-D/home/derrick/pilates/synapseeducation/studio pics/studiotwo/c01
-	DSCN5423.JPG
-1
-D/home/derrick/pilates/synapseeducation/studio pics/studiotwo
-	c02
-2
-D/home/derrick/pilates/synapseeducation/studio pics/studiotwo/c02
-	..
-0
-D/home/derrick/pilates/synapseeducation/studio pics/studiotwo
-	c02
-2
-D/home/derrick/pilates/synapseeducation/studio pics
-	studiotwo
-3
-D/home/derrick/pilates/synapseeducation
-	studio pics
-13
-D/home/derrick/pilates
-	synapseeducation
-9
-D/home/derrick/code
-	perl
-4
-D/home/derrick/code/perl
-	IntermediatePerl
-4
-D/home/derrick/code/perl/IntermediatePerl
-	chpt8
-7
-D/home/derrick/code/perl/IntermediatePerl/chpt8
-	..
-0
-D/home/derrick/mail
-	spam
-8
-D/home/derrick/mail/spam
-	tmp
-3
-D/home/derrick/mail
-	spam
-8
-D/home/derrick/scripts
-	README.md
-29
-D/home/derrick/code
-	perl
-4
-D/home/derrick/code/perl
-	IntermediatePerl
-4
-D/home/derrick/code/perl/IntermediatePerl
-	chpt9
-8
-D/home/derrick/code/perl/IntermediatePerl/chpt9
-	p130.pl
-1
-D/home/derrick/code/perl/IntermediatePerl
-	chpt9
-8
-D/home/derrick/code/perl
-	sort.pl
-33
-D/home/derrick/code
-	perl
-4
-D/home/derrick/.config/vifm
-	vifmrc
-5
 D/run
 	media
 7
-D/home
+D/home/derrick
+	pilates
+44
+D/home/derrick/pilates
+	synapseeducation
+9
+D/home/derrick/pilates/synapseeducation
+	workshops
+14
+D/home/derrick/pilates/synapseeducation/workshops
+	wallunithandout.odg
+48
+D/home/derrick/pilates/synapseeducation
+	workshops
+14
+D/run/media/derrick
+	F017-2DD1
+2
+D/run/media/derrick/F017-2DD1
+	MASH
+1
+D/run/media/derrick/F017-2DD1/MASH
+	Season 4
+4
+D/run/media/derrick/F017-2DD1/MASH/Season 4
+	Episode 11 - Of Moose and Men.mkv
+11
+D/run/media/derrick/F017-2DD1/MASH
+	Season 4
+4
+D/run/media/derrick/F017-2DD1
+	MASH
+1
+D/run/media/derrick
+	F017-2DD1
+2
+D/run/media
+	derrick
+1
+D/home/derrick
+	pilates
+44
+D/home/derrick/pilates
+	synapseeducation
+9
+D/home/derrick/pilates/synapseeducation
+	workshops
+14
+D/home/derrick/pilates/synapseeducation/workshops
+	tubepilates.odg
+18
+D/home/derrick/pilates/synapseeducation
+	workshops
+14
+D/home/derrick/pilates
+	synapseeducation
+9
+D/home/derrick/pilates/synapseeducation
+	EOM clip pics
+4
+D/home/derrick/pilates/synapseeducation/EOM clip pics
+	thoraxanterior.jpeg
+36
+D/run/media/derrick
+	media2
+3
+D/run/media/derrick/media2
+	ebooks
+1
+D/run/media/derrick/media2/ebooks
+	The Ruby Programming Language
+10
+D/run/media/derrick/media2/ebooks/The Ruby Programming Language
+	The Ruby Programming Language.chm
+1
+D/run/media/derrick/media2/ebooks
+	The.Ruby.programming.Language.files
+11
+D/run/media/derrick/media2/ebooks/The.Ruby.programming.Language.files
+	..
+0
+D/run/media/derrick/media2/ebooks
+	Learn Ruby The Beginner Guide An Introduction to Ruby Programming
+4
+D/run/media/derrick/media2/ebooks/Learn Ruby The Beginner Guide An Introduction to Ruby Programming
+	LearnRuby.tgz
+1
+D/run/media/derrick/media2/ebooks
+	Learn Ruby The Beginner Guide An Introduction to Ruby Programming_
+5
+D/run/media/derrick/media2/ebooks/Learn Ruby The Beginner Guide An Introduction to Ruby Programming_
+	LearnRuby.tgz
+1
+D/run/media/derrick/media2/ebooks
+	The Book of Ruby.pdf
+19
+D/run/media/derrick/media2
+	ebooks
+1
+D/run/media/derrick
+	..
+0
+D/run
 	..
 0
 D/
-	home
+	run
+12
+D/home/derrick
+	code
+33
+D/home/derrick/code
+	rust
+8
+D/run/media/derrick
+	F017-2DD1
+1
+D/run/media/derrick/F017-2DD1
+	MASH
+1
+D/run/media/derrick/F017-2DD1/MASH
+	Season 4
 4
+D/run/media/derrick/F017-2DD1/MASH/Season 4
+	Episode 24 - The Interview.mkv
+24
+D/run/media/derrick/F017-2DD1/MASH
+	Season 5
+5
+D/run/media/derrick/F017-2DD1/MASH/Season 5
+	Episode 1 - Bug Out.mkv
+1
+D/run/media/derrick/F017-2DD1/MASH
+	Season 5
+5
+D/run/media/derrick/F017-2DD1/MASH/Season 5
+	Episode 7 - Dear Sigmund.mkv
+7
+D/run/media/derrick/F017-2DD1/MASH
+	Season 5
+5
+D/run/media/derrick/F017-2DD1
+	MASH
+1
+D/run/media/derrick
+	F017-2DD1
+1
+D/home/derrick
+	.rubypodder
+21
+D/home/derrick/.rubypodder
+	rp.conf
+1
+D/home/derrick
+	.rubypodder
+21
+D/home/derrick/.rubypodder
+	rp.conf
+1
+D/home/derrick
+	.podcatcher
+5
+D/home/derrick/.podcatcher
+	..
+0
+D/home/derrick
+	.podcatcher
+5
+D/home/derrick/.podcatcher
+	cache
+1
+D/home/derrick/.podcatcher/cache
+	..
+0
+D/home/derrick/.podcatcher
+	podcasts
+2
+D/home/derrick
+	.podcatcher
+5
+D/home/derrick/.podcatcher
+	podcasts
+2
+D/home/derrick/.podcatcher/podcasts
+	..
+0
+D/home/derrick/.podcatcher
+	podcasts
+2
+D/home/derrick/.podcatcher/podcasts
+	..
+0
+D/home/derrick/.podcatcher
+	podcasts
+2
+D/home/derrick/.podcatcher/podcasts
+	..
+0
+D/home/derrick/.podcatcher
+	podcasts
+2
+D/home/derrick/.podcatcher/podcasts
+	cache
+1
+D/home/derrick/.podcatcher/podcasts/cache
+	..
+0
+D/home/derrick/.podcatcher/podcasts
+	cache
+1
+D/home/derrick/.podcatcher
+	podcasts
+2
+D/home/derrick/.podcatcher/podcasts
+	cache
+1
+D/home/derrick/.podcatcher
+	cache
+1
+D/home/derrick/.podcatcher/cache
+	..
+0
+D/home/derrick/.podcatcher
+	history
+3
+D/home/derrick
+	.podcatcher
+20
+D/home/derrick/.podcatcher
+	cache
+1
+D/home/derrick/.podcatcher/cache
+	..
+0
+D/home/derrick/.podcatcher
+	cache
+1
+D/home/derrick/.podcatcher/cache
+	a3c73c74-cffc-4476-9800-33d166d8e841.mp3
+1
+D/home/derrick/.podcatcher
+	cache
+1
+D/home/derrick/.podcatcher/cache
+	a3c73c74-cffc-4476-9800-33d166d8e841.mp3
+1
+D/home/derrick/.podcatcher
+	cache
+1
+D/home/derrick
+	.podcatcher
+20
 D/home
 	derrick
 1
 D/home/derrick
-	.config
-3
-D/home/derrick/.config
-	vlc
-28
+	.podcatcher
+20
+D/home/derrick/.podcatcher
+	cache
+1
+D/home/derrick
+	.bin
+1
+D/home/derrick/.bin
+	.gitignore
+2
+D/home/derrick
+	.bin
+1
+D/home/derrick/.bin
+	syncpod
+12
+D/home/derrick
+	podcasts
+36
+D/home/derrick/podcasts
+	All_Jupiter_Broadcasting_Shows
+1
+D/home/derrick/podcasts/All_Jupiter_Broadcasting_Shows
+	Rich_Developments__Unfilter_246.mp3
+5
+D/home/derrick/podcasts
+	unfilter_MP3
+15
+D/run/media/derrick
+	F017-2DD1
+1
+D/run/media/derrick/F017-2DD1
+	MASH
+1
+D/run/media/derrick/F017-2DD1/MASH
+	Season 5
+5
+D/run/media/derrick/F017-2DD1/MASH/Season 5
+	Episode 22 - Souvenirs.mkv
+22
 D
 
 # Command line history (oldest to newest):
@@ -573,6 +697,15 @@ D
 :mkdir new
 :mkdir tmp
 :q
+:mkdir scripts
+:mkdir Learningruby
+:mkdir textneck
+:mkdir .rubypodder/rp.conf
+:mkdir .rubypodder
+:touch rp.conf
+:mkdir .podcatcher
+:touch feedsrc
+:mkdir podcasts
 
 # Search history (oldest to newest):
 
@@ -619,11 +752,17 @@ prevchest.201.bw.jpg
 prevchest.202.bw.jpg
 pp131.pl
 psample.txt
+pmutt
+ppasture.pl
+pSynapse.exam.multchoice.packet.mat.v1.0.FEB2015.odg
+pgimli2.css
+pfeeds
+pDavid Bowie - CD1
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/derrick/.local/share/vifm/Trash/001_vifm
+""/home/derrick/.local/share/vifm/Trash/000_unfilter-0246.mp3
 
 # Directory stack (oldest to newest):
 
@@ -638,6 +777,128 @@ t/home/derrick/.local/share/vifm/Trash/000_Downloads
 	/home/derrick/Downloads
 t/home/derrick/.local/share/vifm/Trash/000_test.txt
 	/home/derrick/code/perl/IntermediatePerl/chpt8/test.txt
+t/home/derrick/.local/share/vifm/Trash/001_interrobang
+	/home/derrick/scripts/config/interrobang
+t/home/derrick/.local/share/vifm/Trash/000_bar
+	/home/derrick/.config/bar
+t/home/derrick/.local/share/vifm/Trash/000_calibre
+	/home/derrick/.config/calibre
+t/home/derrick/.local/share/vifm/Trash/000_Shogun.1980.Restored.Complete.Bluray.1080p.DTS-HD.x264-Grym
+	/home/derrick/downloads/Shogun.1980.Restored.Complete.Bluray.1080p.DTS-HD.x264-Grym
+t/home/derrick/.local/share/vifm/Trash/000_.mutt
+	/home/derrick/scripts/.mutt
+t/home/derrick/.local/share/vifm/Trash/001_Desktop
+	/home/derrick/Desktop
+t/home/derrick/.local/share/vifm/Trash/000_learning_perl6_previews
+	/home/derrick/code/perl/learning_perl6_previews
+t/home/derrick/.local/share/vifm/Trash/000_Rick and Morty (Season 01) [UNCENSORED] [1080p] [BD] [x265] [pseudo] (v2)
+	/home/derrick/downloads/Rick and Morty (Season 01) [UNCENSORED] [1080p] [BD] [x265] [pseudo] (v2)
+t/home/derrick/.local/share/vifm/Trash/000_Rick and Morty Season 1 S01 Complete 1080p BluRay HEVC x265 10bit-KNP
+	/home/derrick/downloads/Rick and Morty Season 1 S01 Complete 1080p BluRay HEVC x265 10bit-KNP
+t/home/derrick/.local/share/vifm/Trash/000_Crimson.Tide.1995.1080p.BrRip.x264.YIFY.mp4
+	/run/media/derrick/1D43-50D2/Crimson.Tide.1995.1080p.BrRip.x264.YIFY.mp4
+t/home/derrick/.local/share/vifm/Trash/000_Draft.Day.2014.720p.BRRip.x264-Fastbet99.mp4
+	/run/media/derrick/1D43-50D2/Draft.Day.2014.720p.BRRip.x264-Fastbet99.mp4
+t/home/derrick/.local/share/vifm/Trash/000_EOMcnnew.odg
+	/run/media/derrick/1D43-50D2/EOMcnnew.odg
+t/home/derrick/.local/share/vifm/Trash/000_EOMcnnew.odp
+	/run/media/derrick/1D43-50D2/EOMcnnew.odp
+t/home/derrick/.local/share/vifm/Trash/000_EOMcnnew.pdf
+	/run/media/derrick/1D43-50D2/EOMcnnew.pdf
+t/home/derrick/.local/share/vifm/Trash/000_Jason.Bourne.2016.HC.HDRip.XviD.AC3-EVO.avi
+	/run/media/derrick/1D43-50D2/Jason.Bourne.2016.HC.HDRip.XviD.AC3-EVO.avi
+t/home/derrick/.local/share/vifm/Trash/000_plugins.vim
+	/home/derrick/.bin/plugins.vim
+t/home/derrick/.local/share/vifm/Trash/000_wheelchair.mp4
+	/home/derrick/.bin/wheelchair.mp4
+t/home/derrick/.local/share/vifm/Trash/001_sxhkd
+	/home/derrick/scripts/sxhkd
+t/home/derrick/.local/share/vifm/Trash/000_.bin
+	/home/derrick/scripts/.bin
+t/home/derrick/.local/share/vifm/Trash/000_config
+	/home/derrick/scripts/config
+t/home/derrick/.local/share/vifm/Trash/000_locale.conf
+	/home/derrick/.config/locale.conf
+t/home/derrick/.local/share/vifm/Trash/000_ruby
+	/home/derrick/code/ruby
+t/home/derrick/.local/share/vifm/Trash/000_.rubypodder
+	/home/derrick/.rubypodder
+t/home/derrick/.local/share/vifm/Trash/000_podcasts
+	/home/derrick/.podcatcher/podcasts
+t/home/derrick/.local/share/vifm/Trash/000_The_Dollop_with_Dave_Anthony_and_Gareth_Reynolds
+	/home/derrick/music/podcasts/The_Dollop_with_Dave_Anthony_and_Gareth_Reynolds
+t/home/derrick/.local/share/vifm/Trash/000_The_Nerdist
+	/home/derrick/music/podcasts/The_Nerdist
+t/home/derrick/.local/share/vifm/Trash/000_CodeNewbie
+	/home/derrick/music/podcasts/CodeNewbie
+t/home/derrick/.local/share/vifm/Trash/000_Coder_Radio_MP3
+	/home/derrick/music/podcasts/Coder_Radio_MP3
+t/home/derrick/.local/share/vifm/Trash/000_Daily_Tech_News_Show
+	/home/derrick/music/podcasts/Daily_Tech_News_Show
+t/home/derrick/.local/share/vifm/Trash/000_Ken_Rudins_Political_Junkie
+	/home/derrick/music/podcasts/Ken_Rudins_Political_Junkie
+t/home/derrick/.local/share/vifm/Trash/000_Linux_Action_News
+	/home/derrick/music/podcasts/Linux_Action_News
+t/home/derrick/.local/share/vifm/Trash/000_NBC_Meet_the_Press_audio
+	/home/derrick/music/podcasts/NBC_Meet_the_Press_audio
+t/home/derrick/.local/share/vifm/Trash/000_No_Agenda
+	/home/derrick/music/podcasts/No_Agenda
+t/home/derrick/.local/share/vifm/Trash/000_On_Point_Podcast
+	/home/derrick/music/podcasts/On_Point_Podcast
+t/home/derrick/.local/share/vifm/Trash/000_Planet_Money
+	/home/derrick/music/podcasts/Planet_Money
+t/home/derrick/.local/share/vifm/Trash/000_Political_Junkie
+	/home/derrick/music/podcasts/Political_Junkie
+t/home/derrick/.local/share/vifm/Trash/000_Taming_the_Terminal
+	/home/derrick/music/podcasts/Taming_the_Terminal
+t/home/derrick/.local/share/vifm/Trash/000_The_Changelog
+	/home/derrick/music/podcasts/The_Changelog
+t/home/derrick/.local/share/vifm/Trash/000_User_Error_Podcast
+	/home/derrick/music/podcasts/User_Error_Podcast
+t/home/derrick/.local/share/vifm/Trash/000_techsnap-0331.mp3
+	/home/derrick/music/podcasts/techsnap-0331.mp3
+t/home/derrick/.local/share/vifm/Trash/000_latest.m3u
+	/home/derrick/music/podcasts/latest.m3u
+t/home/derrick/.local/share/vifm/Trash/000_dh_episode370.mp3
+	/home/derrick/music/podcasts/dh_episode370.mp3
+t/home/derrick/.local/share/vifm/Trash/000_aaa0329.mp3
+	/home/derrick/music/podcasts/aaa0329.mp3
+t/home/derrick/.local/share/vifm/Trash/000_LNL17.mp3
+	/home/derrick/music/podcasts/LNL17.mp3
+t/home/derrick/.local/share/vifm/Trash/000_BUR4381685108.mp3
+	/home/derrick/music/podcasts/BUR4381685108.mp3
+t/home/derrick/.local/share/vifm/Trash/000_1502316578.0221024.mp3
+	/home/derrick/music/podcasts/1502316578.0221024.mp3
+t/home/derrick/.local/share/vifm/Trash/000_1502316567.654862.mp3
+	/home/derrick/music/podcasts/1502316567.654862.mp3
+t/home/derrick/.local/share/vifm/Trash/000_1502316527.7423823.mp3
+	/home/derrick/music/podcasts/1502316527.7423823.mp3
+t/home/derrick/.local/share/vifm/Trash/000_1502316406.0499392.mp3
+	/home/derrick/music/podcasts/1502316406.0499392.mp3
+t/home/derrick/.local/share/vifm/Trash/000_1502316397.2932942.mp3
+	/home/derrick/music/podcasts/1502316397.2932942.mp3
+t/home/derrick/.local/share/vifm/Trash/000_1502298369.1687126.mp3
+	/home/derrick/music/podcasts/1502298369.1687126.mp3
+t/home/derrick/.local/share/vifm/Trash/000_1502298342.377523.mp3
+	/home/derrick/music/podcasts/1502298342.377523.mp3
+t/home/derrick/.local/share/vifm/Trash/000_1502260006.986504.mp3
+	/home/derrick/music/podcasts/1502260006.986504.mp3
+t/home/derrick/.local/share/vifm/Trash/000_1502258767.8019109.mp3
+	/home/derrick/music/podcasts/1502258767.8019109.mp3
+t/home/derrick/.local/share/vifm/Trash/000_1502258721.4789724.mp3
+	/home/derrick/music/podcasts/1502258721.4789724.mp3
+t/home/derrick/.local/share/vifm/Trash/000_16d1d13f-f9a5-447a-ba02-9228459c34f7.mp3
+	/home/derrick/music/podcasts/16d1d13f-f9a5-447a-ba02-9228459c34f7.mp3
+t/home/derrick/.local/share/vifm/Trash/000_.NA-953-2017-08-06-Final.mp3.sOXFZh
+	/home/derrick/music/podcasts/.NA-953-2017-08-06-Final.mp3.sOXFZh
+t/home/derrick/.local/share/vifm/Trash/000_David Bowie - CD1
+	/home/derrick/music/David Bowie - CD1
+t/home/derrick/.local/share/vifm/Trash/000_.podcatcher
+	/home/derrick/.podcatcher
+t/home/derrick/.local/share/vifm/Trash/001_latest.m3u
+	/home/derrick/podcasts/latest.m3u
+t/home/derrick/.local/share/vifm/Trash/000_unfilter-0246.mp3
+	/home/derrick/podcasts/unfilter-0246.mp3
 
 # State:
 f
