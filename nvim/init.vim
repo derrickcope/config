@@ -24,6 +24,8 @@ set showcmd                                     " Show (partial) command in stat
 
 set number                                      " Show line numbers.
 
+set relativenumber                              " Show relative line numbers, hybrid
+
 set showmatch                                   " When a bracket is inserted, briefly jump to the matching
                                                 " one. The jump is only done if the match can be seen on the
                                                 " screen. The time to show the match can be set with

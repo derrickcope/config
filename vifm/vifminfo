@@ -6,9 +6,9 @@
 	..
 1484022831
 'a
-	/home/derrick/build/tinywm
-	README
-1484314237
+	/home/derrick/downloads
+	WickedCoolRubyScripts.pdf
+1514717612
 'b
 	/home/derrick/bin/
 	..
@@ -30,9 +30,9 @@
 	taiwanINV13319-2017.pdf
 1501735899
 'r
-	/home/derrick/scripts/config
-	vifm
-1497247716
+	/home/derrick/code/ruby/WickedCool
+	file_list.txt
+1504524495
 'u
 	/home/derrick
 	music
@@ -50,609 +50,609 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/derrick/.gem/ruby/2.4.0/gems/rubypodder-1.0.0/tests
-	..
-0
-d/home/derrick/.gem/ruby/2.4.0/gems/rubypodder-1.0.0
-	lib
-2
-d/home/derrick/.gem/ruby/2.4.0/gems/rubypodder-1.0.0/lib
-	rubypodder.rb
-1
-d/home/derrick/.gem/ruby/2.4.0/gems/rubypodder-1.0.0
-	tests
-3
-d/home/derrick/.gem/ruby/2.4.0/gems/rubypodder-1.0.0/tests
-	tc_rubypodder.rb
-1
-d/home/derrick/.gem/ruby/2.4.0/gems/rubypodder-1.0.0
-	tests
-3
-d/home/derrick/.gem/ruby/2.4.0/gems
-	rubypodder-1.0.0
-36
-d/home/derrick/.gem/ruby/2.4.0/gems/rubypodder-1.0.0
-	lib
-2
-d/home/derrick/.gem/ruby/2.4.0/gems/rubypodder-1.0.0/lib
-	rubypodder.rb
-1
-d/home/derrick/.gem/ruby/2.4.0/gems/rubypodder-1.0.0
-	bin
-1
-d/home/derrick/.gem/ruby/2.4.0/gems/rubypodder-1.0.0/bin
-	rubypodder
-1
-d/home/derrick/.gem/ruby/2.4.0/gems/rubypodder-1.0.0
-	bin
-1
-d/home/derrick/.gem/ruby/2.4.0/gems
-	..
-0
-d/home/derrick/.gem/ruby/2.4.0
-	gems
-6
-d/home/derrick/.gem/ruby
-	2.4.0
-2
-d/home/derrick/.gem
-	ruby
-1
 d/home/derrick
-	.gem
-6
-d/home
+	downloads
+33
+d/home/derrick/downloads
+	taiwanINV13319-2017.pdf
+51
+d/home/derrick
+	downloads
+33
+d/run/media/derrick
+	F017-2DD1
+1
+d/run/media/derrick/F017-2DD1
+	.vifm-Trash-1000
+3
+d/run/media/derrick
+	F017-2DD1
+1
+d/run/media
 	derrick
 1
-d/home/derrick
-	.config
-3
-d/home/derrick/.config
-	vifm
-28
-d/home/derrick/.config/vifm
-	..
-0
-d/home/derrick/.config
-	vifm
-28
-d/home/derrick
-	.ncmpc
-9
-d/home/derrick/.ncmpc
-	config
-1
-d/home/derrick
-	.config
-3
-d/home/derrick/.config
-	mpd
-20
-d/home/derrick/.config/mpd
-	mpd.conf
-5
-d/home/derrick/.config
-	mpd
-20
-d/home/derrick
-	.ncmpc
-15
-d/home/derrick/.ncmpc
-	config
-1
-d/home/derrick
-	.config
-3
-d/home/derrick/.config
-	mpd
-20
-d/home/derrick/.config/mpd
-	mpd.conf
-5
-d/home/derrick/.config
-	cmus
-7
-d/home/derrick/.config/cmus
-	..
-0
-d/home/derrick/.config
-	cmus
-7
-d/home/derrick/.config/cmus
-	..
-0
-d/home/derrick/.config
-	cmus
-7
-d/home/derrick
-	.config
-3
-d/home/derrick/.config
-	cmus
-7
-d/home/derrick/.config/cmus
-	..
-0
-d/home/derrick/.config
-	cmus
-7
-d/home/derrick
-	music
-25
-d/home/derrick/music
-	Jeff Buckley - Hallelujah.mp3 Req
-16
-d/home/derrick/music/Jeff Buckley - Hallelujah.mp3 Req
-	..
-0
-d/home/derrick/music
-	CD1
-8
-d/home/derrick/music/CD1
-	..
-0
-d/home/derrick/music
-	CD1
-8
-d/home/derrick/music/CD1
-	..
-0
-d/home/derrick/music
-	David Bowie – The 100 Greatest Songs (2015) 320 KBPS
-10
-d/home/derrick/music/David Bowie – The 100 Greatest Songs (2015) 320 KBPS
-	CD1
-1
-d/home/derrick/music/David Bowie – The 100 Greatest Songs (2015) 320 KBPS/CD1
-	..
-0
-d/home/derrick/music/David Bowie – The 100 Greatest Songs (2015) 320 KBPS
-	CD1
-1
-d/home/derrick/music
-	David Bowie - CD1
-9
-d/home/derrick/music/David Bowie - CD1
-	..
-0
-d/home/derrick/music
-	David Bowie – The 100 Greatest Songs (2015) 320 KBPS
-10
-d/home/derrick/music/David Bowie – The 100 Greatest Songs (2015) 320 KBPS
-	CD1
-1
-d/home/derrick/music/David Bowie – The 100 Greatest Songs (2015) 320 KBPS/CD1
-	..
-0
-d/home/derrick/music/David Bowie – The 100 Greatest Songs (2015) 320 KBPS
-	CD1
-1
-d/home/derrick/music
-	podcasts
-46
-d/home/derrick/music/podcasts
-	..
-0
-d/home/derrick/music
-	podcasts
-46
-d/home/derrick/music/podcasts
-	..
-0
-d/home/derrick/music
-	paul simon - graceland
-45
-d/home/derrick
-	.config
-3
-d/home/derrick/.config
-	bspwm
-5
-d/home/derrick/.config/bspwm
-	..
-0
-d/home/derrick/.config
-	bspwm
-5
-d/home/derrick/.config/bspwm
-	bspwmrc
-1
-d/home/derrick/.config
-	bspwm
-5
-d/home/derrick
-	.config
-3
-d/home
-	derrick
-1
-d/home/derrick
-	.config
-3
-d/home/derrick/.config
-	nvim
-23
-d/home/derrick/.config/nvim
-	init.vim
-8
-d/home/derrick/.config
-	mpv
-22
-d/home/derrick
-	.config
-3
-d/home/derrick/.config
-	bspwm
-5
-d/home/derrick/.config/bspwm
-	bspwmrc
-1
-d/home/derrick/.config
-	chromium
-6
-d/home/derrick
-	.bin
-1
-d/home/derrick/.bin
-	panel_colors
-10
-d/home/derrick
-	.bin
-1
-d/home/derrick/.bin
-	panel
-8
-d/home/derrick
-	.bin
-1
-d/home
-	derrick
-1
+d/home/derrick/downloads
+	WickedCoolRubyScripts.pdf
+42
 d/
-	usr
-17
-d/usr
-	local
-5
-d/usr/local
-	bin
-1
-d/usr/local/bin
-	clock
-2
+	home
+4
 d/home/derrick
-	.bin
-1
-d/home/derrick/.bin
-	panel
+	pilates
+42
+d/home/derrick/pilates
+	MicheleLarsson
+4
+d/home/derrick/pilates/MicheleLarsson
+	MLsig.png
+12
+d/home/derrick/pilates
+	PMA
+5
+d/home/derrick/pilates/PMA
+	tanyasig.xcf
+49
+d/home/derrick/pilates
+	PMA
+5
+d/home/derrick/pilates/PMA
+	PMA2015
+11
+d/home/derrick/pilates/PMA/PMA2015
+	..
+0
+d/home/derrick/pilates/PMA
+	PMA2014
+10
+d/home/derrick/pilates/PMA/PMA2014
+	derrick.PDF
+4
+d/home/derrick/pilates/PMA
+	2016PMACon
+7
+d/home/derrick/pilates/PMA/2016PMACon
+	SHISHAN.pdf
+9
+d/home/derrick/downloads
+	Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
+13
+d/home/derrick/downloads/Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
+	Ray.Donovan.S04E06.Fish.And.Bird.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+7
+d/home/derrick/downloads
+	Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
+10
+d/home/derrick/downloads/Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
+	Ray.Donovan.S04E08.The.Texan.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+9
+d/home/derrick/downloads
+	Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
+12
+d/home/derrick
+	.config
+3
+d/home/derrick/.config
+	lxterminal
+21
+d/home/derrick
+	.mutt
+14
+d/home/derrick/.mutt
+	keybind
+5
+d/home/derrick/downloads
+	Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
+12
+d/home/derrick/downloads/Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
+	Ray.Donovan.S04E11.Chinese.Algebra.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+12
+d/home/derrick/downloads
+	Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
+12
+d/home/derrick
+	code
+32
+d/home/derrick/code
+	ruby
 8
+d/home/derrick/code/ruby
+	Wicked
+6
+d/home/derrick/code/ruby/Wicked
+	chapt01
+1
+d/home/derrick/code/ruby/Wicked/chapt01
+	compress.rb
+4
+d/home/derrick/code/ruby/Wicked
+	chapt01
+1
+d/home/derrick/code/ruby
+	Wicked
+6
+d/home/derrick/code
+	ruby
+8
+d/home/derrick
+	code
+7
+d/home/derrick/code
+	ruby
+8
+d/home/derrick/code/ruby
+	Wicked
+6
+d/home/derrick/code/ruby/Wicked
+	chapt01
+1
+d/home/derrick/code/ruby/Wicked/chapt01
+	compress.rb
+4
+d/home/derrick/code/ruby/Wicked
+	chapt01
+1
+d/home/derrick/code/ruby/Wicked/chapt01
+	test
+1
+d/home/derrick/code/ruby/Wicked/chapt01/test
+	test04
+4
+d/home/derrick/code/ruby/Wicked/chapt01
+	test
+1
+d/home/derrick/code/ruby/Wicked/chapt01/test
+	test04
+4
+d/home/derrick/code/ruby/Wicked/chapt01
+	test
+1
+d/home/derrick/code/ruby/Wicked/chapt01/test
+	test04
+4
+d/home/derrick/code/ruby/Wicked/chapt01
+	test
+1
+d/home/derrick/code/ruby/Wicked/chapt01/test
+	test04
+4
+d/home/derrick/code/ruby/Wicked/chapt01
+	test
+1
+d/home/derrick/code/ruby/Wicked/chapt01/test
+	..
+0
+d/home/derrick/code/ruby/Wicked/chapt01
+	test
+1
+d/home/derrick/code/ruby/Wicked/chapt01/test
+	..
+0
+d/home/derrick/code/ruby/Wicked/chapt01
+	test
+1
+d/home/derrick/code/ruby/Wicked/chapt01/test
+	..
+0
+d/home/derrick/code/ruby/Wicked/chapt01
+	test
+1
+d/home/derrick/code/ruby/Wicked/chapt01/test
+	..
+0
+d/home/derrick/code/ruby/Wicked/chapt01
+	zipruby.rb
+22
+d/home/derrick/code/ruby/Wicked
+	chapt01
+1
+d/home/derrick/code/ruby
+	Wicked
+6
+d/home/derrick/code
+	ruby
+8
+d/home/derrick
+	downloads
+8
+d/home/derrick/downloads
+	Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
+13
+d/home/derrick/downloads/Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
+	Ray.Donovan.S04E12.Rattus.Rattus.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+13
+d/home/derrick/downloads
+	WickedCoolRubyScripts.pdf
+42
+d/home/derrick/code
+	ruby
+8
+d/home/derrick/code/ruby
+	Wicked
+6
+d/home/derrick/code/ruby/Wicked
+	chapt02
+2
+d/home/derrick/code/ruby/Wicked/chapt02
+	linkValidator.rb
+3
+d/home/derrick/downloads
+	Ernest Cline - Ready Player One (Wil Wheaton) - 2011 (80kbps)
+4
+d/home/derrick/downloads/Ernest Cline - Ready Player One (Wil Wheaton) - 2011 (80kbps)
+	..
+0
+d/home/derrick/downloads
+	Ernest Cline - Ready Player One (Wil Wheaton) - 2011 (80kbps)
+4
+d/home/derrick
+	code
+8
+d/home/derrick/code
+	ruby
+8
+d/home/derrick/code/ruby
+	Wicked
+6
+d/home/derrick/code/ruby/Wicked
+	chapt02
+2
+d/home/derrick/code/ruby/Wicked/chapt02
+	linkValidator.rb
+3
 d/home/derrick
 	.config
 3
 d/home/derrick/.config
 	bspwm
-5
+6
 d/home/derrick/.config/bspwm
 	bspwmrc
 1
 d/home/derrick/.config
 	bspwm
-5
+6
 d/home/derrick
-	.bin
+	code
+32
+d/home/derrick/code
+	ruby
+8
+d/home/derrick/code/ruby
+	Bastards
 1
-d/home/derrick/.bin
-	panel
+d/home/derrick/code/ruby/Bastards
+	wikirequestat.rb
+2
+d/home/derrick/code/ruby
+	Bastards
+1
+d/home/derrick/code
+	ruby
 8
 d/home/derrick
-	.bin
+	downloads
+33
+d/home/derrick/downloads
+	American Made (2017) [YTS.AG]
 1
-d/home/derrick/.bin
-	panel
-8
+d/home/derrick/downloads/American Made (2017) [YTS.AG]
+	American.Made.2017.720p.BluRay.x264-[YTS.AG].mp4
+1
+d/home/derrick/downloads
+	American Made (2017) [YTS.AG]
+1
+d/home/derrick
+	.config
+3
+d/home/derrick/.config
+	bspwm
+6
+d/home/derrick/.config/bspwm
+	bspwmrc
+1
 d
 
 # Right window history (oldest to newest):
-D/run
-	media
-7
-D/home/derrick
-	pilates
-44
-D/home/derrick/pilates
-	synapseeducation
+D/run/media/derrick/media2
+	video
 9
-D/home/derrick/pilates/synapseeducation
-	workshops
+D/run/media/derrick/media2/video
+	Star Trek.TOS.Complete.Remastered.(Chromecast).x264.MP4
 14
-D/home/derrick/pilates/synapseeducation/workshops
-	wallunithandout.odg
-48
-D/home/derrick/pilates/synapseeducation
-	workshops
+D/run/media/derrick/media2/video/Star Trek.TOS.Complete.Remastered.(Chromecast).x264.MP4
+	Star Trek - S02E14 - Bread and Circuses.mp4
+44
+D/run/media/derrick/media2/video
+	Star Trek.TOS.Complete.Remastered.(Chromecast).x264.MP4
 14
+D/run/media/derrick/media2
+	video
+9
 D/run/media/derrick
-	F017-2DD1
+	media2
 2
-D/run/media/derrick/F017-2DD1
-	MASH
+D/run/media
+	derrick
 1
-D/run/media/derrick/F017-2DD1/MASH
-	Season 4
-4
-D/run/media/derrick/F017-2DD1/MASH/Season 4
-	Episode 11 - Of Moose and Men.mkv
-11
-D/run/media/derrick/F017-2DD1/MASH
-	Season 4
-4
-D/run/media/derrick/F017-2DD1
-	MASH
+D/home/derrick/music
+	Back In Black
+2
+D/run/media/derrick
+	media2
+2
+D/run/media/derrick/media2
+	music
+5
+D/run/media/derrick/media2/music
+	paul simon - graceland
+51
+D/run/media/derrick/media2
+	music
+5
+D/run/media/derrick
+	media2
+2
+D/run/media
+	derrick
 1
 D/run/media/derrick
+	media2
+2
+D/run/media/derrick/media2
+	ebooks
+2
+D/run/media/derrick/media2/ebooks
+	Vim
+16
+D/run/media/derrick/media2/ebooks/Vim
+	..
+0
+D/run/media/derrick/media2/ebooks
+	Sapiens-A Brief History of Humankind - Yuval Noah Harari
+9
+D/run/media/derrick/media2/ebooks/Sapiens-A Brief History of Humankind - Yuval Noah Harari
+	..
+0
+D/run/media/derrick/media2/ebooks
+	Sapiens-A Brief History of Humankind - Yuval Noah Harari
+9
+D/run/media/derrick/media2/ebooks/Sapiens-A Brief History of Humankind - Yuval Noah Harari
+	..
+0
+D/run/media/derrick/media2/ebooks
+	Wickedcoolrubyscripts
+17
+D/run/media/derrick/media2/ebooks/Wickedcoolrubyscripts
+	WickedCoolRubyScripts.pdf
+3
+D/run/media/derrick
 	F017-2DD1
+1
+D/run/media/derrick/F017-2DD1
+	..
+0
+D/run/media/derrick
+	F017-2DD1
+1
+D/run/media
+	derrick
+1
+D/run
+	..
+0
+D/home/derrick/code
+	ruby
+8
+D/home/derrick/code/ruby
+	Wicked
+6
+D/home/derrick/code/ruby/Wicked
+	chapt01
+1
+D/home/derrick/code/ruby/Wicked/chapt01
+	ListWinProcesses.rb
+1
+D/home/derrick/code/ruby/Wicked
+	chapt01
+1
+D/home/derrick/code/ruby
+	Wicked
+6
+D/home/derrick/code
+	ruby
+8
+D/home/derrick
+	downloads
+33
+D/home/derrick/downloads
+	Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
+13
+D/home/derrick/downloads/Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
+	Ray.Donovan.S04E11.Chinese.Algebra.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+12
+D/home/derrick/downloads
+	Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
+13
+D/home/derrick
+	pictures
+41
+D/home/derrick/pictures
+	amyfootcorrector.jpg
+35
+D/home/derrick
+	pictures
+41
+D/home
+	derrick
+1
+D/home/derrick
+	pictures
+41
+D/home/derrick/pictures
+	Rebecca Standing Pump 2 big.JPG
+30
+D/home/derrick/downloads
+	BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
+1
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
+	[1973] Piano Man
+3
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1973] Piano Man
+	..
+0
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
+	[2007] All My Life [EP]
+27
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2007] All My Life [EP]
+	..
+0
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
+	[2006] 12 Gardens [Live]
+26
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]
+	..
+0
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
+	[2005] My Lives [Compilation Album]
+25
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]
+	..
+0
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
+	[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]
+24
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]
+	..
+0
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
+	[2001] The Essential [Compilation Album]
+23
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]
+	CD 1
+1
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 1
+	..
+0
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]
+	CD 2
+2
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 2
+	..
+0
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]
+	CD 2
+2
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
+	[2001] Fantasies & Delusions (Music composed by Billy Joel, perfomed by Richard Joo) [Original Edition]
+22
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] Fantasies & Delusions (Music composed by Billy Joel, perfomed by Richard Joo) [Original Edition]
+	..
+0
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
+	[2000] 2000 Years the Millennium Concert [Live Album]
+21
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]
+	..
+0
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
+	[1997] Greatest Hits Vol. III
+20
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1997] Greatest Hits Vol. III
+	10 - The Downeaster 'Alexa'.mp3
+8
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
+	[1993] The River of Dreams [Original Edition]
+19
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] The River of Dreams [Original Edition]
+	..
+0
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
+	[1993] A Voyage On The River of Dreams (Compilation Album)
+18
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] A Voyage On The River of Dreams (Compilation Album)
+	..
+0
+D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
+	[1993] A Voyage On The River of Dreams (Compilation Album)
+18
+D/home/derrick/downloads
+	Terminator 2 (1991) [YTS.AG]
+15
+D/home/derrick/downloads/Terminator 2 (1991) [YTS.AG]
+	Terminator.2.1991.720p.BluRay.x264-[YTS.AG].mp4
+1
+D/home/derrick/downloads
+	Terminator 2 (1991) [YTS.AG]
+15
+D/home/derrick
+	music
+37
+D/home/derrick/music
+	Back In Black
+3
+D/run/media/derrick
+	C735-0FE1
+2
+D/run/media/derrick/C735-0FE1
+	audiobooks
+9
+D/run/media/derrick/C735-0FE1/audiobooks
+	..
+0
+D/run/media/derrick/C735-0FE1
+	audiobooks
+9
+D/run/media/derrick
+	C735-0FE1
 2
 D/run/media
 	derrick
 1
 D/home/derrick
-	pilates
-44
-D/home/derrick/pilates
-	synapseeducation
-9
-D/home/derrick/pilates/synapseeducation
-	workshops
-14
-D/home/derrick/pilates/synapseeducation/workshops
-	tubepilates.odg
-18
-D/home/derrick/pilates/synapseeducation
-	workshops
-14
-D/home/derrick/pilates
-	synapseeducation
-9
-D/home/derrick/pilates/synapseeducation
-	EOM clip pics
-4
-D/home/derrick/pilates/synapseeducation/EOM clip pics
-	thoraxanterior.jpeg
-36
-D/run/media/derrick
-	media2
-3
-D/run/media/derrick/media2
-	ebooks
-1
-D/run/media/derrick/media2/ebooks
-	The Ruby Programming Language
-10
-D/run/media/derrick/media2/ebooks/The Ruby Programming Language
-	The Ruby Programming Language.chm
-1
-D/run/media/derrick/media2/ebooks
-	The.Ruby.programming.Language.files
-11
-D/run/media/derrick/media2/ebooks/The.Ruby.programming.Language.files
-	..
-0
-D/run/media/derrick/media2/ebooks
-	Learn Ruby The Beginner Guide An Introduction to Ruby Programming
-4
-D/run/media/derrick/media2/ebooks/Learn Ruby The Beginner Guide An Introduction to Ruby Programming
-	LearnRuby.tgz
-1
-D/run/media/derrick/media2/ebooks
-	Learn Ruby The Beginner Guide An Introduction to Ruby Programming_
-5
-D/run/media/derrick/media2/ebooks/Learn Ruby The Beginner Guide An Introduction to Ruby Programming_
-	LearnRuby.tgz
-1
-D/run/media/derrick/media2/ebooks
-	The Book of Ruby.pdf
-19
-D/run/media/derrick/media2
-	ebooks
-1
-D/run/media/derrick
-	..
-0
-D/run
-	..
-0
-D/
-	run
-12
-D/home/derrick
 	code
-33
-D/home/derrick/code
-	rust
-8
-D/run/media/derrick
-	F017-2DD1
-1
-D/run/media/derrick/F017-2DD1
-	MASH
-1
-D/run/media/derrick/F017-2DD1/MASH
-	Season 4
-4
-D/run/media/derrick/F017-2DD1/MASH/Season 4
-	Episode 24 - The Interview.mkv
-24
-D/run/media/derrick/F017-2DD1/MASH
-	Season 5
-5
-D/run/media/derrick/F017-2DD1/MASH/Season 5
-	Episode 1 - Bug Out.mkv
-1
-D/run/media/derrick/F017-2DD1/MASH
-	Season 5
-5
-D/run/media/derrick/F017-2DD1/MASH/Season 5
-	Episode 7 - Dear Sigmund.mkv
 7
-D/run/media/derrick/F017-2DD1/MASH
-	Season 5
-5
-D/run/media/derrick/F017-2DD1
-	MASH
-1
-D/run/media/derrick
-	F017-2DD1
-1
-D/home/derrick
-	.rubypodder
-21
-D/home/derrick/.rubypodder
-	rp.conf
-1
-D/home/derrick
-	.rubypodder
-21
-D/home/derrick/.rubypodder
-	rp.conf
-1
-D/home/derrick
-	.podcatcher
-5
-D/home/derrick/.podcatcher
-	..
-0
-D/home/derrick
-	.podcatcher
-5
-D/home/derrick/.podcatcher
-	cache
-1
-D/home/derrick/.podcatcher/cache
-	..
-0
-D/home/derrick/.podcatcher
-	podcasts
+D/home/derrick/code
+	ruby
+8
+D/home/derrick/code/ruby
+	Wicked
+7
+D/home/derrick/code/ruby/Wicked
+	chapt02
 2
-D/home/derrick
-	.podcatcher
-5
-D/home/derrick/.podcatcher
-	podcasts
+D/home/derrick/code/ruby/Wicked/chapt02
+	weblink.rb
+8
+D/home/derrick/code/ruby/Wicked
+	chapt02
 2
-D/home/derrick/.podcatcher/podcasts
-	..
-0
-D/home/derrick/.podcatcher
-	podcasts
-2
-D/home/derrick/.podcatcher/podcasts
-	..
-0
-D/home/derrick/.podcatcher
-	podcasts
-2
-D/home/derrick/.podcatcher/podcasts
-	..
-0
-D/home/derrick/.podcatcher
-	podcasts
-2
-D/home/derrick/.podcatcher/podcasts
-	cache
-1
-D/home/derrick/.podcatcher/podcasts/cache
-	..
-0
-D/home/derrick/.podcatcher/podcasts
-	cache
-1
-D/home/derrick/.podcatcher
-	podcasts
-2
-D/home/derrick/.podcatcher/podcasts
-	cache
-1
-D/home/derrick/.podcatcher
-	cache
-1
-D/home/derrick/.podcatcher/cache
-	..
-0
-D/home/derrick/.podcatcher
-	history
-3
+D/home/derrick/code/ruby
+	Wicked
+7
+D/home/derrick/code
+	ruby
+8
 D/home/derrick
-	.podcatcher
-20
-D/home/derrick/.podcatcher
-	cache
-1
-D/home/derrick/.podcatcher/cache
-	..
-0
-D/home/derrick/.podcatcher
-	cache
-1
-D/home/derrick/.podcatcher/cache
-	a3c73c74-cffc-4476-9800-33d166d8e841.mp3
-1
-D/home/derrick/.podcatcher
-	cache
-1
-D/home/derrick/.podcatcher/cache
-	a3c73c74-cffc-4476-9800-33d166d8e841.mp3
-1
-D/home/derrick/.podcatcher
-	cache
-1
+	downloads
+8
+D/home/derrick/downloads
+	Toesox Price.pdf
+41
 D/home/derrick
-	.podcatcher
-20
-D/home
-	derrick
-1
+	pictures
+16
+D/home/derrick/pictures
+	Rebecca Standing Pump 2 big.JPG
+30
 D/home/derrick
-	.podcatcher
-20
-D/home/derrick/.podcatcher
-	cache
-1
-D/home/derrick
-	.bin
-1
-D/home/derrick/.bin
-	.gitignore
-2
-D/home/derrick
-	.bin
-1
-D/home/derrick/.bin
-	syncpod
-12
-D/home/derrick
-	podcasts
-36
-D/home/derrick/podcasts
-	All_Jupiter_Broadcasting_Shows
-1
-D/home/derrick/podcasts/All_Jupiter_Broadcasting_Shows
-	Rich_Developments__Unfilter_246.mp3
-5
-D/home/derrick/podcasts
-	unfilter_MP3
-15
-D/run/media/derrick
-	F017-2DD1
-1
-D/run/media/derrick/F017-2DD1
-	MASH
-1
-D/run/media/derrick/F017-2DD1/MASH
-	Season 5
-5
-D/run/media/derrick/F017-2DD1/MASH/Season 5
-	Episode 22 - Souvenirs.mkv
+	toesox
 22
+D/home/derrick/toesox
+	spring_summer_2018
+10
+D/home/derrick/toesox/spring_summer_2018
+	..
+0
 D
 
 # Command line history (oldest to newest):
@@ -706,10 +706,29 @@ D
 :mkdir .podcatcher
 :touch feedsrc
 :mkdir podcasts
+:mkdir perl6
+:mkdir music
+:mkdir code
+:mkdir chrome
+:touch userChrome.css
+:mkdir test
+:touch test01
+:touch test02
+:touch test03
+:touch test04
+:mkdir audiobooks
+:mkdir Bastards
 
 # Search history (oldest to newest):
+/cron
+/.jpg
+/text
+/pdf
+/2pdf
+/topdf
 
 # Prompt history (oldest to newest):
+p2018nikeapplication.xlsx
 ptest
 palonaharmony.jpg
 p20170127_pmoney_podcast012716.mp3
@@ -758,11 +777,27 @@ pSynapse.exam.multchoice.packet.mat.v1.0.FEB2015.odg
 pgimli2.css
 pfeeds
 pDavid Bowie - CD1
+pcar_makes.rb
+pcode.zip
+pconferencecall2tran.txt
+pbio.md
+peuler#19.rb
+pcrypt.rb
+pchapt02
+pchapt03
+pchapt04
+pchapt05
+pchapt06
+pchapt07
+pchapt08
+pchapt09
+parchive1.zip
+pAudiobooks
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/derrick/.local/share/vifm/Trash/000_unfilter-0246.mp3
+""/home/derrick/.local/share/vifm/Trash/013_archive.zip
 
 # Directory stack (oldest to newest):
 
@@ -899,6 +934,240 @@ t/home/derrick/.local/share/vifm/Trash/001_latest.m3u
 	/home/derrick/podcasts/latest.m3u
 t/home/derrick/.local/share/vifm/Trash/000_unfilter-0246.mp3
 	/home/derrick/podcasts/unfilter-0246.mp3
+t/home/derrick/.local/share/vifm/Trash/000_doc
+	/home/derrick/code/ruby/Comprehensive/doc
+t/home/derrick/.local/share/vifm/Trash/000_.~lock.EOMcnnew.odg#
+	/home/derrick/pilates/synapseeducation/EOM/.~lock.EOMcnnew.odg#
+t/home/derrick/.local/share/vifm/Trash/001_podcasts
+	/run/media/derrick/media2/music/podcasts
+t/home/derrick/.local/share/vifm/Trash/000_index.html
+	/home/derrick/code/ruby/Rubyist/index.html
+t/home/derrick/.local/share/vifm/Trash/000_audio.mp3
+	/home/derrick/code/ruby/Rubyist/audio.mp3
+t/run/media/derrick/media2/.vifm-Trash-1000/000_.~lock.EOMcnnew.odg#
+	/run/media/derrick/media2/video/.~lock.EOMcnnew.odg#
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%ruby%WickedCool%filechange.rb.swp
+	/home/derrick/.local/share/nvim/swap/%home%derrick%code%ruby%WickedCool%filechange.rb.swp
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%pilates%synapseeducation%workshops%pilatesabc.md.swn
+	/home/derrick/.local/share/nvim/swap/%home%derrick%pilates%synapseeducation%workshops%pilatesabc.md.swn
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%pilates%synapseeducation%workshops%pilatesabc.md.swo
+	/home/derrick/.local/share/nvim/swap/%home%derrick%pilates%synapseeducation%workshops%pilatesabc.md.swo
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%pilates%synapseeducation%workshops%pilatesabc.md.swp
+	/home/derrick/.local/share/nvim/swap/%home%derrick%pilates%synapseeducation%workshops%pilatesabc.md.swp
+t/home/derrick/.local/share/vifm/Trash/000_%tmp%mutt-nucskull-1000-1481-1348343117419652551.swp
+	/home/derrick/.local/share/nvim/swap/%tmp%mutt-nucskull-1000-1481-1348343117419652551.swp
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%perl%projecteuler%euler06.pl.swp
+	/home/derrick/.local/share/nvim/swap/%home%derrick%code%perl%projecteuler%euler06.pl.swp
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%perl%IntermediatePerl%chpt7%p98.pl.swp
+	/home/derrick/.local/share/nvim/swap/%home%derrick%code%perl%IntermediatePerl%chpt7%p98.pl.swp
+t/home/derrick/.local/share/vifm/Trash/000_file_list.txt
+	/home/derrick/code/ruby/WickedCool/file_list.txt
+t/home/derrick/.local/share/vifm/Trash/000_Band of Brothers (2001) Complete Mini-Series 1080p x264 Phun Psyz
+	/home/derrick/downloads/Band of Brothers (2001) Complete Mini-Series 1080p x264 Phun Psyz
+t/home/derrick/.local/share/vifm/Trash/000_Game of Thrones S07 E06 Beyond the Wall 720p WEB-DL x264 ESub[Moviezworldz]
+	/home/derrick/downloads/Game of Thrones S07 E06 Beyond the Wall 720p WEB-DL x264 ESub[Moviezworldz]
+t/home/derrick/.local/share/vifm/Trash/000_Game of Thrones S07E06 WEBRip x264 [450MB] - [ECLiPSE]
+	/home/derrick/downloads/Game of Thrones S07E06 WEBRip x264 [450MB] - [ECLiPSE]
+t/home/derrick/.local/share/vifm/Trash/000_Game.of.Thrones.S07E02.720p.HDTV.x264-AVS[rarbg]
+	/home/derrick/downloads/Game.of.Thrones.S07E02.720p.HDTV.x264-AVS[rarbg]
+t/home/derrick/.local/share/vifm/Trash/000_Game.of.Thrones.S07E03.WEB.h264-TBS[ettv]
+	/home/derrick/downloads/Game.of.Thrones.S07E03.WEB.h264-TBS[ettv]
+t/home/derrick/.local/share/vifm/Trash/000_Game.of.Thrones.S07E04.1080p.WEB.h264-TBS[rarbg]
+	/home/derrick/downloads/Game.of.Thrones.S07E04.1080p.WEB.h264-TBS[rarbg]
+t/home/derrick/.local/share/vifm/Trash/000_Game.of.Thrones.S07E05.720p.HDTV.x264-AVS[rarbg]
+	/home/derrick/downloads/Game.of.Thrones.S07E05.720p.HDTV.x264-AVS[rarbg]
+t/home/derrick/.local/share/vifm/Trash/000_Game.of.Thrones.S07E05.WEBRip.x264-RARBG
+	/home/derrick/downloads/Game.of.Thrones.S07E05.WEBRip.x264-RARBG
+t/home/derrick/.local/share/vifm/Trash/000_Full-Body-Extension-Resource.pdf
+	/home/derrick/downloads/Full-Body-Extension-Resource.pdf
+t/home/derrick/.local/share/vifm/Trash/000_Game.of.Thrones.S07E03.720p.WEB.h264-TBS[eztv].mkv.part
+	/home/derrick/downloads/Game.of.Thrones.S07E03.720p.WEB.h264-TBS[eztv].mkv.part
+t/home/derrick/.local/share/vifm/Trash/000_Game.of.Thrones.S07E03.WEB.h264-TBS[eztv].mkv.part
+	/home/derrick/downloads/Game.of.Thrones.S07E03.WEB.h264-TBS[eztv].mkv.part
+t/home/derrick/.local/share/vifm/Trash/000_analysis_report.txt
+	/home/derrick/code/ruby/analysis_report.txt
+t/home/derrick/.local/share/vifm/Trash/000_file_list.old
+	/home/derrick/code/ruby/file_list.old
+t/home/derrick/.local/share/vifm/Trash/000_file_list.txt
+	/home/derrick/code/ruby/file_list.txt
+t/home/derrick/.local/share/vifm/Trash/000_puts.rb
+	/home/derrick/code/ruby/puts.rb
+t/home/derrick/.local/share/vifm/Trash/000_test.txt
+	/home/derrick/code/ruby/test.txt
+t/home/derrick/.local/share/vifm/Trash/000_test1.txt
+	/home/derrick/code/ruby/test1.txt
+t/home/derrick/.local/share/vifm/Trash/000_until.rb
+	/home/derrick/code/ruby/until.rb
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%ruby%Euler%euler11.rb.swp
+	/home/derrick/.local/share/nvim/swap/%home%derrick%code%ruby%Euler%euler11.rb.swp
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%ruby%Rubyist%cake.rb.swp
+	/home/derrick/.local/share/nvim/swap/%home%derrick%code%ruby%Rubyist%cake.rb.swp
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%ruby%Rubyist%feed.rb.swp
+	/home/derrick/.local/share/nvim/swap/%home%derrick%code%ruby%Rubyist%feed.rb.swp
+t/home/derrick/.local/share/vifm/Trash/000_xiamen.txt
+	/home/derrick/xiamen.txt
+t/home/derrick/.local/share/vifm/Trash/000_1980 - Zenyatta Mondatta [2003 Remaster]
+	/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]
+t/home/derrick/.local/share/vifm/Trash/000_Red Headed Stranger (Western 1986)  Willie Nelson  720p
+	/home/derrick/music/Red Headed Stranger (Western 1986)  Willie Nelson  720p
+t/home/derrick/.local/share/vifm/Trash/000_Pink Floyd - Discography 1965-2016 (mp3)
+	/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)
+t/home/derrick/.local/share/vifm/Trash/000_17:18 LBA Monthly Payment Agreement - William Jackson Cope - G5 ver2.odg
+	/home/derrick/downloads/17:18 LBA Monthly Payment Agreement - William Jackson Cope - G5 ver2.odg
+t/home/derrick/.local/share/vifm/Trash/000_17:18 LBA Monthly Payment Agreement - William Jackson Cope - G5 ver2.pdf
+	/home/derrick/downloads/17:18 LBA Monthly Payment Agreement - William Jackson Cope - G5 ver2.pdf
+t/home/derrick/.local/share/vifm/Trash/000_AWP Practical Object Oriented Design in Ruby Sep 2012.pdf
+	/home/derrick/downloads/AWP Practical Object Oriented Design in Ruby Sep 2012.pdf
+t/home/derrick/.local/share/vifm/Trash/000_Fargo.S03E10.720p.WEB-DL.420MB.MkvCage.mkv
+	/home/derrick/downloads/Fargo.S03E10.720p.WEB-DL.420MB.MkvCage.mkv
+t/home/derrick/.local/share/vifm/Trash/000_Heaven-Can-Wait.jpg
+	/home/derrick/downloads/Heaven-Can-Wait.jpg
+t/home/derrick/.local/share/vifm/Trash/000_IMG_20170628_110155.jpg
+	/home/derrick/downloads/IMG_20170628_110155.jpg
+t/home/derrick/.local/share/vifm/Trash/000_IMG_20170628_110203.jpg
+	/home/derrick/downloads/IMG_20170628_110203.jpg
+t/home/derrick/.local/share/vifm/Trash/000_Screenshot-2017-9-21 17th Annual Meeting of the Pilates Method Alliance - Confirmation Online Registration by Cvent(1).png
+	/home/derrick/downloads/Screenshot-2017-9-21 17th Annual Meeting of the Pilates Method Alliance - Confirmation Online Registration by Cvent(1).png
+t/home/derrick/.local/share/vifm/Trash/000_Screenshot-2017-9-21 17th Annual Meeting of the Pilates Method Alliance - Confirmation Online Registration by Cvent(2).png
+	/home/derrick/downloads/Screenshot-2017-9-21 17th Annual Meeting of the Pilates Method Alliance - Confirmation Online Registration by Cvent(2).png
+t/home/derrick/.local/share/vifm/Trash/000_Screenshot-2017-9-21 17th Annual Meeting of the Pilates Method Alliance - Confirmation Online Registration by Cvent.png
+	/home/derrick/downloads/Screenshot-2017-9-21 17th Annual Meeting of the Pilates Method Alliance - Confirmation Online Registration by Cvent.png
+t/home/derrick/.local/share/vifm/Trash/000_Screenshot-2017-9-26 Problem 16 - Project Euler.png
+	/home/derrick/downloads/Screenshot-2017-9-26 Problem 16 - Project Euler.png
+t/home/derrick/.local/share/vifm/Trash/000_Screenshot-2017-10-17 Thread 24 - Project Euler.png
+	/home/derrick/downloads/Screenshot-2017-10-17 Thread 24 - Project Euler.png
+t/home/derrick/.local/share/vifm/Trash/000_Screenshot-2017-10-19 Problem 25 - Project Euler(1).png
+	/home/derrick/downloads/Screenshot-2017-10-19 Problem 25 - Project Euler(1).png
+t/home/derrick/.local/share/vifm/Trash/000_Screenshot-2017-10-19 Problem 25 - Project Euler.png
+	/home/derrick/downloads/Screenshot-2017-10-19 Problem 25 - Project Euler.png
+t/home/derrick/.local/share/vifm/Trash/000_Screenshot-2017-10-19 Thread 25 - Project Euler.png
+	/home/derrick/downloads/Screenshot-2017-10-19 Thread 25 - Project Euler.png
+t/home/derrick/.local/share/vifm/Trash/000_Screenshot-2017-10-31 Problem 34 - Project Euler.png
+	/home/derrick/downloads/Screenshot-2017-10-31 Problem 34 - Project Euler.png
+t/home/derrick/.local/share/vifm/Trash/000_Screenshot-2017-10-31 Thread 34 - Project Euler(1).png
+	/home/derrick/downloads/Screenshot-2017-10-31 Thread 34 - Project Euler(1).png
+t/home/derrick/.local/share/vifm/Trash/000_Screenshot-2017-10-31 Thread 34 - Project Euler.png
+	/home/derrick/downloads/Screenshot-2017-10-31 Thread 34 - Project Euler.png
+t/home/derrick/.local/share/vifm/Trash/000_Star.Trek.Continues.E03.720p.Fairest.Of.Them.All-ANON.mp4
+	/home/derrick/downloads/Star.Trek.Continues.E03.720p.Fairest.Of.Them.All-ANON.mp4
+t/home/derrick/.local/share/vifm/Trash/000_Star.Trek.Continues.E04.The.White.Iris.RERELEASE.WEBRip.720p.x264.mp4.part
+	/home/derrick/downloads/Star.Trek.Continues.E04.The.White.Iris.RERELEASE.WEBRip.720p.x264.mp4.part
+t/home/derrick/.local/share/vifm/Trash/000_The Well-Grounded Rubyist.mobi
+	/home/derrick/downloads/The Well-Grounded Rubyist.mobi
+t/home/derrick/.local/share/vifm/Trash/000_The Well-Grounded Rubyist.pdf
+	/home/derrick/downloads/The Well-Grounded Rubyist.pdf
+t/home/derrick/.local/share/vifm/Trash/000_The Big Sick (2017) [YTS.AG]
+	/home/derrick/downloads/The Big Sick (2017) [YTS.AG]
+t/home/derrick/.local/share/vifm/Trash/000_rust
+	/home/derrick/code/rust
+t/home/derrick/.local/share/vifm/Trash/000_Animal
+	/home/derrick/Animal
+t/home/derrick/.local/share/vifm/Trash/000_exercism
+	/home/derrick/exercism
+t/home/derrick/.local/share/vifm/Trash/000_learning_perl6_previews
+	/home/derrick/code/perl6/learning_perl6_previews
+t/home/derrick/.local/share/vifm/Trash/000_.hammiedb
+	/home/derrick/.hammiedb
+t/home/derrick/.local/share/vifm/Trash/000_.hammie.db
+	/home/derrick/.hammie.db
+t/home/derrick/.local/share/vifm/Trash/000_1452674037.M382381P26312Q595Rbe0c9856b9e29b19.localhost:2,S
+	/home/derrick/mail/inbox/cur/1452674037.M382381P26312Q595Rbe0c9856b9e29b19.localhost:2,S
+t/home/derrick/.local/share/vifm/Trash/000_ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154
+	/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154
+t/home/derrick/.local/share/vifm/Trash/000_euler#37.rb
+	/home/derrick/code/ruby/Euler/euler#37.rb
+t/home/derrick/.local/share/vifm/Trash/000_yoda.jpg
+	/home/derrick/pictures/wallpapers/yoda.jpg
+t/home/derrick/.local/share/vifm/Trash/000_debiangreypink (another copy).png
+	/home/derrick/pictures/wallpapers/debiangreypink (another copy).png
+t/home/derrick/.local/share/vifm/Trash/000_debiangreypink (copy).png
+	/home/derrick/pictures/wallpapers/debiangreypink (copy).png
+t/run/media/derrick/C8CE-411F/.vifm-Trash-1000/000_Atomic Blonde (2017) [1080p] [YTS.AG]
+	/run/media/derrick/C8CE-411F/Atomic Blonde (2017) [1080p] [YTS.AG]
+t/run/media/derrick/C8CE-411F/.vifm-Trash-1000/000_Baby Driver 2017 720p HDTC [English] KOREAN SUB x264
+	/run/media/derrick/C8CE-411F/Baby Driver 2017 720p HDTC [English] KOREAN SUB x264
+t/run/media/derrick/C8CE-411F/.vifm-Trash-1000/000_Baywatch (2017) [1080p] [YTS.AG]
+	/run/media/derrick/C8CE-411F/Baywatch (2017) [1080p] [YTS.AG]
+t/run/media/derrick/C8CE-411F/.vifm-Trash-1000/000_King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG]
+	/run/media/derrick/C8CE-411F/King Arthur Legend Of The Sword (2017) [1080p] [YTS.AG]
+t/run/media/derrick/C8CE-411F/.vifm-Trash-1000/000_Projects
+	/run/media/derrick/C8CE-411F/Projects
+t/run/media/derrick/C8CE-411F/.vifm-Trash-1000/000_System Volume Information
+	/run/media/derrick/C8CE-411F/System Volume Information
+t/run/media/derrick/C8CE-411F/.vifm-Trash-1000/000_The Dark Tower (2017) [1080p] [YTS.AG]
+	/run/media/derrick/C8CE-411F/The Dark Tower (2017) [1080p] [YTS.AG]
+t/run/media/derrick/C8CE-411F/.vifm-Trash-1000/000_appstore_download_cache
+	/run/media/derrick/C8CE-411F/appstore_download_cache
+t/run/media/derrick/C8CE-411F/.vifm-Trash-1000/000_cower
+	/run/media/derrick/C8CE-411F/cower
+t/run/media/derrick/C8CE-411F/.vifm-Trash-1000/000_nvim
+	/run/media/derrick/C8CE-411F/nvim
+t/run/media/derrick/C8CE-411F/.vifm-Trash-1000/000_tinywm-git
+	/run/media/derrick/C8CE-411F/tinywm-git
+t/run/media/derrick/C8CE-411F/.vifm-Trash-1000/000_lemonbar.pl
+	/run/media/derrick/C8CE-411F/lemonbar.pl
+t/run/media/derrick/C8CE-411F/.vifm-Trash-1000/000_vifmrc
+	/run/media/derrick/C8CE-411F/vifmrc
+t/home/derrick/.local/share/vifm/Trash/000_euler#39.rb
+	/home/derrick/code/ruby/Euler/euler#39.rb
+t/home/derrick/.local/share/vifm/Trash/000_Ray.Donovan.S01.Season.1.720p.HDTV.x264-PublicHD
+	/home/derrick/downloads/Ray.Donovan.S01.Season.1.720p.HDTV.x264-PublicHD
+t/home/derrick/.local/share/vifm/Trash/000_redshift-gtk.desktop
+	/home/derrick/.config/autostart/redshift-gtk.desktop
+t/home/derrick/.local/share/vifm/Trash/000_autostart
+	/home/derrick/.config/autostart
+t/home/derrick/.local/share/vifm/Trash/001_autostart
+	/home/derrick/scripts/autostart
+t/home/derrick/.local/share/vifm/Trash/000_Dunkirk.2017.720p.BluRay.x264-[YTS.AG].chs.shooter.srt
+	/run/media/derrick/C8CE-411F/Dunkirk.2017.720p.BluRay.x264-[YTS.AG].chs.shooter.srt
+t/home/derrick/.local/share/vifm/Trash/000_Dunkirk.2017.720p.BluRay.x264-[YTS.AG].mp4
+	/run/media/derrick/C8CE-411F/Dunkirk.2017.720p.BluRay.x264-[YTS.AG].mp4
+t/home/derrick/.local/share/vifm/Trash/000_To.Kill.a.Mockingbird.1962.720p.BrRip.264.YIFY.chs.shooter.srt
+	/run/media/derrick/C8CE-411F/To.Kill.a.Mockingbird.1962.720p.BrRip.264.YIFY.chs.shooter.srt
+t/home/derrick/.local/share/vifm/Trash/000_To.Kill.a.Mockingbird.1962.720p.BrRip.264.YIFY.mp4
+	/run/media/derrick/C8CE-411F/To.Kill.a.Mockingbird.1962.720p.BrRip.264.YIFY.mp4
+t/home/derrick/.local/share/vifm/Trash/001_euler#39.rb
+	/run/media/derrick/C8CE-411F/euler#39.rb
+t/home/derrick/.local/share/vifm/Trash/000_2017NSC
+	/run/media/derrick/C8CE-411F/2017NSC
+t/home/derrick/.local/share/vifm/Trash/000_WickedCool
+	/home/derrick/code/ruby/WickedCool
+t/home/derrick/.local/share/vifm/Trash/000_encrypted_test.new
+	/home/derrick/code/ruby/Wicked/chapt01/encrypted_test.new
+t/home/derrick/.local/share/vifm/Trash/000_decrypted_encrypted_test.new
+	/home/derrick/code/ruby/Wicked/chapt01/decrypted_encrypted_test.new
+t/run/media/derrick/F017-2DD1/.vifm-Trash-1000/000_Die.Hard.2.1990.BRRip.720p.x265.2Ch.HAAC2-Sunil-KITE-METeam.mkv
+	/run/media/derrick/F017-2DD1/Die.Hard.2.1990.BRRip.720p.x265.2Ch.HAAC2-Sunil-KITE-METeam.mkv
+t/run/media/derrick/F017-2DD1/.vifm-Trash-1000/000_Practical Vim - Drew Neil.pdf
+	/run/media/derrick/F017-2DD1/Practical Vim - Drew Neil.pdf
+t/run/media/derrick/F017-2DD1/.vifm-Trash-1000/000_WickedCoolPerlScripts.pdf
+	/home/derrick/pilates/PMA/2016PMACon/WickedCoolPerlScripts.pdf
+t/home/derrick/.local/share/vifm/Trash/000_test.zip
+	/home/derrick/code/ruby/Wicked/chapt01/test.zip
+t/home/derrick/.local/share/vifm/Trash/000_test2
+	/home/derrick/code/ruby/Wicked/chapt01/test2
+t/home/derrick/.local/share/vifm/Trash/000_archive.zip
+	/home/derrick/code/ruby/Wicked/chapt01/archive.zip
+t/home/derrick/.local/share/vifm/Trash/000_test01.gz
+	/home/derrick/code/ruby/Wicked/chapt01/test/test01.gz
+t/home/derrick/.local/share/vifm/Trash/000_test02.gz
+	/home/derrick/code/ruby/Wicked/chapt01/test/test02.gz
+t/home/derrick/.local/share/vifm/Trash/000_test03.gz
+	/home/derrick/code/ruby/Wicked/chapt01/test/test03.gz
+t/home/derrick/.local/share/vifm/Trash/000_test04.gz
+	/home/derrick/code/ruby/Wicked/chapt01/test/test04.gz
+t/home/derrick/.local/share/vifm/Trash/009_archive.zip
+	/home/derrick/code/ruby/Wicked/chapt01/test/archive.zip
+t/home/derrick/.local/share/vifm/Trash/000_test01
+	/home/derrick/code/ruby/Wicked/chapt01/test/test01
+t/home/derrick/.local/share/vifm/Trash/000_test02
+	/home/derrick/code/ruby/Wicked/chapt01/test/test02
+t/home/derrick/.local/share/vifm/Trash/000_test03
+	/home/derrick/code/ruby/Wicked/chapt01/test/test03
+t/home/derrick/.local/share/vifm/Trash/000_test04
+	/home/derrick/code/ruby/Wicked/chapt01/test/test04
+t/home/derrick/.local/share/vifm/Trash/000_archive1.zip
+	/home/derrick/code/ruby/Wicked/chapt01/archive1.zip
 
 # State:
 f

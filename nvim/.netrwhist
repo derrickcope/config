@@ -1,5 +1,5 @@
 let g:netrw_dirhistmax  =10
 let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/run/media/derrick/media2/video'
-let g:netrw_dirhist_2='/home/derrick/downloads'
-let g:netrw_dirhist_3='/home/derrick/.config/openbox'
+let g:netrw_dirhist_1='/home/derrick/code/ruby/Euler'
+let g:netrw_dirhist_2='/home'
+let g:netrw_dirhist_3='/'

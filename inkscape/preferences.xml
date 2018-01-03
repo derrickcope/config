@@ -133,8 +133,8 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="0"
-         height="0"
+         width="792.857"
+         height="798.571"
          rx="0"
          ry="0" />
       <eventcontext
@@ -338,7 +338,8 @@
        show_sample_in_list="1"
        style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:25px;letter-spacing:0px;word-spacing:0px"
        selcue="1"
-       outer_style="0">
+       outer_style="0"
+       align_mode="1">
       <group
          id="lineheight"
          display_unit="1" />
@@ -577,11 +578,11 @@
        panel_mode="1"
        panel_wrap="0"
        panel_border="0"
-       page="2"
-       x="3453"
-       y="0"
+       page="0"
+       x="768"
+       y="360"
        w="383"
-       h="378"
+       h="384"
        visible="1"
        state="2"
        placement="2" />
@@ -594,10 +595,10 @@
        panel_mode="1"
        panel_wrap="0"
        panel_border="0"
-       x="1931"
-       y="92"
+       x="768"
+       y="260"
        w="383"
-       h="416"
+       h="583"
        visible="1"
        state="2"
        placement="5" />
@@ -635,9 +636,9 @@
        panel_wrap="0"
        panel_border="0"
        x="637"
-       y="167"
+       y="154"
        w="645"
-       h="768"
+       h="796"
        visible="0"
        placement="1" />
     <group
@@ -667,10 +668,10 @@
        panel_mode="1"
        panel_wrap="0"
        panel_border="0"
-       x="4"
-       y="123"
+       x="1260"
+       y="264"
        w="412"
-       h="446"
+       h="472"
        visible="0"
        state="2"
        placement="1">
@@ -701,7 +702,7 @@
     <group
        id="import"
        enable_preview="1"
-       path="/home/derrick/nike/2017NSC/"
+       path="/home/derrick/toesox/"
        ask="1"
        link="embed"
        scale="auto"
@@ -730,7 +731,16 @@
        id="treeeditor" />
     <group
        id="layers"
-       maxDepth="20" />
+       maxDepth="20"
+       panel_size="1"
+       panel_ratio="100"
+       panel_mode="1"
+       panel_wrap="0"
+       panel_border="0"
+       x="226"
+       y="317"
+       w="216"
+       h="189" />
     <group
        id="extensioneditor" />
     <group
@@ -753,10 +763,10 @@
        placement="5"
        state="2"
        visible="1"
-       h="426"
-       w="383"
-       y="582"
-       x="1920"
+       h="438"
+       w="398"
+       y="319"
+       x="766"
        panel_border="0"
        panel_wrap="0"
        panel_mode="1"
@@ -774,7 +784,8 @@
   </group>
   <group
      id="options"
-     dpifixbackup="1">
+     dpifixbackup="1"
+     dpiupdatemethod="0">
     <group
        id="renderingcache"
        size="64" />
@@ -1053,7 +1064,7 @@
      id="extensions" />
   <group
      id="desktop"
-     style="line-height:25px;font-size:45.33333333px;-inkscape-font-specification:'WenQuanYi Zen Hei Bold';font-family:'WenQuanYi Zen Hei';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#333333;fill-opacity:1">
+     style="line-height:28px;font-size:42.66666667px;-inkscape-font-specification:'Ubuntu Bold';font-family:Ubuntu;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#252429;fill-opacity:1">
     <group
        width="1918"
        height="1060"

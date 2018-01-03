@@ -74,7 +74,7 @@ alt + {_,shift + }{h,l,k,j}
 
 # focus the next/previous node
 alt + {Tab,Escape} 
-    bspc node -f {next,prev}
+    bspc node -f {next,prev}.local
 
 # focus or send node to the next/previous desktop
 ctrl + alt + {Left,Right}

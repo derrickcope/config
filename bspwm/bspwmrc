@@ -10,7 +10,7 @@ bspc monitor HDMI2 -d I II III IV
 
 # window config
 bspc config border_width            2
-bspc config window_gap              12
+bspc config window_gap              10
 bspc config split_ratio             0.50
 bspc config borderless_monocle      true
 bspc config gapless_monocle         true
@@ -20,6 +20,8 @@ bspc config pointer_modifier        mod1
 
 
 # desktop rules and autostart
+redshift-gtk &
+
 bspc rule -a Gimp desktop='^3' state=floating follow=on
 
 bspc rule -a Firefox desktop='^5'
@@ -36,7 +38,7 @@ pavucontrol &
 bspc rule -a URxvt:cmus desktop='^8'
 urxvt -name cmus -title cmus -e cmus &
 
-bspc rule -a URxvt:mutt desktop='^7'
+bspc rule -a URxvt:mutt desktop='^2'
 urxvt -name mutt -title mutt -e mutt &
 
 bspc rule -a URxvt:vifm desktop='^1'

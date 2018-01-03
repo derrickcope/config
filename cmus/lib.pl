@@ -20,74 +20,65 @@
 /home/derrick/music/Marvin Gaye/What's Going On (Deluxe Edition)/2-13 What's Going On (Original Singles Version).mp3
 /home/derrick/music/Marvin Gaye/What's Going On (Deluxe Edition)/2-14 God Is Love (Original Singles Version).mp3
 /home/derrick/music/Pink Floyd - Dark Side Of The Moon (2015 Remastered)/Pink Floyd - Dark Side Of The Moon.flac
-/home/derrick/music/Red Headed Stranger (Western 1986)  Willie Nelson  720p/Red Headed Stranger  (Western 1986)  Willie Nelson, Morgan Fairchild & R.G. Armstrong.mp4
-/home/derrick/music/Red Headed Stranger (Western 1986)  Willie Nelson  720p/Sample.mp4
-cue:///home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/1
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1978 - Outlandos d'Amour [2003 Remaster]/The Police - Outlandos d'Amour [2003 Remaster].cue/1
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/The Police - Reggatta de Blanc [2003 Remaster].cue/1
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/1
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/The Police - Ghost in the Machine [2003 Remaster].cue/1
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1983 - Synchronicity [2003 Remaster]/The Police - Synchronicity [2003 Remaster].cue/1
-cue:///home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/2
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1978 - Outlandos d'Amour [2003 Remaster]/The Police - Outlandos d'Amour [2003 Remaster].cue/2
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/The Police - Reggatta de Blanc [2003 Remaster].cue/2
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/2
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/The Police - Ghost in the Machine [2003 Remaster].cue/2
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1983 - Synchronicity [2003 Remaster]/The Police - Synchronicity [2003 Remaster].cue/2
-cue:///home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/3
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1978 - Outlandos d'Amour [2003 Remaster]/The Police - Outlandos d'Amour [2003 Remaster].cue/3
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/The Police - Reggatta de Blanc [2003 Remaster].cue/3
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/3
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/The Police - Ghost in the Machine [2003 Remaster].cue/3
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1983 - Synchronicity [2003 Remaster]/The Police - Synchronicity [2003 Remaster].cue/3
-cue:///home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/4
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1978 - Outlandos d'Amour [2003 Remaster]/The Police - Outlandos d'Amour [2003 Remaster].cue/4
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/The Police - Reggatta de Blanc [2003 Remaster].cue/4
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/4
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/The Police - Ghost in the Machine [2003 Remaster].cue/4
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1983 - Synchronicity [2003 Remaster]/The Police - Synchronicity [2003 Remaster].cue/4
-cue:///home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/5
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1978 - Outlandos d'Amour [2003 Remaster]/The Police - Outlandos d'Amour [2003 Remaster].cue/5
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/The Police - Reggatta de Blanc [2003 Remaster].cue/5
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/5
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/The Police - Ghost in the Machine [2003 Remaster].cue/5
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1983 - Synchronicity [2003 Remaster]/The Police - Synchronicity [2003 Remaster].cue/5
-cue:///home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/6
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1978 - Outlandos d'Amour [2003 Remaster]/The Police - Outlandos d'Amour [2003 Remaster].cue/6
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/The Police - Reggatta de Blanc [2003 Remaster].cue/6
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/6
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/The Police - Ghost in the Machine [2003 Remaster].cue/6
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1983 - Synchronicity [2003 Remaster]/The Police - Synchronicity [2003 Remaster].cue/6
-cue:///home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/7
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1978 - Outlandos d'Amour [2003 Remaster]/The Police - Outlandos d'Amour [2003 Remaster].cue/7
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/The Police - Reggatta de Blanc [2003 Remaster].cue/7
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/7
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/The Police - Ghost in the Machine [2003 Remaster].cue/7
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1983 - Synchronicity [2003 Remaster]/The Police - Synchronicity [2003 Remaster].cue/7
-cue:///home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/8
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1978 - Outlandos d'Amour [2003 Remaster]/The Police - Outlandos d'Amour [2003 Remaster].cue/8
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/The Police - Reggatta de Blanc [2003 Remaster].cue/8
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/8
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/The Police - Ghost in the Machine [2003 Remaster].cue/8
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1983 - Synchronicity [2003 Remaster]/The Police - Synchronicity [2003 Remaster].cue/8
-cue:///home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/9
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1978 - Outlandos d'Amour [2003 Remaster]/The Police - Outlandos d'Amour [2003 Remaster].cue/9
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/The Police - Reggatta de Blanc [2003 Remaster].cue/9
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/9
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/The Police - Ghost in the Machine [2003 Remaster].cue/9
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1983 - Synchronicity [2003 Remaster]/The Police - Synchronicity [2003 Remaster].cue/9
-cue:///home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/10
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1978 - Outlandos d'Amour [2003 Remaster]/The Police - Outlandos d'Amour [2003 Remaster].cue/10
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/The Police - Reggatta de Blanc [2003 Remaster].cue/10
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/10
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/The Police - Ghost in the Machine [2003 Remaster].cue/10
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1983 - Synchronicity [2003 Remaster]/The Police - Synchronicity [2003 Remaster].cue/10
-cue:///home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/11
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/The Police - Reggatta de Blanc [2003 Remaster].cue/11
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/11
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/The Police - Ghost in the Machine [2003 Remaster].cue/11
 cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1983 - Synchronicity [2003 Remaster]/The Police - Synchronicity [2003 Remaster].cue/11
 /home/derrick/music/Guardians Of The Galaxy/Guardians_Of_The_Galaxy_01_FLAC/106-10cc-im_not_in_love.flac
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2009 - Starstrukk (3OH!3 Feat. Katy Perry) (CDS) - (320 kbps)/01. Starstrukk (Explicit Bonus).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2009 - Starstrukk (3OH!3 Feat. Katy Perry) (CDS) - (320 kbps)/02. Starstrukk (Discotech Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - Starstrukk (3OH!3 Feat. Katy Perry) (CDS) - (320 kbps)/01. Starstrukk (feat. Katy Perry).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - Starstrukk (3OH!3 Feat. Katy Perry) (CDS) - (320 kbps)/02. Starstrukk (Discotech Remix).mp3
 /home/derrick/music/Back In Black/8-01 Hells Bells.m4a
 /home/derrick/music/Back In Black/8-02 Shoot to Thrill.m4a
 /home/derrick/music/Back In Black/8-03 What Do You Do for Money Honey.m4a
@@ -99,6 +90,46 @@ cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [
 /home/derrick/music/Back In Black/8-09 Shake a Leg.m4a
 /home/derrick/music/Back In Black/8-10 Rock and Roll Ain't Noise Pollu.m4a
 /home/derrick/music/Guardians Of The Galaxy/Guardians_Of_The_Galaxy_02_FLAC/03-aliotta_haynes_jeremiah-lake_shore_drive.flac
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vol. 1/01 Respect.mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vol. 1/02 Baby I Love You.mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vol. 1/03 I Never Loved a Man (The Way I Love You).mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vol. 1/04 Chain of Fools.mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vol. 1/05 Do Right Woman, Do Right Man.mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vol. 1/06 (You Make Me Feel Like) A Natural Woman.mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vol. 1/07 (Sweet Sweet Baby) Since You've Been Gone.mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vol. 1/08 Ain't No Way [-].mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vol. 1/09 Think.mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vol. 1/10 See Saw.mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vol. 1/11 The House That Jack Built.mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vol. 1/12 I Say a Little Prayer.mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vol. 1/13 The Weight.mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vol. 1/14 Eleanor Rigby [-].mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vol. 1/15 Share Your Love With Me [-].mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vol. 1/16 Call Me [-].mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vols. 2/01 Rock Steady.mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vols. 2/02 Spanish Harlem.mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vols. 2/03 Don't Play That Song.mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vols. 2/04 Spirit in the Dark.mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vols. 2/05 Border Song (Holy Moses).mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vols. 2/06 You're All I Need to Get by.mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vols. 2/07 Bridge Over Troubled Water.mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vols. 2/08 A Brand New Me.mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vols. 2/09 Day Dreaming.mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vols. 2/10 All the King's Horses.mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vols. 2/11 Angel.mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vols. 2/12 Master of Eyes (The Deepness of Your Eyes).mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vols. 2/13 Oh Me Oh My (I'm a Fool for You Baby).mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vols. 2/14 Until You Come Back to Me (That's What I'm Gonna Do).mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vols. 2/15 I'm in Love.mp3
+/home/derrick/music/ARETHA FRANKLIN - The Very Best of - Vol 1 & 2 - Remastered - 320Kbps - Drbn 154/CD/The Very Best of Aretha Franklin, Vols. 2/16 Something He Can Feel.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1970] Attila/01 - California Flash.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1970] Attila/02 - Wonder Woman.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1970] Attila/03 - Revenge Is Sweet.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1970] Attila/04 - Amplifer Fire  Part 1 - Godzilla, Part 2 - March Of The Huns.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1970] Attila/05 - Rollin' Home.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1970] Attila/06 - Tear This Castle Down.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1970] Attila/07 - Holy Moses.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1970] Attila/08 - Brain Invasion.mp3
 /home/derrick/music/Bad Company - Anthology 2CD/Bad Co - Anthology - CD 1/01 - Can't Get Enough.mp3
 /home/derrick/music/Bad Company - Anthology 2CD/Bad Co - Anthology - CD 1/02 - Rock Steady.mp3
 /home/derrick/music/Bad Company - Anthology 2CD/Bad Co - Anthology - CD 1/03 - Ready For Love.mp3
@@ -132,6 +163,443 @@ cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [
 /home/derrick/music/Bad Company - Anthology 2CD/Bad Co -  Anthology - CD 2/16 - Ain't It Good.mp3
 /home/derrick/music/Bad Company - Anthology 2CD/Bad Co -  Anthology - CD 2/17 - Hammer Of Love.mp3
 /home/derrick/music/Bad Company - Anthology 2CD/Bad Co -  Anthology - CD 2/18 - Hey, Hey.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1971] Cold Spring Harbor/03 - Everybody Loves You Now.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1971] Cold Spring Harbor/05 - Falling Of The Rain.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1971] Cold Spring Harbor/10 - Got To Begin Again.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1971] Cold Spring Harbor/09 - Nocturne.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1971] Cold Spring Harbor/01 - She's Got A Way.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1971] Cold Spring Harbor/08 - Tomorrow Is Today.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1971] Cold Spring Harbor/06 - Turn Around.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1971] Cold Spring Harbor/04 - Why Judy Why.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1971] Cold Spring Harbor/02 - You Can Make Me Free.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1971] Cold Spring Harbor/07 - You Look So Good To Me.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1973] Piano Man/01 - Travelin' Prayer.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1973] Piano Man/02 - Piano Man.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1973] Piano Man/03 - Ain't No Crime.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1973] Piano Man/04 - You're My Home.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1973] Piano Man/05 - The Ballad Of Billy The Kid.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1973] Piano Man/06 - Worse Comes To Worst.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1973] Piano Man/07 - Stop In Nevada.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1973] Piano Man/08 - If I Only Had The Words (To Tell You).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1973] Piano Man/09 - Somewhere Along The Line.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1973] Piano Man/10 - Captain Jack.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1974] Streetlife Serenade/01 - Streetlife Serenader.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1974] Streetlife Serenade/02 - Los Angelenos.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1974] Streetlife Serenade/03 - The Great Suburban Showdown.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1974] Streetlife Serenade/04 - Root Beer Rag.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1974] Streetlife Serenade/05 - Roberta.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1974] Streetlife Serenade/06 - The Entertainer.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1974] Streetlife Serenade/07 - Last Of The Big Time Spenders.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1974] Streetlife Serenade/08 - Weekend Song.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1974] Streetlife Serenade/09 - Souvenir.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1974] Streetlife Serenade/10 - The Mexican Connection.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1976] Turnstiles/01 - Say Goodbye To Hollywood.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1976] Turnstiles/02 - Summer, Highland Falls.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1976] Turnstiles/03 - All You Wanna Do Is Dance.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1976] Turnstiles/04 - New York State Of Mind.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1976] Turnstiles/05 - James.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1976] Turnstiles/06 - Angry Young Man.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1976] Turnstiles/07 - I've Loved These Days.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1976] Turnstiles/08 - Miami 2017.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1977] The Stranger/01 - Movin' Out (Anthony's Song).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1977] The Stranger/02 - The Stranger.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1977] The Stranger/03 - Just The Way You Are.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1977] The Stranger/04 - Scenes From An Italian Restaurant.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1977] The Stranger/05 - Vienna.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1977] The Stranger/06 - Only The Good Die Young.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1977] The Stranger/07 - She's Always A Woman.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1977] The Stranger/08 - Get It Right The First Time.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1977] The Stranger/09 - Everybody Has A Dream.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1978] 52nd Street/01 - Big shot.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1978] 52nd Street/02 - Honesty.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1978] 52nd Street/03 - My life.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1978] 52nd Street/04 - Zanzibar.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1978] 52nd Street/05 - Stiletto.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1978] 52nd Street/06 - Rosalinda's eyes.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1978] 52nd Street/07 - Half a mile away.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1978] 52nd Street/08 - Until the night.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1978] 52nd Street/09 - 52nd Street.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1980] Glass Houses/01 - You May Be Right.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1980] Glass Houses/02 - Sometimes a Fantasy.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1980] Glass Houses/03 - Don't Ask Me Why.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1980] Glass Houses/04 - It's Still Rock and Roll to Me.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1980] Glass Houses/05 - All for Leyna.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1980] Glass Houses/06 - I Don't Want to Be Alone.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1980] Glass Houses/07 - Sleeping with the Television On.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1980] Glass Houses/08 - C'Etait Toi (You Were the One).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1980] Glass Houses/09 - Close to the Borderline.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1980] Glass Houses/10 - Through the Long Night.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1981] Songs in the Attic [Live Album]/01 - Miami 2017 (Seen The Lights Go Out On Broadway).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1981] Songs in the Attic [Live Album]/02 - Summer, Highland Falls.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1981] Songs in the Attic [Live Album]/03 - Streetlife Serenader.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1981] Songs in the Attic [Live Album]/04 - Los Angelenos.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1981] Songs in the Attic [Live Album]/05 - She's Got A Way.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1981] Songs in the Attic [Live Album]/06 - Everybody Loves You Now.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1981] Songs in the Attic [Live Album]/07 - Say Goodbye To Hollywood.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1981] Songs in the Attic [Live Album]/08 - Captain Jack.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1981] Songs in the Attic [Live Album]/09 - You're My Home.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1981] Songs in the Attic [Live Album]/10 - The Ballad Of Billy The Kid.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1981] Songs in the Attic [Live Album]/11 - I've Loved These Days.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1982] The Nylon Curtain/01 - Allentown.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1982] The Nylon Curtain/02 - Laura.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1982] The Nylon Curtain/03 - Pressure.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1982] The Nylon Curtain/04 - Goodnight Saigon.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1982] The Nylon Curtain/05 - She's Right On Time.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1982] The Nylon Curtain/06 - A Room Of Our Own.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1982] The Nylon Curtain/07 - Surprises.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1982] The Nylon Curtain/08 - Scandinavian Skies.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1982] The Nylon Curtain/09 - Where's The Orchestra.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1983] An Innocent Man/01 - Easy Money.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1983] An Innocent Man/02 - An Innocent Man.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1983] An Innocent Man/03 - The Longest Time.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1983] An Innocent Man/04 - This Night.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1983] An Innocent Man/05 - Tell Her About It.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1983] An Innocent Man/06 - Uptown Girl.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1983] An Innocent Man/07 - Careless Talk.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1983] An Innocent Man/08 - Christie Lee.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1983] An Innocent Man/09 - Leave A Tender Moment Alone.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1983] An Innocent Man/10 - Keeping The Faith.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 2/01 - My Life.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 2/02 - Big Shot.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 2/03 - Honesty.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 2/04 - You May Be Right.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 2/05 - It's Still Rock And Roll To Me.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 2/06 - She's Got A Way.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 2/07 - Pressure.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 2/08 - Allentown.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 2/09 - Goodnight Saigon.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 2/10 - Tell Her About It.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 2/11 - Uptown Girl.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 2/12 - The Longest Time.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 2/13 - You're Only Human (Second Wind).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 2/14 - The Night Is Still Young.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 1/01 - Piano Man.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 1/02 - Captain Jack.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 1/03 - The Entertainer.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 1/04 - Say Goodbye To Hollywood.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 1/05 - New York State Of Mind.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 1/06 - The Stranger.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 1/07 - Scenes From An Italian Restaurant.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 1/08 - Just The Way You Are.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 1/09 - Movin' Out (Anthony's Song).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 1/10 - Only The Good Die Young.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1985] Greatest Hits Vol I & II/Volume 1/11 - She's Always A Woman.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1987] Концерт (Live in Leningrad)/01 - Odoya.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1987] Концерт (Live in Leningrad)/02 - Angry Young Man.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1987] Концерт (Live in Leningrad)/03 - Honesty.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1987] Концерт (Live in Leningrad)/04 - Goodnight Saigon.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1987] Концерт (Live in Leningrad)/05 - Stiletto.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1987] Концерт (Live in Leningrad)/06 - Big Man On Mulberry Street.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1987] Концерт (Live in Leningrad)/07 - Baby Grand.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1987] Концерт (Live in Leningrad)/08 - An Innocent Man.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1987] Концерт (Live in Leningrad)/09 - Allentown.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1987] Концерт (Live in Leningrad)/10 - A Matter Of Trust.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1987] Концерт (Live in Leningrad)/11 - Only The Good Die Young.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1987] Концерт (Live in Leningrad)/12 - Sometimes A Fantasy.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1987] Концерт (Live in Leningrad)/13 - Uptown Girl.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1987] Концерт (Live in Leningrad)/14 - Big Shot.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1987] Концерт (Live in Leningrad)/15 - Back In The U.S.S.R..mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1987] Концерт (Live in Leningrad)/16 - The Times They Are A Changing'.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1989] I Go To Extremes [EP]/01 - I Go To Extreme.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1989] I Go To Extremes [EP]/02 - When In Rome.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1989] I Go To Extremes [EP]/03 - Uptown Girl.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1989] I Go To Extremes [EP]/04 - All For Leyna.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1989] Storm Front/01 - That's Not Her Style .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1989] Storm Front/02 - We Didn't Start The Fire .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1989] Storm Front/03 - The Downeaster Alexa .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1989] Storm Front/04 - I Go To Extremes .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1989] Storm Front/05 - Shameless .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1989] Storm Front/06 - Storm Front .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1989] Storm Front/07 - Leningrad .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1989] Storm Front/08 - State Of Grace .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1989] Storm Front/09 - When In Rome .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1989] Storm Front/10 - And So It Goes .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1990] That's Not Her Style [EP]/01 - That's Not Her Style.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1990] That's Not Her Style [EP]/02 - We Didn't Start The Fire.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1990] That's Not Her Style [EP]/03 - Until The Night.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1990] That's Not Her Style [EP]/04 - Just The Way You Are.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] A Voyage On The River of Dreams (Compilation Album)/CD 1 - River of Dreams/01 - No Man's Land.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] The River of Dreams [Original Edition]/01 - No Man's Land.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] A Voyage On The River of Dreams (Compilation Album)/CD 1 - River of Dreams/02 - The Great Wall of China.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] The River of Dreams [Original Edition]/02 - The Great Wall of China.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] A Voyage On The River of Dreams (Compilation Album)/CD 1 - River of Dreams/03 - Blonde Over Blue.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] The River of Dreams [Original Edition]/03 - Blonde Over Blue.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] A Voyage On The River of Dreams (Compilation Album)/CD 1 - River of Dreams/04 - A Minor Variation.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] The River of Dreams [Original Edition]/04 - A Minor Variation.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] A Voyage On The River of Dreams (Compilation Album)/CD 1 - River of Dreams/05 - Shades of Grey.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] The River of Dreams [Original Edition]/05 - Shades of Grey.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] A Voyage On The River of Dreams (Compilation Album)/CD 1 - River of Dreams/06 - All About Soul.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] The River of Dreams [Original Edition]/06 - All About Soul.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] A Voyage On The River of Dreams (Compilation Album)/CD 1 - River of Dreams/07 - Lullabye (Goodnight, My Angel).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] The River of Dreams [Original Edition]/07 - Lullabye (Goodnight, My Angel).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] A Voyage On The River of Dreams (Compilation Album)/CD 1 - River of Dreams/08 - The River of Dreams.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] The River of Dreams [Original Edition]/08 - The River of Dreams.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] A Voyage On The River of Dreams (Compilation Album)/CD 1 - River of Dreams/09 - Two Thousand Years.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] The River of Dreams [Original Edition]/09 - Two Thousand Years.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] A Voyage On The River of Dreams (Compilation Album)/CD 1 - River of Dreams/10 - Famous Last Words.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] The River of Dreams [Original Edition]/10 - Famous Last Words.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] A Voyage On The River of Dreams (Compilation Album)/CD 3 - An Evening of Questions & Answers... And Prehaps A Few Songs/01 - An Evening of Questions & Answers... And Perhaps A Few Songs.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] A Voyage On The River of Dreams (Compilation Album)/CD 2 - Live From the River of Dreams Tour '93-'94/01 - Goodbye Yellow Brick Road.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] A Voyage On The River of Dreams (Compilation Album)/CD 2 - Live From the River of Dreams Tour '93-'94/02 - No Man's Land.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] A Voyage On The River of Dreams (Compilation Album)/CD 2 - Live From the River of Dreams Tour '93-'94/03 - The Ballad of Billy the Kid.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] A Voyage On The River of Dreams (Compilation Album)/CD 2 - Live From the River of Dreams Tour '93-'94/04 - Lullaby.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] A Voyage On The River of Dreams (Compilation Album)/CD 2 - Live From the River of Dreams Tour '93-'94/05 - The River of Dreams.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] A Voyage On The River of Dreams (Compilation Album)/CD 2 - Live From the River of Dreams Tour '93-'94/06 - Hard Day's Night.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1997] Greatest Hits Vol. III/01 - Keeping The Faith.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1997] Greatest Hits Vol. III/02 - An Innocent Man.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1997] Greatest Hits Vol. III/03 - A Matter Of Trust.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1997] Greatest Hits Vol. III/04 - Baby Grand.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1997] Greatest Hits Vol. III/05 - This Is The Time.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1997] Greatest Hits Vol. III/06 - Leningrad.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1997] Greatest Hits Vol. III/07 - We Didn't Start The Fire.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1997] Greatest Hits Vol. III/08 - I Go To Extremes.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1997] Greatest Hits Vol. III/09 - And So It Goes.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1997] Greatest Hits Vol. III/10 - The Downeaster 'Alexa'.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1997] Greatest Hits Vol. III/11 - Shameless.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1997] Greatest Hits Vol. III/12 - All About Soul (Remix).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1997] Greatest Hits Vol. III/13 - Lullabye (Goodnight, My Angel).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1997] Greatest Hits Vol. III/14 - The River Of Dreams.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1997] Greatest Hits Vol. III/15 - To Make You Feel My Love.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1997] Greatest Hits Vol. III/16 - Hey Girl.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1997] Greatest Hits Vol. III/17 - Light As The Breeze.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 1/01 - Beethoven's Ninth Symphony.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 1/02 - Big Shot.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 1/03 - Movin' Out (Anthony's Song).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 1/04 - Summer Highland Falls.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 1/05 - The Ballad Of Billy The Kid.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 1/06 - Don't Ask Me Why.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 1/07 - New York State Of Mind.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 1/08 - I've Loved These Days.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 1/09 - My Life.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 1/10 - Allentown.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 1/11 - Prelude - Angry Young Man.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 1/12 - Only The Good Die Young.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 2/01 - I Go To Extremes.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 2/02 - Goodnight Saigon.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 2/03 - We Didn't Start The Fire.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 2/04 - Big Man on Mullberry Street.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 2/05 - 2000 Years.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 2/06 - Auld Lang Syne.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 2/07 - River Of Dreams.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 2/08 - Scenes From An Italian Restaurant.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 2/09 - Dance To The Music.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 2/10 - Honky Tonk Women.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 2/11 - It's Still Rock And Roll To Me.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 2/12 - You May Be Right.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]/CD 2/13 - This Night.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] Fantasies & Delusions (Music composed by Billy Joel, perfomed by Richard Joo) [Original Edition]/01 - Opus 3. Reverie (Villa D'Este).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] Fantasies & Delusions (Music composed by Billy Joel, perfomed by Richard Joo) [Original Edition]/02 - Opus 2. Waltz #1 (Nunley's Carousel).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] Fantasies & Delusions (Music composed by Billy Joel, perfomed by Richard Joo) [Original Edition]/03 - Opus 7. Aria (Grand Canal).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] Fantasies & Delusions (Music composed by Billy Joel, perfomed by Richard Joo) [Original Edition]/04 - Opus 6. Invention in C Minor.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] Fantasies & Delusions (Music composed by Billy Joel, perfomed by Richard Joo) [Original Edition]/05 - Opus 1. Soliloquy (On A Separation).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] Fantasies & Delusions (Music composed by Billy Joel, perfomed by Richard Joo) [Original Edition]/06 - Opus 8. Suite for Piano-I. Innamorato.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] Fantasies & Delusions (Music composed by Billy Joel, perfomed by Richard Joo) [Original Edition]/07 - Opus 8. Suite for Piano-II. Sorbetto.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] Fantasies & Delusions (Music composed by Billy Joel, perfomed by Richard Joo) [Original Edition]/08 - Opus 8. Suite for Piano-III. Delusion.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] Fantasies & Delusions (Music composed by Billy Joel, perfomed by Richard Joo) [Original Edition]/09 - Opus 5. Waltz #2 (Steinway Hall).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] Fantasies & Delusions (Music composed by Billy Joel, perfomed by Richard Joo) [Original Edition]/10 - Opus 9. Waltz #3 (For Lola).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] Fantasies & Delusions (Music composed by Billy Joel, perfomed by Richard Joo) [Original Edition]/11 - Opus 4. Fantasy (Film Noir).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] Fantasies & Delusions (Music composed by Billy Joel, perfomed by Richard Joo) [Original Edition]/12 - Opus 10. Air (Dublinesque).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 1/01 - Piano Man.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 1/02 - You're My Home.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 1/03 - Captain Jack.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 1/04 - The Entertainer.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 1/05 - Say Goodbye to Hollywood.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 1/06 - Miami 2017 (Seen the Lights Go Out on Broadway).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 1/07 - New York State of Mind.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 1/08 - She's Always a Woman.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 1/09 - Movin' Out (Anthony's Song).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 1/10 - Only the Good Die Young.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 1/11 - Just the Way You Are.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 1/12 - Honesty.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 1/13 - My Life.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 1/14 - It's Still Rock & Roll to Me.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 1/15 - You May Be Right.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 1/16 - Don't Ask Me Why.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 1/17 - She's Got a Way.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 1/18 - Allentown.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 2/01 - Goodnight Saigon.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 2/02 - An Innocent Man.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 2/03 - Uptown Girl.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 2/04 - The Longest Time.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 2/05 - Tell Her About It.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 2/06 - Leave A Tender Moment Alone.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 2/07 - A Matter Of Trust.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 2/08 - Baby Grand (Duet With Ray Charles).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 2/09 - I Go To Extremes.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 2/10 - We Didn't Start The Fire.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 2/11 - Leningrad.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 2/12 - The Downeaster 'Alexa'.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 2/13 - And So It Goes.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 2/14 - The River Of Dreams.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 2/15 - All About Soul.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 2/16 - Lullabye (Goodnight, My Angel).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 2/17 - Waltz #1 (Nunley's Carousel).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 2/18 - Invention In C Minor.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]/01 - Tell Her About It.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]/02 - Uptown Girl.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]/03 - Don't Ask Me Why.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]/04 - Piano Man [Radio Edit].mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]/05 - New York State Of Mind.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]/06 - The River Of Dreams.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]/07 - It's Still Rock And Roll To Me.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]/08 - We Didn't Start The Fire [Single Version].mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]/09 - Goodnight Saigon.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]/10 - My Life [Single Version].mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]/11 - She's Always A Woman.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]/12 - She's Got A Way.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]/13 - Scandinavian Skies.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]/14 - An Innocent Man.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]/15 - Movin' Out (Anthony's Song).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]/16 - Only The Good Die Young.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]/17 - The Stranger.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]/18 - Honesty.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]/19 - Just The Way You Are [Radio Edit].mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 1/01 - My Journey's End (The Lost Souls).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 1/02 - Time And Time Again (The Lost Souls).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 1/03 - Every Step I Take (Every Move I Make) (The Hassles).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 1/04 - You've Got Me Hummin' (The Hassles).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 1/05 - Amplifier Fire (Attila).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 1/06 - Only A Man (demo, never released).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 1/07 - She's Got A Way.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 1/08 - Oyster Bay (demo, never released).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 1/09 - Piano Man (demo, never released).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 1/10 - The Siegfried Line (demo, never released).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 1/11 - New Mexico (demo, never released-became 'Worse Comes To Worst').mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 1/12 - Cross To Bear (demo, never released).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 1/13 - Miami 2017 (demo, never released).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 1/14 - These Rhinestone Days (demo, never released-became 'I Loved These Days').mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 1/15 - Everybody Has A Dream.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 1/16 - Only The Good Die Young (alternate version, never released).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 1/17 - Until The Night.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 1/18 - Zanzibar (album version, unfaded).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 1/19 - It's Still Rock And Roll To Me.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 2/01 - Captain Jack - (Live, Never Released).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 2/02 - The End Of The World (Demo, Never Released).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 2/03 - The Prime Of Your Life (Demo, Never Released).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 2/04 - She's Right On Time.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 2/05 - Elvis Presley Blvd..mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 2/06 - Nobody Knows But Me.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 2/07 -  An Innocent Man.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 2/08 - Christie Lee (Demo, Never Released).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 2/09 - Easy Money.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 2/10 - And So It Goes (Demo, Never Released).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 2/11 - I'll Cry Instead (Live).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 2/12 - Keeping The Faith (12inch Dance Remix).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 2/13 - Modern Woman.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 2/14 - Baby Grand (Duet with Ray Charles).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 2/15 - Getting Closer (Alternate Version, Never Released).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 2/16 - House Of Blue Light.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 2/17 - Money Or Love (Demo, Never Released).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 2/18 - The Times They Are A Changin' (Live).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 3/01 - The Downeaster 'Alexa' (Album Version).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 3/02 - I Go To Extremes (Live, Never Released).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 3/03 - Shout.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 3/04 - All Shook Up.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 3/05 - Heartbreak Hotel.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 3/06 - When You Wish Upon A Star.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 3/07 - In A Sentimental Mood.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 3/08 - Motorcycle Song (Demo, Never Released-Became 'All About Soul').mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 3/09 - You Picked A Real Bad Time.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 3/10 - The River Of Dreams (Alternate Version, Never Released).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 3/11 - A Hard Day's Night.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 3/12 - Light As The Breeze.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 3/13 - To Make You Feel My Love.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 3/14 - Hey Girl.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 3/15 - Why Should I Worry.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 3/16 - Where Were You (On Our Wedding Day) (Album Version).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 3/17 - Highway 61 Revisited (Demo, Never Released).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 4/01 - Movin' Out - 2000 Years the Millenium Concert.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 4/02 - You May Be Right (Duet with Elton John, Live, Never Released).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 4/03 - Big Shot.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 4/04 - Don't Worry Baby (An All Star Tribute to Brian Wilson).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 4/05 - Goodnight Saigon (Vietnam Veterans Version).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 4/06 - Los Angelenos.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 4/07 - New York State Of Mind (America- A Tribute To Heroes Concert For NY).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 4/08 - Opus 1. Soliloquy (On A Separation).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 4/09 - Opus 8. Suite For Piano (Star-Crossed) - I. Innamorato.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 4/10 - Opus 8. Suite For Piano (Star-Crossed) - II. Sorbetto.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 4/11 - Opus 8. Suite For Piano (Star-Crossed) - III. Delusion.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 4/12 - Elegy- The Great Peconic.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]/CD 4/13 - Glass Houses Promo Talk.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 1/01 - Angry Young Man.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 1/02 - My Life.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 1/03 - Everybody Loves You Now.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 1/04 - The Ballad Of Billy The Kid.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 1/05 - The Entertainer.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 1/06 - Vienna.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 1/07 - New York State Of Mind.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 1/08 - The Night Is Still Young.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 1/09 - Zanzibar.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 1/10 - Miami 2017 (I've Seen The Lights Go Out On Broadway).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 1/11 - The Great Wall Of China.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 1/12 - Allentown.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 1/13 - She's Right On Time.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 1/14 - Don't Ask Me Why.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 1/15 - Laura.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 1/16 - A Room Of Our Own.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 2/01 - Goodnight Saigon .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 2/02 - Movin' Out (Anthony's Song) .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 2/03 - An Innocent Man .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 2/04 - The Downeaster 'Alexa' .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 2/05 - She's Always A Woman .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 2/06 - Keeping The Faith .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 2/07 - The River Of Dreams .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 2/08 - A Matter Of Trust .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 2/09 - We Didn't Start The Fire .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 2/10 - Big Shot .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 2/11 - You May Be Right .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 2/12 - Only The Good Die Young .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 2/13 - Scenes From An Italian Restaurant .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 2/14 - Piano Man .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 2/15 - And So It Goes .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]/CD 2/16 - It's Still Rock And Roll To Me .mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2007] All My Life [EP]/01 - All My Life.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2007] All My Life [EP]/02 - You're My Home [Live].mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2007] All My Life [EP]/03 - Honesty [Live].mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2007] All My Life [EP]/04 - Stiletto [Live].mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 2/01 - Captain Jack.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 2/02 - Lullabye (Goodnight, My Angel).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 2/03 - The River of Dreams-A Hard Day's Night.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 2/04 - We Didn't Start the Fire.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 2/05 - You May Be Right.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 2/06 - Scenes from an Italian Restaurant.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 2/07 - Only the Good Die Young.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 2/08 - Saw Her Standing There (with Paul McCartney.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 2/09 - Take Me Out to the Ballgame.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 2/10 - Piano Man.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 2/11 - Let It Be (with Paul Mc Cartney).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2010] Lovesongs [Original Edition]/01 - Travelin' Prayer.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2010] Lovesongs [Original Edition]/02 - The Night Is Still Young.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2010] Lovesongs [Original Edition]/03 - This Is The Time.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2010] Lovesongs [Original Edition]/04 - She's Got A Way (Live).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2010] Lovesongs [Original Edition]/05 - Temptation.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2010] Lovesongs [Original Edition]/06 - Nocturne.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2010] Lovesongs [Original Edition]/07 - Until The Night.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2010] Lovesongs [Original Edition]/08 - She's Right On Time.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2010] Lovesongs [Original Edition]/09 - You're My Home.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2010] Lovesongs [Original Edition]/10 - Just The Way You Are.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2010] Lovesongs [Original Edition]/11 - She's Always A Woman.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2010] Lovesongs [Original Edition]/12 - State Of Grace.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2010] Lovesongs [Original Edition]/13 - Honesty.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2010] Lovesongs [Original Edition]/14 - This Night.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2010] Lovesongs [Original Edition]/15 - Shameless.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2010] Lovesongs [Original Edition]/16 - An Innocent Man.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2010] Lovesongs [Original Edition]/17 - All About Soul (Remix).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2010] Lovesongs [Original Edition]/18 - And So It Goes.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 1/01 - Prelude~Angry Young Man.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 1/02 - My Life.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 1/03 - Summer, Highland Falls.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 1/04 - Everybody Loves You Now.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 1/05 - Zanzibar.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 1/06 - New York State Of Mind (with Tony Bennett).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 1/07 - Allentown.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 1/08 - The Ballad Of Billy The Kid.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 1/09 - She's Always A Woman.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 1/10 - Goodnight Saigon.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 1/11 - Miami 2017 (Seen The Lights Go Out On Broadway).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 1/12 - Shameless (with Garth Brooks).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 1/13 - This Is The Time (with John Mayer).mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2011] Live at Shea Stadium [Live Album]/CD 1/14 - Keeping The Faith.mp3
 /home/derrick/music/Guardians Of The Galaxy/Guardians_Of_The_Galaxy_01_FLAC/101-blue_swede-hooked_on_a_feeling.flac
 /home/derrick/music/Bob Dylan - Studio Discography [1962 - 2016] [320Kbps] [Pirate Shovon]/[1962] - Bob Dylan/01 - You're No Good.mp3
 /home/derrick/music/Bob Dylan - Studio Discography [1962 - 2016] [320Kbps] [Pirate Shovon]/[1962] - Bob Dylan/02 - Talkin' New York.mp3
@@ -969,83 +1437,24 @@ cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [
 /home/derrick/music/David Bowie – The 100 Greatest Songs (2015) 320 KBPS/CD7/14. Let Me Sleep Beside You.mp3
 /home/derrick/music/David Bowie – The 100 Greatest Songs (2015) 320 KBPS/CD7/15. I'm Deranged.mp3
 /home/derrick/music/David Bowie – The 100 Greatest Songs (2015) 320 KBPS/CD7/18. The London Boys.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - David Gilmour (David Gilmour)/01. Mihalis.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - David Gilmour (David Gilmour)/02. There's No Way Out Of Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - David Gilmour (David Gilmour)/03. Cry From The Street.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - David Gilmour (David Gilmour)/04. So Far Away.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - David Gilmour (David Gilmour)/05. Short And Sweet.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - David Gilmour (David Gilmour)/06. Raise My Rent.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - David Gilmour (David Gilmour)/07. No Way.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - David Gilmour (David Gilmour)/08. Deafinitely.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - David Gilmour (David Gilmour)/09. I Can't Breathe Anymore.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1984 - About Face (David Gilmour)/01. Until We Sleep.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1984 - About Face (David Gilmour)/02. Murder.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1984 - About Face (David Gilmour)/03. Love On The Air.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1984 - About Face (David Gilmour)/04. Blue Light.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1984 - About Face (David Gilmour)/05. Out Of The Blue.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1984 - About Face (David Gilmour)/06. All Lovers Are Deranged.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1984 - About Face (David Gilmour)/07. You Know I'm Right.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1984 - About Face (David Gilmour)/08. Cruise.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1984 - About Face (David Gilmour)/09. Let's Get Metaphysical.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1984 - About Face (David Gilmour)/10. Near The End.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2006 - On An Island (David Gilmour)/01. Castellorizon.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2006 - On An Island (David Gilmour)/02. On An Island.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2006 - On An Island (David Gilmour)/03. The Blue.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2006 - On An Island (David Gilmour)/04. Take A Breath.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2006 - On An Island (David Gilmour)/05. Red Sky At Night.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2006 - On An Island (David Gilmour)/06. This Heaven.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2006 - On An Island (David Gilmour)/07. Then I Close My Eyes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2006 - On An Island (David Gilmour)/08. Smile.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2006 - On An Island (David Gilmour)/09. A Pocketful Of Stones.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2006 - On An Island (David Gilmour)/10. Where We Start.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/01. Speak To Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/02. Breathe.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/03. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/04. Breathe (Reprise).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/05. Castellorizon.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/06. On An Island.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/07. The Blue.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/08. Red Sky At Night.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/09. This Heaven.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/10. Then I Close My Eyes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/11. Smile.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/12. Take A Breath.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/13. A Pocketful Of Stones.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/14. Where We Start.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/15. Shine On You Crazy Diamond.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/16. Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/17. Fat Old Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/18. High Hopes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/19. Echoes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/20. Wish You Were Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/21. A Great Day For Freedom.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/22. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/23. Shine On You Crazy Diamond.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/24. Dominoes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/25. The Blue.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/26. Take A Breath.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/27. Wish You Were Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/28. Coming Back To Life.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/29. Find The Cost Of Freedom.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/30. This Heaven.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/31. Wearing The Inside Out.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/32. A Pocketful Of Stones.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/33. Where We Start.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2008 - Live In Gdansk (David Gilmour)/34. On The Turning Away.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - Rattle That Lock (David Gilmour)/01. 5 A.M.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - Rattle That Lock (David Gilmour)/02. Rattle That Lock.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - Rattle That Lock (David Gilmour)/03. Faces Of Stone.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - Rattle That Lock (David Gilmour)/04. A Boat Lies Waiting.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - Rattle That Lock (David Gilmour)/05. Dancing Right In Front Of Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - Rattle That Lock (David Gilmour)/06. In Any Tongue.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - Rattle That Lock (David Gilmour)/07. Beauty.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - Rattle That Lock (David Gilmour)/08. The Girl In The Yellow Dress.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - Rattle That Lock (David Gilmour)/09. Today.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - Rattle That Lock (David Gilmour)/10. And Then.mp3
-/home/derrick/podcasts/DH_Unplugged/DHUnplugged_369_Searching_For_Bears_After_a_Hot_Shave.mp3
-/home/derrick/podcasts/DH_Unplugged/DHUnplugged_370_Controlled_Chaos.mp3
 /home/derrick/music/Guardians Of The Galaxy/Guardians_Of_The_Galaxy_02_FLAC/01-electric_light_orchestra-mr._blue_sky.flac
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2009] The Piano Men (with Elton John)/01 - Your Song.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2009] The Piano Men (with Elton John)/02 - Don't Let the Sun Go Down On Me.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2009] The Piano Men (with Elton John)/03 - Angry Young Man.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2009] The Piano Men (with Elton John)/04 - The Stranger.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2009] The Piano Men (with Elton John)/05 - Just The Way You Are.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2009] The Piano Men (with Elton John)/06 - Allentown.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2009] The Piano Men (with Elton John)/07 - I Go To Extremes.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2009] The Piano Men (with Elton John)/08 - My Life.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2009] The Piano Men (with Elton John)/09 - The River Of Dreams.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2009] The Piano Men (with Elton John)/10 - Candle In The Wind.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2009] The Piano Men (with Elton John)/11 - It's Still Rock And Roll To Me.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2009] The Piano Men (with Elton John)/12 - Big Shot.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2009] The Piano Men (with Elton John)/13 - The Bitch Is Back.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2009] The Piano Men (with Elton John)/14 - You May Be Right.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2009] The Piano Men (with Elton John)/15 - Piano Man.mp3
 /home/derrick/music/Guardians Of The Galaxy/Guardians_Of_The_Galaxy_01_FLAC/105-elvin_bishop-fooled_around_and_fell_in_love.flac
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Legends Never Die (Ferras Feat. Katy Perry) (Single) - (320 kbps)/01. Legends Never Die (Feat. Katy Perry).mp3
 /home/derrick/music/Guardians Of The Galaxy/Guardians_Of_The_Galaxy_02_FLAC/04-fleetwood_mac-the_chain.flac
 /home/derrick/music/Guardians Of The Galaxy/Guardians_Of_The_Galaxy_02_FLAC/07-george_harrison-my_sweet_lord.flac
 /home/derrick/music/George Michael - Official Discography (1987-2014) {FLAC} vtwin88cube/(1987) George Michael - Faith {FLAC}/01.Faith.flac
@@ -1205,6 +1614,15 @@ cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [
 /home/derrick/music/James Taylor - Before This World (2015) {FLAC} vtwin88cube/09.Far Afghanistan.flac
 /home/derrick/music/James Taylor - Before This World (2015) {FLAC} vtwin88cube/10.Wild Mountain Thyme.flac
 /home/derrick/music/Guardians Of The Galaxy/Guardians_Of_The_Galaxy_02_FLAC/09-jay_and_the_americans-come_a_little_bit_closer.flac
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1986] The Bridge/01 - Running On Ice.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1986] The Bridge/02 - This Is The Time.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1986] The Bridge/03 - A Matter Of Trust.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1986] The Bridge/04 - Modern Woman.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1986] The Bridge/05 - Baby Grand.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1986] The Bridge/06 - Big Man On Mulberry Street.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1986] The Bridge/07 - Tempatation.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1986] The Bridge/08 - Code Of Silence.mp3
+/home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1986] The Bridge/09 - Getting Closer.mp3
 /home/derrick/music/Joe Walsh - Little Did He Know Greatest Hits [Bubanee]/01 - Funk #49.mp3
 /home/derrick/music/Joe Walsh - Little Did He Know Greatest Hits [Bubanee]/02 - Tend My Garden.mp3
 /home/derrick/music/Joe Walsh - Little Did He Know Greatest Hits [Bubanee]/03 - The Bomber.mp3
@@ -1220,6 +1638,7 @@ cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [
 /home/derrick/music/Joe Walsh - Little Did He Know Greatest Hits [Bubanee]/13 - The Confessor.mp3
 /home/derrick/music/Joe Walsh - Little Did He Know Greatest Hits [Bubanee]/14 - A Life of Illusion.mp3
 /home/derrick/music/Joe Walsh - Little Did He Know Greatest Hits [Bubanee]/15 - Ordinary Average Guy.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Who You Love (John Mayer Feat. Katy Perry) (Single) - (320 kbps)/01. Who You Love (Feat. Katy Perry).mp3
 /home/derrick/music/Joss Stone -The Soul Sessions/01 Choking Kind.mp3
 /home/derrick/music/Joss Stone -The Soul Sessions/02 Super Duper Love (Are You Diggin On Me).mp3
 /home/derrick/music/Joss Stone -The Soul Sessions/03 Fell in Love With a Boy.mp3
@@ -1260,19 +1679,615 @@ cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [
 /home/derrick/music/Juice Newton - Greatest Hits/10 Juice Newton - Ride 'Em Cowboy.mp3
 /home/derrick/music/Juice Newton - Greatest Hits [FLAC+MP3](Big Papi) 80's Country Music/Juice Newton - Greatest Hits [MP3]/10 Juice Newton - Ride 'Em Cowboy.mp3
 /home/derrick/music/Juice Newton - Greatest Hits [FLAC+MP3](Big Papi) 80's Country Music/Juice Newton - Ride 'Em Cowboy.flac
-/home/derrick/podcasts/All_Jupiter_Broadcasting_Shows/FreeBSD_Turning_it_up_to_11.1__BSD_Now_205.mp3
-/home/derrick/podcasts/All_Jupiter_Broadcasting_Shows/Ask_Alice__CR_268.mp3
-/home/derrick/podcasts/LINUX_Unplugged/Magic_Device_Cloud__LUP_198.mp3
-/home/derrick/podcasts/LINUX_Unplugged/No_Samba_No_Cry__LUP_199.mp3
-/home/derrick/podcasts/LINUX_Unplugged/Gnome_in_the_Shell__LUP_200.mp3
-/home/derrick/podcasts/All_Jupiter_Broadcasting_Shows/The_Stallman_Line__LUP_208.mp3
-/home/derrick/podcasts/All_Jupiter_Broadcasting_Shows/Netflix_Lab_Rats__TechSNAP_330.mp3
-/home/derrick/podcasts/unfilter_MP3/White_House_Apprentice__Unfilter_245.mp3
-/home/derrick/podcasts/All_Jupiter_Broadcasting_Shows/Rich_Developments__Unfilter_246.mp3
-/home/derrick/podcasts/unfilter_MP3/Rich_Developments__Unfilter_246.mp3
-/home/derrick/podcasts/All_Jupiter_Broadcasting_Shows/The_Lesser_Evil__User_Error_20.mp3
-/home/derrick/podcasts/Late_Night_Linux_MP3/Late_Night_Linux__Episode_16.mp3
-/home/derrick/podcasts/Late_Night_Linux_MP3/Late_Night_Linux__Episode_17.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2001 - Katy Hudson - (320 kbps)/01. Trust In Me.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2001 - Katy Hudson - (320 kbps)/02. Piercing.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2001 - Katy Hudson - (320 kbps)/03. Search Me.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2001 - Katy Hudson - (320 kbps)/04. Last Call.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2001 - Katy Hudson - (320 kbps)/05. Growing Pains.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2001 - Katy Hudson - (320 kbps)/06. My Own Monster.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2001 - Katy Hudson - (320 kbps)/07. Spit.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2001 - Katy Hudson - (320 kbps)/08. Faith Won't Fail.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2001 - Katy Hudson - (320 kbps)/09. Naturally.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2001 - Katy Hudson - (320 kbps)/10. When There's Nothing Left.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2015 - Dark Horse (Feat. TEE) (Single) - (320 kbps)/01. Dark Horse (Feat. TEE).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2007 - Ur So Gay (EP) - (320 kbps)/01. Ur So Gay (Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2007 - Ur So Gay (EP) - (320 kbps)/02. Ur So Gay (Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2007 - Ur So Gay (EP) - (320 kbps)/03. Use Your Love.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2007 - Ur So Gay (EP) - (320 kbps)/04. Lost.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2007 - Ur So Gay (EP) - (320 kbps)/05. Ur So Gay (Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2007 - Ur So Gay (EP) - (320 kbps)/06. Ur So Gay (Instrumental Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2007 - Ur So Gay (EP) - (320 kbps)/07. Ur So Gay (Acappella).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - Hot N Cold (CDS) - (320 kbps)/01. Hot N Cold (Album Version).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - Hot N Cold (CDS) - (320 kbps)/02. Hot N Cold (Innerpartysystem Main).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - Hot N Cold (CDS) - (320 kbps)/03. Hot N Cold (Manhattan Clique Remix) (Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - Hot N Cold (CDS) (US) - (320 kbps)/01. Hot N Cold.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - Hot N Cold (CDS) (US) - (320 kbps)/02. Hot N Cold (Bimbo Jones Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - Hot N Cold (CDS) (US) - (320 kbps)/03. Hot N Cold (Manhattan Clique Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - Hot N Cold (Remixes) (CDM) - (320 kbps)/01. Hot N Cold (Album Version).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - Hot N Cold (Remixes) (CDM) - (320 kbps)/02. Hot N Cold (Intrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - Hot N Cold (Remixes) (CDM) - (320 kbps)/03. Hot N Cold (Acapella).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - Hot N Cold (Remixes) (CDM) - (320 kbps)/04. Hot N Cold (Rock Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - Hot N Cold (Remixes) (CDM) - (320 kbps)/05. Hot N Cold (Innerpartysystem Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - Hot N Cold (Remixes) (CDM) - (320 kbps)/06. Hot N Cold (Bimbo Jones Remix Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - Hot N Cold (Remixes) (CDM) - (320 kbps)/07. Hot N Cold (Manhattan Clique Remix Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - Hot N Cold (Remixes) (CDM) - (320 kbps)/08. Hot N Cold (Jason Nevins Remix Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2008 - Hot N Cold (Remixes) (EP) - (320 kbps)/01. Hot N Cold (Innerpartysystem Main).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2008 - Hot N Cold (Remixes) (EP) - (320 kbps)/02. Hot N Cold (Bimbo Jones Remix Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2008 - Hot N Cold (Remixes) (EP) - (320 kbps)/03. Hot N Cold (Manhattan Clique Remix) (Long Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2008 - Hot N Cold (Remixes) (EP) - (320 kbps)/04. Hot N Cold (Yelle Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - Hot N Cold (Rock Version) (Single) - (320 kbps)/01. Hot N Cold (Rock Version).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - I Kissed A Girl (CDMS) - (320 kbps)/01. I Kissed A Girl (Album Version).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - I Kissed A Girl (CDMS) - (320 kbps)/02. I Kissed A Girl (Jason Nevins Funkrokr Extended Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - I Kissed A Girl (CDMS) - (320 kbps)/03. I Kissed A Girl (Dr. Luke & Benny Blanco Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - I Kissed A Girl (Deejay Exclusive United) - (320 kbps)/01. I Kissed A Girl (Main Version Format C).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - I Kissed A Girl (Deejay Exclusive United) - (320 kbps)/02. I Kissed A Girl (Tom Mountain Melodyparc Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - I Kissed A Girl (Deejay Exclusive United) - (320 kbps)/03. I Kissed A Girl (Max Deejay Vs Marc Korn Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - I Kissed A Girl (Deejay Exclusive United) - (320 kbps)/04. I Kissed A Girl (Remix Italo Concept Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - I Kissed A Girl (Deejay Exclusive United) - (320 kbps)/05. I Kissed A Girl (Phunk Smith Vs Milles Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - I Kissed A Girl (Deejay Exclusive United) - (320 kbps)/06. I Kissed A Girl (Break Dawner Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - I Kissed A Girl (Remixes) (CDMS) - (320 kbps)/01. I Kissed A Girl (Album Version).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - I Kissed A Girl (Remixes) (CDMS) - (320 kbps)/03. I Kissed A Girl (Eddie Baez Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - I Kissed A Girl (Remixes) (CDMS) - (320 kbps)/02. I Kissed A Girl (Jason Nevins Funkrokr Extended Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - I Kissed A Girl (Remixes) (CDMS) - (320 kbps)/04. I Kissed A Girl (Scotty K. Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - I Kissed A Girl (Remixes) (CDMS) - (320 kbps)/05. I Kissed A Girl (Accapella).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2008 - I Kissed A Girl (Remixes) (EP) - (320 kbps)/01. I Kissed A Girl (Rock Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2008 - I Kissed A Girl (Remixes) (EP) - (320 kbps)/02. I Kissed A Girl (Dr. Luke And Benny Blanco Extended Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2008 - I Kissed A Girl (Remixes) (EP) - (320 kbps)/03. I Kissed A Girl (The Knocks Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2008 - I Kissed A Girl (Remixes) (EP) - (320 kbps)/04. I Kissed A Girl (Jason Nevins Funkrokr Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2008 - One Of The Boys (Japanese Edition) - (320 kbps)/01. One Of The Boys.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2008 - One Of The Boys (Japanese Edition) - (320 kbps)/02. I Kissed A Girl.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2008 - One Of The Boys (Japanese Edition) - (320 kbps)/03. Waking Up In Vegas.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2008 - One Of The Boys (Japanese Edition) - (320 kbps)/04. Thinking Of You.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2008 - One Of The Boys (Japanese Edition) - (320 kbps)/05. Mannequin.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2008 - One Of The Boys (Japanese Edition) - (320 kbps)/06. Ur So Gay.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2008 - One Of The Boys (Japanese Edition) - (320 kbps)/07. Hot N Cold.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2008 - One Of The Boys (Japanese Edition) - (320 kbps)/08. If You Can Afford Me.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2008 - One Of The Boys (Japanese Edition) - (320 kbps)/09. Lost.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2008 - One Of The Boys (Japanese Edition) - (320 kbps)/10. Self Inflicted.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2008 - One Of The Boys (Japanese Edition) - (320 kbps)/11. I'm Still Breathing.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2008 - One Of The Boys (Japanese Edition) - (320 kbps)/12. Fingerprints.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2008 - One Of The Boys (Japanese Edition) - (320 kbps)/13. I Kissed A Girl (Rock Mix) (Japan Bonus Track).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2008 - One Of The Boys (Japanese Edition) - (320 kbps)/14. A Cup Of Coffee (Japan Bonus Track).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - White Christmas (Single) - (320 kbps)/01. White Christmas.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - Hot N Cold (Remixes) (CDM) - (320 kbps)/09. Hot N Cold (Electro Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2008 - Hot N Cold (Remixes) (CDM) - (320 kbps)/10. Hot N Cold (Additional Electro Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Live)/2009 - MTV Unplugged (Limited Edition) - (320 kbps)/01. I Kissed A Girl (Live).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Live)/2009 - MTV Unplugged (Limited Edition) - (320 kbps)/02. Ur So Gay (Live).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Live)/2009 - MTV Unplugged (Limited Edition) - (320 kbps)/03. Hackensack (Live).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Live)/2009 - MTV Unplugged (Limited Edition) - (320 kbps)/04. Thinking Of You (Live).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Live)/2009 - MTV Unplugged (Limited Edition) - (320 kbps)/05. Lost (Live).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Live)/2009 - MTV Unplugged (Limited Edition) - (320 kbps)/06. Waking Up In Vegas (Live).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Live)/2009 - MTV Unplugged (Limited Edition) - (320 kbps)/07. Brick By Brick (Live).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2009 - One Of The Boys (Platinum Australian Tour Edition) - (320 kbps)/CD1/01. One Of The Boys.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2009 - One Of The Boys (Platinum Australian Tour Edition) - (320 kbps)/CD1/02. I Kissed A Girl.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2009 - One Of The Boys (Platinum Australian Tour Edition) - (320 kbps)/CD1/03. Waking Up In Vegas.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2009 - One Of The Boys (Platinum Australian Tour Edition) - (320 kbps)/CD1/04. Thinking Of You.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2009 - One Of The Boys (Platinum Australian Tour Edition) - (320 kbps)/CD1/05. Mannequin.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2009 - One Of The Boys (Platinum Australian Tour Edition) - (320 kbps)/CD1/06. Ur So Gay.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2009 - One Of The Boys (Platinum Australian Tour Edition) - (320 kbps)/CD1/07. Hot N Cold.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2009 - One Of The Boys (Platinum Australian Tour Edition) - (320 kbps)/CD1/08. If You Can Afford Me.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2009 - One Of The Boys (Platinum Australian Tour Edition) - (320 kbps)/CD1/09. Lost.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2009 - One Of The Boys (Platinum Australian Tour Edition) - (320 kbps)/CD1/10. Self Inflicted.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2009 - One Of The Boys (Platinum Australian Tour Edition) - (320 kbps)/CD1/11. I'm Still Breathing.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2009 - One Of The Boys (Platinum Australian Tour Edition) - (320 kbps)/CD1/12. Fingerprints.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2009 - One Of The Boys (Platinum Australian Tour Edition) - (320 kbps)/CD2/01. Electric Feel.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2009 - One Of The Boys (Platinum Australian Tour Edition) - (320 kbps)/CD2/02. Black & Gold.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2009 - One Of The Boys (Platinum Australian Tour Edition) - (320 kbps)/CD2/03. I Think I'm Ready.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2009 - One Of The Boys (Platinum Australian Tour Edition) - (320 kbps)/CD2/04. Thinking Of You (Live Acoustic Version).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2009 - One Of The Boys (Platinum Australian Tour Edition) - (320 kbps)/CD2/05. Waking Up In Vegas (Calvin Harris Remix Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2009 - One Of The Boys (Platinum Australian Tour Edition) - (320 kbps)/CD2/06. I Kissed A Girl (Dr. Luke + Benny Blanco Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2009 - One Of The Boys (Platinum Australian Tour Edition) - (320 kbps)/CD2/07. Hot N Cold (Bimbo Jones Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2009 - One Of The Boys (Platinum Australian Tour Edition) - (320 kbps)/CD2/08. Ur So Gay (DJ Skeet Skeet & Cory Enemy Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2009 - One Of The Boys (Platinum Edition) (2 Vinyl LP) - (320 kbps)/01. A1 - One Of The Boys.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2009 - One Of The Boys (Platinum Edition) (2 Vinyl LP) - (320 kbps)/02. A2 - I Kissed A Girl.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2009 - One Of The Boys (Platinum Edition) (2 Vinyl LP) - (320 kbps)/03. A3 - Waking Up In Vegas.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2009 - One Of The Boys (Platinum Edition) (2 Vinyl LP) - (320 kbps)/04. A4 - Thinking Of You.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2009 - One Of The Boys (Platinum Edition) (2 Vinyl LP) - (320 kbps)/05. A5 - Mannequin.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2009 - One Of The Boys (Platinum Edition) (2 Vinyl LP) - (320 kbps)/06. A6 - Ur So Gay.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2009 - One Of The Boys (Platinum Edition) (2 Vinyl LP) - (320 kbps)/07. B1 - Hot N Cold.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2009 - One Of The Boys (Platinum Edition) (2 Vinyl LP) - (320 kbps)/08. B2 - If You Can Afford Me.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2009 - One Of The Boys (Platinum Edition) (2 Vinyl LP) - (320 kbps)/09. B3 - Lost.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2009 - One Of The Boys (Platinum Edition) (2 Vinyl LP) - (320 kbps)/10. B4 - Self Inflicted.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2009 - One Of The Boys (Platinum Edition) (2 Vinyl LP) - (320 kbps)/11. B5 - I'm Still Breathing.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2009 - One Of The Boys (Platinum Edition) (2 Vinyl LP) - (320 kbps)/12. B6 - Fingerprints.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2009 - One Of The Boys (Platinum Edition) (2 Vinyl LP) - (320 kbps)/13. C1 - I Kissed A Girl (Dr. Luke & Benny Blanco Remix) (Extended Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2009 - One Of The Boys (Platinum Edition) (2 Vinyl LP) - (320 kbps)/14. C2 - I Kissed A Girl (The Knocks Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2009 - One Of The Boys (Platinum Edition) (2 Vinyl LP) - (320 kbps)/15. C3 - I Kissed A Girl (Norman & Atalla Remix) (Main Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2009 - One Of The Boys (Platinum Edition) (2 Vinyl LP) - (320 kbps)/16. C4 - I Kissed A Girl (Morgan Page Remix) (Main).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2009 - One Of The Boys (Platinum Edition) (2 Vinyl LP) - (320 kbps)/17. D1 - Hot N Cold (Innerpartysystem Remix) (Main).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2009 - One Of The Boys (Platinum Edition) (2 Vinyl LP) - (320 kbps)/18. D2 - Hot N Cold (Bimbo Jones Remix) (Main Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2009 - One Of The Boys (Platinum Edition) (2 Vinyl LP) - (320 kbps)/19. D3 - Hot N Cold (Manhattan Clique Remix) (Long Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2009 - One Of The Boys (Platinum Edition) (2 Vinyl LP) - (320 kbps)/20. D4 - Hot N Cold (Yelle Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2009 - The Hello Katy Australian Tour EP - (320 kbps)/01. Electric Feel.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2009 - The Hello Katy Australian Tour EP - (320 kbps)/02. Black And Gold.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2009 - The Hello Katy Australian Tour EP - (320 kbps)/03. I Think I'm Ready.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2009 - The Hello Katy Australian Tour EP - (320 kbps)/04. Thinking Of You (Acoustic Version).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2009 - The Hello Katy Australian Tour EP - (320 kbps)/05. Waking Up In Vegas (Calvin Harris Remix Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2009 - The Hello Katy Australian Tour EP - (320 kbps)/06. I Kissed A Girl (Dr. Luke & Benny Blanco Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2009 - The Hello Katy Australian Tour EP - (320 kbps)/07. Hot N Cold (Bimbo Jones Remix Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2009 - The Hello Katy Australian Tour EP - (320 kbps)/08. Ur So Gay (DJ Skeet Skeet & Cory Enemy Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2009 - Thinking Of You (CDS) - (320 kbps)/01. Thinking Of You (Radio Edit Version).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2009 - Thinking Of You (CDS) - (320 kbps)/02. Thinking Of You (Album Version).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2009 - Thinking Of You (CDS) - (320 kbps)/03. Thinking Of You (Live Acoustic Version).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2009 - Thinking Of You (CDS) - (320 kbps)/04. Thinking Of You (Instrumental Version).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2009 - Waking Up in Vegas (CDMS) - (320 kbps)/01. Waking Up In Vegas (Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2009 - Waking Up in Vegas (CDMS) - (320 kbps)/02. Waking Up In Vegas (Calvin Harris Remix Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2009 - Waking Up in Vegas (CDMS) - (320 kbps)/03. Waking Up In Vegas (Jason Nevins Electrotec Remix Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2009 - Waking Up in Vegas (CDMS) - (320 kbps)/04. Waking Up In Vegas (Manhattan Clique Remix Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2009 - Waking Up in Vegas (CDMS) - (320 kbps)/05. Waking Up in Vegas (Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2009 - Waking Up In Vegas (The Remixes) (CDMS Promo) - (320 kbps)/01. Waking Up In Vegas (Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2009 - Waking Up In Vegas (The Remixes) (CDMS Promo) - (320 kbps)/02. Waking Up In Vegas (Jason Nevins Electrotec Remix Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2009 - Waking Up In Vegas (The Remixes) (CDMS Promo) - (320 kbps)/03. Waking Up In Vegas (Manhattan Clique Remix Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2009 - Waking Up In Vegas (The Remixes) (CDMS Promo) - (320 kbps)/04. Waking Up In Vegas (Calvin Harris Remix Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2009 - Waking Up In Vegas (The Remixes) (CDMS Promo) - (320 kbps)/05. Waking Up In Vegas (Calvin Harris Extended Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2009 - Waking Up In Vegas (The Remixes) (CDMS Promo) - (320 kbps)/06. Waking Up In Vegas (Jason Nevins Electrotec Club Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2009 - Waking Up In Vegas (The Remixes) (CDMS Promo) - (320 kbps)/07. Waking Up In Vegas (Jason Nevins Electrotec Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2009 - Waking Up In Vegas (The Remixes) (CDMS Promo) - (320 kbps)/08. Waking Up In Vegas (Manhattan Clique Bellagio Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2009 - Waking Up In Vegas (The Remixes) (CDMS Promo) - (320 kbps)/09. Waking Up In Vegas (Manhattan Clique Luxor Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2009 - Waking Up In Vegas (The Remixes) (EP) - (320 kbps)/01. Waking Up In Vegas (Calvin Harris Extended Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2009 - Waking Up In Vegas (The Remixes) (EP) - (320 kbps)/02. Waking Up In Vegas (Jason Nevins Electrotec Club Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2009 - Waking Up In Vegas (The Remixes) (EP) - (320 kbps)/03. Waking Up In Vegas (Jason Nevins Electrotec Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2009 - Waking Up In Vegas (The Remixes) (EP) - (320 kbps)/04. Waking Up In Vegas (Manhattan Clique Bellagio Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2009 - Waking Up In Vegas (The Remixes) (EP) - (320 kbps)/05. Waking Up In Vegas (Manhattan Clique Luxor Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - California Gurls (CDS) - (320 kbps)/01. California Gurls (Feat. Snoop Dogg).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - California Gurls (CDS) - (320 kbps)/02. Hot N Gold (Yelle Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - California Gurls (The Remixes) (EP) - (320 kbps)/01. California Gurls (Armand Van Helden Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - California Gurls (The Remixes) (EP) - (320 kbps)/02. California Gurls (Innerpartysystem Main Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - California Gurls (The Remixes) (EP) - (320 kbps)/03. California Gurls (Manhattan Clique Long Beach Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - Firework (CDS) - (320 kbps)/01. Firework.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - Firework (CDS) - (320 kbps)/02. Firework (Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - Firework (Remixes) (EP) - (320 kbps)/01. Firework (Wideboys Remix Club).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - Firework (Remixes) (EP) - (320 kbps)/02. Firework (Wideboys Remix Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - Firework (Remixes) (EP) - (320 kbps)/03. Firework (Wideboys Remix Extended Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - Firework (Remixes) (EP) - (320 kbps)/04. Firework (Wideboys Remix Radio Edit (Cold Intro)).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - Firework (Remixes) (EP) - (320 kbps)/05. Firework (Wideboys Remix Radio Edit (V2 15Sec Intro)).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - Firework (Remixes) (EP) - (320 kbps)/06. Firework (Fred Falke Club Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - Firework (Remixes) (EP) - (320 kbps)/07. Firework (Fred Falke Club Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - Firework (Remixes) (EP) - (320 kbps)/08. Firework (Fred Falke Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - Firework (Remixes) (EP) - (320 kbps)/09. Firework (Fred Falke Extended).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - Firework (Remixes) (EP) - (320 kbps)/10. Firework (Fred Falke Pop Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - Firework (Remixes) (EP) - (320 kbps)/11. Firework (Jump Smokers Club Extended).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - Firework (Remixes) (EP) - (320 kbps)/12. Firework (Jump Smokers Club Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - Firework (Remixes) (EP) - (320 kbps)/13. Firework (Jump Smokers Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - Firework (Remixes) (EP) - (320 kbps)/14. Firework (Jump Smokers Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - Firework (Remixes) (EP) - (320 kbps)/15. Firework (Jump Smokers Radio Extended).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - Firework (Remixes) (EP) - (320 kbps)/16. Firework (Jump Smokers Radio).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - Firework (Remixes) (EP) - (320 kbps)/17. Firework (Nick Harvey Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - Teenage Dream (CDMS Promo) - (320 kbps)/01. Teenage Dream (Manhattan Clique Club).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - Teenage Dream (CDMS Promo) - (320 kbps)/02. Teenage Dream (Manhattan Clique Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - Teenage Dream (CDMS Promo) - (320 kbps)/03. Teenage Dream (Vandalism V8 Club).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - Teenage Dream (CDMS Promo) - (320 kbps)/04. Teenage Dream (Vandalism Le Pop Extended).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - Teenage Dream (CDMS Promo) - (320 kbps)/05. Teenage Dream (Album Version).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Deluxe Edition) - (320 kbps)/CD1/01. Teenage Dream.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Deluxe Edition) - (320 kbps)/CD1/02. Last Friday Night (T.G.I.F.).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Deluxe Edition) - (320 kbps)/CD1/03. California Gurls (Feat. Snoop Dogg).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Deluxe Edition) - (320 kbps)/CD1/04. Firework.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Deluxe Edition) - (320 kbps)/CD1/05. Peacock.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Deluxe Edition) - (320 kbps)/CD1/06. Circle The Drain.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Deluxe Edition) - (320 kbps)/CD1/07. The One That Got Away.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Deluxe Edition) - (320 kbps)/CD1/08. E.T.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Deluxe Edition) - (320 kbps)/CD1/09. Who Am I Living For.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Deluxe Edition) - (320 kbps)/CD1/10. Pearl.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Deluxe Edition) - (320 kbps)/CD1/11. Hummingbird Heartbeat.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Deluxe Edition) - (320 kbps)/CD1/12. Not Like The Movies.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Deluxe Edition) - (320 kbps)/CD2 - Dream On (Bonus Disc)/01. If We Ever Meet Again (With Timbaland).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Deluxe Edition) - (320 kbps)/CD2 - Dream On (Bonus Disc)/02. Starstrukk (With 3OH!3).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Deluxe Edition) - (320 kbps)/CD2 - Dream On (Bonus Disc)/03. California Gurls (Passion Pit Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Deluxe Edition) - (320 kbps)/CD2 - Dream On (Bonus Disc)/04. California Gurls (Armand Van Helden Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Deluxe Edition) - (320 kbps)/CD2 - Dream On (Bonus Disc)/05. Teenage Dream (Kaskade Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Limited Deluxe Edition) - (320 kbps)/01. Teenage Dream.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Limited Deluxe Edition) - (320 kbps)/02. Last Friday Night (T.G.I.F).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Limited Deluxe Edition) - (320 kbps)/03. California Gurls (Feat. Snoop Dogg).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Limited Deluxe Edition) - (320 kbps)/04. Firework.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Limited Deluxe Edition) - (320 kbps)/05. Peacock.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Limited Deluxe Edition) - (320 kbps)/06. Circle The Drain.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Limited Deluxe Edition) - (320 kbps)/07. The One That Got Away.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Limited Deluxe Edition) - (320 kbps)/08. E.T. (Futuristic Lover).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Limited Deluxe Edition) - (320 kbps)/09. Who Am I Living For.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Limited Deluxe Edition) - (320 kbps)/10. Pearl.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Limited Deluxe Edition) - (320 kbps)/11. Hummingbird Heartbeat.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Limited Deluxe Edition) - (320 kbps)/12. Not Like The Movies.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Limited Deluxe Edition) - (320 kbps)/13. California Gurls (Feat. Snoop Dogg) (Passion Pit Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Limited Deluxe Edition) - (320 kbps)/14. California Gurls (Feat. Snoop Dogg) (MSTRKRFT Main Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Limited Deluxe Edition) - (320 kbps)/15. Teenage Dream (Kaskade Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2010 - Teenage Dream (Limited Deluxe Edition) - (320 kbps)/16. Peacock (Cory Enemy & Mia Moretti Vocal Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - Teenage Dream (Remix) (EP) - (320 kbps)/01. Teenage Dream (Vandalism Le Pop Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - Teenage Dream (Remix) (EP) - (320 kbps)/02. Teenage Dream (Vandalism V8 Vocal Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2010 - Teenage Dream (Remix) (EP) - (320 kbps)/03. Teenage Dream (Manhattan Clique Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (CDMS Promo) - (320 kbps)/01. E.T. (Album Version).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (CDMS Promo) - (320 kbps)/02. E.T. (Dave Aude Mixshow Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (CDMS Promo) - (320 kbps)/03. E.T. (Dave Aude Club).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (CDMS Promo) - (320 kbps)/04. E.T. (Manhattan Clique Paradise Remix Club).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (CDMS Promo) - (320 kbps)/05. E.T. (Manhattan Clique Paradise Remix Mixshow Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (CDMS Promo) - (320 kbps)/06. E.T. (Tiesto Remix Mixshow Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (CDMS Promo) - (320 kbps)/07. E.T. (Tiesto Remix Club).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (CDMS Promo) - (320 kbps)/08. E.T. (Benny Bennassi Mixshow Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (CDMS Promo) - (320 kbps)/09. E.T. (Benny Bennassi Club).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (CDMS Promo) - (320 kbps)/10. E.T. (Benny Bennassi Club Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (CDMS Promo) - (320 kbps)/11. E.T. (Noisia Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (CDMS Promo) - (320 kbps)/12. E.T. (Noisia Remix Vocal DJ Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (CDMS Promo) - (320 kbps)/13. E.T. (Johnson Somerset & John Monkman Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (Remixes) (CDMS Promo) - (320 kbps)/01. E.T. (Album Version).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (Remixes) (CDMS Promo) - (320 kbps)/02. E.T. (Dave Aude Remix - Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (Remixes) (CDMS Promo) - (320 kbps)/03. E.T. (Tiesto Remix - Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (Remixes) (CDMS Promo) - (320 kbps)/04. E.T. (Benny Benassi Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (Remixes) (CDMS Promo) - (320 kbps)/05. E.T. (Manhattan Clique Paradise Remix - Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (Remixes) (CDMS Promo) - (320 kbps)/06. E.T. (Dave Aude Mixshow Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (Remixes) (CDMS Promo) - (320 kbps)/07. E.T. (Tiesto Remix - Mixshow Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (Remixes) (CDMS Promo) - (320 kbps)/08. E.T. (Dave Aude Club).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (Remixes) (CDMS Promo) - (320 kbps)/09. E.T. (Manhattan Clique Paradise Remix - Club).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (Remixes) (CDMS Promo) - (320 kbps)/10. E.T. (Manhattan Clique Dreamland Dub 2) (No Dubstep).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (Remixes) (CDMS Promo) - (320 kbps)/11. E.T. (Benny Benassi Club).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (Remixes) (CDMS Promo) - (320 kbps)/12. E.T. (Noisia Remix - Vocal DJ Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2011 - E.T. (The Remixes) (EP) - (320 kbps)/01. E.T. (Tiësto Remix - Club).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2011 - E.T. (The Remixes) (EP) - (320 kbps)/02. E.T. (Benny Benassi Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2011 - E.T. (The Remixes) (EP) - (320 kbps)/03. E.T. (Dave Aude Remix - Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2011 - E.T. (The Remixes) (EP) - (320 kbps)/04. E.T. (Noisia Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2011 - E.T. (The Remixes) (EP) - (320 kbps)/05. E.T. (Johnson Somerset & John Monkman Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (CDMS Promo) - (320 kbps)/01. Last Friday Night (Radio Version).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (CDMS Promo) - (320 kbps)/02. Last Friday Night (T.G.I.F.).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (CDMS Promo) - (320 kbps)/03. Last Friday Night (John Monkman & Johnson Somerset Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (CDMS Promo) - (320 kbps)/04. Last Friday Night (Almighty Mixshow Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (CDMS Promo) - (320 kbps)/05. Last Friday Night (Almighty Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (CDMS Promo) - (320 kbps)/06. Last Friday Night (Almighty Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (CDMS Promo) - (320 kbps)/07. Last Friday Night (5K Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (CDMS Promo) - (320 kbps)/08. Last Friday Night (5K Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (CDMS Promo) - (320 kbps)/09. Last Friday Night (Sidney Samson Extended Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (CDMS Promo) - (320 kbps)/10. Last Friday Night (Sidney Samson Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (CDMS Promo) - (320 kbps)/11. Last Friday Night (Sidney Samson Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (CDMS Promo) - (320 kbps)/12. Last Friday Night (Carlos Cid & Greg Baharys Hott 22 Vocal Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (CDMS Promo) - (320 kbps)/13. Last Friday Night (Carlos Cid & Greg Baharys Hott 22 Dirty Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo)/01. Last Friday Night (T.G.I.F.) (Album Version).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo)/02. Last Friday Night (T.G.I.F.) (John Monkman & Johnson Somerset Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo)/03. Last Friday Night (T.G.I.F.) (Almighty Mix Show Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo)/04. Last Friday Night (T.G.I.F.) (Almighty Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo)/05. Last Friday Night (T.G.I.F.) (Almighty Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo)/06. Last Friday Night (T.G.I.F.) (5K Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo)/07. Last Friday Night (T.G.I.F.) (5K Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo)/08. Last Friday Night (T.G.I.F.) (Sidney Samson Extended Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo)/09. Last Friday Night (T.G.I.F.) (Sidney Samson Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo)/10. Last Friday Night (T.G.I.F.) (Sidney Samson Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo)/11. Last Friday Night (T.G.I.F.) (Carlos Cid & Greg Bahary's Hott 22 Vocal Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo)/12. Last Friday Night (T.G.I.F.) (Carlos Cid & Greg Bahary's Hott 22 Dirty Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo)/13. Last Friday Night (T.G.I.F.) (Carlos Cid & Greg Bahary's Hott 22 Hard Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo) - (320 kbps)/01. Last Friday Night (TGIF) (Album Version).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo) - (320 kbps)/02. Last Friday Night (TGIF) (John Monkman & Johnson Somerset Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo) - (320 kbps)/03. Last Friday Night (TGIF) (Almighty Mixshow Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo) - (320 kbps)/04. Last Friday Night (TGIF) (Almighty Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo) - (320 kbps)/05. Last Friday Night (TGIF) (Almighty Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo) - (320 kbps)/06. Last Friday Night (TGIF) (5K Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo) - (320 kbps)/07. Last Friday Night (TGIF) (5K Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo) - (320 kbps)/08. Last Friday Night (TGIF) (Sidney Samson Extended Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo) - (320 kbps)/09. Last Friday Night (TGIF) (Sidney Samson Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo) - (320 kbps)/10. Last Friday Night (TGIF) (Sidney Samson Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo) - (320 kbps)/11. Last Friday Night (TGIF) (Carlos Cid & Greg Bahary's Hott 22 Vocal Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo) - (320 kbps)/12. Last Friday Night (TGIF) (Carlos Cid & Greg Bahary's Hott 22 Dirty Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - Last Friday Night (T.G.I.F.) (Remixes) (CDMS Promo) - (320 kbps)/13. Last Friday Night (TGIF) (Carlos Cid & Greg Bahary's Hott 22 Hard Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (CDMS Promo) - (320 kbps)/01. The One That Got Away (Radio Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (CDMS Promo) - (320 kbps)/02. The One That Got Away (Album Version).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (CDMS Promo) - (320 kbps)/03. The One That Got Away (Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (CDMS Promo) - (320 kbps)/04. The One That Got Away (Call Out Hook).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (CDMS Promo) - (320 kbps)/05. The One That Got Away (7th Heaven Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (CDMS Promo) - (320 kbps)/06. The One That Got Away (7th Heaven Radio Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (CDMS Promo) - (320 kbps)/07. The One That Got Away (7th Heaven Dub Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (CDMS Promo) - (320 kbps)/08. The One That Got Away (7th Heaven Mixshow Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (CDMS Promo) - (320 kbps)/09. The One That Got Away (JRMX Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (CDMS Promo) - (320 kbps)/10. The One That Got Away (JRMX Mixshow Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (CDMS Promo) - (320 kbps)/11. The One That Got Away (JRMX Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (CDMS Promo) - (320 kbps)/12. The One That Got Away (Mixin Marc & Tony Svejda Peak Hour Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (CDMS Promo) - (320 kbps)/13. The One That Got Away (Mixin Marc & Tony Svejda Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (CDMS Promo) - (320 kbps)/14. The One That Got Away (Mixin Marc & Tony Svejda Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (Feat. B.o.B) (CDS) - (320 kbps)/01. The One That Got Away (Feat. B.o.B).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2011 - The One That Got Away (Remixes) (EP) - (320 kbps)/01. The One That Got Away (7th Heaven Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2011 - The One That Got Away (Remixes) (EP) - (320 kbps)/02. The One That Got Away (Mixin Marc & Tony Svejda Peak Hour Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2011 - The One That Got Away (Remixes) (EP) - (320 kbps)/03. The One That Got Away (R3hab Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2011 - The One That Got Away (Remixes) (EP) - (320 kbps)/04. The One That Got Away (Plastic Plates Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2011 - The One That Got Away (Remixes) (EP) - (320 kbps)/05. The One That Got Away (Tommie Sunshine & Disco Fries Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (The Remixes) (CDMS Promo) - (320 kbps)/01. The One That Got Away (Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (The Remixes) (CDMS Promo) - (320 kbps)/02. The One That Got Away (Instrumental Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (The Remixes) (CDMS Promo) - (320 kbps)/03. The One That Got Away (7th Heaven Radio Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (The Remixes) (CDMS Promo) - (320 kbps)/04. The One That Got Away (Plastic Plates Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (The Remixes) (CDMS Promo) - (320 kbps)/05. The One That Got Away (R3hab Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (The Remixes) (CDMS Promo) - (320 kbps)/06. The One That Got Away (R3hab Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (The Remixes) (CDMS Promo) - (320 kbps)/07. The One That Got Away (R3hab Extended Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - The One That Got Away (The Remixes) (CDMS Promo) - (320 kbps)/08. The One That Got Away (Tommie Sunshine & Disco Fries Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Part Of Me (CDS Promo) - (320 kbps)/01. Part Of Me (Jacques Lu Cont's Thin White Duke Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Part Of Me (CDS Promo) - (320 kbps)/02. Part Of Me (Original Version).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2012 - Part Of Me (Remix) (EP) - (320 kbps)/01. Part Of Me.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2012 - Part Of Me (Remix) (EP) - (320 kbps)/02. Part Of Me (Jaques Lu Cont's Thin White Duke Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2012 - Part Of Me (Remix) (EP) - (320 kbps)/03. Part Of Me (Jacques Lu Cont's Thin White Duke Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/EPs & Featured Extended Plays/2012 - Part Of Me (Remix) (EP) - (320 kbps)/04. Part Of Me (Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Part Of Me (The Remixes) (CDMS Promo) - (320 kbps)/01. Part Of Me (DJ Skeet Skeet Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Part Of Me (The Remixes) (CDMS Promo) - (320 kbps)/02. Part Of Me (DJ Skeet Skeet Mixshow Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Part Of Me (The Remixes) (CDMS Promo) - (320 kbps)/03. Part Of Me (DJ Skeet Skeet Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Part Of Me (The Remixes) (CDMS Promo) - (320 kbps)/04. Part Of Me (DJ Skeet Skeet Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Part Of Me (The Remixes) (CDMS Promo) - (320 kbps)/05. Part Of Me (Freemasons Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Part Of Me (The Remixes) (CDMS Promo) - (320 kbps)/06. Part Of Me (Freemasons Mixshow Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Part Of Me (The Remixes) (CDMS Promo) - (320 kbps)/07. Part Of Me (Freemasons Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Part Of Me (The Remixes) (CDMS Promo) - (320 kbps)/08. Part Of Me (Freemasons Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Part Of Me (The Remixes) (CDMS Promo) - (320 kbps)/09. Part Of Me (LA Riots Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Part Of Me (The Remixes) (CDMS Promo) - (320 kbps)/10. Part Of Me (LA Riots Mixshow Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Part Of Me (The Remixes) (CDMS Promo) - (320 kbps)/11. Part Of Me (LA Riots Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Part Of Me (The Remixes) (CDMS Promo) - (320 kbps)/12. Part Of Me (LA Riots Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Part Of Me (The Remixes) (CDMS Promo) - (320 kbps)/13. Part Of Me (RAC Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Part Of Me (The Remixes) (CDMS Promo) - (320 kbps)/14. Part Of Me (RAC Extended Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Teenage Dream (Kaskade Club Remix) (Single) - (320 kbps)/01. Teenage Dream (Kaskade Club Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2012 - Teenage Dream - The Complete Confection (Limited Edition) - (320 kbps)/01. Teenage Dream.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2012 - Teenage Dream - The Complete Confection (Limited Edition) - (320 kbps)/02. Last Friday Night (T.G.I.F.).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2012 - Teenage Dream - The Complete Confection (Limited Edition) - (320 kbps)/03. California Gurls (Feat. Snoop Dogg).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2012 - Teenage Dream - The Complete Confection (Limited Edition) - (320 kbps)/04. Firework.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2012 - Teenage Dream - The Complete Confection (Limited Edition) - (320 kbps)/05. Peacock.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2012 - Teenage Dream - The Complete Confection (Limited Edition) - (320 kbps)/06. Circle The Drain.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2012 - Teenage Dream - The Complete Confection (Limited Edition) - (320 kbps)/07. The One That Got Away.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2012 - Teenage Dream - The Complete Confection (Limited Edition) - (320 kbps)/08. E.T.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2012 - Teenage Dream - The Complete Confection (Limited Edition) - (320 kbps)/09. Who Am I Living For.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2012 - Teenage Dream - The Complete Confection (Limited Edition) - (320 kbps)/10. Pearl.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2012 - Teenage Dream - The Complete Confection (Limited Edition) - (320 kbps)/11. Hummingbird Heartbeat.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2012 - Teenage Dream - The Complete Confection (Limited Edition) - (320 kbps)/12. Not Like The Movies.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2012 - Teenage Dream - The Complete Confection (Limited Edition) - (320 kbps)/13. The One That Got Away (Acoustic).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2012 - Teenage Dream - The Complete Confection (Limited Edition) - (320 kbps)/14. Part Of Me.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2012 - Teenage Dream - The Complete Confection (Limited Edition) - (320 kbps)/15. Wide Awake.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2012 - Teenage Dream - The Complete Confection (Limited Edition) - (320 kbps)/16. Dressin' Up.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2012 - Teenage Dream - The Complete Confection (Limited Edition) - (320 kbps)/17. E.T. (Feat. Kanye West).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2012 - Teenage Dream - The Complete Confection (Limited Edition) - (320 kbps)/18. Last Friday Night (T.G.I.F.) (Feat. Missy Elliott).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2012 - Teenage Dream - The Complete Confection (Limited Edition) - (320 kbps)/19. Tommie Sunshine's Megasix Smash-Up.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 1 (CDMS Promo) - (320 kbps)/01. Wide Awake (Alex Ghenea Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 1 (CDMS Promo) - (320 kbps)/02. Wide Awake (Alex Ghenea Remix Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 1 (CDMS Promo) - (320 kbps)/03. Wide Awake (Cedric Gervais Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 1 (CDMS Promo) - (320 kbps)/04. Wide Awake (Cedric Gervais Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 1 (CDMS Promo) - (320 kbps)/05. Wide Awake (Cedric Gervais Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 1 (CDMS Promo) - (320 kbps)/06. Wide Awake (Cedric Gervais Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 1 (CDMS Promo) - (320 kbps)/07. Wide Awake (Johnson Somerset & John Monkman Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 1 (CDMS Promo) - (320 kbps)/08. Wide Awake (Johnson Somerset & John Monkman Remix Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 1 (CDMS Promo) - (320 kbps)/09. Wide Awake (Johnson Somerset & John Monkman Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 1 (CDMS Promo) - (320 kbps)/10. Wide Awake (Johnson Somerset & John Monkman Radio Edit Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 1 (CDMS Promo) - (320 kbps)/11. Wide Awake (Dyro Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 1 (CDMS Promo) - (320 kbps)/12. Wide Awake (Dyro Mixshow Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 1 (CDMS Promo) - (320 kbps)/13. Wide Awake (Dyro Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 1 (CDMS Promo) - (320 kbps)/14. Wide Awake (Dyro Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 1 (CDMS Promo) - (320 kbps)/15. Wide Awake (Dyro Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 2 (CDMS Promo) - (320 kbps)/01. Wide Awake (Alex Ghenea Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 2 (CDMS Promo) - (320 kbps)/02. Wide Awake (Jump Smokers Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 2 (CDMS Promo) - (320 kbps)/03. Wide Awake (Jump Smokers Extended Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 2 (CDMS Promo) - (320 kbps)/04. Wide Awake (Jump Smokers Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 2 (CDMS Promo) - (320 kbps)/05. Wide Awake (Jump Smokers Extended Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 2 (CDMS Promo) - (320 kbps)/06. Wide Awake (Kaskade Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 2 (CDMS Promo) - (320 kbps)/07. Wide Awake (Kaskade Club Mix Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 2 (CDMS Promo) - (320 kbps)/08. Wide Awake (Kaskade Mixshow Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 2 (CDMS Promo) - (320 kbps)/09. Wide Awake (Kaskade Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 2 (CDMS Promo) - (320 kbps)/10. Wide Awake (Kaskade Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 2 (CDMS Promo) - (320 kbps)/11. Wide Awake (Xilent Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 2 (CDMS Promo) - (320 kbps)/12. Wide Awake (Xilent Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2012 - Wide Awake Pt. 2 (CDMS Promo) - (320 kbps)/13. Wide Awake (Xilent Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2013 - Prism (Japanese Deluxe Edition) - (320 kbps)/01. Roar.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2013 - Prism (Japanese Deluxe Edition) - (320 kbps)/02. Legendary Lovers.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2013 - Prism (Japanese Deluxe Edition) - (320 kbps)/03. Birthday.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2013 - Prism (Japanese Deluxe Edition) - (320 kbps)/04. Walking On Air.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2013 - Prism (Japanese Deluxe Edition) - (320 kbps)/05. Unconditionally.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2013 - Prism (Japanese Deluxe Edition) - (320 kbps)/06. Dark Horse (Feat. Juicy J).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2013 - Prism (Japanese Deluxe Edition) - (320 kbps)/07. This Is How We Do.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2013 - Prism (Japanese Deluxe Edition) - (320 kbps)/08. International Smile.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2013 - Prism (Japanese Deluxe Edition) - (320 kbps)/09. Ghost.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2013 - Prism (Japanese Deluxe Edition) - (320 kbps)/10. Love Me.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2013 - Prism (Japanese Deluxe Edition) - (320 kbps)/11. This Moment.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2013 - Prism (Japanese Deluxe Edition) - (320 kbps)/12. Double Rainbow.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2013 - Prism (Japanese Deluxe Edition) - (320 kbps)/13. By The Grace Of God.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2013 - Prism (Japanese Deluxe Edition) - (320 kbps)/14. Spiritual.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2013 - Prism (Japanese Deluxe Edition) - (320 kbps)/15. It Takes Two.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2013 - Prism (Japanese Deluxe Edition) - (320 kbps)/16. Choose Your Battles.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2013 - Prism (Japanese Deluxe Edition) - (320 kbps)/17. Roar (Cazzette Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (CD)/2013 - Prism (Japanese Deluxe Edition) - (320 kbps)/18. Roar (Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Roar (CDS) - (320 kbps)/01. Roar.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Roar (CDS) - (320 kbps)/02. Roar (Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Roar (Jump Smokers Remix) (CDS) - (320 kbps)/01. Roar (Jump Smokers Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Roar (Jump Smokers Remix) (CDS) - (320 kbps)/02. Roar (Jump Smokers Extended).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Roar (Jump Smokers Remix) (CDS) - (320 kbps)/03. Roar (Jump Smokers Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Roar (The Remixes) (CDMS Promo) - (320 kbps)/01. Roar (Brillz Extended Mix Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Roar (The Remixes) (CDMS Promo) - (320 kbps)/02. Roar (Brillz Extended Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Roar (The Remixes) (CDMS Promo) - (320 kbps)/03. Roar (Brillz Radio Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Roar (The Remixes) (CDMS Promo) - (320 kbps)/04. Roar (Johnson Somerset Mixshow Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Roar (The Remixes) (CDMS Promo) - (320 kbps)/05. Roar (Johnson Somerset Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Roar (The Remixes) (CDMS Promo) - (320 kbps)/06. Roar (Johnson Somerset Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Roar (The Remixes) (CDMS Promo) - (320 kbps)/07. Roar (Steven Redant Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Roar (The Remixes) (CDMS Promo) - (320 kbps)/08. Roar (Steven Redant Radio Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Roar (The Remixes) (CDMS Promo) - (320 kbps)/09. Roar (Treasure Fingers Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Roar (The Remixes) (CDMS Promo) - (320 kbps)/10. Roar (Treasure Fingers Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Roar (The Remixes) (CDMS Promo) - (320 kbps)/11. Roar (Treasure Fingers Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Roar (The Remixes) (CDMS Promo) - (320 kbps)/12. Roar (Cazzette Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Roar (The Remixes) (CDMS Promo) - (320 kbps)/13. Roar (Cazzette Dubstrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (CDS) - (320 kbps)/01. Unconditionally.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (CDS) - (320 kbps)/02. Unconditionally (Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (Country Club Martini Crew Remixes) (CDMS) - (320 kbps)/01. Unconditionally (Country Club Martini Crew Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (Country Club Martini Crew Remixes) (CDMS) - (320 kbps)/02. Unconditionally (Country Club Martini Crew Mixshow).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (Country Club Martini Crew Remixes) (CDMS) - (320 kbps)/03. Unconditionally (Country Club Martini Crew Radio Edit) (Long Version).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (The Remixes) (CDMS Promo) - (320 kbps)/01. Unconditionally (Johnson Somerset Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (The Remixes) (CDMS Promo) - (320 kbps)/02. Unconditionally (Johnson Somerset Mixshow).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (The Remixes) (CDMS Promo) - (320 kbps)/03. Unconditionally (Johnson Somerset Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (The Remixes) (CDMS Promo) - (320 kbps)/04. Unconditionally (Johnson Somerse Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (The Remixes) (CDMS Promo) - (320 kbps)/05. Unconditionally (Nick Fiorucci Twilight Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (The Remixes) (CDMS Promo) - (320 kbps)/06. Unconditionally (Nick Fiorucci Twilight Dubstrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (The Remixes) (CDMS Promo) - (320 kbps)/07. Unconditionally (Nick Fiorucci And Block-N-Crown Destruction Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (The Remixes) (CDMS Promo) - (320 kbps)/08. Unconditionally (Alex Ghenea Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (The Remixes) (CDMS Promo) - (320 kbps)/09. Unconditionally (Alex Ghenea Radio Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (The Remixes) (CDMS Promo) - (320 kbps)/10. Unconditionally (Alex Ghenea Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (The Remixes) (CDMS Promo) - (320 kbps)/11. Unconditionally (Manufactured Superstars Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (The Remixes) (CDMS Promo) - (320 kbps)/12. Unconditonally (Manufactured Superstars Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (The Remixes) (CDMS Promo) - (320 kbps)/13. Unconditionally (Manufactured Superstars Dub Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (The Remixes) (CDMS Promo) - (320 kbps)/14. Unconditionally (Matthew LeFace Extended Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (The Remixes) (CDMS Promo) - (320 kbps)/15. Unconditionally (Matthew LeFace Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (The Remixes) (CDMS Promo) - (320 kbps)/16. Unconditionally (Matthew LeFace Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (Tracy Young Remixes) (CDMS) - (320 kbps)/01. Unconditionally (Tracy Young Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (Tracy Young Remixes) (CDMS) - (320 kbps)/02. Unconditionally (Tracy Young Mixshow Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (Tracy Young Remixes) (CDMS) - (320 kbps)/03. Unconditionally (Tracy Young Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (Tracy Young Remixes) (CDMS) - (320 kbps)/04. Unconditionally (Tracy Young Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Unconditionally (Tracy Young Remixes) (CDMS) - (320 kbps)/05. Unconditionally (Tracy Young Club Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Walking On Air (Remixes) (CDMS Promo) - (320 kbps)/01. Walking On Air (Country Club Martini Crew 1992 Extended 12).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Walking On Air (Remixes) (CDMS Promo) - (320 kbps)/02. Walking On Air (Country Club Martini Crew 1992 Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Walking On Air (Remixes) (CDMS Promo) - (320 kbps)/03. Walking On Air (Stopme Walker Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Walking On Air (Remixes) (CDMS Promo) - (320 kbps)/04. Walking On Air (Dirty Pop Deconstruction Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Walking On Air (Remixes) (CDMS Promo) - (320 kbps)/05. Walking On Air (Craig Welsh Pop Bootleg Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Walking On Air (Remixes) (CDMS Promo) - (320 kbps)/06. Walking On Air (DJ Kill Vibrant Glitch Rave Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2013 - Walking On Air (Remixes) (CDMS Promo) - (320 kbps)/07. Walking On Air (Dustbuster & La+Ch Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (Cash Cash Remix) (Single) - (320 kbps)/01. Birthday (Cash Cash Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (CDMS Promo) - (320 kbps)/01. Birthday (Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (CDMS Promo) - (320 kbps)/02. Birthday (Cash Cash Radio Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (CDMS Promo) - (320 kbps)/03. Birthday (Cash Cash Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (CDMS Promo) - (320 kbps)/04. Birthday (Cash Cash Dubstrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (CDMS Promo) - (320 kbps)/05. Birthday (Rizzo H3dRush Radio Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (CDMS Promo) - (320 kbps)/06. Birthday (Rizzo H3dRush Mixshow Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (CDMS Promo) - (320 kbps)/07. Birthday (Rizzo H3dRush Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (CDMS Promo) - (320 kbps)/08. Birthday (Rizzo H3dRush Dub Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (CDS Promo) - (320 kbps)/01. Birthday (Original).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (CDS Promo) - (320 kbps)/02. Birthday (Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (Remixes) (CDMS Promo) - (320 kbps)/01. Birthday (MOTi Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (Remixes) (CDMS Promo) - (320 kbps)/02. Birthday (MOTi Mixshow).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (Remixes) (CDMS Promo) - (320 kbps)/03. Birthday (MOTi Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (Remixes) (CDMS Promo) - (320 kbps)/04. Birthday (MOTi Extended Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (Remixes) (CDMS Promo) - (320 kbps)/05. Birthday (Johnson Somerset Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (Remixes) (CDMS Promo) - (320 kbps)/06. Birthday (Johnson Somerset Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (Remixes) (CDMS Promo) - (320 kbps)/07. Birthday (Johnson Somerset Dubstrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (Remixes) (CDMS Promo) - (320 kbps)/08. Birthday (Mark Picchiotti Beach Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (Remixes) (CDMS Promo) - (320 kbps)/09. Birthday (Mark Picchiotti Beach Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (Remixes) (CDMS Promo) - (320 kbps)/10. Birthday (Mark Picchiotti Discopia Dubstrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (Remixes) (CDMS Promo) - (320 kbps)/11. Birthday (Mark Picchiotti Discopia Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (Remixes) (CDMS Promo) - (320 kbps)/12. Birthday (Mark Picchiotti BASSTOY Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (Remixes) (CDMS Promo) - (320 kbps)/13. Birthday (Octava Disco House Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (Remixes) (CDMS Promo) - (320 kbps)/14. Birthday (Octava Disco House Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (Remixes) (CDMS Promo) - (320 kbps)/15. Birthday (Le Youth Extended Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (Remixes) (CDMS Promo) - (320 kbps)/16. Birthday (Wayne G Anthem Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Birthday (Remixes) (CDMS Promo) - (320 kbps)/17. Birthday (Wayne G Anthem Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/01. Dark Horse (Johnson Somerset Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/02. Dark Horse (Johnson Somerset Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/03. Dark Horse (Johnson Somerset Remix) (No Rap).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/04. Dark Horse (Johnson Somerset Dubstrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/05. Dark Horse (Manhattan Clique Remix) (No Rap).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/06. Dark Horse (Manhattan Clique Mixshow).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/07. Dark Horse (Manhattan Clique Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/08. Dark Horse (Manhattan Clique Long Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/09. Dark Horse (Manhattan Clique Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/10. Dark Horse (Manhattan Clique Mixshow) (No Rap).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/11. Dark Horse (Manhattan Clique Radio Edit) (No Rap).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/12. Dark Horse (Manhattan Clique Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/13. Dark Horse (Manhattan Clique Dub Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/14. Dark Horse (4FRNT Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/15. Dark Horse (4FRNT Mixshow).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/16. Dark Horse (4FRNT Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/17. Dark Horse (4FRNT Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/18. Dark Horse (4FRNT Instrumental).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/19. Dark Horse (4FRNT Remix) (No Rap).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/20. Dark Horse (4FRNT Mixshow) (No Rap).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/21. Dark Horse (4FRNT Radio Edit) (No Rap).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/22. Dark Horse (Goldhouse Club Mix) (No Juicy J).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/23. Dark Horse (Goldhouse Radio Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Remixes) (CDMS Promo) - (320 kbps)/24. Dark Horse (Goldhouse Radio Mix) (No Juicy J).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Worldwide Remixes) (Feat. Pitbull) (CDS) - (320 kbps)/01. Dark Horse (Worldwide Remix With Intro) (Feat. Pitbull).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Worldwide Remixes) (Feat. Pitbull) (CDS) - (320 kbps)/02. Dark Horse (Worldwide Remix) (Feat. Pitbull).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2014 - Prism (Acoustic Sessions) - (320 kbps)/01. Roar (Acoustic).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2014 - Prism (Acoustic Sessions) - (320 kbps)/02. Love Me (Acoustic).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2014 - Prism (Acoustic Sessions) - (320 kbps)/03. Unconditionally (Acoustic).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2014 - Prism (Acoustic Sessions) - (320 kbps)/04. Spiritual (Acoustic).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2014 - Prism (Acoustic Sessions) - (320 kbps)/05. Legendary Lovers (Acoustic).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2014 - Prism (Acoustic Sessions) - (320 kbps)/06. This Moment (Acoustic).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2014 - Prism (Acoustic Sessions) - (320 kbps)/07. International Smile (Acoustic).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2014 - Prism (Acoustic Sessions) - (320 kbps)/08. Ghost (Acoustic).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2014 - Prism (Acoustic Sessions) - (320 kbps)/09. By The Grace of God (Acoustic).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2014 - Prism (Acoustic Sessions) - (320 kbps)/10. Walking On Air (Acoustic).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2014 - Prism (Acoustic Sessions) - (320 kbps)/11. It Takes Two (Acoustic).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2014 - Prism (Acoustic Sessions) - (320 kbps)/12. Dark Horse (Acoustic).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2014 - Prism (Acoustic Sessions) - (320 kbps)/13. Choose Your Battles (Acoustic).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Prism (Country Club Martini Crew Megamix) (Single) - (320 kbps)/01. Prism (Country Club Martini Crew Megamix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2014 - Prism (Limited Edition) (2 Vinyl LP) - (320 kbps)/01. A1 - Roar.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2014 - Prism (Limited Edition) (2 Vinyl LP) - (320 kbps)/02. A2 - Legendary Lovers.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2014 - Prism (Limited Edition) (2 Vinyl LP) - (320 kbps)/03. A3 - Birthday.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2014 - Prism (Limited Edition) (2 Vinyl LP) - (320 kbps)/04. A4 - Walking On Air.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2014 - Prism (Limited Edition) (2 Vinyl LP) - (320 kbps)/05. B1 - Unconditionally.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2014 - Prism (Limited Edition) (2 Vinyl LP) - (320 kbps)/06. B2 - Dark Horse (Feat. Juicy J).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2014 - Prism (Limited Edition) (2 Vinyl LP) - (320 kbps)/07. B3 - This Is How We Do.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2014 - Prism (Limited Edition) (2 Vinyl LP) - (320 kbps)/08. B4 - International Smile.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2014 - Prism (Limited Edition) (2 Vinyl LP) - (320 kbps)/09. C1 - Ghost.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2014 - Prism (Limited Edition) (2 Vinyl LP) - (320 kbps)/10. C2 - Love Me.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2014 - Prism (Limited Edition) (2 Vinyl LP) - (320 kbps)/11. C3 - This Moment.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2014 - Prism (Limited Edition) (2 Vinyl LP) - (320 kbps)/12. C4 - Double Rainbow.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2014 - Prism (Limited Edition) (2 Vinyl LP) - (320 kbps)/13. D1 - By The Grace Of God.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2014 - Prism (Limited Edition) (2 Vinyl LP) - (320 kbps)/14. D2 - Spiritual.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2014 - Prism (Limited Edition) (2 Vinyl LP) - (320 kbps)/15. D3 - It Takes Two.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Vinyl)/2014 - Prism (Limited Edition) (2 Vinyl LP) - (320 kbps)/16. D4 - Choose Your Battles.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - This Is How We Do (Brillz Remix) (Single) - (320 kbps)/01. This is How We Do (Brillz Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - This Is How We Do (Remixes) (CDMS Promo) - (320 kbps)/01. This Is How We Do (Eric Kupper Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - This Is How We Do (Remixes) (CDMS Promo) - (320 kbps)/02. This Is How We Do (Eric Kupper Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - This Is How We Do (Remixes) (CDMS Promo) - (320 kbps)/03. This Is How We Do (Eric Kupper Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - This Is How We Do (Remixes) (CDMS Promo) - (320 kbps)/04. This Is How We Do (Steven Redant Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - This Is How We Do (Remixes) (CDMS Promo) - (320 kbps)/05. This Is How We Do (Steven Redant Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - This Is How We Do (Remixes) (CDMS Promo) - (320 kbps)/06. This Is How We Do (Steven Redant MixShow).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - This Is How We Do (Remixes) (CDMS Promo) - (320 kbps)/07. This Is How We Do (Steven Redant Vocal Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - This Is How We Do (Remixes) (CDMS Promo) - (320 kbps)/08. This Is How We Do (Chris Cox Club Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - This Is How We Do (Remixes) (CDMS Promo) - (320 kbps)/09. This Is How We Do (Chris Cox Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - This Is How We Do (Remixes) (CDMS Promo) - (320 kbps)/10. This Is How We Do (Chris Cox Mixshow).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - This Is How We Do (Remixes) (CDMS Promo) - (320 kbps)/11. This Is How We Do (Chris Cox Dub).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - This Is How We Do (Remixes) (CDMS Promo) - (320 kbps)/12. This Is How We Do (RAC Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2015 - Unconditionally (Manufactured Superstars Remix) (Single) - (320 kbps)/01. Unconditionally (Manufactured Superstars Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Feat. Juicy J) (DJ AKS Remix) (Single) - (320 kbps)/01. Dark Horse (Feat. Juicy J) (DJ AKS Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Feat. Juicy J) (CDS) - (320 kbps)/01. Dark Horse (Album Version).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - Dark Horse (Feat. Juicy J) (CDS) - (320 kbps)/02. Dark Horse (Johnson Somerset Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (Feat. Kanye West) (CDS) - (320 kbps)/01. E.T. (Feat. Kanye West).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2011 - E.T. (Feat. Kanye West) (CDS) - (320 kbps)/02. E.T. (Tiesto Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - California Gurls (Remixes) (CDMS Promo) - (320 kbps)/01. California Gurls (Innerpartysystem Remix Main).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - California Gurls (Remixes) (CDMS Promo) - (320 kbps)/02. California Gurls (Innerpartysystem Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - California Gurls (Remixes) (CDMS Promo) - (320 kbps)/03. California Gurls (MSTRKRFT Remix Main).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - California Gurls (Remixes) (CDMS Promo) - (320 kbps)/04. California Gurls (MSTRKRFT Remix Radio).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - California Gurls (Remixes) (CDMS Promo) - (320 kbps)/05. California Gurls (Passion Pit Remix Main).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - California Gurls (Remixes) (CDMS Promo) - (320 kbps)/06. California Gurls (Passion Pit Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - California Gurls (Remixes) (CDMS Promo) - (320 kbps)/07. California Gurls (Manhattan Clique Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - California Gurls (Remixes) (CDMS Promo) - (320 kbps)/08. California Gurls (Tommie Sunshine 5 AM Mix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Live)/2015 - Super Bowl XLIX Halftime Show - (320 kbps)/01. Super Bowl XLIX Half Time Show (Live Performance).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Live)/2015 - Super Bowl XLIX Halftime Show - (320 kbps)/02. Roar.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Live)/2015 - Super Bowl XLIX Halftime Show - (320 kbps)/03. Dark Horse (Feat. Juicy J).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Live)/2015 - Super Bowl XLIX Halftime Show - (320 kbps)/04. I Kissed A Girl (Rock Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Live)/2015 - Super Bowl XLIX Halftime Show - (320 kbps)/05. Teenage Dream.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Live)/2015 - Super Bowl XLIX Halftime Show - (320 kbps)/06. California Gurls (Feat. Snoop Dogg).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Live)/2015 - Super Bowl XLIX Halftime Show - (320 kbps)/07. Get Ur Freak On.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Live)/2015 - Super Bowl XLIX Halftime Show - (320 kbps)/08. Work It.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Live)/2015 - Super Bowl XLIX Halftime Show - (320 kbps)/09. Lose Control (Feat. Ciara & Fat Man Scoop).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums (Live)/2015 - Super Bowl XLIX Halftime Show - (320 kbps)/10. Firework.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2014 - This Is How We Do (Feat. Riff Raff) (Single) - (320 kbps)/01. This Is How We Do (Feat. Riff Raff).mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 1/01-All Night Long (All Night).mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 1/02-Say You, Say Me.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 1/03-My Destiny.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 1/04-Running With The Night.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 1/05-Dancing On The Ceiling.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 1/06-Don't Stop The Music.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 1/07-Love, Oh Love.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 1/08-Ballerina Girl.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 1/09-My Love.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 1/10-Love Will Conquer All.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 1/11-Do It To Me.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 1/12-Cinderella.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 1/13-Tender Heart.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 1/14-Don't Wanna Lose You.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 1/15-Closest Thing To Heaven.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 1/16-I Forgot.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 1/17-Angel.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 1/18-To Love A Woman [Feat. Enrique Iglesias].mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 2/01-Three Times A Lady.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 2/02-Easy.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 2/03-Endless Love (Duet with Diana Ross).mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 2/04-Hello.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 2/05-Still.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 2/06-Sail On.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 2/07-Stuck On You.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 2/08-You Are.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 2/09-Truly.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 2/10-Just To Be Close To You.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 2/11-Sweet Love.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 2/12-Penny Lover.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 2/13-Oh No.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 2/14-Lady (You Bring Me Up).mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 2/15-Wonderland.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 2/16-Machine Gun.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 2/17-Brickhouse.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 2/18-Too Hot Ta Trot.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 2/19-Flying High.mp3
+/home/derrick/music/Lionel Richie & The Commodores - The Definitive Collection [ChattChitto RG]/The Definitive Collection Disc 2/20-Zoom.mp3
 /home/derrick/music/Guardians Of The Galaxy/Guardians_Of_The_Galaxy_02_FLAC/08-looking_glass-brandy_(youre_a_fine_girl).flac
 /home/derrick/music/Marvin Gaye/Moods Of Marvin Gaye_That's The Way Love Is/01 I'll Be Doggone.mp3
 /home/derrick/music/Marvin Gaye/Moods Of Marvin Gaye_That's The Way Love Is/02 Little Darling(I Need You).mp3
@@ -1444,25 +2459,6 @@ cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [
 /home/derrick/music/S&G/Live/1993-03-01 Dorothy Chandler Pavilion @320/CD1/09-After The Gold Rush.mp3
 /home/derrick/music/S&G/Live/1993-03-01 Dorothy Chandler Pavilion @320/CD1/10-Helpless (wSimon & Garfunkel).mp3
 /home/derrick/music/S&G/Live/1993-03-01 Dorothy Chandler Pavilion @320/CD1/11-Only Love Can Break Your Heart (wSimon & Garfunkel).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1985 - Profiles (Nick Mason)/01. Malta.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1985 - Profiles (Nick Mason)/02. Lie For A Lie.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1985 - Profiles (Nick Mason)/03. Rhoda.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1985 - Profiles (Nick Mason)/04. Profiles, Pt. 1-2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1985 - Profiles (Nick Mason)/05. Israel.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1985 - Profiles (Nick Mason)/06. And The Address.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1985 - Profiles (Nick Mason)/07. Mumbo Jumbo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1985 - Profiles (Nick Mason)/08. Zip Code.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1985 - Profiles (Nick Mason)/09. Black Ice.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1985 - Profiles (Nick Mason)/10. At The End Of The Day.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1985 - Profiles (Nick Mason)/11. Profiles, Pt. 3.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1981 - Nick Mason's Fictitious Sports (Nick Mason)/01. Can't Get My Motor To Start.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1981 - Nick Mason's Fictitious Sports (Nick Mason)/02. I Was Wrong.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1981 - Nick Mason's Fictitious Sports (Nick Mason)/03. Siam.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1981 - Nick Mason's Fictitious Sports (Nick Mason)/04. Hot River.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1981 - Nick Mason's Fictitious Sports (Nick Mason)/05. Boo To You Too.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1981 - Nick Mason's Fictitious Sports (Nick Mason)/06. Do Ya.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1981 - Nick Mason's Fictitious Sports (Nick Mason)/07. Wervin'.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1981 - Nick Mason's Fictitious Sports (Nick Mason)/08. I'm A Mineralist.mp3
 /home/derrick/music/Guardians Of The Galaxy/Guardians_Of_The_Galaxy_01_FLAC/103-norman_greenbaum-spirit_in_the_sky.flac
 /home/derrick/music/Guardians Of The Galaxy/Guardians_Of_The_Galaxy_02_FLAC/13-parliament-flash_light.flac
 /home/derrick/music/paul simon - graceland/01 - The Boy In The Bubble.mp3
@@ -1476,2287 +2472,6 @@ cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [
 /home/derrick/music/paul simon - graceland/09 - Crazy Love, Vol. II.mp3
 /home/derrick/music/paul simon - graceland/10 - That Was Your Mother.mp3
 /home/derrick/music/paul simon - graceland/11 - All Around The World or The Myth Of Fingerprints.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1965 - Their First Recordings/01. Lucy Leave.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1965 - Their First Recordings/02. Double O Bo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1965 - Their First Recordings/03. Remember Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1965 - Their First Recordings/04. Walk With Me Sydney.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1965 - Their First Recordings/05. Butterfly.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1965 - Their First Recordings/06. I'm A King Bee.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1966 - Interstellar Overdrive/01. I'm A King Be.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1966 - Interstellar Overdrive/02. Lucy Leave.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1966 - Interstellar Overdrive/03. Interstellar Overdrive.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1966 - Interstellar Overdrive/04. Arnold Layne.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1966 - Interstellar Overdrive/05. Candy And A Current Bun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1966 - Interstellar Overdrive/06. See Emily Play.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1966 - Interstellar Overdrive/07. Flamingo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1966 - Interstellar Overdrive/08. Scarecrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1966 - Interstellar Overdrive/09. Interstellar Overdrive.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1966 - Interstellar Overdrive/10. Silas Lane.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1966 - Interstellar Overdrive/11. Experiment.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1966 - Interstellar Overdrive/12. Apples And Oranges.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1966 - Interstellar Overdrive/13. Paintbox.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1966 - Interstellar Overdrive/14. Scream Thy last Scream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1966 - Interstellar Overdrive/15. Vegetable Man.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1966 - Interstellar Overdrive/16. Julia Dream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1966 - Interstellar Overdrive/17. Octopus.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The First 3 Singles/01. Arnold Layne.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The First 3 Singles/02. Candy And A Currant Bun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The First 3 Singles/03. See Emily Play.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The First 3 Singles/04. Scarecrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The First 3 Singles/05. Apples And Oranges.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The First 3 Singles/06. Paint Box.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/01. Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/02. Lucifer Sam.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/03. Matilda Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/04. Flaming.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/05. Pow R. Toc H.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/06. Take Up Thy Stethoscope And Walk.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/07. Interstellar Overdrive.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/08. The Gnome.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/09. Chapter 24.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/10. Scarecrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/11. Bike.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/12. Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/13. Lucifer Sam.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/14. Matilda Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/15. Flaming.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/16. Pow R. Toc H.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/17. Take Up Thy Stethoscope And Walk.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/18. Interstellar Overdrive.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/19. The Gnome.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/20. Chapter 24.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/21. The Scarecrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/22. Bike.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/23. Arnold Layne.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/24. Candy And A Currant Bun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/25. See Emily Play.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/26. Apples And Oranges.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/27. Paintbox.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/28. Interstellar Overdrive (French Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/29. Apples And Oranges (Stereo Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/30. Matilda Mother (Alternative Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1967 - The Piper At The Gates Of Dawn/31. Interstellar Overdrive (Take 6).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1968 - A Saucerful Of Secrets/01. Let There Be More Light.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1968 - A Saucerful Of Secrets/02. Remember A Day.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1968 - A Saucerful Of Secrets/03. Set The Controls For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1968 - A Saucerful Of Secrets/04. Corporal Clegg.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1968 - A Saucerful Of Secrets/05. A Saucerful Of Secrets Something Else.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1968 - A Saucerful Of Secrets/06. A Saucerful Of Secrets Syncopated Pandemonium.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1968 - A Saucerful Of Secrets/07. A Saucerful Of Secrets Storm Signal.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1968 - A Saucerful Of Secrets/08. A Saucerful Of Secrets Celestial Voices.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1968 - A Saucerful Of Secrets/09. See Saw.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1968 - A Saucerful Of Secrets/10. Jugband Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - More/01. Cirrus Minor.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - More/02. The Nile Song.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - More/03. Crying Song.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - More/04. Up The Khyber.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - More/05. Green Is The Colour.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - More/06. Cymbaline.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - More/07. Party Sequenee.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - More/08. Main Theme.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - More/09. Ibiza Bar.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - More/10. More Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - More/11. Quicksilver.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - More/12. A Spanish Piece.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - More/13. Dramatic Theme.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - The Man And The Journey/01. Introduction.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - The Man And The Journey/02. Daybreak.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - The Man And The Journey/03. Work.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - The Man And The Journey/04. Teatime.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - The Man And The Journey/05. Afternoon.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - The Man And The Journey/06. Doing It.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - The Man And The Journey/07. Sleep.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - The Man And The Journey/08. Nightmare.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - The Man And The Journey/09. Daybreak, Part 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - The Man And The Journey/10. The Beginning.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - The Man And The Journey/11. Beset By Creatures Of The Deep.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - The Man And The Journey/12. The Narrow Way.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - The Man And The Journey/13. The Pink Jungle.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - The Man And The Journey/14. The Labyrinths Of Auximenes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - The Man And The Journey/15. Behold!... The Temple Of Light.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - The Man And The Journey/16. The End Of The Beginning.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - Ummagumma/01. Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - Ummagumma/02. Careful With That Axe, Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - Ummagumma/03. Set The Controls For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - Ummagumma/04. A Saucerful Of Secrets.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - Ummagumma/05. Sysyphus Part 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - Ummagumma/06. Sysyphus Part 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - Ummagumma/07. Sysyphus Part 3.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - Ummagumma/08. Sysyphus Part 4.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - Ummagumma/09. Grantchester Meadows.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - Ummagumma/10. Several Species Of Small Furry Animals Gathered Together In A Cave And Grooving With A Pict.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - Ummagumma/11. The Narrow Way Part 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - Ummagumma/12. The Narrow Way Part 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - Ummagumma/13. The Narrow Way Part 3.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - Ummagumma/14. The Grand Vizier's Garden Party Part 1 Entrance.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - Ummagumma/15. The Grand Vizier's Garden Party Part 2 Entertainment.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1969 - Ummagumma/16. The Grand Vizier's Garden Party Part 3 Exit.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Atom Heart Mother/01. Atom Heart Mother Suite.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Atom Heart Mother/02. If.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Atom Heart Mother/03. Summer '68.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Atom Heart Mother/04. Fat Old Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Atom Heart Mother/05. Alan's Psychedelic Breakfast.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Atom Hyde Park/01. Intro.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Atom Hyde Park/02. Embryo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Atom Hyde Park/03. Green Is The Colour.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Atom Hyde Park/04. Careful With That Axe, Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Atom Hyde Park/05. Set The Controls For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Atom Hyde Park/06. Atom Heart Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/01. Pow R Toc H.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/02. Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/03. The Gnome.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/04. Scarecrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/05. Set The Controls.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/06. Matilda Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/07. Reaction In G.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/08. Flaming.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/09. Green Onions.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/10. Instrumental.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/11. Vegetable Man.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/12. Scream Thy Last Scream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/13. Pow R Toc H.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/14. Jugband Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/15. Instrumental.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/16. Set The Controls.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/17. The Murderotic Woman.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/18. The Massed Gadgets Of Hercules.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/19. Let There Be More Light.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/20. Julia Dream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/21. Point Me At The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/22. Baby Blue Shuffle In D Major.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/23. Embryo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/24. Interstellar Overdrive.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/25. Daybreak.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/26. Nightmare.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/27. The Beginning.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/28. Beset By Creatures Of The Deep.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/29. The Narrow Way.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - BBC Archives/30. Moonhead.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Live In London/01. Embryo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Live In London/02. Green Is The Colour.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Live In London/03. Careful With That Axe, Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Live In London/04. If.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Live In London/05. Atom Heart Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - More Blues/01. Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - More Blues/02. Fat Old Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - More Blues/03. Atom Heart Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - More Blues/04. Cymbaline.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - More Blues/05. The Embryo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - More Blues/06. Just Another Twelwe Bar Original.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - More Blues/07. More Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - More Blues/08. Green Is The Colour.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - More Blues/09. Careful Wwith That Axe Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - More Blues/10. If.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - More Blues/11. Atom Heart Mother Suite (Full Orchestra Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Complete Zabriskie Point Session/01. Rain In The Country (Take One).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Complete Zabriskie Point Session/02. The Violent Sequence (Take One).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Complete Zabriskie Point Session/03. The Red Queen Theme (Take One).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Complete Zabriskie Point Session/04. Fingal's Cave (Take One).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Complete Zabriskie Point Session/05. Theme (Take Two).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Complete Zabriskie Point Session/06. Rain In The Country (Take Two).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Complete Zabriskie Point Session/07. Love Scene (Take One).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Complete Zabriskie Point Session/08. Love Scene (Take Two).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Complete Zabriskie Point Session/09. Blues Scene (Take One).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Complete Zabriskie Point Session/10. Fingal's Cave (Take Two).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Complete Zabriskie Point Session/11. Love Scene (Take Three).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Complete Zabriskie Point Session/12. Love Scene (Take Four).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Complete Zabriskie Point Session/13. The Red Queen Theme (Take Two).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Complete Zabriskie Point Session/14. Crumbling Land (Take One).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Complete Zabriskie Point Session/15. Unknown Song (Take One).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - BBC Archives 1970-1971/01. Opening Speech.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - BBC Archives 1970-1971/02. Embryo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - BBC Archives 1970-1971/03. Fat Old Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - BBC Archives 1970-1971/04. Green Is The Colour.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - BBC Archives 1970-1971/05. Careful With That Axe, Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - BBC Archives 1970-1971/06. If.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - BBC Archives 1970-1971/07. Atom Heart Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - BBC Archives 1970-1971/08. Intro.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - BBC Archives 1970-1971/09. Fat Old Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - BBC Archives 1970-1971/10. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - BBC Archives 1970-1971/11. The Embryo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - BBC Archives 1970-1971/12. Echoes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - BBC Archives 1970-1971/13. Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - Embryo, San Diego/01. Careful With That Axe, Euene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - Embryo, San Diego/02. Fat Old Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - Embryo, San Diego/03. Atom Heart Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - Embryo, San Diego/04. The Embryo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - Embryo, San Diego/05. Set The Controls For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - Embryo, San Diego/06. Cymbaline.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - Embryo, San Diego/07. Blues Jam.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - Meddle/01. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - Meddle/02. A Pillow Of Winds.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - Meddle/03. Fearless.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - Meddle/04. San Tropez.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - Meddle/05. Seamus.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - Meddle/06. Echoes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/01. The Scarecrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/02. The Gnome.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/03. Matilda Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/04. Set The Controls.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/05. Reaction In G.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/06. Flaming.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/07. Vegetable Man.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/08. Scream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/09. Jugband Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/10. Pow R. Toc H.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/11. Pow R. Toc H.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/12. Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/13. Green Onions.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/14. Tomorrow's World (Instrumental).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/15. Murderotic Woman.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/16. Massed Gadgets Of Hercules.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/17. Let There Be More Light.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/18. (John Peel).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/19. Julia Dream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/20. Point Me At The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/21. The Embryo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/22. Baby Blue Shuffle In D Major.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/23. Interstellar Overdrive.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/24. Daybreak.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/25. Nightmare.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/26. The Narrow Way.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/27. The Beginning  Beset By Creatures Of The Deep.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/28. Set The Controls For The Heart Of The Sun (Take 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/29. Moonhead.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/30. John Peel Intro.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/31. The Embryo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/32. John Peel.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/33. Fat Old Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/34. John Peel.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/35. Green Is The Colour  Careful With That Axe, Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/36. John Peel.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/37. If.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/38. John Peel.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/39. Atom Heart Mother (With Orchestra).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/40. John Peel Intro.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/41. Fat Old Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/42. John Peel.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/43. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/44. John Peel.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/45. The Embryo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/46. John Peel.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/47. Echoes (Cut).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1971 - The Complete BBC Sessions/48. Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1972 - Obscured By Clouds/01. Obscured By Clouds.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1972 - Obscured By Clouds/02. When You're In.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1972 - Obscured By Clouds/03. Burning Bridges.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1972 - Obscured By Clouds/04. The Gold It's In The.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1972 - Obscured By Clouds/05. Wot's... Uh The Deal.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1972 - Obscured By Clouds/06. Mudmen.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1972 - Obscured By Clouds/07. Childhood's End.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1972 - Obscured By Clouds/08. Free Four.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1972 - Obscured By Clouds/09. Stay.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1972 - Obscured By Clouds/10. Absolutely Curtains.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1972 - Pompeii/01. Intro Pompeii.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1972 - Pompeii/02. Echoes Part I.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1972 - Pompeii/03. Careful With That Axe Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1972 - Pompeii/04. A Saucerful Of Secrets.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1972 - Pompeii/05. Us And Them (Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1972 - Pompeii/06. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1972 - Pompeii/07. Set The Controls For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1972 - Pompeii/08. Brain Damage (Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1972 - Pompeii/09. Madmoiselle Nobs.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1972 - Pompeii/10. Echoes Part II.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/01. Speak To Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/02. Breathe (In The Air).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/03. On The Run.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/04. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/05. The Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/06. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/07. Us & Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/08. Any Colour You Like.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/09. Brain Damage.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/10. Eclipse.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/11. Speak To Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/12. Breathe (In The Air).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/13. On The Run.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/14. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/15. The Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/16. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/17. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/18. Any Colour You Like.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/19. Brian Damage.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/20. Eclipse.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/21. Breathe (In The Air) (Early Mix 1972).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/22. On The Run (Early Mix 1972).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/23. Time (Early Mix 1972).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/24. The Great Gig In The Sky (Early Mix 1972).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/25. Money (Early Mix 1972).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/26. Us And Them (Early Mix 1972).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/27. Any Colour You Like (Early Mix 1972).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/28. Brain Damage (Early Mix 1972).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/29. Eclipse (Early Mix 1972).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/30. The Hard Way (Household Objects Project).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/31. Us And Them (Richard Wright Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/32. The Travel Sequence (Live 1972).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/33. The Morality Sequence (Live 1972).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/34. Any Colour You Like (Live 1972).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/35. The Travel Sequence (Previous Unreleased).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1973 - The Dark Side Of The Moon/36. Money (Roger Waters Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1974 - Wembley/01. Speak To Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1974 - Wembley/02. Breathe.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1974 - Wembley/03. On The Run.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1974 - Wembley/04. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1974 - Wembley/05. Breathe (Reprise).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1974 - Wembley/06. The Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1974 - Wembley/07. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1974 - Wembley/08. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1974 - Wembley/09. Any Colour You Like.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1974 - Wembley/10. Brain Damage.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1974 - Wembley/11. Eclipse.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1974 - Wembley/12. Echoes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Spaceball Ricochet/01. Raving And Drooling.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Spaceball Ricochet/02. You Got Be Crazy.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Spaceball Ricochet/03. Shine On You Crazy Diamond (1-4).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Spaceball Ricochet/04. Have A Cigar.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Spaceball Ricochet/05. Shine On You Crazy Diamond 5-9.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Spaceball Ricochet/06. Speak To Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Spaceball Ricochet/07. Breathe.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Spaceball Ricochet/08. On The Run.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Spaceball Ricochet/09. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Spaceball Ricochet/10. The Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Spaceball Ricochet/11. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Spaceball Ricochet/12. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Spaceball Ricochet/13. Any Colur You Like.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Spaceball Ricochet/14. Brain Damage.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Spaceball Ricochet/15. Eclipse.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Spaceball Ricochet/16. Echoes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Spaceball Ricochet/17. A Saucerful Of Secrets.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Spaceball Ricochet/18. Shine On You Crazy Diamond.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Spaceball Ricochet/19. One Of These Days 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Spaceball Ricochet/20. One Of These Days 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Spaceball Ricochet/21. Here Comes Santa.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Wish You Were Here/01. Shine On You Crazy Diamond (Parts 1-5).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Wish You Were Here/02. Welcome To The Machine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Wish You Were Here/03. Have A Cigar.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Wish You Were Here/04. Wish You Were Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Wish You Were Here/05. Shine On You Crazy Diamond (Parts 6-9).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Wish You Were Here/06. Shine On You Crazy Diamond (Live At Wembley 1974).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Wish You Were Here/07. Raving And Drooling (Live At Wembley 1974).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Wish You Were Here/08. You've Got To Be Crazy (Live At Wembley 1974).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Wish You Were Here/09. Wine Glasses (From 'Household Objects' Project).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Wish You Were Here/10. Have A Cigar (Alternative Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1975 - Wish You Were Here/11. Wish You Were Here (With Stephane Grappelli).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1977 - Animals/01. Pigs On The Wing (Part One).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1977 - Animals/02. Dogs.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1977 - Animals/03. Pigs (Three Different Ones).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1977 - Animals/04. Sheep.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1977 - Animals/05. Pigs On The Wing (Part Two).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/01. The Narrow Way.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/02. Green Is The Colour.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/03. Atom Heart Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/04. A Saucerful Of Secrets.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/05. Careful With That Axe, Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/06. Candy And The Currant Bun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/07. See Emily Play.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/08. Flaming (Single Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/09. Apples And Oranges.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/10. Paintbox.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/11. It Would Be So Nice.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/12. Julia Dream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/13. Point Me To The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/14. Heartbeat, Pigmeat.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/15. Crumbling Land.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/16. Come In Number 51, Your Time Is Up.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/17. Biding My Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/18. Money (1981 Dance Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/19. When The Tigers Broke Free.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/20. Not Now John (Obscured Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/21. Terminal Frost (DYOL Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/22. Run Like Hell (Live Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/23. I'm A King Bee (1968 Session Record).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/24. Intersteller Overdrive (October 31, 1967, Studio Take).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/25. Milkyway (Outtake).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/26. Astronomine Domine (Alternative Take).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/27. Sream The Last Scream (Acetate).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/28. The Committe 1 (OST).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/29. The Committe 2 (Alternate Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/30. Long Blues (1970, Montreux Casino).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/31. Slow Blues (1970, Montreux Casino).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/32. Obscured By The Clouds - When Your In (1972, Chicago).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/33. Money (1971, Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/34. On The Run (1971, Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Ultra Rare Trax/35. Us And Them (1971, Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/01. In The Flesh.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/02. The Thin Ice.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/03. Another Brick In The Wall (Part 1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/04. The Happiest Days Of Our Lives.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/05. Another Brick In The Wall (Part 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/06. Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/07. Goodbye Blue Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/08. Empty Spaces.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/09. Young Lust.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/10. One Of My Turns.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/11. Don't Leave Me Now.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/12. Another Brick In The Wall (Part 3).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/13. Goodbye Cruel World.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/14. Hey You.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/15. Is There Anybody Out There.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/16. Nobody Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/17. Vera.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/18. Bring The Boys Back Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/19. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/20. The Show Must Go On.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/21. In The Flesh.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/22. Run Like Hell.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/23. Waiting For The Worms.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/24. Stop.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/25. The Trial.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/26. Outside The Wall.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/27. Master Of Ceremonies.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/28. In The Flesh.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/29. The Thin Ice.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/30. Another Brick In The Wall (Part 1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/31. The Happiest Days Of Our Lives.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/32. Another Brick In The Wall (Part 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/33. Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/34. Goodbye Blue Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/35. Empty Spaces.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/36. What Shall We Do Now.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/37. Young Lust.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/38. One Of My Turns.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/39. Don't Leave Me Now.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/40. Another Brick In The Wall (Part 3).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/41. The Last Few Bricks.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/42. Goodbye Cruel World.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/43. Hey You.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/44. Is There Anybody Out There.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/45. Nobody Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/46. Vera.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/47. Bring The Boys Back Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/48. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/49. The Show Must Go On.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/50. MCAtmos.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/51. In The Flesh.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/52. Run Like Hell.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/53. Waiting For The Worms.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/54. Stop.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/55. The Trial.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/56. Outside The Wall.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/57. Programme 1 Prelude (Vera Lynn) (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/58. Programme 1 Another Brick In The Wall, Part 2 (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/59. Programme 1 Mother (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/60. Programme 1 Young Lust (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/61. Programme 1 Another Brick In The Wall, Part 2 (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/62. Programme 1 Empty Spaces (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/63. Programme 1 Mother (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/64. Programme 1 Backs To The Wall (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/65. Programme 1 Don't Leave Me Now (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/66. Programme 1 Goodbye Blue Sky (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/67. Programme 1 Don't Leave Me Now (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/68. Programme 1 Another Brick In The Wall, Part 3 (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/69. Programme 1 Goodbye Cruel World (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/70. Programme 1 Hey You (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/71. Programme 1 Is There Anybody Out There (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/72. Programme 1 Vera (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/73. Programme 1 Bring The Boys Back Home (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/74. Programme 1 The Show Must Go On (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/75. Programme 1 Waiting For The Worms (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/76. Programme 1 Run Like Hell (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/77. Programme 1 The Trial (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/78. Programme 1 Outside The Wall (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/79. Programme 2 Prelude (Vera Lynn) (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/80. Programme 2 Another Brick In The Wall, Part 1 (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/81. Programme 2 The Thin Ice (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/82. Programme 2 Goodbye Blue Sky (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/83. Programme 2 Teacher, Teacher (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/84. Programme 2 Another Brick In The Wall, Part 2 (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/85. Programme 2 Empty Spaces (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/86. Programme 2 Young Lust (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/87. Programme 2 Mother (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/88. Programme 2 Don't Leave Me Now (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/89. Programme 2 Sexual Revolution (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/90. Programme 2 Another Brick In The Wall, Part 3 (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/91. Programme 2 Goodbye Cruel World (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/92. Programme 3 In The Flesh (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/93. Programme 3 The Thin Ice (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/94. Programme 3  Another Brick In The Wall, Part 1 (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/95. Programme 3 The Happiest Days Of Your Lives (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/96. Programme 3 Another Brick In The Wall, Part 2 (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/97. Programme 3 Mother (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/98. Programme 1 Is There Anybody Out There (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/99. Programme 1 Vera (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/100. Programme 1 Bring The Boys Back Home (Roger Waters Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/101. Programme 1 Hey You (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/102. Programme 1 The Doctor (Comfortably Numb - Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/103. Programme 1 In The Flesh (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/104. Programme 1 Run Like Hell (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/105. Programme 1 Waiting For The Worms (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/106. Programme 1 The Trail (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/107. Programme 1 The Show Must Go On (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/108. Programme 1 Outside The Wall (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/109. Programme 1 The Thin Ice (Reprise - Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/110. Programme 2 Outside The Wall (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/111. Programme 2 It's Never Too Late (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/112. Programme 2 The Doctor (Comfortably Numb - Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/113. Programme 3 One Of My Turns (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/114. Programme 3 Don't Leave Me Now (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/115. Programme 3 Empty Spaces (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/116. Programme 3 Backs To The Wall (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/117. Programme 3 Another Brick In The Wall, Part 3 (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/118. Programme 3 Goodbye Cruel World (Band Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/119. Programme 4 Comfortably Numb (David Gilmour Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1979 - The Wall/120. Programme 4 Run Like Hell (David Gilmour Original Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/01. MC Intro.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/02. In The Flesh.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/03. The Thin Ice.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/04. Another Brick In The Wall Part 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/05. The Happiest Days Of Our Lives.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/06. Another Brick In The Wall Part 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/07. Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/08. Goodbye Blue Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/09. Empty Spaces.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/10. What Shall We Do Now.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/11. Young Lust.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/12. One Of My Turns.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/13. Don't Leave Me Now.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/14. Another Brick In The Wall Part 3.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/15. The Last Few Bricks.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/16. Goodbye Cruel World.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/17. Hey You.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/18. Is There Anybody Out There.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/19. Nobody Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/20. Vera.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/21. Bring The Boys Back Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/22. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/23. The Show Must Go On.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/24. MC Intro.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/25. In The Flesh.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/26. Run Like Hell.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/27. Waiting For The Worms.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/28. Stop.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/29. The Trial.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1980 - The Warm Thrill Of Confusion/30. Outside The Wall.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1981 - A Collection Of Great Dance Songs/01. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1981 - A Collection Of Great Dance Songs/02. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1981 - A Collection Of Great Dance Songs/03. Sheep.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1981 - A Collection Of Great Dance Songs/04. Shine On You Crazy Diamond.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1981 - A Collection Of Great Dance Songs/05. Wish You Were Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1981 - A Collection Of Great Dance Songs/06. Another Brick In The Wall (Part 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - The Final Cut/01. The Post War Dream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - The Final Cut/02. Your Possible Pasts.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - The Final Cut/03. One Of The Few.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - The Final Cut/04. When The Tigers Broke Free.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - The Final Cut/05. The Hero's Return.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - The Final Cut/06. The Gunner's Dream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - The Final Cut/07. Paranoid Eyes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - The Final Cut/08. Get Your Filthy Hands Off My Desert.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - The Final Cut/09. The Fletcher Memorial Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - The Final Cut/10. Southampton Dock.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - The Final Cut/11. The Final Cut.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - The Final Cut/12. Not Now John.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - The Final Cut/13. Two Suns In The Sunset.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - Works/01. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - Works/02. Arnold Layne.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - Works/03. Fearless (Interpolating 'You'll Never Walk Alone').mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - Works/04. Brain Damage.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - Works/05. Eclipse.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - Works/06. Set The Controls For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - Works/07. See Emily Play.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - Works/08. Several Species Of Small Furry Animals Gathered Together In A Cave And Grooving.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - Works/09. Free Four.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1983 - Works/10. Embryo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1987 - A Momentary Lapse Of Reason/01. Signs Of Life.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1987 - A Momentary Lapse Of Reason/02. Learning To Fly.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1987 - A Momentary Lapse Of Reason/03. The Dogs Of War.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1987 - A Momentary Lapse Of Reason/04. One Slip.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1987 - A Momentary Lapse Of Reason/05. On The Turning Away.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1987 - A Momentary Lapse Of Reason/06. Yet Another Movie  Round And Around.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1987 - A Momentary Lapse Of Reason/07. A New Machine (Part 1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1987 - A Momentary Lapse Of Reason/08. Terminal Frost.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1987 - A Momentary Lapse Of Reason/09. A New Machine (Part 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1987 - A Momentary Lapse Of Reason/10. Sorrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Delicate Sound Of Thunder/01. Shine On You Crazy Diamond.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Delicate Sound Of Thunder/02. Learning To Fly.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Delicate Sound Of Thunder/03. Yet Another Movie.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Delicate Sound Of Thunder/04. Round And Around.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Delicate Sound Of Thunder/05. Sorrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Delicate Sound Of Thunder/06. The Dogs Of War.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Delicate Sound Of Thunder/07. On The Turning Away.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Delicate Sound Of Thunder/08. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Delicate Sound Of Thunder/09. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Delicate Sound Of Thunder/10. Wish You Were Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Delicate Sound Of Thunder/11. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Delicate Sound Of Thunder/12. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Delicate Sound Of Thunder/13. Another Brick In The Wall (Part 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Delicate Sound Of Thunder/14. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Delicate Sound Of Thunder/15. Run Like Hell.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1989 - Live In Venice/01. Shine On You Crazy Diamond (Part 1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1989 - Live In Venice/02. Learning To Fly.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1989 - Live In Venice/03. Yet Another Movie.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1989 - Live In Venice/04. Round And Around.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1989 - Live In Venice/05. Sorrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1989 - Live In Venice/06. The Dogs Of War.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1989 - Live In Venice/07. On The Turning Away.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1989 - Live In Venice/08. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1989 - Live In Venice/09. The Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1989 - Live In Venice/10. Wish You Were Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1989 - Live In Venice/11. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1989 - Live In Venice/12. Another Brick In The Wall (Part 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1989 - Live In Venice/13. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1989 - Live In Venice/14. Run Like Hell.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - Rhapsody In Pink, The Psychedelic Years/01. Embryo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - Rhapsody In Pink, The Psychedelic Years/02. Julia Dream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - Rhapsody In Pink, The Psychedelic Years/03. Careful With That Axe.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - Rhapsody In Pink, The Psychedelic Years/04. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - Rhapsody In Pink, The Psychedelic Years/05. If.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - Rhapsody In Pink, The Psychedelic Years/06. Atom Heart Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - Rhapsody In Pink, The Psychedelic Years/07. Echoes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1991 - From Underground To The Moon/01. Milky Way.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1991 - From Underground To The Moon/02. Let There Be More Light.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1991 - From Underground To The Moon/03. The Narrow Way.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1991 - From Underground To The Moon/04. Green In The Colour.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1991 - From Underground To The Moon/05. The Journey.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1991 - From Underground To The Moon/06. Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1991 - From Underground To The Moon/07. Interstellar Overdrive.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1991 - From Underground To The Moon/08. Cymbaline.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1991 - From Underground To The Moon/09. Grantchester Meadows.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1991 - From Underground To The Moon/10. The Embryo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1991 - From Underground To The Moon/11. Atom Heart Mother  (London, 1970).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1991 - From Underground To The Moon/12. If (London, 1970).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1991 - From Underground To The Moon/13. Fat Old Sun  (Rome, 1971).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1991 - From Underground To The Moon/14. Careful With That Axe, Eugene  (Pompei, 1971).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1991 - From Underground To The Moon/15. Echoes  (Pompei, 1971).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1991 - From Underground To The Moon/16. One Of These Days  (Pompei, 1971).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1991 - From Underground To The Moon/17. A Saucerful Of Secrets  (Pompei, 1971).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1991 - From Underground To The Moon/18. Set The Controls For The Heart Of The Sun  (Pompei, 1971).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1991 - From Underground To The Moon/19. Mademoiselle Nobs  (Pompei, 1971).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1991 - From Underground To The Moon/20. The Dark Side Of The Moon  (Southampton, 1972).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - La Carrera Panamericana/01. Run Like Hell.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - La Carrera Panamericana/02. Yet Another Movie.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - La Carrera Panamericana/03. Sorrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - La Carrera Panamericana/04. Signs Of Life.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - La Carrera Panamericana/05. Country Theme.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - La Carrera Panamericana/06. Mexico '78.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - La Carrera Panamericana/07. Big Theme.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - La Carrera Panamericana/08. Carrera Slow Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - La Carrera Panamericana/09. One Slip.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - La Carrera Panamericana/10. Small Theme.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - La Carrera Panamericana/11. Pan Am Shuffle.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/01. Let There Be More Light.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/02. Remember A Day.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/03. Set The Controls For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/04. Corporal Clegg.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/05. A Saucerful Of Secrets.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/06. See Saw.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/07. Jugband Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/08. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/09. A Pillow Of Winds.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/10. Fearless.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/11. San Tropez.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/12. Seamus.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/13. Echoes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/14. Speak To Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/15. Breathe.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/16. On The Run.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/17. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/18. The Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/19. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/20. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/21. Any Colour You Like.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/22. Brain Damage.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/23. Eclipse.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/24. Shine on You Crazy Diamond (Part I-V).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/25. Welcome To The Machine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/26. Have A Cigar.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/27. Wish You Were Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/28. Shine on You Crazy Diamond (Part VI-IX).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/29. Pigs On The Wing (Part One).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/30. Dogs.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/31. Pigs (Three Different Ones).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/32. Sheep.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/33. Pigs On The Wing (Part Two).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/34. In The Flesh.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/35. The Thin Ice.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/36. Another Brick In The Wall (Part I).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/37. The Happiest Days Of Our Lives.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/38. Another Brick In The Wall (Part II).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/39. Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/40. Goodbye Blue Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/41. Empty Spaces.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/42. Young Lust.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/43. One Of My Turns.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/44. Don't Leave Me Now.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/45. Another Brick In The Wall (Part III).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/46. Goodbye Cruel World.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/47. Hey You.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/48. Is There Anybody Out There.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/49. Nobody Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/50. Vera.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/51. Bring The Boys Back Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/52. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/53. The Show Must Go On.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/54. In The Flesh.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/55. Run Like Hell.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/56. Waiting For The Worms.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/57. Stop.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/58. The Trial.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/59. Outside The Wall.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/60. Signs Of Life.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/61. Learning To Fly.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/62. The Dogs Of War.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/63. One Slip.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/64. On The Turning Away.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/65. Yet Another Movie.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/66. A New Machine (Part I).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/67. Terminal Frost.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/68. A Machine (Part II).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/69. Sorrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/70. Arnold Layne.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/71. Candy And A Currant Bun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/72. See Emily Play.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/73. The Scarecrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/74. Apples And Oranges.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/75. Paintbox.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/76. It Would Be So Nice.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/77. Julia Dream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/78. Point Me At The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Shine On/79. Careful With That Axe, Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - The Early Singles 1967-68/01. Arnold Layne.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - The Early Singles 1967-68/02. Candy And A Currant Bun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - The Early Singles 1967-68/03. See Emily Play.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - The Early Singles 1967-68/04. The Scarecrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - The Early Singles 1967-68/05. Apples And Oranges.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - The Early Singles 1967-68/06. Paintbox.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - The Early Singles 1967-68/07. It Would Be So Nice.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - The Early Singles 1967-68/08. Julia Dream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - The Early Singles 1967-68/09. Point Me At The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - The Early Singles 1967-68/10. Careful With That Axe Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/01. Arnold Layne.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/02. Candy And A Currant Bun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/03. See Emily Play.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/04. Flaming.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/05. The Scarecrow (Peel Sessions).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/06. The Gnome (Peel Sessions).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/07. Mathilda Mother (Peel Sessions).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/08. Scream Thy Last Scream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/09. Vegetable Man.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/10. Apples And Oranges.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/11. Pow R. Toc H. (Peel Sessions).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/12. Jugband Blues (Peel Sessions).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/13. Nick's Boogie.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/14. It Would Be So Nice.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/15. Julia Dream (Peel Sessions).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/16. Let There Be More Light (Peel Sessions).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/17. Murderistic Women (Peel Sessions).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/18. Massed Gadgets Of Hercules (Peel Sessions).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/19. Point Me At The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/20. Baby Blue Shuffle In D Minor (Peel Sessions).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/21. The Embryo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/22. Green Is The Color.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/23. Careful With That Axe Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/24. The Narrow Way Part I.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/25. Biding My Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/26. Oneone  Fingal's Cave.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/27. Rain In The Country.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/28. The Violence Sequence.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/29. If.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/30. Cymbaline.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/31. Atom Heart Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/32. Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/33. Breathe.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/34. On The Run.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/35. The Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/36. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/37. Brain Damage  Eclipse.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/38. Shine on You Crazy Diamond Part I - V.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/39. Raving And Drooling.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/40. You've Gotta Be Crazy.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/41. Echoes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/42. Pigs On The Wing Parts I & II.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/43. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/44. When The Tigers Broke Free.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/45. Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/46. What Shall We Do Now.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/47. Bring The Boys Back Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/48. Outside The Wall.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/49. The Hero's Return Parts I & II.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/50. Run Like Hell.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/51. On The Turning Away.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1993 - Total Eclipse/52. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - High Hopes/01. Breathe.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - High Hopes/02. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - High Hopes/03. High Hopes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - High Hopes/04. Wish You Were Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - High Hopes/05. Another Brick In The Wall.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - High Hopes/06. The Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - High Hopes/07. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - High Hopes/08. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - High Hopes/09. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - High Hopes/10. Hey You.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - High Hopes/11. Run Like Hell.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Take It Back/01. Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Take It Back/02. Learning To Fly.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Take It Back/03. What Do You Want From Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Take It Back/04. Poles Apart.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Take It Back/05. Sorrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Take It Back/06. Take It Back.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Take It Back/07. On The Turning Away.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Take It Back/08. Keep Talking.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Take It Back/09. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Take It Back/10. Shine On You Crazy Diamond.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - The Division Bell/01. Cluster One.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - The Division Bell/02. What Do You Want From Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - The Division Bell/03. Poles Apart.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - The Division Bell/04. Marooned.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - The Division Bell/05. A Great Day For Freedom.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - The Division Bell/06. Wearing The Inside Out.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - The Division Bell/07. Take It Back.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - The Division Bell/08. Coming Back To Life.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - The Division Bell/09. Keep Talking.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - The Division Bell/10. Lost For Words.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - The Division Bell/11. High Hopes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Wish You Were Here - Trance Remixes/01. Shine On You Crazy Diamond (Fluffy Cloud Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Wish You Were Here - Trance Remixes/02. Welcome To The Machine (New Age Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Wish You Were Here - Trance Remixes/03. Have A Cigar (Take A Joint Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Wish You Were Here - Trance Remixes/04. Wish You Were Here (Atmosfear Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Wish You Were Here - Trance Remixes/05. Shine On You Crazy Diamond (Part 2 Of A Journey Into Your Brain).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Your Favorite Disease Pasadena CA Rose Bowl/01. Intro  Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Your Favorite Disease Pasadena CA Rose Bowl/02. Learning To Fly.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Your Favorite Disease Pasadena CA Rose Bowl/03. What Do You Want From Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Your Favorite Disease Pasadena CA Rose Bowl/04. Poles Apart.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Your Favorite Disease Pasadena CA Rose Bowl/05. Sorrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Your Favorite Disease Pasadena CA Rose Bowl/06. Take It Back.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Your Favorite Disease Pasadena CA Rose Bowl/07. On The Turning Away.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Your Favorite Disease Pasadena CA Rose Bowl/08. Keep Talking.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Your Favorite Disease Pasadena CA Rose Bowl/09. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Your Favorite Disease Pasadena CA Rose Bowl/10. Shine On You Crazy Diamond.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Your Favorite Disease Pasadena CA Rose Bowl/11. Breathe.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Your Favorite Disease Pasadena CA Rose Bowl/12. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Your Favorite Disease Pasadena CA Rose Bowl/13. High Hopes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Your Favorite Disease Pasadena CA Rose Bowl/14. Wish You Were Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Your Favorite Disease Pasadena CA Rose Bowl/15. Another Brick In The Wall.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Your Favorite Disease Pasadena CA Rose Bowl/16. The Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Your Favorite Disease Pasadena CA Rose Bowl/17. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Your Favorite Disease Pasadena CA Rose Bowl/18. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Your Favorite Disease Pasadena CA Rose Bowl/19. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Your Favorite Disease Pasadena CA Rose Bowl/20. Hey You.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1994 - Your Favorite Disease Pasadena CA Rose Bowl/21. Run Like Hell.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/01. Radia Show 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/02. Radia Show 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/03. Radia Show 3.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/04. Radia Show 4.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/05. Radia Show 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/06. Radia Show 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/07. Radia Show 3.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/08. Radia Show 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/09. Radia Show 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/10. Radia Show 3.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/11. Radia Show 4.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/12. Radia Show 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/13. Radia Show 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/14. Radia Show 3.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/15. Radia Show 4.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/16. Radia Show 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/17. Radia Show 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/18. Radia Show 3.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/19. Radia Show 4.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/20. Radia Show 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/21. Radia Show 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/22. Radia Show 3.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/23. Radia Show 4.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Echoes, The History Of Pink Floyd/24. Radia Show 5.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Focus/01. Atom Heart Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Focus/02. If.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Focus/03. Embryo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Focus/04. Green Is The Colour.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Focus/05. Careful With That Axe Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Greatest Songs/01. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Greatest Songs/02. Another Brick In The Wall.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Greatest Songs/03. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Greatest Songs/04. Shine On You Crazy Diamond.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Greatest Songs/05. The Final Cut.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Greatest Songs/06. Not Now John.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Greatest Songs/07. Sheep.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Greatest Songs/08. Learning To Fly.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Greatest Songs/09. If.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Greatest Songs/10. Free Four.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Greatest Songs/11. The Dogs Of War.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Greatest Songs/12. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/01. Shine On You Crazy Diamond.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/02. Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/03. What Do You Want From Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/04. Learning To Fly.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/05. Keep Talking.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/06. Coming Back To Life.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/07. Hey You.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/08. A Great Day For Freedom.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/09. Sorrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/10. High Hopes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/11. Another Brick In The Wall (Part Two).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/12. Speak To Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/13. Breathe.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/14. On The Run.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/15. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/16. The Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/17. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/18. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/19. Any Colour You Like.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/20. Brain Damage.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/21. Eclipse.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/22. Wish You Were Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/23. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Pulse/24. Run Like Hell.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Relics/01. Arnold Layne.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Relics/02. Interstellar Overdrive.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Relics/03. See Emily Play.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Relics/04. Remember a Day.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Relics/05. Paintbox.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Relics/06. Julia Dream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Relics/07. Careful with That Axe, Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Relics/08. Cirrus Minor.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Relics/09. The Nile Song.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Relics/10. Biding My Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - Relics/11. Bike.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - Best Ballads/01. Fearless.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - Best Ballads/02. If.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - Best Ballads/03. Stay.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - Best Ballads/04. Wish You Were Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - Best Ballads/05. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - Best Ballads/06. Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - Best Ballads/07. Grantchester Meadows.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - Best Ballads/08. On The Turning Away.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - Best Ballads/09. High Hopes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - Best Ballads/10. The Final Cut.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - Best Ballads/11. Green Is The Color.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - Best Ballads/12. See Saw.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - Best Ballads/13. Mudmen.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - Smoking Blues/01. Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - Smoking Blues/02. Fat Old Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - Smoking Blues/03. Atom Heart Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - Smoking Blues/04. Cymbaline.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - Smoking Blues/05. The Embryo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - Smoking Blues/06. Just Another Twelve Bar.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - Smoking Blues/07. More Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/01. Raving And Drooling.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/02. You've Gotta Be Crazy.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/03. Shine On You Crazy Diamond I-V.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/04. Have A Cigar.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/05. Shine On You Crazy Diamond VI-IX.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/06. Speak To Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/07. Breathe.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/08. On The Run.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/09. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/10. Breathe (Reprise).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/11. The Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/12. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/13. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/14. Any Colour You Like.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/15. Brain Damage.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/16. Eclipse.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/17. Echoes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/18. Sheep.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/19. Pigs On The Wing.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/20. Dogs.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/21. Pigs On The Wing II.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/22. Pigs (Three Different Ones).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/23. Shine On You Crazy Diamond I-V.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/24. Welcome To The Machine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/25. Have A Cigar.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/26. Wish You Were Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/27. Shine On You Crazy Diamond VI-IX.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/28. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/29. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/30. Intro.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/31. In The Flesh.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/32. The Thin Ice.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/33. Another Brick In The Wall I.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/34. The Happiest Days Of Our Lives.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/35. Another Brick In The Wall II.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/36. Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/37. Goodbye Blue Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/38. Empty Spaces.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/39. Young Lust.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/40. One Of My Turns.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/41. Don't Leave Me Now.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/42. Another Brick In The Wall III.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/43. Goodbye Cruel World.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/44. Hey You.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/45. Is There Anybody Out There.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/46. Nobody Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/47. Vera.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/48. Bring The Boys Back Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/49. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/50. The Show Must Go On.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/51. Isn't This Where We Came In.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/52. In The Flesh.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/53. Run Like Hell.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/54. Waiting For The Worms.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/55. Stop.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/56. The Trial.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/57. Outside The Wall.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1998 - Azimuth Coordinator/58. Drift Away-Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/01. Lucy Leave.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/02. King Bee.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/03. Candy And A Currant Bun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/04. Flaming.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/05. Apples And Oranges.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/06. Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/07. It Would Be So Nice.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/08. Scream Thy Last Scream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/09. Vegetable Man.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/10. Julia Dream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/11. Set the Controls For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/12. Corporal Clegg.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/13. Jugband Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/14. Point Me At The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/15. Careful With That Axe Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/16. Main Theme From More.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/17. Seabirds.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/18. Cymbaline.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/19. Embryo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/20. Heart Beat, Pig Meat.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/21. Instrumentals.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/22. Clumbling Land.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/23. Come In Number 51, Your Time Is Up.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/24. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/25. Mademoiselle Knobs.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/26. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/27. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/28. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/29. Brain Damage.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/30. Eclipse.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/31. Shine On You Crazy Diamond.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/32. Pigs On The Wing (Part One And Two).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/33. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/34. Another Brick In The Wall (Part Two).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/35. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/36. When The Tigers Broke Free.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/37. Bring The Boys Back Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/38. Not Now John.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - Anthology I/39. The Hero's Return (Part One And Two).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/01. Lucy Leave.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/02. I'm A King Bee.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/03. Let's Roll Another One.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/04. Arnold Layne (Acetate).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/05. Arnold Layne (Mono).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/06. Arnold Layne (Fake Stereo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/07. Candy And A Current Bun (Acetate).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/08. Candy And A Current Bun (Mono).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/09. Interstellar Overdrive (Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/10. Interstellar Overdrive (Sound Techniques Outtake).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/11. Interstellar Overdrive (Abbey Road Outtake).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/12. Interstellar Overdrive (Mono Single Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/13. Scarecrow (Abbey Road Outtake).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/14. Scarecrow (Mono).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/15. Astronomy Domine (Abbey Road Outtake).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/16. See Emily Play (Acetate).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/17. See Emily Play (Mono).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/18. See Emily Play (Fake Stereo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/19. Flaming (Mono).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/20. Sunshine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/21. Silas Lane.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/22. Scream Thy Last Scream (Mono).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/23. Scream Thy Last Scream (Stereo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/24. Vegetable Man (Mono).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/25. Vegetable Man (Alternate Mono).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/26. Vegetable Man (Stereo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/27. Remember A Day (Mono Short Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/28. Apples And Oranges (Mono).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/29. Apples And Oranges (Stereo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/30. Paint Box (Mono).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/31. Paint Box (Stereo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/32. Let There Be More Light (Mono Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/33. Corporal Clegg (Video Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/34. It Would Be So Nice (Mono).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/35. It Would Be So Nice (Promo Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/36. It Would Be So Nice (Fake Stereo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/37. Julia Dream (Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/38. Julia Dream (Mono).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/39. Julia Dream (Stereo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/40. Point Me At The Sky (Mono).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/41. Point Me At The Sky (Fake Stereo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/42. Careful With That Axe, Eugene (Mono).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/43. Careful With That Axe, Eugene (Stereo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/44. Astronomy Domine (Live Short Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/45. Embryo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/46. Biding My Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/47. This Is Pretty Avant-Garde Isn't It.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/48. And The Wind Cried.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/49. Moonhead.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/50. Here's A Loud Announcement.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/51. Silence In The Studio.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/52. Green Is The Colour (Live).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/53. Careful With That Axe, Eugene (Live Short Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/54. Embryo (Live Short Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/55. Set The Controls For The Heart Of The Sun (Live Short Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/56. Relics Radio Advert #1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/57. Relics Radio Advert #2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/58. Meddle Radio Advert.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/59. One Of These Days (Demo #1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/60. One Of These Days (Demo #2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/61. One Of These Days (Mono Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/62. Fearless (Mono Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/63. Roger The Hat Interview.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/64. Breathe (Mono).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/65. On The Run (Outtake).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/66. Time (Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/67. Time (Stereo Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/68. Time (Mono Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/69. Money (Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/70. Money (Stereo Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/71. Money (Soft Stereo Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/72. Money (Soft Mono Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/73. Money (Alternate Soft Mono Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/74. Us And Them (Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/75. Us And Them (Outtake).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/76. Us And Them (Stereo Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/77. Us And Them (Mono Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/78. Brain Damage  Eclipse (Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/79. Brain Damage (Outtake).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/80. Brain Damage (Outtake).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/81. Eclipse (Mysterious Ending Tiny Music).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/82. Merry Xmas Song.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/83. Shine On You Crazy Diamond (Part 1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/84. Shine On You Crazy Diamond (Promo Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/85. Shine On You Crazy Diamond (1981 Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/86. Shine On You Crazy Diamond (UK Short Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/87. Shine On You Crazy Diamond (US Short Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/88. Shine On You Crazy Diamond (Storm Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/89. Shine On You Crazy Diamond (To The Galaxy).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/90. Have A Cigar (Short Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/91. Have A Cigar (Stereo Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/92. Have A Cigar (Mono Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/93. Animals Radio Advert.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/94. Pigs On The Wing (Parts 1 & 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/95. Pigs (Three Different Ones) (Short Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/96. The Wall (Loop Message).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/97. Another Brick In The Wall (Part 2) (Single Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/98. Another Brick In The Wall (Part 2) (1981 Single Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/99. Empty Spaces (Backwards Message).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/100. Young Lust (Single Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/101. One Of My Turns (Single Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/102. Comfortably Numb (Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/103. Comfortably Numb (Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/104. Run Like Hell (Single Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/105. Run Like Hell (Promo Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/106. Money (1981 Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/107. Money (1981 Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/108. When The Tigers Broke Free (Single Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/109. Bring The Boys Back Home (Single Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/110. The Final Cut Radio Advert.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/111. Not Now John (Obscured Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/112. Not Now John (Promo Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/113. The Hero's Return (Parts 1 & 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/114. Learning To Fly (Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/115. Learning To Fly (Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/116. Dogs Of War (Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/117. One Slip (Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/118. On The Turning Away (Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/119. The Dogs Of War (Live).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/120. On The Turning Away (Live).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/121. One Slip (Live).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/122. Run Like Hell (Live).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/123. Wearing The Inside Out (LP Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/124. Take It Back (Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/125. Take It Back (Extended).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/126. Keep Talking (Radio Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/127. Lost For Words (Clean Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/128. High Hopes (Radio Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/129. High Hopes (Phone Call).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/130. David Gilmour Interview.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/131. Soundscape.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/132. Astronomy Domine (Live).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/133. One Of These Days (Live).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/134. Wish You Were Here (Live).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/135. Coming Back To Life (Live Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/136. One Of These Days (Live).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/137. Interstellar Overdrive.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/138. Interstellar Overdrive.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/139. Nick's Boogie.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/140. The Committee Pt. 1 (Backwards Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/141. The Committee Pt. 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/142. The Committee Pt. 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/143. The Committee Pt. 3.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/144. The Committee Pt. 4.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/145. The Committee Pt. 5.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/146. The Committee Pt. 6.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/147. The Committee Pt. 7.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/148. The Committee Pt. 8.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/149. Main Theme (Film Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/150. Seabirds.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/151. Cymbaline (Film Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/152. Hollywood.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/153. More Outtakes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/154. Heart Beat, Pig Meat.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/155. Heart Beat, Pig Meat (Film Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/156. Crumbling Land.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/157. Crumbling Land (Extended).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/158. Crumbling Land (Film Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/159. Come In Number 51, Your Time Is Up.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/160. Come In Number 51, Your Time Is Up (Film Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/161. Love Scene - Version 4.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/162. Love Scene - Version 6.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/163. Unknown Song.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/164. Rain In The Country.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/165. Country Song.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/166. Oenone.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/167. Fingal's Cave.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/168. Our Song.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/169. Sea Shell And Stone.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/170. Sea Shell And Soft Stone.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/171. Breathe.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/172. Sea Shell And Stone (Film Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/173. Sea Shell And Soft Stone (Film Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/174. Breathe (Film Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/175. Chain Of Life.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/176. The Womb Bit.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/177. Body Transport.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/178. Give Birth To A Smile.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/179. Give Birth To A Smile.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/180. Live At Pompeii Radio Advert #1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/181. Live At Pompeii Radio Advert #2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/182. Live At Pompeii Radio Advert #3.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/183. Live At Pompeii Radio Advert #4.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/184. Live At Pompeii Radio Advert #5.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/185. Live At Pompeii Radio Advert #6.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/186. Live At Pompeii Radio Advert #7.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/187. Live At Pompeii Goofy Ad #1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/188. Live At Pompeii Goofy Ad #2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/189. Live At Pompeii Goofy Ad #3.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/190. Live At Pompeii Goofy Ad #4.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/191. Obscured By Clouds.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/192. Free Four (Short Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/193. Free Four (Film Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/194. Instrumental.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/195. Magritte Pt. 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/196. Magritte Pt. 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/197. Magritte Pt. 3.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/198. Magritte Pt. 4.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/199. Magritte Pt. 5.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/200. Magritte Pt. 6.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/201. Magritte Pt. 7.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/202. Magritte Pt. 8.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/203. Roger Waters - The Hit.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/204. The Russian Missile.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/205. Towers Of Faith.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/206. Hilda's Dream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/207. The American Bomber.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/208. The Anderson Shelter.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/209. The British Submarine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/210. The Attack.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/211. The Fallour.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/212. Hilda's Lair.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/213. Folded Flags.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/214. White Of The Eye Pt. 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/215. White Of The Eye Pt. 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/216. White Of The Eye Pt. 3.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/217. White Of The Eye Pt. 4.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/218. White Of The Eye Pt. 5.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/219. White Of The Eye Pt. 6.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/220. White Of The Eye Pt. 7.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/221. White Of The Eye Pt. 8.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/222. White Of The Eye Pt. 9.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/223. White Of The Eye Pt. 10.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/224. White Of The Eye Pt. 11.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/225. White Of The Eye Pt. 12.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/226. White Of The Eye Pt. 13.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/227. White Of The Eye Pt. 14.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/228. White Of The Eye Pt. 15.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/229. White Of The Eye Pt. 16.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/230. White Of The Eye Pt. 17.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/231. White Of The Eye Pt. 18.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/232. White Of The Eye Pt. 19.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/233. White Of The Eye Pt. 20.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/234. White Of The Eye Pt. 21.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/235. White Of The Eye Pt. 22.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/236. White Of The Eye Pt. 23.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/237. White Of The Eye Pt. 24.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/238. White Of The Eye Pt. 25.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/239. White Of The Eye Pt. 26.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/240. White Of The Eye Pt. 27.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/241. White Of The Eye Pt. 28.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/242. White Of The Eye Pt. 29.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/243. White Of The Eye Pt. 30.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/244. White Of The Eye Pt. 31.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/245. White Of The Eye Pt. 32.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/246. White Of The Eye Pt. 33.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/247. White Of The Eye Pt. 34.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/248. Run Like Hell.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/249. Country Theme.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/250. Small Theme.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/251. Big Theme.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/252. Carrera Slow Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/253. Mexico '78.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/254. Pan Am Shuffle (Full Length Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/255. Ruby Takes A Trip Pt. 01.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/256. Ruby Takes A Trip Pt. 22.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/257. Ruby Takes A Trip Pt. 03.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/258. Ruby Takes A Trip Pt. 04.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/259. Ruby Takes A Trip Pt. 05.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/260. Ruby Takes A Trip Pt. 06.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/261. Ruby Takes A Trip Pt. 07.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/262. Ruby Takes A Trip Pt. 08.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/263. Ruby Takes A Trip Pt. 09.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/264. Ruby Takes A Trip Pt. 10.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/265. Ruby Takes A Trip Pt. 11.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/266. Ruby Takes A Trip Pt. 12.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/267. Ruby Takes A Trip Pt. 13.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/268. The Art Of Tripping Pt. 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/269. The Art Of Tripping Pt. 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/270. The Art Of Tripping Pt. 3.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/271. The Art Of Tripping Pt. 4.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/272. The Art Of Tripping Pt. 5.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/273. The Colors Of Infinity Pt. 01.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/274. The Colors Of Infinity Pt. 02.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/275. The Colors Of Infinity Pt. 03.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/276. The Colors Of Infinity Pt. 04.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/277. The Colors Of Infinity Pt. 05.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/278. The Colors Of Infinity Pt. 06.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/279. The Colors Of Infinity Pt. 07.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/280. The Colors Of Infinity Pt. 08.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/281. The Colors Of Infinity Pt. 09.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/282. The Colors Of Infinity Pt. 10.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/283. The Colors Of Infinity Pt. 11.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/284. The Colors Of Infinity Pt. 12.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/285. The Colors Of Infinity Pt. 13.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/286. The Colors Of Infinity Pt. 14.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/287. The Colors Of Infinity Pt. 15.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/288. The Colors Of Infinity Pt. 16.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/289. The Colors Of Infinity Pt. 17.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/290. The Colors Of Infinity Pt. 18.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/291. The Colors Of Infinity Pt. 19.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/292. The Colors Of Infinity Pt. 20.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/293. Knocking On Heaven's Door.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/294. Lost Boys Calling.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/295. Lost Boys Calling (New Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/296. Why Do Fools Fall In Love (Uncredited).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/297. Walk Like A Man (Uncredited).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/298. Don't Ask Me (What I Say) (Uncredited).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/299. Big Girls Don't Cry (Uncredited).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/300. Beautiful Delilah (Uncredited).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/301. There's No Way Out Of Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/302. There's No Way Out Of Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/303. Like A Rolling Stone.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/304. Blue Light.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/305. Blue Light (Vocal Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/306. Blue Light (Instrumental Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/307. For The First Time Today (Parts 1 & 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/308. 5.01 Am (The Pros And Cons Of Hitch Hiking) (Extended).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/309. 5.06 Am (Every Strangers Eyes) (Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/310. Across The Universe.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/311. Radio K.A.O.S. (Loop Message).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/312. Radio Waves (Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/313. Radio Waves (Extended).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/314. Me Or Him (Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/315. The Fish Report With A Beat.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/316. 4 Minutes (Video Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/317. The Tide Is Turning (After Live Aid) (Video Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/318. Going To Live In L.A.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/319. Back To Radio.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/320. Money (1987 Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/321. Molly's Song (Live).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/322. Another Brick In The Wall (Part 2) (1990 Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/323. Another Brick In The Wall (Part 2) (Live Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/324. Young Lust (Live Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/325. Run Like Hell (Potsdamer Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/326. The Tide Is Turning (Live Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/327. What God Wants (Part 1) (Video Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/328. Perfect Sense (Backwards Message).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/329. Three Wishes (Radio Edit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/330. Incarceration Of A Flower Child.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/331. Confusion (Single Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/332. Confustion (Extended).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/333. Eyes Of A Gypsy.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/334. Eyes Of A Gypsy (Dub).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/335. Night Of A Thousand Furry Toys (Inverted Gravy Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/336. Runaway (R. Wright's Lemonade Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/337. Runaway (Leggit Dub).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1999 - A Tree Full Of Secrets/338. Lie For A Lie (Extended).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/01. I'm A King Bee.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/02. Interstellar Overdrive.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/03. Sunshine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/04. Milkyway.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/05. Astronomine Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/06. Scream The Last Scream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/07. The Committe 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/08. The Committe 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/09. Long Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/10. Slow Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/11. Obscured By Clouds When Your In.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/12. Silas Lane (Outtake).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/13. Flaming (US Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/14. Interstellar Overdrive (UFO Club 1967).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/15. Reactioning (Rotterdam 1967).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/16. 12 Bar (Montreux 1970).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/17. Libest Spacement Monitor (Copenhagen 1971).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/18. Embryo (Copenhagen 1971).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/19. Money (Demo 1971).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/20. On The Run (Demo 1971).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/21. Brain Damage (Demo 1971).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/22. Us And Them (Demo 1971).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/23. Childhood's End (Cincinatti 1973).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/24. Interstellar Overdrive (Acetate 1967).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/25. Moonhead (Ost From NASA Appolo 11 BBC 1969).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/26. Arnold Layne.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/27. Candy And Currant Bun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/28. Scarecrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/29. Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/30. See Emily Play.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/31. Corporal Clegg.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/32. It Would Be So Nice.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/33. Paintbox.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/34. Jugband Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/35. Vegetable Man.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/36. Let There Be More Light.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/37. The Narrow Way.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/38. Green Is The Colour.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/39. The Journey.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/40. Two Of A Kind.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/41. Bob Dylan S Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/42. Interstellar Overdrive.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/43. Astronomy.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/44. Mademoiselle Knobs.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/45. Come In Number 51 Your Time Is Up.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/46. Green Is The Colour.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/47. Careful With That Axe Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/48. Embryo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/49. Cymbaline.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/50. Granchester Meadows.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/51. Fearless.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/52. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/53. Brain Damage Eclipse.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/54. Interstellar Overdrive.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/55. See Saw.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/56. San Tropez.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/57. Intro.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/58. Let There Be More Light.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/59. Set The Controls For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/60. Intro.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/61. A Saucerful Of Secret.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/62. Candy.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/63. Interstellar Overwrite.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/64. Intro.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/65. Keep Smiling People.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/66. Intro.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/67. Let There Be More Light.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/68. Intro.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/69. Flaming.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/70. Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/71. Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/72. Cymbaline.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/73. Obscured By Clouds.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/74. Free Four.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/75. Instrumental Unreleased.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/76. Set The Control For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/77. Green Is The Colour.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/78. Careful With That Axe Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/79. Intro.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/80. The Violent Sequence.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/81. The Amazing Pudding.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/82. Careful With That Axe Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/83. Margritte PT4.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/84. Interstellar Overdrive.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/85. Pow R Toc H.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/86. Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/87. Set The Control For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/88. Let There Be More Light.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/89. Flaming.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/90. Set The Control For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/91. Interstellar Overdrive.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/92. A Saucerful Of Secrets.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/93. A Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/94. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/95. Any Colour You Like.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/96. Brain Damage.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/97. Eclipse.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/98. Pigs On The Wing Part 1 And 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/99. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/100. Like A Rolling Stone.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/101. Across The Universe.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/102. The Hit.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/103. Learning To Fly.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/104. Sign Of Life.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/105. Yet Another Movie.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/106. A New Machine Pt. 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/107. Terminal Frost.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/108. A New Machine Pt. 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/109. Another Brick In The Wall.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/110. The Dog Of War.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/111. On The Turning Away.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/112. A Saucerful Of Secrets.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/113. Sheep.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/114. Pigs Part 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/115. Dogs.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/116. Pigs Part 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/117. One Slip.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/118. Run Like Hell.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/119. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/120. Country Theme.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/121. Mexico '78.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/122. Big Theme.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/123. Small Theme.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/124. Carrerra Slow Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/125. Shine On You Crazy Diamond.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/126. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/127. High Hopes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/128. Take It Back.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/129. Coming Back To Life.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/130. Keep Talking.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Early Flights/131. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/01. Master Of Ceremonies.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/02. In The Flesh.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/03. The Thin Ice.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/04. Another Brick In The Wall Part 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/05. The Happiest Days Of Our Lives.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/06. Another Brick In The Wall Part 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/07. Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/08. Goodbye Blue Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/09. Empty Spaces.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/10. What Shall We Do Now.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/11. Young Lust.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/12. One Of My Turns.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/13. Don't Leave Me Now.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/14. Another Brick In The Wall Part 3.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/15. The Last Few Bricks.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/16. Goodbye Cruel World.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/17. Hey You.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/18. Is There Anybody Out There.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/19. Nobody Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/20. Vera.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/21. Bring The Boys Back Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/22. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/23. The Show Must Go On.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/24. MC Atmos.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/25. In The Flesh.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/26. Run Like Hell.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/27. Waiting For The Worms.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/28. Stop.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/29. The Trial.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - Is There Anybody Out There - The Wall Live/30. Outside The Wall.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - Echoes, The Best Of Pink Floyd/01. When The Tigers Broke Free.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - Echoes, The Best Of Pink Floyd/02. Shine On You Crazy Diamond (Parts 1-7).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - Echoes, The Best Of Pink Floyd/03. Wish You Were Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - Echoes, The Best Of Pink Floyd/04. Another Brick In The Wall (Part 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - Echoes, The Best Of Pink Floyd/05. Echoes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - Echoes, The Best Of Pink Floyd/06. Hey You.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - Echoes, The Best Of Pink Floyd/07. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - Echoes, The Best Of Pink Floyd/08. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Remixes Out There/01. Another Brick In The Wall (Cement Dark Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Remixes Out There/02. Is Anybody Out There (Junior Vasquez FX Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Remixes Out There/03. Lunatic (Jonathan Peters Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Remixes Out There/04. Wish You Were Here (Trance Atmosfear Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Remixes Out There/05. Money (The Dark Side Of The Moon Trance Remix) (With The Orb).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Remixes Out There/06. Brain Damage (Dark Side Of The Moon Trance Remix) (With The Orb).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Remixes Out There/07. Another Brick In The Wall (Pink Coffee Remix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Remixes Out There/08. Time (Trance Remix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/01. Love Scene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/02. Intermezzo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/03. Violence Sequence.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/04. Crumbling Land Pt. 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/05. Sleep.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/06. Oenone Pt. 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/07. Fingal's Cave.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/08. Red Queen Prelude.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/09. Crumbling Land Pt. 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/10. Rain In The Country.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/11. Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/12. Red Queen Theme.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/13. Oenone Pt. 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/14. The Embryo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/15. Heart Beat Pig Meat.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/16. Oenone (Reprise).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/17. Come In Number 51 Your Time Is Up.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/18. Heart Beat, Pig Meat (Soundtrack Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/19. Heart Beat, Pig Meat (Film Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/20. Riot Scene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/21. Fingal's Cave.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/22. Crumbling Land (With Rock Intro).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/23. Crumbling Land (Film Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/24. Crumbling Land (Soundtrack Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/25. Crumbling Land (Extended Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/26. Crumbling Land (Full Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/27. Unknown Song (Soundtrack Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/28. Unknown Song (Rough Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/29. Unknown Song (Full Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/30. Country Song (Humming Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/31. Country Song (Harpsichord Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/32. Country Song (Soundtrack Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/33. Country Song (Full Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/34. Love Scene #1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/35. Love Scene #2 (Rough Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/36. Love Scene #2 (Full Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/37. Love Scene #3.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/38. Love Scene #4 (Soundtrack Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/39. Love Scene #4 (Full Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/40. Love Scene #5.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/41. Love Scene #6 (Soundtrack Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/42. Love Scene #6 (Full Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/43. Come In Nr. 51, Your Time Is Up (Soundtrack Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zabriskie Point/44. Come In Nr. 51, Your Time Is Up (Film Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Old Symphonies/01. Embryo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Old Symphonies/02. Green Is The Colour.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Old Symphonies/03. Careful With That Axe, Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Old Symphonies/04. If.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Old Symphonies/05. Atom Heart Mother (Orchestra Versions).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Old Symphonies/06. Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Old Symphonies/07. Set The Controls For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Old Symphonies/08. Interstellar Overdrive.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/01. Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/02. Lucifer Sam.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/03. Matilda Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/04. Flaming.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/05. Pow R. Toc H.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/06. Take Up Thy Stethoscope And Walk.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/07. Interstellar Overdrive.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/08. The Gnome.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/09. Chapter 24.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/10. Scarecrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/11. Bike.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/12. Let There Be More Light.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/13. Remember A Day.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/14. Set The Controls For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/15. Corporal Clegg.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/16. A Saucerful Of Secrets.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/17. See-Saw.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/18. Jugband Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/19. Cirrus Minor.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/20. The Nile Song.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/21. Crying Song.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/22. Up The Khyber.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/23. Green Is The Colour.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/24. Cymbaline.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/25. Party Sequence.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/26. Main Theme.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/27. Ibiza Bar.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/28. More Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/29. Quicksilver.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/30. A Spanish Piece.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/31. Dramatic Theme.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/32. Sysyphus (Part One).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/33. Sysyphus (Part Two).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/34. Sysyphus (Part Three).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/35. Sysyphus (Part Four).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/36. Grantchester Meadows.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/37. Several Species Of Small Furry Animals Gathered Together In A Cave And Grooving With A Pict.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/38. The Narrow Way (Part One).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/39. The Narrow Way (Part Two).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/40. The Narrow Way (Part Three).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/41. The Grand Vizier's Garden Party (Part One, Entrance).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/42. The Grand Vizier's Garden Party (Part Two, Entertainment).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/43. The Grand Vizier's Garden Party (Part Three, Exit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/44. Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/45. Careful With That Axe, Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/46. Set The Controls For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/47. A Saucerful Of Secrets.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/48. Atom Heart Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/49. If.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/50. Summer '68.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/51. Fat Old Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/52. Alan's Psychedelich Breakfast.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/53. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/54. A Pillow Of Winds.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/55. Fearless.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/56. San Tropez.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/57. Seamus.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/58. Echoes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/59. Obscured By Clouds.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/60. When You're In.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/61. Burning Bridges.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/62. The Gold It's In The.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/63. Wot's ... Uh The Deal.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/64. Mudmen.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/65. Childhood's End.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/66. Free Four.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/67. Stay.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/68. Absolutely Curtains.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/69. Speak To Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/70. Breathe.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/71. On The Run.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/72. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/73. The Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/74. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/75. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/76. Any Colour You Like.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/77. Brain Damage.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/78. Eclipse.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/79. Shine On You Crazy Diamond (Part One).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/80. Welcome To The Machine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/81. Have A Cigar.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/82. Wish You Were Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/83. Shine On You Crazy Diamond (Part Two).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/84. Pigs On The Wing 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/85. Dogs.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/86. Pigs (Three Different Ones).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/87. Sheep.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/88. Pigs On The Wing 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/89. In The Flesh.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/90. The Thin Ice.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/91. Another Brick In The Wall (Part 1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/92. The Happiest Days Of Our Lives.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/93. Another Brick In The Wall (Part 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/94. Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/95. Goodbye Blue Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/96. Empty Spaces.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/97. Young Lust.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/98. One Of My Turns.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/99. Don't Leave Me Now.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/100. Another Brick In The Wall (Part 3).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/101. Goodbye Cruel World.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/102. Hey You.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/103. Is There Anybody Out There.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/104. Nobody Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/105. Vera.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/106. Bring The Boys Back Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/107. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/108. The Show Must Go On.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/109. In The Flesh.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/110. Run Like Hell.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/111. Waiting For The Worms.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/112. Stop.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/113. The Trial.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/114. Outside The Wall.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/115. The Post War Dream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/116. Your Possible Pasts.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/117. One Of The Few.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/118. When The Tigers Broke Free.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/119. The Hero's Return.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/120. The Gunner's Dream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/121. Paranoid Eyes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/122. Get Your Filthy Hands Off My Desert.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/123. The Fletcher Memorial Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/124. Southampton Dock.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/125. The Final Cut.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/126. Not Now John.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/127. Two Suns In The Sunset.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/128. Signs Of Life.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/129. Learning To Fly.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/130. The Dogs Of War.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/131. One Slip.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/132. On The Turning Away.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/133. Yet Another Movie 6a.  Round And Around.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/134. A New Machine (Part 1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/135. Terminal Frost.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/136. A New Machine (Part 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/137. Sorrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/138. Cluster One.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/139. What Do You Want From Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/140. Poles Apart.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/141. Marooned.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/142. A Great Day For Freedom.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/143. Wearing The Inside Out.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/144. Take It Back.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/145. Coming Back To Life.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/146. Keep Talking.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/147. Lost For Words.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Oh By The Way/148. High Hopes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/01. In The Flesh.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/02. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/03. The Happiest Days Of Our Lives.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/04. Another Brick In The Wall Pt. 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/05. The Fletcher Memorial Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/06. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/07. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/08. Final Cut.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/09. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/10. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/11. Run Like Hell.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/12. Sheep.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/13. Echoes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/14. Shine on You Crazy Diamond Pts. 1-5.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/15. The Hero's Return.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/16. Hey You.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/17. Wish You Were Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/18. Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/19. The Gunners Dream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/20. The Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/21. Young Lust.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/22. Have A Cigar.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/23. What Do You Want from Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/24. On The Turning Away.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/25. Take It Back.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/26. Learning To Fly.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2007 - Star Mark Greatest Hits/27. High Hopes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - Shine On Live/01. Shine On You Crazy Diamond.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - Shine On Live/02. Signs Of Life.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - Shine On Live/03. Learning To Fly.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - Shine On Live/04. Sorrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - Shine On Live/05. The Dogs Of War.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - Shine On Live/06. On The Turning Away.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - Shine On Live/07. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - Shine On Live/08. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - Shine On Live/09. On The Run.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - Shine On Live/10. The Great Gig In Teh Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - Shine On Live/11. Wish You Were Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - Shine On Live/12. Us Und Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - Shine On Live/13. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - Shine On Live/14. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - Shine On Live/15. One Slip.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - Shine On Live/16. Run Like Hell.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - Shine On Live/17. Shine On You Crazy Diamond.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - The Great Gig In The Sky/01. Speak To Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - The Great Gig In The Sky/02. Breathe.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - The Great Gig In The Sky/03. On The Run (Outttake).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - The Great Gig In The Sky/04. Time-Breathe Reprise (Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - The Great Gig In The Sky/05. The Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - The Great Gig In The Sky/06. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - The Great Gig In The Sky/07. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - The Great Gig In The Sky/08. Any Colour You Like.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - The Great Gig In The Sky/09. Brain Damage.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - The Great Gig In The Sky/10. Eclipse.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - The Great Gig In The Sky/11. Money (Acoustic Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - The Great Gig In The Sky/12. Us And Them (Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - The Great Gig In The Sky/13. Brain Damage-Eclipse (Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - The Great Gig In The Sky/14. Brain Damage Part 1 (Outttake).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2009 - The Great Gig In The Sky/15. Brain Damage Part 2 (Outttake).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/01. Speak To Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/02. Breathe.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/03. On The Run.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/04. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/05. Breathe (Reprise).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/06. The Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/07. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/08. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/09. Any Colour You Like.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/10. Brain Damage.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/11. Eclipse.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/12. Tuning & Soundcheck.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/13. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/14. Tuning & Soundcheck.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/15. Careful With That Axe, Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/16. Tuning & Soundcheck.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/17. Echoes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/18. Tuning & Soundcheck.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/19. Set The Controls For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/20. Speak To Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/21. Breathe.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/22. On The Run.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/23. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/24. Breathe (Reprise).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/25. The Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/26. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/27. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/28. Any Colour You Like.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/29. Brain Damage.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/30. Eclipse.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/31. Encore Break (With Tone S.E. & Soundcheck).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/32. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/33. Careful With That Axe, Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/34. Echoes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/35. Tuning & Soundcheck.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/36. A Saucerful Of Secrets.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/37. Tuning & Soundcheck.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/38. Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/39. Tuning & Soundcheck.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/40. Set The Controls For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/41. Breathe (Fade In).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/42. On The Run.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/43. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/44. Breathe (Reprise).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/45. The Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/46. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/47. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/48. Any Colour You Like.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/49. Brain Damage.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/50. Eclipse.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/51. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/52. Careful With That Axe, Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/53. Echoes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/54. A Saucerful Of Secrets (Cut).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/55. Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/56. Set The Controls For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/57. Speak To Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/58. Breathe.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/59. On The Run.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/60. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/61. Breathe (Reprise).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/62. The Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/63. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/64. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/65. Any Colour You Like.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/66. Brain Damage.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/67. Eclipse.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/68. Tuning & Soundcheck.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/69. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/70. Tuning & Soundcheck.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/71. Careful With That Axe, Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/72. Tuning & Soundcheck.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/73. Echoes  Encore Break.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/74. Audience Requests.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/75. A Saucerful Of Secrets.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/76. Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/77. Audience Requests.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2010 - The Complete Rainbow Tapes/78. Set The Controls For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Best Of A Foot In The Door/01. Hey You.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Best Of A Foot In The Door/02. See Emily Play.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Best Of A Foot In The Door/03. The Happiest Days Of Our Lives.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Best Of A Foot In The Door/04. Another Brick In The Wall (Part 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Best Of A Foot In The Door/05. Have A Cigar.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Best Of A Foot In The Door/06. Wish You Were Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Best Of A Foot In The Door/07. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Best Of A Foot In The Door/08. The Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Best Of A Foot In The Door/09. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Best Of A Foot In The Door/10. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Best Of A Foot In The Door/11. High Hopes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Best Of A Foot In The Door/12. Learning To Fly.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Best Of A Foot In The Door/13. The Fletcher Memorial Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Best Of A Foot In The Door/14. Shine On You Crazy Diamond.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Best Of A Foot In The Door/15. Brain Damage.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Best Of A Foot In The Door/16. Eclipse.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/01. Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/02. Lucifer Sam.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/03. Matilda Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/04. Flaming.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/05. Pow R. Toc H.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/06. Take Up Thy Stethoscope And Walk.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/07. Interstellar Overdrive.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/08. The Gnome.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/09. Chapter 24.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/10. Scarecrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/11. Bike.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/12. Let There Be More Light.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/13. Remember A Day.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/14. Set The Controls For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/15. Corporal Clegg.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/16. A Saucerful Of Secrets.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/17. See Saw.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/18. Jugband Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/19. Cirrus Minor.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/20. The Nile Song.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/21. Crying Song.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/22. Up The Khyber.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/23. Green Is The Colour.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/24. Cymbaline.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/25. Party Sequence.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/26. Main Theme.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/27. Ibiza Bar.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/28. More Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/29. Quicksilver.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/30. A Spanish Piece.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/31. Dramatic Theme.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/32. Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/33. Careful With That Axe, Eugene.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/34. Set The Controls For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/35. A Saucerful Of Secrets.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/36. Sysyphus Part One.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/37. Sysyphus Part Two.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/38. Sysyphus Part Three.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/39. Sysyphus Part Four.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/40. Grantchester Meadows.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/41. Several Species Of Small Furry Animals Gathered Together In A Cave And Grooving With A Pict.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/42. The Narrow Way Part One.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/43. The Narrow Way Part Two.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/44. The Narrow Way Part Three.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/45. The Grand Vizier's Garden Party Part One (Entrance).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/46. The Grand Vizier's Garden Party Part Two (Entertainment).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/47. The Grand Vizier's Garden Party Part Three (Exit).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/48. Atom Heart Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/49. If.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/50. Summer '68.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/51. Fat Old Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/52. Alan's Psychedelic Breakfast.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/53. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/54. A Pillow Of Winds.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/55. Fearless.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/56. San Tropez.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/57. Seamus.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/58. Echoes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/59. Obscured By Clouds.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/60. When You're In.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/61. Burning Bridges.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/62. The Gold It's In The.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/63. Wot's... Uh The Deal.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/64. Mudmen.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/65. Childhood's End.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/66. Free Four.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/67. Stay.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/68. Absolutely Curtains.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/69. Speak To Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/70. Breathe In The Air.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/71. On The Run.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/72. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/73. The Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/74. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/75. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/76. Any Colour You Like.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/77. Brain Damage.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/78. Eclipse.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/79. Shine On You Crazy Diamond (Parts 1-5).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/80. Welcome To The Machine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/81. Have A Cigar.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/82. Wish You Were Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/83. Shine On You Crazy Diamond (Parts 6-9).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/84. Pigs On The Wing 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/85. Dogs.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/86. Pigs (Three Different Ones).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/87. Sheep.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/88. Pigs On The Wing 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/89. In The Flesh.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/90. The Thin Ice.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/91. Another Brick In The Wall (Part 1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/92. The Happiest Days Of Our Lives.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/93. Another Brick In The Wall (Part 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/94. Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/95. Goodbye Blue Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/96. Empty Spaces.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/97. Young Lust.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/98. One Of My Turns.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/99. Don't Leave Me Now.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/100. Another Brick In The Wall (Part 3).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/101. Goodbye Cruel World.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/102. Hey You.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/103. Is There Anybody Out There.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/104. Nobody Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/105. Vera.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/106. Bring The Boys Back Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/107. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/108. The Show Must Go On.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/109. In The Flesh.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/110. Run Like Hell.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/111. Waiting For The Worms.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/112. Stop.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/113. The Trial.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/114. Outside The Wall.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/115. The Post War Dream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/116. Your Possible Pasts.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/117. One Of The Few.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/118. When The Tigers Broke Free.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/119. The Hero's Return.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/120. The Gunner's Dream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/121. Paranoid Eyes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/122. Get Your Filthy Hands Off My Desert.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/123. The Fletcher Memorial Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/124. Southampton Dock.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/125. The Final Cut.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/126. Not Now John.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/127. Two Suns In The Sunset.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/128. Signs Of Life.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/129. Learning To Fly.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/130. The Dogs Of War.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/131. One Slip.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/132. On The Turning Away.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/133. Yet Another Movie.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/134. Round and Around.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/135. A New Machine (Part 1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/136. Terminal Frost.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/137. A New Machine (Part 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/138. Sorrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/139. Cluster One.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/140. What Do You Want From Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/141. Poles Apart.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/142. Marooned.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/143. A Great Day For Freedom.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/144. Wearing The Inside Out.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/145. Take It Back.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/146. Coming Back To Life.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/147. Keep Talking.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/148. Lost For Words.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2011 - Discovery Box/149. High Hopes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - From Abbey Road To Britannia Row/01. Shine On You Crazy Diamond (Parts 1-9).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - From Abbey Road To Britannia Row/02. Welcome To The Machine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - From Abbey Road To Britannia Row/03. Have A Cigar.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - From Abbey Road To Britannia Row/04. Sheep (Raving And Drooling).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - From Abbey Road To Britannia Row/05. Dogs.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - From Abbey Road To Britannia Row/06. Pigs (Three Different Ones).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - From Abbey Road To Britannia Row/07. Sheep Sound Effects.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - The Endless River/01. Things Left Unsaid.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - The Endless River/02. It's What We Do.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - The Endless River/03. Ebb And Flow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - The Endless River/04. Sum.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - The Endless River/05. Skins.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - The Endless River/06. Unsung.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - The Endless River/07. Anisina.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - The Endless River/08. The Lost Art Of Conversation.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - The Endless River/09. On Noodle Street.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - The Endless River/10. Night Light.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - The Endless River/11. Allons-Y (Part 1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - The Endless River/12. Autumn '68.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - The Endless River/13. Allons-Y (Part 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - The Endless River/14. Talkin' Hawkin'.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - The Endless River/15. Calling.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - The Endless River/16. Eyes To Pearls.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - The Endless River/17. Surfacing.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2014 - The Endless River/18. Louder Than Words.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/01. Arnold Layne.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/02. See Emily Play.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/03. Matilda Mother (2010 Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/04. Jugband Blues (2010 Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/05. Paintbox.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/06. Flaming (BBC Session 1967).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/07. In The Beechwoods (2010 Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/08. Point Me At The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/09. Careful With That Axe, Eugene (Single Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/10. Embryo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/11. Ummagumma Radio AD.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/12. Grantchester Meadows (BBC Session 1969).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/13. Cymbaline (BBC Session 1969).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/14. Interstellar Overdrive (Live At The Paradiso 1969).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/15. Green Is The Colour.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/16. Careful With Axe, Eugene (BBC Session 1969).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/17. On The Highway (Zabriskie Point Remix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/18. Auto Scene Version 2 (Zabriskie Point Remix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/19. The Riot Scene (Zabriskie Point Remix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/20. Looking At Map (Zabriskie Point Remix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/21. Take Off (Zabriskie Point Remix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/22. Embryo (Alternative Version) (BBC Session 1970).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/23. Atom Heart Mother Band Version (Live In Montreux 1970).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/24. Nothing Part 14.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/25. Childhood's End (2016 Remix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/26. Free Four (2016 Remix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Cre-Ation - The Early Years 1967-1972 (Compilation)/27. Stay (2016 Remix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/01. Astronomy Domine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/02. See Emily Play.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/03. The Happiest Days Of Our Lives.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/04. Another Brick In The Wall (Part 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/05. Echoes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/06. Hey You.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/07. Marooned.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/08. The Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/09. Set The Controls For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/10. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/11. Keep Talking.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/12. Sheep.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/13. Sorrow.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/14. Shine On You, Crazy Diamond (Parts 1-7).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/15. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/16. The Fletcher Memorial Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/17. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/18. When The Tigers Broke Free.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/19. One Of These Days.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/20. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/21. Learning To Fly.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/22. Arnold Layne.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/23. Wish You Were Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/24. Jugband Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/25. High Hopes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Echoes - The Best Of Pink Floyd/26. Bike.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/01. Lucy leave.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/02. Double O Bo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/03. Remember Me.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/04. Walk With Me Sydney.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/05. Butterfly.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/06. I'm A  King Bee.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/07. Arnold Layne.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/08. See Emily Play.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/09. Apples And Oranges.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/10. Candy And A Currant Bun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/11. Paintbox.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/12. Matilda Mother (2010 Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/13. Jugband Blues (2010 Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/14. In The Beechwoods (2010 Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/15. Vegetable Man (2010 Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/16. Scream Thy Last Scream (2010 Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/17. Introduction (Live In Stockholm).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/18. Reaction In G (Live In Stockholm).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/19. Matilda Mother (Live In Stockholm).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/20. Pow R. Toc H. (Live In Stockholm).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/21. Scream Thy Last Scream (Live In Stockholm).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/22. Set The Controls For The Heart Of The Sun (Live In Stockholm).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/23. See Emily Play (Live In Stockholm).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/24. Interstellar Overdrive (Live In Stockholm).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/25. John Latham Version 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/26. John Latham Version 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/27. John Latham Version 3.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/28. John Latham Version 4.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/29. John Latham Version 5.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/30. John Latham Version 6.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/31. John Latham Version 7.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/32. John Latham Version 8.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/33. John Latham Version 9.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/34. Flaming (BBC Session September 1967).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/35. The Scarecrow (BBC Session September 1967).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/36. The Gnome (BBC Session September 1967).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/37. Matlida Mother (BBC Session September 1967).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/38. Reaction In G (BBC Session September 1967).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/39. Set The Controls For The Heart Of The Sun (BBC Session September 1967).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/40. Scream Thy Last Scream (BBC Session December1967).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/41. Vegetable Man (BBC Session December1967).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/42. Pow R. Toc H. (BBC Session December1967).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/43. Jugband Blues (BBC Session December1967).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/44. Baby Blue Shuffle In D Minor (BBC Session 1968).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/45. Blues (BBC Session 1968).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/46. Ummagumma US Radio Ad.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/47. Music From 'The Committee' No. 1 1968.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/48. Music From 'The Committee' No. 2 1968.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/49. Moonhead (BBC Broadcast 1969).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/50. Echoes (Live At Wembley 1974).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/51. Point Me At The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/52. It Would Be So Nice.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/53. Julia Dream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/54. Careful With That Axe, Eugene (Single Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/55. Song 1 (Capitol Studios 1968).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/56. Roger's Boogie.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/57. Murderotic Woman (BBC Session June 1968).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/58. The Massed Gadgets Of Hercules (BBC Session June 1968).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/59. Let There Be More Light (BBC Session June 1968).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/60. Julia Dream (BBC Session June 1968).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/61. Point Me At The Sky (BBC Session December 1968).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/62. Embryo (BBC Session December 1968).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/63. Interstellar Overdrive (BBC Session December 1968).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/64. Hollywood.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/65. Theme (Beat Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/66. More Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/67. Seabirds.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/68. Embryo (Studio Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/69. Grantchester Meadows (BBC Session May 1969).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/70. Cymbaline (BBC Session May 1969).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/71. The Narrow Way (BBC Session May 1969).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/72. Green Is The Colour (BBC Session May 1969).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/73. Careful With That Axe, Eugene (BBC Session May 1969).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/74. Interstellar Overdrive (Live At The Paradiso).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/75. Set The Controls For The Heart Of The Sun (Live At The Paradiso).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/76. Careful With That Axe, Eugene (Live At The Paradiso).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/77. A Suacerful Of Secrets (Live At The Paradiso).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/78. Daybreak (Grantchester Meadows).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/79. Work.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/80. Afternoon (Biding My Time).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/81. Doing It.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/82. Sleeping.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/83. Nightmare (Cymbaline).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/84. Labyrinth.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/85. The Beginning (Green Is The Colour).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/86. Beset By Creatures Of The Deep (Careful With That Axe, Eugene).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/87. The Narrow Way, Part 3.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/88. The Pink Jungle (Pow R. Toc H.).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/89. The Labyrinths Of Auximenes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/90. Footsteps  Doors.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/91. Behold The Temple Of Light.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/92. The End Of The Beginning (A Saucerful Of Secrets).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/93. Atom Heart Mother (Live In Montreux).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/94. Embryo (BBC, July 1970).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/95. Fat Old Sun (BBC, July 1970).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/96. Green Is The Colour (BBC, July 1970).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/97. Careful With That Axe, Eugene (BBC, July 1970).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/98. If (BBC, July 1970).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/99. Atom Heart Mother (BBC, July 1970).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/100. On The Highway (Zabriskie Point).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/101. Auto Scene Version 2 (Zabriskie Point).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/102. Auto Scene Version 3 (Zabriskie Point).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/103. Aeroplane (Zabriskie Point).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/104. Explosion (Zabriskie Point).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/105. The Riot Scene (Zabriskie Point).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/106. Looking At Map (Zabriskie Point).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/107. Love Scene Version 7 (Zabriskie Point).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/108. Love Scene Version 1 (Zabriskie Point).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/109. Take Off (Zabriskie Point).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/110. Take Off Version 2 (Zabriskie Point).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/111. Love Scene Version 2 (Zabriskie Point).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/112. Love Scene (Take 1) (Zabriskie Point).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/113. Unknown Song (Take 1) (Zabriskie Point).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/114. Love Scene (Take 2) (Zabriskie Point).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/115. Crumbling Land (Take 1) (Zabriskie Point).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/116. Atom Heart Mother (Early Studio Version).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/117. Nothing Part 14 (Echoes Work In Progress).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/118. Fat Old Sun (BBC September 1971).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/119. One Of These Days (BBC September 1971).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/120. Embryo (BBC September 1971).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/121. Echoes (BBC September 1971).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/122. Careful With That Axe, Eugene (Live At Pompeii 2016 Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/123. Set The Controls For The Heart Of The Sun (Live At Pompeii 2016 Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/124. One Of These Days (Live At Pompeii 2016 Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/125. A Saucerful Of Secrets (Live At Pompeii 2016 Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/126. Echoes (Live At Pompeii 2016 Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/127. Careful With That Axe, Eugene (Alternative Take) (Live At Pompeii 2016 Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/128. Obscured By Clouds.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/129. When You're In.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/130. Burning Bridges.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/131. The Gold It's In The.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/132. Wot's... Uh The Deal.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/133. Mudmen.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/134. Childhood's End.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/135. Free Four.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/136. Stay.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - The Early Years 1965-1972 (Compilation)/137. Absolutely Curtains.mp3
 /home/derrick/music/Queen/The Ultimate Best Of Queen/01 - Made In Heaven.mp3
 /home/derrick/music/Queen/The Ultimate Best Of Queen/02 - A Kind Of Magic.mp3
 /home/derrick/music/Queen/The Ultimate Best Of Queen/03 - Too Much Love Will Kill You.mp3
@@ -3828,240 +2543,6 @@ cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [
 /home/derrick/music/REM - Green/08 - Turn You Inside-out.mp3
 /home/derrick/music/REM - Green/05 - World Leader Pretend.mp3
 /home/derrick/music/REM - Green/03 - You Are The Everything.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Wet Dream (Rick Wright)/01. Mediterranean C.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Wet Dream (Rick Wright)/02. Against The Odds.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Wet Dream (Rick Wright)/03. Cat Cruise.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Wet Dream (Rick Wright)/04. Summer Elegy.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Wet Dream (Rick Wright)/05. Waves.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Wet Dream (Rick Wright)/06. Holiday.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Wet Dream (Rick Wright)/07. Mad Yannis Dance.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Wet Dream (Rick Wright)/08. Drop In From The Top.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Wet Dream (Rick Wright)/09. Pink's Song.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1978 - Wet Dream (Rick Wright)/10. Funky Deux.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1996 - Broken China (Rick Wright)/01. Breaking Water.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1996 - Broken China (Rick Wright)/02. Night Of A Thousand Furry Toys.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1996 - Broken China (Rick Wright)/03. Hidden Fear.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1996 - Broken China (Rick Wright)/04. Runaway.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1996 - Broken China (Rick Wright)/05. Unfair Ground.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1996 - Broken China (Rick Wright)/06. Satellite.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1996 - Broken China (Rick Wright)/07. Woman Of Custom.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1996 - Broken China (Rick Wright)/08. Interlude.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1996 - Broken China (Rick Wright)/09. Black Cloud.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1996 - Broken China (Rick Wright)/10. Far From The Harbour Wall.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1996 - Broken China (Rick Wright)/11. Drowning.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1996 - Broken China (Rick Wright)/12. Reaching For The Rail.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1996 - Broken China (Rick Wright)/13. Blue Room In Venice.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1996 - Broken China (Rick Wright)/14. Sweet July.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1996 - Broken China (Rick Wright)/15. Along The Shoreline.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1996 - Broken China (Rick Wright)/16. Breakthrough.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zee Identity (Rick Wright)/01. Confusion.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zee Identity (Rick Wright)/02. Voices.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zee Identity (Rick Wright)/03. Private Person.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zee Identity (Rick Wright)/04. Strange Rhytm.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zee Identity (Rick Wright)/05. Cuts Like A Diamond.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zee Identity (Rick Wright)/06. By Touching.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zee Identity (Rick Wright)/07. How Do You Do It.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2004 - Zee Identity (Rick Wright)/08. Seems We Were Dreaming.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1984 - The Pros And Cons Of Hitch Hiking (Roger Waters)/01. 430 AM (Apparently They Were Travelling Abroad).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1984 - The Pros And Cons Of Hitch Hiking (Roger Waters)/02. 433 AM (Running Shoes).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1984 - The Pros And Cons Of Hitch Hiking (Roger Waters)/03. 437 AM (Arabs With Knives And West German Skies).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1984 - The Pros And Cons Of Hitch Hiking (Roger Waters)/04. 439 AM (For The First Time Today, Part 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1984 - The Pros And Cons Of Hitch Hiking (Roger Waters)/05. 4.41 AM (Sexual Revolution).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1984 - The Pros And Cons Of Hitch Hiking (Roger Waters)/06. 4.47 AM (The Remains Of Our Love).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1984 - The Pros And Cons Of Hitch Hiking (Roger Waters)/07. 4.50 AM (Go Fishing).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1984 - The Pros And Cons Of Hitch Hiking (Roger Waters)/08. 4.56 AM (For The First Time Today, Part 1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1984 - The Pros And Cons Of Hitch Hiking (Roger Waters)/09. 4.58 AM (Dunroamin, Duncarin, Dunlivin).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1984 - The Pros And Cons Of Hitch Hiking (Roger Waters)/10. 5.01 AM (The Pros And Cons Of Hitch Hiking Part 10).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1984 - The Pros And Cons Of Hitch Hiking (Roger Waters)/11. 5.06 AM (Every Strangers Eyes).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1984 - The Pros And Cons Of Hitch Hiking (Roger Waters)/12. 5.11 AM (The Moment Of Clarity).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1987 - Radio K.A.O.S (Roger Waters)/01. Radio Waves.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1987 - Radio K.A.O.S (Roger Waters)/02. Who Needs Information.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1987 - Radio K.A.O.S (Roger Waters)/03. Me Or Him.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1987 - Radio K.A.O.S (Roger Waters)/04. The Powers That Be.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1987 - Radio K.A.O.S (Roger Waters)/05. Sunset Strip.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1987 - Radio K.A.O.S (Roger Waters)/06. Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1987 - Radio K.A.O.S (Roger Waters)/07. Four Minutes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1987 - Radio K.A.O.S (Roger Waters)/08. The Tide Is Turning (After Live Aid).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/01. In The Flash.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/02. The Thin Ice.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/03. Another Brick In The Wall Part 1.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/04. The Happiest Days Of Our Lives.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/05. Another Brick In The Wall Part 2.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/06. Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/07. Goodbye Blue Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/08. Empty Spaces.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/09. Young Lust.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/10. Oh My God - What A Fabulous Room.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/11. One Of My Turns.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/12. Donґt Leave Me Now.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/13. Another Brick In The Wall Part 3.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/14. Goodbye Cruel World.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/15. Hey You.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/16. Is There Anyone Out There.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/17. Nobody Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/18. Vera.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/19. Bring The Boys Back Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/20. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/21. In The Flesh.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/22. Run Like Hell.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/23. Waiting For The Worms.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/24. Stop.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/25. The Trial.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1990 - The Wall - Live In Berlin (Roger Waters)/26. The Tide Is Turning.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Amused To Death (Roger Waters)/01. The Ballad Of Bill Hubbard.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Amused To Death (Roger Waters)/02. What God Wants, Part I.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Amused To Death (Roger Waters)/03. Perfect Sense, Part I.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Amused To Death (Roger Waters)/04. Perfect Sense, Part II.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Amused To Death (Roger Waters)/05. The Bravery Of Being Out Of Range.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Amused To Death (Roger Waters)/06. Late Home Tonight, Part I.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Amused To Death (Roger Waters)/07. Late Home Tonight, Part II.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Amused To Death (Roger Waters)/08. Too Much Rope.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Amused To Death (Roger Waters)/09. What God Wants, Part II.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Amused To Death (Roger Waters)/10. What God Wants, Part III.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Amused To Death (Roger Waters)/11. Watching TV.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Amused To Death (Roger Waters)/12. Three Wishes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Amused To Death (Roger Waters)/13. It's A Miracle.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1992 - Amused To Death (Roger Waters)/14. Amused To Death.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - When The Wind Blows (Roger Waters)/01. When The Wind Blows.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - When The Wind Blows (Roger Waters)/02. Facts And Figures.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - When The Wind Blows (Roger Waters)/03. The Brazilian.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - When The Wind Blows (Roger Waters)/04. Squeeze What Have They Done.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - When The Wind Blows (Roger Waters)/05. The Shuffle.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - When The Wind Blows (Roger Waters)/06. The Russian Missile.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - When The Wind Blows (Roger Waters)/07. Towers Of Faith.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - When The Wind Blows (Roger Waters)/08. Hilda's Dream.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - When The Wind Blows (Roger Waters)/09. The American Bomber.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - When The Wind Blows (Roger Waters)/10. The Anderson Shelter.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - When The Wind Blows (Roger Waters)/11. The British Submarine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - When The Wind Blows (Roger Waters)/12. The Attack.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - When The Wind Blows (Roger Waters)/13. The Fall Out.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - When The Wind Blows (Roger Waters)/14. Hilda's Hair.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1997 - When The Wind Blows (Roger Waters)/15. Folded Flags.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/01. In The Flesh.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/02. The Happiest Days Of Our Lives.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/03. Another Brick In The Wall (Part 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/04. Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/05. Get Your Filthy Hands Out Of My Desert.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/06. Southampton Dock.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/07. Pigs On The Wing (Part 1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/08. Dogs.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/09. Welcome To The Machine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/10. Wish You Were Here.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/11. Shine On You Crazy Diamond (Parts 1-8).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/12. Set The Controls For The Heart Of The Sun.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/13. Breathe In The Air.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/14. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/15. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/16. Every Strangers Eyes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/17. Perfect Sense Part I & II.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/18. The Bravery Of Being Out Of Range.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/19. It's A Miracle.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/20. Amused To Death.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/21. Brain Damage.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/22. Eclipse.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/23. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2000 - In The Flesh (Roger Waters)/24. Each Small Candle.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2003 - Flickering Flame (Roger Waters)/01. Knockin' On Heaven's Door.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2003 - Flickering Flame (Roger Waters)/02. Too Much Rope.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2003 - Flickering Flame (Roger Waters)/03. The Tide Is Turning.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2003 - Flickering Flame (Roger Waters)/04. Perfect Sense Part I & II.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2003 - Flickering Flame (Roger Waters)/05. Three Wishes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2003 - Flickering Flame (Roger Waters)/06. 506 AM (Every Stranger's Eyes).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2003 - Flickering Flame (Roger Waters)/07. Who Needs Information.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2003 - Flickering Flame (Roger Waters)/08. Each Small Candle.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2003 - Flickering Flame (Roger Waters)/09. Flickering Flame (Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2003 - Flickering Flame (Roger Waters)/10. Towers Of Faith.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2003 - Flickering Flame (Roger Waters)/11. Radio Waves.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2003 - Flickering Flame (Roger Waters)/12. Lost Boys Calling (Demo).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/01. The Gathering Storm.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/02. Overture.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/03. Act 1. Scene 1. A Garden In Vienna 1765.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/04. Madame Antoine, Madame Antoine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/05. Scene 2. Kings, Sticks And Birds.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/06. Honest Bird, Simple Bird.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/07. I Want To Be King.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/08. Let Us Break All The Shields.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/09. Scene 3. The Grievances Of The People.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/10. Scene 4. France In Disarry.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/11. To Laugh Is To Know How To Live.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/12. Slavers, Landlords, Bigots At Your Door.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/13. Scene 5. The Fall Of The Bastille.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/14. To Freeze In The Dead Of Night.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/15. So To The Streets In The Pouring Rain.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/16. Act 2. Scene 1. Dances And Marches.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/17. Now Hear Ye!.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/18. Flushed With Wine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/19. Scene 2. The Letter.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/20. My Dear Cousin Bourbon Of Spain.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/21. The Ship Of State Is All At Sea.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/22. Scene 3. Silver, Sugar And Indigo.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/23. To The Windward Isles.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/24. Scene 4. The Papal Edict.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/25. In Paris There's Ramble Under The Ground.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/26. Act 3. Scene 1. The Fugitive King.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/27. But The Marquis Of Boulli Has A Trump Card Up His Sleeve.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/28. To Take Your Hat Off.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/29. The Echoes Never Fade From That Fusillade.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/30. Scene 2. The Commune De Paris.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/31. Vive La Commune De Paris.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/32. The National Assembly Is Confused.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/33. Scene 3. The Execution Of Louis Capet.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/34. Adieu Louis For You It's Over.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/35. Scene 4. Marie Antoinette - The Last Night On Earth.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/36. Adieu My Good And Tender Sister.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/37. Scene 5. Liberty.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2005 - Ca Ira (Roger Waters)/38. And In The Bushes Where They Survive.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/01. In The Flesh.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/02. The Thin Ice.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/03. Another Brick In The Wall (Part 1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/04. That Happiest Days Of Our Lives.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/05. Another Brick In The Wall (Part 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/06. The Ballad Of Jean Charles De Menezes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/07. Mother.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/08. Goodby Blue Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/09. Empty Spaces.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/10. What Shall We Do Now.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/11. Young Lust.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/12. One Of My Turns.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/13. Don't Leave Me Now.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/14. Another Brick In The Wall (Part 3).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/15. Last Few Bricks.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/16. Goodbye Cruel World.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/17. Hey You.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/18. Is There Anybody Out There.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/19. Nobody Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/20. Vera.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/21. Bring The Boys Back Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/22. Comfortably Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/23. The Show Must Go On.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/24. In The Flesh.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/25. Run Like Hell.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/26. Waiting For The Worms.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/27. Stop.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/28. The Trial.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2015 - The Wall (Roger Waters)/29. Outside The Wall.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Music From The Body (Roger Waters)/01. Our Song.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Music From The Body (Roger Waters)/02. Sea Shell And Stone.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Music From The Body (Roger Waters)/03. Red Stuff Writhe.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Music From The Body (Roger Waters)/04. A Gentle Breeze Blew Through Life.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Music From The Body (Roger Waters)/05. Lick Your Partners.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Music From The Body (Roger Waters)/06. Bridge Passage For Three Plastic Teeth.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Music From The Body (Roger Waters)/07. Chain Of Life.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Music From The Body (Roger Waters)/08. The Womb Bit.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Music From The Body (Roger Waters)/09. Embryo Thought.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Music From The Body (Roger Waters)/10. March Past Of The Embryos.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Music From The Body (Roger Waters)/11. More Than Seven Dwarfs In Penis-Land.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Music From The Body (Roger Waters)/12. Dance Of The Red Corpuscles.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Music From The Body (Roger Waters)/13. Body Transport.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Music From The Body (Roger Waters)/14. Hand Dance-Full Evening Dress.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Music From The Body (Roger Waters)/15. Breathe.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Music From The Body (Roger Waters)/16. Old Folks Ascension.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Music From The Body (Roger Waters)/17. Bed-Time-Dream-Chime.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Music From The Body (Roger Waters)/18. Piddle In Perspex.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Music From The Body (Roger Waters)/19. Embryonic Womb-Walk.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Music From The Body (Roger Waters)/20. Mrs. Throat Goes Walking.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Music From The Body (Roger Waters)/21. Sea Shell And Soft Stone.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Music From The Body (Roger Waters)/22. Give Birth To A Smile.mp3
 /home/derrick/music/Guardians Of The Galaxy/Guardians_Of_The_Galaxy_01_FLAC/110-rupert_holmes-escape_(the_pina_colada_song).flac
 /home/derrick/music/Guardians Of The Galaxy/Guardians_Of_The_Galaxy_02_FLAC/05-sam_cooke-bring_it_on_home_to_me.flac
 /home/derrick/music/Guardians Of The Galaxy/Guardians_Of_The_Galaxy_02_FLAC/10-silver-wham_bam_shang-a-lang.flac
@@ -4542,92 +3023,6 @@ cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [
 /home/derrick/music/Stevie Wonder/In Square Circle/08 Go Home.mp3
 /home/derrick/music/Stevie Wonder/In Square Circle/09 Overjoyed.mp3
 /home/derrick/music/Stevie Wonder/In Square Circle/10 It's Wrong (La La).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Barrett (Syd Barrett)/01. Baby Lemonade.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Barrett (Syd Barrett)/02. Love Song.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Barrett (Syd Barrett)/03. Dominoes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Barrett (Syd Barrett)/04. It Is Obvious.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Barrett (Syd Barrett)/05. Rats.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Barrett (Syd Barrett)/06. Maisie.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Barrett (Syd Barrett)/07. Gigolo Aunt.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Barrett (Syd Barrett)/08. Waving My Arms In The Air.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Barrett (Syd Barrett)/09. I Never Lied To You.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Barrett (Syd Barrett)/10. Wined And Dined.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Barrett (Syd Barrett)/11. Wolfpack.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Barrett (Syd Barrett)/12. Effervescing Elephant.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Barrett (Syd Barrett)/13. Baby Lemonade (Take 1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Barrett (Syd Barrett)/14. Waving My Arms In The Air (Take 1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Barrett (Syd Barrett)/15. I Never Lied To You (Take 1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Barrett (Syd Barrett)/16. Love Song (Take 1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Barrett (Syd Barrett)/17. Dominoes (Take 1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Barrett (Syd Barrett)/18. Dominoes (Take 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Barrett (Syd Barrett)/19. It Is Obvious (Take 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Barrett (Syd Barrett)/20. Bob Dylan Blues.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - Barrett (Syd Barrett)/21. Dominoes (2010 Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Madcap Laughs (Syd Barrett)/01. Terrapin.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Madcap Laughs (Syd Barrett)/02. No Good Trying.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Madcap Laughs (Syd Barrett)/03. Love You.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Madcap Laughs (Syd Barrett)/04. No Man's Land.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Madcap Laughs (Syd Barrett)/05. Dark Globe.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Madcap Laughs (Syd Barrett)/06. Here I Go.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Madcap Laughs (Syd Barrett)/07. Octopus.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Madcap Laughs (Syd Barrett)/08. Golden Hair.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Madcap Laughs (Syd Barrett)/09. Long Gone.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Madcap Laughs (Syd Barrett)/10. She Took A Long Cool Look.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Madcap Laughs (Syd Barrett)/11. Feel.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Madcap Laughs (Syd Barrett)/12. If It's In You.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Madcap Laughs (Syd Barrett)/13. Late Night.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Madcap Laughs (Syd Barrett)/14. Octopus (Takes 1 & 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Madcap Laughs (Syd Barrett)/15. No Good Trying (Take 5).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Madcap Laughs (Syd Barrett)/16. Love You (Take 1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Madcap Laughs (Syd Barrett)/17. Love Your (Take 1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Madcap Laughs (Syd Barrett)/18. She Took A Long Cool Look At Me (Take 4).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Madcap Laughs (Syd Barrett)/19. Golden Hair (Take 5).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1970 - The Madcap Laughs (Syd Barrett)/20. Rhamadam.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/01. Opel.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/02. Clowns & Jugglers.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/03. Rats.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/04. Golden Hair (Remake, Take 6).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/05. Dolly Rocker.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/06. Word Song.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/07. Wined And Dined.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/08. Swan Lee (Silas Lang).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/09. Birdie Hop.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/10. Let's Split.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/11. Lanky (Part One).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/12. Wouldn't You Miss Me (Dark Globe).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/13. Milky Way.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/14. Golden Hair (Take 1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/15. Gigolo Aunt (Take 9).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/16. It Is Obvious (Take 3).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/17. It Is Obvious (Take 5).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/18. Clowns And Jugglers (Take 1).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/19. Late Night (Take 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/20. Effervescing Elephant (Take 2).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/21. Here I Go (2010 Remix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/22. Octopus (2010 Remix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1988 - Opel (Syd Barrett)/23. She Took A Long Cool Look (2010 Mix).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - The Best Of (Syd Barrett)/01. Octopus.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - The Best Of (Syd Barrett)/02. Late Night.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - The Best Of (Syd Barrett)/03. Terrapin.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - The Best Of (Syd Barrett)/04. Swan Lee (Silas Lang).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - The Best Of (Syd Barrett)/05. Wolfpack.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - The Best Of (Syd Barrett)/06. Golden Hair.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - The Best Of (Syd Barrett)/07. Here I Go.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - The Best Of (Syd Barrett)/08. Long Gone.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - The Best Of (Syd Barrett)/09. No Good Trying.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - The Best Of (Syd Barrett)/10. Opel.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - The Best Of (Syd Barrett)/11. Baby Lemonade.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - The Best Of (Syd Barrett)/12. Gigolo Aunt.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - The Best Of (Syd Barrett)/13. Dominoes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - The Best Of (Syd Barrett)/14. Wouldn't You Miss Me (Dark Globe).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - The Best Of (Syd Barrett)/15. Wined And Dined.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - The Best Of (Syd Barrett)/16. Effervescing Elephant.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - The Best Of (Syd Barrett)/17. Waving My Arms In The Air.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - The Best Of (Syd Barrett)/18. I Never Lied To You.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - The Best Of (Syd Barrett)/19. Love Song.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - The Best Of (Syd Barrett)/20. Two Of A Kind.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - The Best Of (Syd Barrett)/21. Bob Dylan Blues (Previously Unreleased).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2001 - The Best Of (Syd Barrett)/22. Golden Hair (Instrumental).mp3
 /home/derrick/music/The Beatles - The Beatles 1962-1966 - [TFM]/01. Love Me Do.flac
 /home/derrick/music/The Beatles - The Beatles 1962-1966 - [TFM]/02. Please Please Me.flac
 /home/derrick/music/The Beatles - The Beatles 1962-1966 - [TFM]/03. From Me to You.flac
@@ -4681,24 +3076,6 @@ cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [
 /home/derrick/music/The Doors - The Very Best Of 40th Av [MP3-M3U-Log-Cov-CD][Bubanee]/20. The Doors - The Very Best Of The Doors - The End.mp3
 /home/derrick/music/Guardians Of The Galaxy/Guardians_Of_The_Galaxy_01_FLAC/111-the_five_stairsteps-o-o-h_child.flac
 /home/derrick/music/Guardians Of The Galaxy/Guardians_Of_The_Galaxy_01_FLAC/107-the_jackson_5-i_want_you_back.flac
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Pink Floyd's Wish You Were Here Symphonic/01. Wish You Were Here (Vocal).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Pink Floyd's Wish You Were Here Symphonic/02. The Orchestra Tunes.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Pink Floyd's Wish You Were Here Symphonic/03. Shine On You Crazy Diamond (Parts I-V).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Pink Floyd's Wish You Were Here Symphonic/04. Welcome To The Machine.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Pink Floyd's Wish You Were Here Symphonic/05. Have A Cigar.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Pink Floyd's Wish You Were Here Symphonic/06. Wish You Were Here (Instrumental).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Pink Floyd's Wish You Were Here Symphonic/07. Shine On You Crazy Diamond (Parts VI-IX).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/2016 - Pink Floyd's Wish You Were Here Symphonic/08. Eclipse.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - The Symphonic Music Of Pink Floyd/01. Time.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - The Symphonic Music Of Pink Floyd/02. Brain Damage.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - The Symphonic Music Of Pink Floyd/03. Another Brick In The Wall (Part II).mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - The Symphonic Music Of Pink Floyd/04. Comfortable Numb.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - The Symphonic Music Of Pink Floyd/05. Breathe.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - The Symphonic Music Of Pink Floyd/06. Money.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - The Symphonic Music Of Pink Floyd/07. The Great Gig In The Sky.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - The Symphonic Music Of Pink Floyd/08. Nobody Home.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - The Symphonic Music Of Pink Floyd/09. Us And Them.mp3
-/home/derrick/music/Pink Floyd - Discography 1965-2016 (mp3)/1995 - The Symphonic Music Of Pink Floyd/10. Time.mp3
 /home/derrick/music/The Marshall Tucker Band - Anthology The First 30 Years (2005) Mp3 320 vtwin88cube/Disc 1/01.Take The Highway.mp3
 /home/derrick/music/The Marshall Tucker Band - Anthology The First 30 Years (2005) Mp3 320 vtwin88cube/Disc 1/02.Can't You See.mp3
 /home/derrick/music/The Marshall Tucker Band - Anthology The First 30 Years (2005) Mp3 320 vtwin88cube/Disc 1/03.24 Hours At A Time.mp3
@@ -4731,6 +3108,16 @@ cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [
 /home/derrick/music/The Marshall Tucker Band - Anthology The First 30 Years (2005) Mp3 320 vtwin88cube/Disc 2/15.Ramblin'.mp3
 /home/derrick/music/The Marshall Tucker Band - Anthology The First 30 Years (2005) Mp3 320 vtwin88cube/Disc 2/16.Texas On My Mind.mp3
 /home/derrick/music/The Marshall Tucker Band - Anthology The First 30 Years (2005) Mp3 320 vtwin88cube/Disc 2/17.Ride Of Your Life.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2009 - The Matrix Feat. Katy Perry & Adam Longlands (The Matrix) - (320 kbps)/01. You Miss Me (Feat. Katy Perry And Adam Longlands).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2009 - The Matrix Feat. Katy Perry & Adam Longlands (The Matrix) - (320 kbps)/02. Broken (Feat. Katy Perry And Adam Longlands).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2009 - The Matrix Feat. Katy Perry & Adam Longlands (The Matrix) - (320 kbps)/03. Damn (Feat. Katy Perry).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2009 - The Matrix Feat. Katy Perry & Adam Longlands (The Matrix) - (320 kbps)/04. Take A Walk (Feat. Adam Longlands And Katy Perry).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2009 - The Matrix Feat. Katy Perry & Adam Longlands (The Matrix) - (320 kbps)/05. Just A Song (Feat. Katy Perry).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2009 - The Matrix Feat. Katy Perry & Adam Longlands (The Matrix) - (320 kbps)/06. I Love You (Feat. Adam Longlands).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2009 - The Matrix Feat. Katy Perry & Adam Longlands (The Matrix) - (320 kbps)/07. Live Before I Die (Feat. Adam Longlands).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2009 - The Matrix Feat. Katy Perry & Adam Longlands (The Matrix) - (320 kbps)/08. Would You Care (Feat. Katy Perry).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2009 - The Matrix Feat. Katy Perry & Adam Longlands (The Matrix) - (320 kbps)/09. Seen That Done That (Feat. Adam Longlands And Katy Perry).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Albums Other/2009 - The Matrix Feat. Katy Perry & Adam Longlands (The Matrix) - (320 kbps)/10. Stay With Me (Feat. Adam Longlands And Katy Perry).mp3
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1978 - Outlandos d'Amour [2003 Remaster]/01 - Next to You.flac
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/Outlandos d'Amour[mp3]/01 - Next to You.mp3
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1978 - Outlandos d'Amour [2003 Remaster]/02 - So Lonely.flac
@@ -4773,48 +3160,26 @@ cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/Regatta de Blanc[mp3]/10 - Does Everyone Stare.mp3
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/11 - No Time This Time.flac
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/Regatta de Blanc[mp3]/11 - No Time This Time.mp3
-/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/01 - Don't Stand So Close to Me.flac
-/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/01 - Don't Stand So Close to Me.mp3
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/01 - Don't Stand So Close to Me.flac
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/01 - Don't Stand So Close to Me.mp3
-/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/02 - Driven to Tears.flac
-/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/02 - Driven to Tears.mp3
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/02 - Driven to Tears.flac
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/02 - Driven to Tears.mp3
-/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/03 - When the World Is Running Down, You Make the Best of What's Still Around.flac
-/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/03 - When the World Is Running Down, You Make the Best of What's Still Around.mp3
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/03 - When the World Is Running Down, You Make the Best of What's Still Around.flac
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/03 - When the World Is Running Down, You Make the Best of What's Still Around.mp3
-/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/04 - Canary in a Coalmine.flac
-/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/04 - Canary in a Coalmine.mp3
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/04 - Canary in a Coalmine.flac
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/04 - Canary in a Coalmine.mp3
-/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/05 - Voices Inside My Head.flac
-/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/05 - Voices Inside My Head.mp3
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/05 - Voices Inside My Head.flac
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/05 - Voices Inside My Head.mp3
-/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/06 - Bombs Away.flac
-/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/06 - Bombs Away.mp3
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/06 - Bombs Away.flac
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/06 - Bombs Away.mp3
-/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/07 - De Do Do Do, De Da Da Da.flac
-/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/07 - De Do Do Do, De Da Da Da.mp3
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/07 - De Do Do Do, De Da Da Da.flac
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/07 - De Do Do Do, De Da Da Da.mp3
-/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/08 - Behind My Camel.flac
-/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/08 - Behind My Camel.mp3
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/08 - Behind My Camel.flac
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/08 - Behind My Camel.mp3
-/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/09 - Man in a Suitcase.flac
-/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/09 - Man in a Suitcase.mp3
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/09 - Man in a Suitcase.flac
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/09 - Man in a Suitcase.mp3
-/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/10 - Shadows in the Rain.flac
-/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/10 - Shadows in the Rain.mp3
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/10 - Shadows in the Rain.flac
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/10 - Shadows in the Rain.mp3
-/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/11 - The Other Way of Stopping.flac
-/home/derrick/music/1980 - Zenyatta Mondatta [2003 Remaster]/11 - The Other Way of Stopping.mp3
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/11 - The Other Way of Stopping.flac
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/11 - The Other Way of Stopping.mp3
 /home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/01 - Spirits in the Material World.flac
@@ -4992,6 +3357,15 @@ cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [
 /home/derrick/music/The Who - Greatest Hits (2009)/The_Who-Greatest_Hits-2009/17-the_who-eminence_front.mp3
 /home/derrick/music/The Who - Greatest Hits (2009)/The_Who-Greatest_Hits-2009/18-the_who-real_good_looking_boy.mp3
 /home/derrick/music/The Who - Greatest Hits (2009)/The_Who-Greatest_Hits-2009/19-the_who-its_not_enough.mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - If We Ever Meet Again (Timbaland Feat. Katy Perry ) (CDMS Promo) - (320 kbps)/01. If We Ever Meet Again (Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - If We Ever Meet Again (Timbaland Feat. Katy Perry ) (CDMS Promo) - (320 kbps)/02. If We Ever Meet Again (Album Version).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - If We Ever Meet Again (Timbaland Feat. Katy Perry ) (CDMS Promo) - (320 kbps)/03. If We Ever Meet Again (Digital Dog Radio Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - If We Ever Meet Again (Timbaland Feat. Katy Perry ) (CDMS Promo) - (320 kbps)/04. If We Ever Meet Again (Digital Dog Dub Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - If We Ever Meet Again (Timbaland Feat. Katy Perry ) (CDMS Promo) - (320 kbps)/05. If We Ever Meet Again (Digital Dog Full Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - If We Ever Meet Again (Timbaland Feat. Katy Perry ) (CDMS Promo) - (320 kbps)/06. If We Ever Meet Again (Chew Fu Deja Chew Fix Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - If We Ever Meet Again (Timbaland Feat. Katy Perry ) (CDMS Promo) - (320 kbps)/07. If We Ever Meet Again (Starsmith Remix).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - If We Ever Meet Again (Timbaland With Katy Perry) (CDS) - (320 kbps)/01. If We Ever Meet Again (International Radio Edit).mp3
+/home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2010 - If We Ever Meet Again (Timbaland With Katy Perry) (CDS) - (320 kbps)/02. If We Ever Meet Again (Digital Dog Radio Remix).mp3
 /home/derrick/music/S&G/Tom And Jerry/Disk 1/01 - The Girl For Me.mp3
 /home/derrick/music/S&G/Tom And Jerry/Disk 1/02 - Hey Schoolgirl.mp3
 /home/derrick/music/S&G/Tom And Jerry/Disk 1/03 - Dancin' Wild.mp3
@@ -5055,13 +3429,6 @@ cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [
 /home/derrick/music/S&G/Tom And Jerry/Disk 2/30 - Forever And After.mp3
 /home/derrick/music/TracyChapman/Collection/09 - For My Lover.mp3
 /home/derrick/music/TracyChapman/Collection/14 - Talkin' Bout A Revolution.mp3
-/home/derrick/podcasts/All_TWiT.tv_Shows_MP3/Triangulation_309_Scott_Johnson.mp3
-/home/derrick/podcasts/All_TWiT.tv_Shows_MP3/Know_How..._334_PGP_and_Cleaning_Your_PC.mp3
-/home/derrick/podcasts/All_TWiT.tv_Shows_MP3/iOS_Today_355_Back_to_School_2017.mp3
-/home/derrick/podcasts/All_TWiT.tv_Shows_MP3/MacBreak_Weekly_570_Bare-Chested_Justin.mp3
-/home/derrick/podcasts/All_TWiT.tv_Shows_MP3/Security_Now_623_Inching_Forward.mp3
-/home/derrick/podcasts/All_TWiT.tv_Shows_MP3/Tech_News_Today_1826_Resting_Unlock_Face.mp3
-/home/derrick/podcasts/All_TWiT.tv_Shows_MP3/Tech_News_Today_1827_This_Podcast_Is_for_the_Dogs.mp3
 /home/derrick/music/U2/Joshua Tres/01 - Still haven't found.mp3
 /home/derrick/music/U2/Joshua Tres/02 - ÇúÄ¿ 2.mp3
 /home/derrick/music/U2/Joshua Tres/03 - ÇúÄ¿ 3.mp3
