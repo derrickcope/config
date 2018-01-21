@@ -1,16 +1,19 @@
+add ~/podcasts/
+clear
+refresh
+help
+rem ~/podcasts
+rm ~/podcasts
 add ~/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/
 stop
 pause
 ? stop
 pause ?
-help
 ?
 h
 add ~/music
-clear
 s
 man
-add ~/podcasts/
 add ~/music/
 cleal
 remove

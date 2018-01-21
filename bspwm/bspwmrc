@@ -1,7 +1,15 @@
 #! /bin/sh
 
-#sxhkd &
-panel &
+#[ -e "$PANEL_FIFO" ] && bspc subscribe report > "$PANEL_FIFO" & 
+#pgrep -x panel > /dev/null || panel &
+
+#panel &
+#panel01 &
+
+#[ -e "$PANEL_FIFO" ] && bspc subscribe report > "$PANEL_FIFO" & 
+#pgrep -x panel01 > /dev/null || panel01 &
+
+rubypanel &
 
 bspc monitor DP1 -d V VI VII VIII
 bspc monitor HDMI2 -d I II III IV
@@ -9,6 +17,8 @@ bspc monitor HDMI2 -d I II III IV
 
 
 # window config
+bspc config -m HDMI2 top_padding    12
+bspc config -m DP1 top_padding      12
 bspc config border_width            2
 bspc config window_gap              10
 bspc config split_ratio             0.50
@@ -23,13 +33,14 @@ bspc config pointer_modifier        mod1
 redshift-gtk &
 
 bspc rule -a Gimp desktop='^3' state=floating follow=on
+bspc rule -a Inkscape desktop='^4' state=floating follow=on
 
 bspc rule -a Firefox desktop='^5'
 firefox &
 
 bspc rule -a Screenkey manage=off
 
-bspc rule -a stalonetray state=floating rectangle=5x5x1921x1
+bspc rule -a stalonetray state=floating rectangle=5x5+3000+1
 stalonetray &
 
 bspc rule -a Pavucontrol desktop='^8'
@@ -47,7 +58,7 @@ urxvt -name vifm -title vifm -e vifm &
 bspc rule -a URxvt:term1 desktop='^1'
 urxvt -name term1 &
 
-bspc rule -a xterm:bashrun floating=true center=true
+bspc rule -a Xterm:Bashrun state=floating center=true rectangle=10x20
 
 bspc desktop 0 --focus
 

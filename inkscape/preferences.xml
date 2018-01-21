@@ -133,8 +133,8 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="792.857"
-         height="798.571"
+         width="26.0675"
+         height="5"
          rx="0"
          ry="0" />
       <eventcontext
@@ -312,7 +312,7 @@
        id="eraser"
        mode="1"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
-       mass="0.02"
+       mass="3"
        drag="1"
        angle="30"
        width="10"
@@ -409,7 +409,7 @@
        selcue="1"
        gradientdrag="1"
        pick="1"
-       setalpha="1"
+       setalpha="0"
        onetimepick="0" />
     <eventcontext
        id="select"
@@ -580,9 +580,9 @@
        panel_border="0"
        page="0"
        x="768"
-       y="360"
+       y="353"
        w="383"
-       h="384"
+       h="398"
        visible="1"
        state="2"
        placement="2" />
@@ -596,9 +596,9 @@
        panel_wrap="0"
        panel_border="0"
        x="768"
-       y="260"
+       y="109"
        w="383"
-       h="583"
+       h="885"
        visible="1"
        state="2"
        placement="5" />
@@ -610,11 +610,11 @@
        panel_mode="1"
        panel_wrap="0"
        panel_border="0"
-       rotateCounterClockwise="1"
+       rotateCounterClockwise="0"
        x="2435"
        y="96"
        w="357"
-       h="196" />
+       h="206" />
     <group
        id="align" />
     <group
@@ -636,9 +636,9 @@
        panel_wrap="0"
        panel_border="0"
        x="637"
-       y="154"
+       y="87"
        w="645"
-       h="796"
+       h="930"
        visible="0"
        placement="1" />
     <group
@@ -649,7 +649,7 @@
        panel_mode="1"
        panel_wrap="0"
        panel_border="0"
-       page="14"
+       page="17"
        x="588"
        y="339"
        w="743"
@@ -668,8 +668,8 @@
        panel_mode="1"
        panel_wrap="0"
        panel_border="0"
-       x="1260"
-       y="264"
+       x="754"
+       y="316"
        w="412"
        h="472"
        visible="0"
@@ -687,7 +687,7 @@
        default="org.inkscape.output.svg.inkscape"
        append_extension="1"
        enable_preview="1"
-       path="/home/derrick/nike/2017NSC"
+       path="/home/derrick/pictures/pilatestimeline"
        use_current_dir="1" />
     <group
        id="save_copy"
@@ -698,11 +698,11 @@
     <group
        id="open"
        enable_preview="1"
-       path="/home/derrick/pilates/synapsestudio/synapselogonew/" />
+       path="/home/derrick/pictures/Synapse/" />
     <group
        id="import"
        enable_preview="1"
-       path="/home/derrick/toesox/"
+       path="/home/derrick/pilates/synapsestudio/synapselogonew/"
        ask="1"
        link="embed"
        scale="auto"
@@ -711,7 +711,8 @@
        id="debug"
        redirect="0" />
     <group
-       id="clonetiler" />
+       id="clonetiler"
+       dotrace="0" />
     <group
        id="gridtiler" />
     <group
@@ -745,7 +746,16 @@
        id="extensioneditor" />
     <group
        id="trace"
-       state="1" />
+       state="1"
+       panel_size="1"
+       panel_ratio="100"
+       panel_mode="1"
+       panel_wrap="0"
+       panel_border="0"
+       x="676"
+       y="348"
+       w="568"
+       h="384" />
     <group
        id="script" />
     <group
@@ -765,8 +775,8 @@
        visible="1"
        h="438"
        w="398"
-       y="319"
-       x="766"
+       y="333"
+       x="761"
        panel_border="0"
        panel_wrap="0"
        panel_mode="1"
@@ -818,7 +828,7 @@
        value="12" />
     <group
        id="cursortolerance"
-       value="8.0" />
+       value="8" />
     <group
        id="dragtolerance"
        value="4.0" />
@@ -1061,10 +1071,14 @@
        id="rendering" />
   </group>
   <group
-     id="extensions" />
+     id="extensions"
+     org.inkscape.effect.filter.ColorShift.shift="249"
+     org.inkscape.effect.filter.ColorShift.sat="1"
+     org.inkscape.effect.filter.ColorShift.__live_effect__="0"
+     org.ekips.filter.extractimage.filepath="carola" />
   <group
      id="desktop"
-     style="line-height:28px;font-size:42.66666667px;-inkscape-font-specification:'Ubuntu Bold';font-family:Ubuntu;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#252429;fill-opacity:1">
+     style="line-height:25px;font-size:64px;-inkscape-font-specification:'Schumacher Clean Wide Bold';font-family:'Schumacher Clean Wide';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#000000;fill-opacity:1;stroke:#f3f2f0;stroke-opacity:1">
     <group
        width="1918"
        height="1060"

@@ -41,7 +41,7 @@
 # Bookmarks:
 
 # TUI:
-al
+ar
 q0
 v2
 ov
@@ -50,609 +50,609 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/derrick
-	downloads
-33
-d/home/derrick/downloads
-	taiwanINV13319-2017.pdf
-51
-d/home/derrick
-	downloads
-33
-d/run/media/derrick
-	F017-2DD1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
+	blocks
 1
-d/run/media/derrick/F017-2DD1
-	.vifm-Trash-1000
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr/blocks
+	memory.rb
+10
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
+	blocks
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
+	barr.rb
+2
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3
+	bin
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/bin
+	console
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3
+	lib
+4
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
+	barr
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
+	manager.rb
 3
-d/run/media/derrick
-	F017-2DD1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
+	barr
 1
-d/run/media
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3
+	lib
+4
+d/home/derrick/.gem/ruby/2.5.0/gems
+	barr-0.2.3
+1
+d/home/derrick/.gem/ruby/2.5.0
+	gems
+6
+d/home/derrick/.gem/ruby
+	2.5.0
+3
+d/home/derrick/.gem
+	ruby
+1
+d/home/derrick
+	.config
+3
+d/home/derrick/.config
+	bspwm
+6
+d/home/derrick/.config/bspwm
+	bspwmrc
+1
+d/home/derrick/.config
+	mpv
+23
+d/home/derrick
+	.config
+3
+d/home/derrick/.config
+	bspwm
+6
+d/home/derrick/.config/bspwm
+	bspwmrc
+1
+d/home/derrick/.config
+	bspwm
+6
+d/home/derrick
+	xiamenlbp.pdf
+53
+d/home
 	derrick
 1
-d/home/derrick/downloads
-	WickedCoolRubyScripts.pdf
-42
 d/
 	home
 4
+d/home
+	derrick
+1
 d/home/derrick
-	pilates
-42
-d/home/derrick/pilates
-	MicheleLarsson
-4
-d/home/derrick/pilates/MicheleLarsson
-	MLsig.png
-12
-d/home/derrick/pilates
-	PMA
-5
-d/home/derrick/pilates/PMA
-	tanyasig.xcf
-49
-d/home/derrick/pilates
-	PMA
-5
-d/home/derrick/pilates/PMA
-	PMA2015
-11
-d/home/derrick/pilates/PMA/PMA2015
+	.gem
+6
+d/home/derrick/.gem
+	specs
+2
+d/home/derrick/.gem/specs
 	..
 0
-d/home/derrick/pilates/PMA
-	PMA2014
+d/home/derrick/.gem
+	ruby
+1
+d/home/derrick/.gem/ruby
+	2.5.0
+3
+d/home/derrick/.gem/ruby/2.5.0
+	bin
+1
+d/home/derrick/.gem/ruby/2.5.0/bin
+	barr_i3ipc
+2
+d/home/derrick/.gem/ruby/2.5.0
+	gems
+6
+d/home/derrick/.gem/ruby/2.5.0/gems
+	barr-0.2.3
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3
+	lib
+4
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
+	barr
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
+	blocks
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr/blocks
+	memory.rb
 10
-d/home/derrick/pilates/PMA/PMA2014
-	derrick.PDF
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
+	blocks
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
+	barr
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3
+	exe
+3
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/exe
+	barr_i3ipc
+2
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3
+	examples
+2
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/examples
+	i3_cpu_mem.rb
+7
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3
+	lib
 4
-d/home/derrick/pilates/PMA
-	2016PMACon
-7
-d/home/derrick/pilates/PMA/2016PMACon
-	SHISHAN.pdf
-9
-d/home/derrick/downloads
-	Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
-13
-d/home/derrick/downloads/Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
-	Ray.Donovan.S04E06.Fish.And.Bird.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-7
-d/home/derrick/downloads
-	Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
+	barr
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
+	blocks
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr/blocks
+	bspwm.rb
+2
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
+	blocks
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr/blocks
+	bspwm.rb
+2
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
+	blocks
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
+	barr
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3
+	examples
+2
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/examples
+	bsp.rb
+4
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3
+	lib
+4
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
+	barr
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
+	blocks
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr/blocks
+	bspwm.rb
+2
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
+	blocks
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
+	barr
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
+	blocks
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr/blocks
+	bspwm.rb
+2
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
+	blocks
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
+	barr
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3
+	lib
+4
+d/home/derrick/.gem/ruby/2.5.0/gems
+	barr-0.2.3
+1
+d/home/derrick/.gem/ruby/2.5.0
+	gems
+6
+d/home/derrick/.gem/ruby
+	2.5.0
+3
+d/home/derrick/.gem
+	ruby
+1
+d/home/derrick
+	.gem
+6
+d/home/derrick/.gem
+	ruby
+1
+d/home/derrick/.gem/ruby
+	2.5.0
+3
+d/home/derrick/.gem/ruby/2.5.0
+	bin
+1
+d/home/derrick/.gem/ruby/2.5.0/bin
+	barr_i3ipc
+2
+d/home/derrick/.gem/ruby/2.5.0
+	gems
+6
+d/home/derrick/.gem/ruby/2.5.0/gems
+	barr-0.2.3
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3
+	lib
+4
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
+	barr
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
+	blocks
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr/blocks
+	memory.rb
 10
-d/home/derrick/downloads/Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
-	Ray.Donovan.S04E08.The.Texan.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-9
-d/home/derrick/downloads
-	Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
-12
-d/home/derrick
-	.config
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
+	manager.rb
 3
-d/home/derrick/.config
-	lxterminal
-21
-d/home/derrick
-	.mutt
-14
-d/home/derrick/.mutt
-	keybind
-5
-d/home/derrick/downloads
-	Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
-12
-d/home/derrick/downloads/Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
-	Ray.Donovan.S04E11.Chinese.Algebra.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-12
-d/home/derrick/downloads
-	Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
-12
-d/home/derrick
-	code
-32
-d/home/derrick/code
-	ruby
-8
-d/home/derrick/code/ruby
-	Wicked
-6
-d/home/derrick/code/ruby/Wicked
-	chapt01
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
+	barr
 1
-d/home/derrick/code/ruby/Wicked/chapt01
-	compress.rb
-4
-d/home/derrick/code/ruby/Wicked
-	chapt01
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
+	blocks
 1
-d/home/derrick/code/ruby
-	Wicked
-6
-d/home/derrick/code
-	ruby
-8
-d/home/derrick
-	code
-7
-d/home/derrick/code
-	ruby
-8
-d/home/derrick/code/ruby
-	Wicked
-6
-d/home/derrick/code/ruby/Wicked
-	chapt01
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr/blocks
+	memory.rb
+10
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
+	blocks
 1
-d/home/derrick/code/ruby/Wicked/chapt01
-	compress.rb
-4
-d/home/derrick/code/ruby/Wicked
-	chapt01
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
+	barr
 1
-d/home/derrick/code/ruby/Wicked/chapt01
-	test
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
+	blocks
 1
-d/home/derrick/code/ruby/Wicked/chapt01/test
-	test04
-4
-d/home/derrick/code/ruby/Wicked/chapt01
-	test
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr/blocks
+	memory.rb
+10
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
+	blocks
 1
-d/home/derrick/code/ruby/Wicked/chapt01/test
-	test04
-4
-d/home/derrick/code/ruby/Wicked/chapt01
-	test
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
+	barr
 1
-d/home/derrick/code/ruby/Wicked/chapt01/test
-	test04
-4
-d/home/derrick/code/ruby/Wicked/chapt01
-	test
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
+	blocks
 1
-d/home/derrick/code/ruby/Wicked/chapt01/test
-	test04
-4
-d/home/derrick/code/ruby/Wicked/chapt01
-	test
-1
-d/home/derrick/code/ruby/Wicked/chapt01/test
-	..
-0
-d/home/derrick/code/ruby/Wicked/chapt01
-	test
-1
-d/home/derrick/code/ruby/Wicked/chapt01/test
-	..
-0
-d/home/derrick/code/ruby/Wicked/chapt01
-	test
-1
-d/home/derrick/code/ruby/Wicked/chapt01/test
-	..
-0
-d/home/derrick/code/ruby/Wicked/chapt01
-	test
-1
-d/home/derrick/code/ruby/Wicked/chapt01/test
-	..
-0
-d/home/derrick/code/ruby/Wicked/chapt01
-	zipruby.rb
-22
-d/home/derrick/code/ruby/Wicked
-	chapt01
-1
-d/home/derrick/code/ruby
-	Wicked
-6
-d/home/derrick/code
-	ruby
-8
-d/home/derrick
-	downloads
-8
-d/home/derrick/downloads
-	Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
-13
-d/home/derrick/downloads/Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
-	Ray.Donovan.S04E12.Rattus.Rattus.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-13
-d/home/derrick/downloads
-	WickedCoolRubyScripts.pdf
-42
-d/home/derrick/code
-	ruby
-8
-d/home/derrick/code/ruby
-	Wicked
-6
-d/home/derrick/code/ruby/Wicked
-	chapt02
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr/blocks
+	bspwm.rb
 2
-d/home/derrick/code/ruby/Wicked/chapt02
-	linkValidator.rb
-3
-d/home/derrick/downloads
-	Ernest Cline - Ready Player One (Wil Wheaton) - 2011 (80kbps)
-4
-d/home/derrick/downloads/Ernest Cline - Ready Player One (Wil Wheaton) - 2011 (80kbps)
-	..
-0
-d/home/derrick/downloads
-	Ernest Cline - Ready Player One (Wil Wheaton) - 2011 (80kbps)
-4
-d/home/derrick
-	code
-8
-d/home/derrick/code
-	ruby
-8
-d/home/derrick/code/ruby
-	Wicked
-6
-d/home/derrick/code/ruby/Wicked
-	chapt02
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
+	block.rb
 2
-d/home/derrick/code/ruby/Wicked/chapt02
-	linkValidator.rb
-3
-d/home/derrick
-	.config
-3
-d/home/derrick/.config
-	bspwm
-6
-d/home/derrick/.config/bspwm
-	bspwmrc
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
+	barr
 1
-d/home/derrick/.config
-	bspwm
-6
-d/home/derrick
-	code
-32
-d/home/derrick/code
-	ruby
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
+	blocks
+1
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr/blocks
+	ip.rb
 8
-d/home/derrick/code/ruby
-	Bastards
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
+	blocks
 1
-d/home/derrick/code/ruby/Bastards
-	wikirequestat.rb
+d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
+	barr.rb
 2
-d/home/derrick/code/ruby
-	Bastards
-1
-d/home/derrick/code
-	ruby
-8
-d/home/derrick
-	downloads
-33
-d/home/derrick/downloads
-	American Made (2017) [YTS.AG]
-1
-d/home/derrick/downloads/American Made (2017) [YTS.AG]
-	American.Made.2017.720p.BluRay.x264-[YTS.AG].mp4
-1
-d/home/derrick/downloads
-	American Made (2017) [YTS.AG]
-1
-d/home/derrick
-	.config
-3
-d/home/derrick/.config
-	bspwm
-6
-d/home/derrick/.config/bspwm
-	bspwmrc
-1
 d
 
 # Right window history (oldest to newest):
-D/run/media/derrick/media2
-	video
-9
-D/run/media/derrick/media2/video
-	Star Trek.TOS.Complete.Remastered.(Chromecast).x264.MP4
-14
-D/run/media/derrick/media2/video/Star Trek.TOS.Complete.Remastered.(Chromecast).x264.MP4
-	Star Trek - S02E14 - Bread and Circuses.mp4
-44
-D/run/media/derrick/media2/video
-	Star Trek.TOS.Complete.Remastered.(Chromecast).x264.MP4
-14
-D/run/media/derrick/media2
-	video
-9
 D/run/media/derrick
-	media2
-2
-D/run/media
+	1D43-50D2
+1
+D/run/media/derrick/1D43-50D2
+	Jeff Buckley - Hallelujah.mp3 Req
+1
+D/run/media/derrick/1D43-50D2/Jeff Buckley - Hallelujah.mp3 Req
+	..
+0
+D/run/media/derrick/1D43-50D2
+	00 - Have You Ever Seen The Rain.mp3
+1
+D/run/media/derrick
+	1D43-50D2
+1
+D/run/media/derrick/1D43-50D2
+	00 - Have You Ever Seen The Rain.mp3
+1
+D/home/derrick
+	scripts
+20
+D/home
 	derrick
 1
-D/home/derrick/music
-	Back In Black
-2
-D/run/media/derrick
-	media2
-2
-D/run/media/derrick/media2
-	music
-5
-D/run/media/derrick/media2/music
-	paul simon - graceland
-51
-D/run/media/derrick/media2
-	music
-5
-D/run/media/derrick
-	media2
-2
-D/run/media
+D/home/derrick
+	scripts
+20
+D/home
 	derrick
 1
-D/run/media/derrick
-	media2
-2
-D/run/media/derrick/media2
-	ebooks
-2
-D/run/media/derrick/media2/ebooks
-	Vim
-16
-D/run/media/derrick/media2/ebooks/Vim
-	..
-0
-D/run/media/derrick/media2/ebooks
-	Sapiens-A Brief History of Humankind - Yuval Noah Harari
-9
-D/run/media/derrick/media2/ebooks/Sapiens-A Brief History of Humankind - Yuval Noah Harari
-	..
-0
-D/run/media/derrick/media2/ebooks
-	Sapiens-A Brief History of Humankind - Yuval Noah Harari
-9
-D/run/media/derrick/media2/ebooks/Sapiens-A Brief History of Humankind - Yuval Noah Harari
-	..
-0
-D/run/media/derrick/media2/ebooks
-	Wickedcoolrubyscripts
-17
-D/run/media/derrick/media2/ebooks/Wickedcoolrubyscripts
-	WickedCoolRubyScripts.pdf
-3
-D/run/media/derrick
-	F017-2DD1
+D/home/derrick
+	.bin
 1
-D/run/media/derrick/F017-2DD1
+D/home/derrick/.bin
+	time_and_date.rb
+18
+D/run/media/derrick
+	4540-D527
+1
+D/run/media/derrick/4540-D527
 	..
 0
 D/run/media/derrick
-	F017-2DD1
+	4540-D527
 1
 D/run/media
 	derrick
 1
 D/run
+	media
+8
+D/home/derrick
+	.bin
+1
+D/home/derrick/.bin
+	time_and_date.rb
+19
+D/home/derrick
+	.bin
+1
+D/home/derrick/.bin
+	time_and_date.rb
+19
+D/home/derrick
+	.bin
+1
+D/home/derrick/.bin
+	memory.rb
+11
+D/home/derrick
+	pictures
+42
+D/home/derrick/pictures
+	pilatestimeline
+6
+D/home/derrick/pictures/pilatestimeline
+	timeline.pdf
+14
+D/home/derrick/pictures
+	pilatestimeline
+6
+D/home/derrick
+	.bin
+1
+D/home/derrick/.bin
+	memory.rb
+11
+D/home/derrick
+	.config
+3
+D/home/derrick/.config
+	bspwm
+6
+D/home/derrick/.config/bspwm
+	bspwmrc
+1
+D/home/derrick/.config
 	..
 0
-D/home/derrick/code
-	ruby
-8
-D/home/derrick/code/ruby
-	Wicked
+D/home/derrick
+	.bin
+1
+D/home/derrick/.bin
+	memory.rb
+11
+D/home/derrick
+	.config
+3
+D/home/derrick/.config
+	bspwm
 6
-D/home/derrick/code/ruby/Wicked
-	chapt01
+D/home/derrick/.config/bspwm
+	bspwmrc
 1
-D/home/derrick/code/ruby/Wicked/chapt01
-	ListWinProcesses.rb
-1
-D/home/derrick/code/ruby/Wicked
-	chapt01
-1
-D/home/derrick/code/ruby
-	Wicked
+D/home/derrick/.config
+	bspwm
 6
-D/home/derrick/code
-	ruby
-8
 D/home/derrick
 	downloads
+34
+D/home/derrick/downloads
+	Lord of the Rings Series (epub and mobi)
+6
+D/home/derrick/downloads/Lord of the Rings Series (epub and mobi)
+	Lord of the Rings - 01 - The Fellowship of the Ring - J. R. R. Tolkien.jpg
+6
+D/home/derrick/downloads
+	Lord of the Rings Series (epub and mobi)
+6
+D/home/derrick
+	code
 33
-D/home/derrick/downloads
-	Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
-13
-D/home/derrick/downloads/Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
-	Ray.Donovan.S04E11.Chinese.Algebra.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
-12
-D/home/derrick/downloads
-	Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
-13
+D/home
+	derrick
+1
 D/home/derrick
-	pictures
-41
-D/home/derrick/pictures
-	amyfootcorrector.jpg
-35
+	.config
+3
+D/home/derrick/.config
+	bspwm
+6
+D/home/derrick/.config/bspwm
+	bspwmrc
+1
+D/home/derrick/.config
+	bspwm
+6
 D/home/derrick
-	pictures
-41
+	.bin
+1
+D/home/derrick/.bin
+	bsp.rb
+7
+D/home/derrick
+	.bin
+1
 D/home
 	derrick
 1
 D/home/derrick
 	pictures
-41
+42
 D/home/derrick/pictures
-	Rebecca Standing Pump 2 big.JPG
-30
-D/home/derrick/downloads
-	BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
-1
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
-	[1973] Piano Man
+	Synapse
 3
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1973] Piano Man
+D/home/derrick/pictures/Synapse
 	..
 0
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
-	[2007] All My Life [EP]
-27
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2007] All My Life [EP]
+D/home/derrick/pictures
+	Synapse
+3
+D/home/derrick/pictures/Synapse
 	..
 0
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
-	[2006] 12 Gardens [Live]
-26
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2006] 12 Gardens [Live]
+D/home/derrick/pictures
 	..
 0
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
-	[2005] My Lives [Compilation Album]
-25
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2005] My Lives [Compilation Album]
-	..
-0
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
-	[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]
-24
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2004] Piano Man - The Very Best Of Billy Joel [Compilation Album]
-	..
-0
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
-	[2001] The Essential [Compilation Album]
-23
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]
-	CD 1
-1
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 1
-	..
-0
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]
-	CD 2
-2
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]/CD 2
-	..
-0
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] The Essential [Compilation Album]
-	CD 2
-2
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
-	[2001] Fantasies & Delusions (Music composed by Billy Joel, perfomed by Richard Joo) [Original Edition]
-22
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2001] Fantasies & Delusions (Music composed by Billy Joel, perfomed by Richard Joo) [Original Edition]
-	..
-0
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
-	[2000] 2000 Years the Millennium Concert [Live Album]
-21
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[2000] 2000 Years the Millennium Concert [Live Album]
-	..
-0
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
-	[1997] Greatest Hits Vol. III
-20
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1997] Greatest Hits Vol. III
-	10 - The Downeaster 'Alexa'.mp3
-8
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
-	[1993] The River of Dreams [Original Edition]
-19
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] The River of Dreams [Original Edition]
-	..
-0
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
-	[1993] A Voyage On The River of Dreams (Compilation Album)
-18
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1993] A Voyage On The River of Dreams (Compilation Album)
-	..
-0
-D/home/derrick/downloads/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]
-	[1993] A Voyage On The River of Dreams (Compilation Album)
-18
-D/home/derrick/downloads
-	Terminator 2 (1991) [YTS.AG]
-15
-D/home/derrick/downloads/Terminator 2 (1991) [YTS.AG]
-	Terminator.2.1991.720p.BluRay.x264-[YTS.AG].mp4
-1
-D/home/derrick/downloads
-	Terminator 2 (1991) [YTS.AG]
-15
 D/home/derrick
-	music
-37
-D/home/derrick/music
-	Back In Black
-3
-D/run/media/derrick
-	C735-0FE1
-2
-D/run/media/derrick/C735-0FE1
-	audiobooks
-9
-D/run/media/derrick/C735-0FE1/audiobooks
+	pictures
+42
+D/home/derrick/pictures
 	..
 0
-D/run/media/derrick/C735-0FE1
-	audiobooks
-9
 D/run/media/derrick
-	C735-0FE1
+	KINGSTON
+1
+D/run/media/derrick/KINGSTON
+	备份
 2
+D/run/media/derrick/KINGSTON/备份
+	Level 2
+1
+D/run/media/derrick/KINGSTON/备份/Level 2
+	IMG_00161.JPG
+10
+D/run/media/derrick/KINGSTON/备份
+	瑞怡普拉提
+3
+D/run/media/derrick/KINGSTON/备份/瑞怡普拉提
+	..
+0
+D/run/media/derrick/KINGSTON/备份
+	瑞怡普拉提
+3
+D/run/media/derrick/KINGSTON
+	挑选
+3
+D/run/media/derrick/KINGSTON/挑选
+	Capture One Catalog3487.jpg
+15
+D/run/media/derrick/KINGSTON
+	挑选
+3
+D/run/media/derrick
+	64AD-97E4
+1
+D/run/media/derrick/64AD-97E4
+	..
+0
+D/run/media/derrick
+	64AD-97E4
+1
 D/run/media
 	derrick
 1
+D/run
+	media
+8
+D/
+	run
+12
+D/home/derrick
+	.config
+3
+D/home/derrick/.config
+	bspwm
+6
+D/home/derrick/.config/bspwm
+	bspwmrc
+1
+D/home/derrick/.config
+	bspwm
+6
+D/home/derrick/.config/bspwm
+	bspwmrc
+1
+D/home/derrick/.config
+	sxhkd
+29
+D/home/derrick/.config/sxhkd
+	sxhkdrc
+1
+D/home/derrick/.config
+	bspwm
+6
+D/home/derrick/.config/bspwm
+	bspwmrc
+1
+D/home/derrick/.config
+	bspwm
+6
 D/home/derrick
 	code
-7
+19
 D/home/derrick/code
 	ruby
 8
 D/home/derrick/code/ruby
-	Wicked
-7
-D/home/derrick/code/ruby/Wicked
-	chapt02
-2
-D/home/derrick/code/ruby/Wicked/chapt02
-	weblink.rb
-8
-D/home/derrick/code/ruby/Wicked
-	chapt02
-2
+	Euler
+4
+D/home/derrick/code/ruby/Euler
+	euler#39.rb
+27
 D/home/derrick/code/ruby
-	Wicked
-7
+	Euler
+4
 D/home/derrick/code
 	ruby
 8
 D/home/derrick
-	downloads
-8
-D/home/derrick/downloads
-	Toesox Price.pdf
-41
+	.bin
+1
+D/home/derrick/.bin
+	mon_desk.rb
+13
 D/home/derrick
-	pictures
-16
-D/home/derrick/pictures
-	Rebecca Standing Pump 2 big.JPG
-30
+	.bin
+1
+D/home/derrick/.bin
+	mon_desk.rb
+13
 D/home/derrick
-	toesox
-22
-D/home/derrick/toesox
-	spring_summer_2018
-10
-D/home/derrick/toesox/spring_summer_2018
-	..
-0
+	.config
+3
+D/home/derrick/.config
+	bspwm
+6
+D/home/derrick/.config/bspwm
+	bspwmrc
+1
 D
 
 # Command line history (oldest to newest):
@@ -686,7 +686,6 @@ D
 :umount /dev/sdc1
 :mkdir .themes
 :touch autostart
-:mkdir
 :mkdir 2016.12shenref
 :mkdir snowboarding
 :mkdir 2016
@@ -718,6 +717,11 @@ D
 :touch test04
 :mkdir audiobooks
 :mkdir Bastards
+:mkdir alignpilates
+:mkdir
+:mkdir audio
+:panel
+:mkdir panel
 
 # Search history (oldest to newest):
 /cron
@@ -726,6 +730,7 @@ D
 /pdf
 /2pdf
 /topdf
+/lemon
 
 # Prompt history (oldest to newest):
 p2018nikeapplication.xlsx
@@ -793,11 +798,23 @@ pchapt08
 pchapt09
 parchive1.zip
 pAudiobooks
+pLbthw
+ppanel01
+peuler#11.rb
+peuler#12.rb
+peuler#13.rb
+peuler#14.rb
+peuler#15.rb
+peuler#16.rb
+peuler#17.rb
+pPracticing
+pStartgem
+pmon_desk.rb
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/derrick/.local/share/vifm/Trash/013_archive.zip
+""/home/derrick/.local/share/vifm/Trash/000_SanDiskSecureAccessV3.1_win.exe
 
 # Directory stack (oldest to newest):
 
@@ -1168,6 +1185,344 @@ t/home/derrick/.local/share/vifm/Trash/000_test04
 	/home/derrick/code/ruby/Wicked/chapt01/test/test04
 t/home/derrick/.local/share/vifm/Trash/000_archive1.zip
 	/home/derrick/code/ruby/Wicked/chapt01/archive1.zip
+t/home/derrick/.local/share/vifm/Trash/000_.ncmpc
+	/home/derrick/scripts/.ncmpc
+t/home/derrick/.local/share/vifm/Trash/000_bspwm
+	/home/derrick/scripts/bspwm
+t/home/derrick/.local/share/vifm/Trash/000_dunst
+	/home/derrick/scripts/dunst
+t/home/derrick/.local/share/vifm/Trash/000_nvim
+	/home/derrick/scripts/nvim
+t/home/derrick/.local/share/vifm/Trash/000_.Xresources
+	/home/derrick/scripts/.Xresources
+t/home/derrick/.local/share/vifm/Trash/000_.bash_aliases
+	/home/derrick/scripts/.bash_aliases
+t/home/derrick/.local/share/vifm/Trash/000_.bash_history
+	/home/derrick/scripts/.bash_history
+t/home/derrick/.local/share/vifm/Trash/000_.bash_profile
+	/home/derrick/scripts/.bash_profile
+t/home/derrick/.local/share/vifm/Trash/000_.bashrc
+	/home/derrick/scripts/.bashrc
+t/home/derrick/.local/share/vifm/Trash/000_.fehbg
+	/home/derrick/scripts/.fehbg
+t/home/derrick/.local/share/vifm/Trash/000_.msmtprc
+	/home/derrick/scripts/.msmtprc
+t/home/derrick/.local/share/vifm/Trash/000_.procmailrc
+	/home/derrick/scripts/.procmailrc
+t/home/derrick/.local/share/vifm/Trash/000_.stalonetrayrc
+	/home/derrick/scripts/.stalonetrayrc
+t/home/derrick/.local/share/vifm/Trash/000_.xbindkeysrc
+	/home/derrick/scripts/.xbindkeysrc
+t/home/derrick/.local/share/vifm/Trash/000_.xinitrc
+	/home/derrick/scripts/.xinitrc
+t/home/derrick/.local/share/vifm/Trash/000_README.md
+	/home/derrick/scripts/README.md
+t/home/derrick/.local/share/vifm/Trash/000_rsyncing
+	/home/derrick/scripts/rsyncing
+t/home/derrick/.local/share/vifm/Trash/000_syncpod
+	/home/derrick/scripts/syncpod
+t/home/derrick/.local/share/vifm/Trash/000_syncpod.service
+	/home/derrick/scripts/syncpod.service
+t/home/derrick/.local/share/vifm/Trash/000_syncpod.timer
+	/home/derrick/scripts/syncpod.timer
+t/home/derrick/.local/share/vifm/Trash/000_vimtutor
+	/home/derrick/scripts/vimtutor
+t/home/derrick/.local/share/vifm/Trash/000_.getmail
+	/home/derrick/scripts/.getmail
+t/home/derrick/.local/share/vifm/Trash/000_Ray.Donovan.S04E09.Goodbye.Beautiful.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+	/run/media/derrick/F017-2DD1/Ray.Donovan.S04E09.Goodbye.Beautiful.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+t/home/derrick/.local/share/vifm/Trash/000_Ray.Donovan.S04E10.Lake.Hollywood.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+	/run/media/derrick/F017-2DD1/Ray.Donovan.S04E10.Lake.Hollywood.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+t/home/derrick/.local/share/vifm/Trash/000_Ray.Donovan.S04E11.Chinese.Algebra.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+	/home/derrick/pictures/pilatestimeline/Ray.Donovan.S04E11.Chinese.Algebra.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+t/home/derrick/.local/share/vifm/Trash/000_Mat2cn.pdf
+	/home/derrick/pilates/synapseeducation/mat/Mat2cn/Mat2cn.pdf
+t/home/derrick/.local/share/vifm/Trash/000_mutt
+	/home/derrick/scripts/mutt
+t/home/derrick/.local/share/vifm/Trash/000_ffplay.desktop
+	/home/derrick/scripts/ffplay.desktop
+t/home/derrick/.local/share/vifm/Trash/000_.ssh
+	/home/derrick/scripts/.ssh
+t/home/derrick/.local/share/vifm/Trash/000_.git
+	/home/derrick/scripts/.git
+t/home/derrick/.local/share/vifm/Trash/001_1452674037.M382381P26312Q595Rbe0c9856b9e29b19.localhost:2,S
+	/home/derrick/mail/derrick/cur/1452674037.M382381P26312Q595Rbe0c9856b9e29b19.localhost:2,S
+t/home/derrick/.local/share/vifm/Trash/000_1452674037.M382381P26312Q595Rbe0c9856b9e29b19.localhost:2,S_
+	/home/derrick/mail/derrick/cur/1452674037.M382381P26312Q595Rbe0c9856b9e29b19.localhost:2,S_
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_01 - Apache 65.mp3
+	/run/media/derrick/EB8F-2C0D/01 - Apache 65.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_01 - Don't Know Why.m4a
+	/run/media/derrick/EB8F-2C0D/01 - Don't Know Why.m4a
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_01 - Something In The Way She Moves.mp3
+	/run/media/derrick/EB8F-2C0D/01 - Something In The Way She Moves.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_01 Jackie Wilson Said (I'm in Heaven When You Smile).mp3
+	/run/media/derrick/EB8F-2C0D/01 Jackie Wilson Said (I'm in Heaven When You Smile).mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_01 Precious Time.mp3
+	/run/media/derrick/EB8F-2C0D/01 Precious Time.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_02 - Carolina In My Mind.mp3
+	/run/media/derrick/EB8F-2C0D/02 - Carolina In My Mind.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_02 - Ram Bunk Shush.mp3
+	/run/media/derrick/EB8F-2C0D/02 - Ram Bunk Shush.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_02 - Seven Years.m4a
+	/run/media/derrick/EB8F-2C0D/02 - Seven Years.m4a
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_02 Domino.mp3
+	/run/media/derrick/EB8F-2C0D/02 Domino.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_02 Dweller on the Threshold.mp3
+	/run/media/derrick/EB8F-2C0D/02 Dweller on the Threshold.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_03 - Cold Cold Heart.m4a
+	/run/media/derrick/EB8F-2C0D/03 - Cold Cold Heart.m4a
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_03 - Fire And Rain.mp3
+	/run/media/derrick/EB8F-2C0D/03 - Fire And Rain.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_03 - Telstar.mp3
+	/run/media/derrick/EB8F-2C0D/03 - Telstar.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_03 Here Comes the Night.mp3
+	/run/media/derrick/EB8F-2C0D/03 Here Comes the Night.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_03 Whenever God Shines His Light.mp3
+	/run/media/derrick/EB8F-2C0D/03 Whenever God Shines His Light.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_04 - Feelin' The Same Way.m4a
+	/run/media/derrick/EB8F-2C0D/04 - Feelin' The Same Way.m4a
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_04 - Sweet Baby James.mp3
+	/run/media/derrick/EB8F-2C0D/04 - Sweet Baby James.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_04 - Wipe Out.mp3
+	/run/media/derrick/EB8F-2C0D/04 - Wipe Out.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_04 Little Village.mp3
+	/run/media/derrick/EB8F-2C0D/04 Little Village.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_04 Moondance.mp3
+	/run/media/derrick/EB8F-2C0D/04 Moondance.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_05 - Come Away With Me.m4a
+	/run/media/derrick/EB8F-2C0D/05 - Come Away With Me.m4a
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_05 - Country Road.mp3
+	/run/media/derrick/EB8F-2C0D/05 - Country Road.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_05 - Cruel Sea.mp3
+	/run/media/derrick/EB8F-2C0D/05 - Cruel Sea.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_05 - World Leader Pretend.mp3
+	/run/media/derrick/EB8F-2C0D/05 - World Leader Pretend.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_05 And It Stoned Me.mp3
+	/run/media/derrick/EB8F-2C0D/05 And It Stoned Me.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_05 Bright Side of the Road.mp3
+	/run/media/derrick/EB8F-2C0D/05 Bright Side of the Road.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_06 - Perfidia.mp3
+	/run/media/derrick/EB8F-2C0D/06 - Perfidia.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_06 - Shoot The Moon.m4a
+	/run/media/derrick/EB8F-2C0D/06 - Shoot The Moon.m4a
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_06 - The Wrong Child.mp3
+	/run/media/derrick/EB8F-2C0D/06 - The Wrong Child.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_06 - You've Got A Friend.mp3
+	/run/media/derrick/EB8F-2C0D/06 - You've Got A Friend.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_06 Brown Eyed Girl.mp3
+	/run/media/derrick/EB8F-2C0D/06 Brown Eyed Girl.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_06 Days Like This.mp3
+	/run/media/derrick/EB8F-2C0D/06 Days Like This.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_07 - Don't Let Me Be Lonely Tonight.mp3
+	/run/media/derrick/EB8F-2C0D/07 - Don't Let Me Be Lonely Tonight.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_07 - Orange Crush.mp3
+	/run/media/derrick/EB8F-2C0D/07 - Orange Crush.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_07 - Rebel Rouser.mp3
+	/run/media/derrick/EB8F-2C0D/07 - Rebel Rouser.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_07 - Turn Me On.m4a
+	/run/media/derrick/EB8F-2C0D/07 - Turn Me On.m4a
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_07 Have I Told You Lately.mp3
+	/run/media/derrick/EB8F-2C0D/07 Have I Told You Lately.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_07 Wavelength.mp3
+	/run/media/derrick/EB8F-2C0D/07 Wavelength.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_08 - Lonestar.m4a
+	/run/media/derrick/EB8F-2C0D/08 - Lonestar.m4a
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_08 - Turn You Inside-out.mp3
+	/run/media/derrick/EB8F-2C0D/08 - Turn You Inside-out.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_08 - Walk Don´t Run.mp3
+	/run/media/derrick/EB8F-2C0D/08 - Walk Don´t Run.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_08 - Walking Man.mp3
+	/run/media/derrick/EB8F-2C0D/08 - Walking Man.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_08 Cleaning Windows.mp3
+	/run/media/derrick/EB8F-2C0D/08 Cleaning Windows.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_08 Crazy Love.mp3
+	/run/media/derrick/EB8F-2C0D/08 Crazy Love.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_09 - Hairshirt.mp3
+	/run/media/derrick/EB8F-2C0D/09 - Hairshirt.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_09 - How Sweet It Is (To Be Loved By You).mp3
+	/run/media/derrick/EB8F-2C0D/09 - How Sweet It Is (To Be Loved By You).mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_09 - I've Got To See You Again.m4a
+	/run/media/derrick/EB8F-2C0D/09 - I've Got To See You Again.m4a
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_09 - Penetration.mp3
+	/run/media/derrick/EB8F-2C0D/09 - Penetration.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_09 Baby Please Don't Go.mp3
+	/run/media/derrick/EB8F-2C0D/09 Baby Please Don't Go.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_09 Someone Like You.mp3
+	/run/media/derrick/EB8F-2C0D/09 Someone Like You.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_10 - I Remember California.mp3
+	/run/media/derrick/EB8F-2C0D/10 - I Remember California.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_10 - Mexico.mp3
+	/run/media/derrick/EB8F-2C0D/10 - Mexico.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_10 - Painter Song.m4a
+	/run/media/derrick/EB8F-2C0D/10 - Painter Song.m4a
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_10 - Pipeline.mp3
+	/run/media/derrick/EB8F-2C0D/10 - Pipeline.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_10 Back on Top.mp3
+	/run/media/derrick/EB8F-2C0D/10 Back on Top.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_10 When Will I Ever Learn to Live in God-.mp3
+	/run/media/derrick/EB8F-2C0D/10 When Will I Ever Learn to Live in God-.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_11 - 11th Untitled Song.mp3
+	/run/media/derrick/EB8F-2C0D/11 - 11th Untitled Song.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_11 - Diamond Head.mp3
+	/run/media/derrick/EB8F-2C0D/11 - Diamond Head.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_11 - One Flight Down.m4a
+	/run/media/derrick/EB8F-2C0D/11 - One Flight Down.m4a
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_11 - Shower The People.mp3
+	/run/media/derrick/EB8F-2C0D/11 - Shower The People.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_11 Tore Down à la Rimbaud.mp3
+	/run/media/derrick/EB8F-2C0D/11 Tore Down à la Rimbaud.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_11 Vanlose Stairway.mp3
+	/run/media/derrick/EB8F-2C0D/11 Vanlose Stairway.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_12 - Hawaii Five O.mp3
+	/run/media/derrick/EB8F-2C0D/12 - Hawaii Five O.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_12 - Nightingale.m4a
+	/run/media/derrick/EB8F-2C0D/12 - Nightingale.m4a
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_12 Celtic New Year.mp3
+	/run/media/derrick/EB8F-2C0D/12 Celtic New Year.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_12 Wild Night.mp3
+	/run/media/derrick/EB8F-2C0D/12 Wild Night.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_13 - Out Of Limits.mp3
+	/run/media/derrick/EB8F-2C0D/13 - Out Of Limits.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_13 - The Long Day Is Over.m4a
+	/run/media/derrick/EB8F-2C0D/13 - The Long Day Is Over.m4a
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_13 Gloria.mp3
+	/run/media/derrick/EB8F-2C0D/13 Gloria.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_13 Irish Heartbeat.mp3
+	/run/media/derrick/EB8F-2C0D/13 Irish Heartbeat.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_14 - Slaughter On Tenth Ave.mp3
+	/run/media/derrick/EB8F-2C0D/14 - Slaughter On Tenth Ave.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_14 - The Nearness Of You.m4a
+	/run/media/derrick/EB8F-2C0D/14 - The Nearness Of You.m4a
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_14 Real Real Gone.mp3
+	/run/media/derrick/EB8F-2C0D/14 Real Real Gone.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_14 The Healing Game [Alternative Version].mp3
+	/run/media/derrick/EB8F-2C0D/14 The Healing Game [Alternative Version].mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_15 - Journey To The Stars.mp3
+	/run/media/derrick/EB8F-2C0D/15 - Journey To The Stars.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_15 - What Am I To You.m4a
+	/run/media/derrick/EB8F-2C0D/15 - What Am I To You.m4a
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_15 Full Force Gale.mp3
+	/run/media/derrick/EB8F-2C0D/15 Full Force Gale.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_15 Into the Mystic.mp3
+	/run/media/derrick/EB8F-2C0D/15 Into the Mystic.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_16 - Ruler Of My Heart.m4a
+	/run/media/derrick/EB8F-2C0D/16 - Ruler Of My Heart.m4a
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_16 In the Garden.mp3
+	/run/media/derrick/EB8F-2C0D/16 In the Garden.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_16 Warm Love.mp3
+	/run/media/derrick/EB8F-2C0D/16 Warm Love.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_17 - Cold, Cold Heart (xLive).m4a
+	/run/media/derrick/EB8F-2C0D/17 - Cold, Cold Heart (xLive).m4a
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_17 Did Ye Get Healed-.mp3
+	/run/media/derrick/EB8F-2C0D/17 Did Ye Get Healed-.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_17 Saint Dominic's Preview.mp3
+	/run/media/derrick/EB8F-2C0D/17 Saint Dominic's Preview.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_18 - I'll Be Your Baby Tonight.m4a
+	/run/media/derrick/EB8F-2C0D/18 - I'll Be Your Baby Tonight.m4a
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_18 Stranded.mp3
+	/run/media/derrick/EB8F-2C0D/18 Stranded.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_18 Tupelo Honey.mp3
+	/run/media/derrick/EB8F-2C0D/18 Tupelo Honey.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_19 - Peace.m4a
+	/run/media/derrick/EB8F-2C0D/19 - Peace.m4a
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_19 Wonderful Remark.mp3
+	/run/media/derrick/EB8F-2C0D/19 Wonderful Remark.mp3
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_Carolashares.mkv
+	/run/media/derrick/EB8F-2C0D/Carolashares.mkv
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_Carolashares2.mkv
+	/run/media/derrick/EB8F-2C0D/Carolashares2.mkv
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_EOMcnnewppt.pdf
+	/run/media/derrick/EB8F-2C0D/EOMcnnewppt.pdf
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_Eve Gentry 2015.mkv
+	/run/media/derrick/EB8F-2C0D/Eve Gentry 2015.mkv
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_FiLMFiX.jpeg.jpg
+	/run/media/derrick/EB8F-2C0D/FiLMFiX.jpeg.jpg
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_Joe Reformer.mp4
+	/run/media/derrick/EB8F-2C0D/Joe Reformer.mp4
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_Movementpiano.mp4
+	/run/media/derrick/EB8F-2C0D/Movementpiano.mp4
+t/run/media/derrick/EB8F-2C0D/.vifm-Trash-1000/000_wheelchair.mp4
+	/run/media/derrick/EB8F-2C0D/wheelchair.mp4
+t/home/derrick/.local/share/vifm/Trash/000_bspwmrc
+	/home/derrick/build/bspwm/examples/panel/bspwmrc
+t/home/derrick/.local/share/vifm/Trash/001_bspwm
+	/home/derrick/build/bspwm
+t/home/derrick/.local/share/vifm/Trash/000_panel01
+	/home/derrick/.bin/panel01
+t/home/derrick/.local/share/vifm/Trash/000_panel02
+	/home/derrick/.bin/panel02
+t/home/derrick/.local/share/vifm/Trash/000_binomial.rb
+	/home/derrick/code/ruby/Euler/binomial.rb
+t/home/derrick/.local/share/vifm/Trash/000_names.txt
+	/home/derrick/code/ruby/Euler/names.txt
+t/home/derrick/.local/share/vifm/Trash/000_permutation.rb
+	/home/derrick/code/ruby/Euler/permutation.rb
+t/home/derrick/.local/share/vifm/Trash/000_wheelchair.mp4
+	/run/media/derrick/1D43-50D2/wheelchair.mp4
+t/home/derrick/.local/share/vifm/Trash/000_plugins.vim
+	/run/media/derrick/1D43-50D2/plugins.vim
+t/home/derrick/.local/share/vifm/Trash/000_panel_colors
+	/run/media/derrick/1D43-50D2/panel_colors
+t/home/derrick/.local/share/vifm/Trash/000_panel_bar
+	/run/media/derrick/1D43-50D2/panel_bar
+t/home/derrick/.local/share/vifm/Trash/000_panel
+	/run/media/derrick/1D43-50D2/panel
+t/home/derrick/.local/share/vifm/Trash/000_init.vim
+	/run/media/derrick/1D43-50D2/init.vim
+t/home/derrick/.local/share/vifm/Trash/000_evegentryrefnew.mp4
+	/run/media/derrick/1D43-50D2/evegentryrefnew.mp4
+t/home/derrick/.local/share/vifm/Trash/000_RTLcnnew(2).odg
+	/run/media/derrick/1D43-50D2/RTLcnnew(2).odg
+t/home/derrick/.local/share/vifm/Trash/000_RTLcnnew(1).odg
+	/run/media/derrick/1D43-50D2/RTLcnnew(1).odg
+t/home/derrick/.local/share/vifm/Trash/000_Pilatesref.mkv
+	/run/media/derrick/1D43-50D2/Pilatesref.mkv
+t/home/derrick/.local/share/vifm/Trash/000_Movementpiano.mp4
+	/run/media/derrick/1D43-50D2/Movementpiano.mp4
+t/home/derrick/.local/share/vifm/Trash/000_Michael.Clayton.2007.BrRip.720p.YIFY.mkv
+	/run/media/derrick/1D43-50D2/Michael.Clayton.2007.BrRip.720p.YIFY.mkv
+t/home/derrick/.local/share/vifm/Trash/000_Joe Reformer.mp4
+	/run/media/derrick/1D43-50D2/Joe Reformer.mp4
+t/home/derrick/.local/share/vifm/Trash/000_Carolaclip1.mpeg
+	/run/media/derrick/1D43-50D2/Carolaclip1.mpeg
+t/home/derrick/.local/share/vifm/Trash/000_vimwiki
+	/run/media/derrick/1D43-50D2/vimwiki
+t/home/derrick/.local/share/vifm/Trash/000_transmission
+	/run/media/derrick/1D43-50D2/transmission
+t/home/derrick/.local/share/vifm/Trash/001_sxhkd
+	/run/media/derrick/1D43-50D2/sxhkd
+t/home/derrick/.local/share/vifm/Trash/000_pulse
+	/run/media/derrick/1D43-50D2/pulse
+t/home/derrick/.local/share/vifm/Trash/000_pcmanfm
+	/run/media/derrick/1D43-50D2/pcmanfm
+t/home/derrick/.local/share/vifm/Trash/000_openbox
+	/run/media/derrick/1D43-50D2/openbox
+t/home/derrick/.local/share/vifm/Trash/000_colors
+	/run/media/derrick/1D43-50D2/colors
+t/home/derrick/.local/share/vifm/Trash/002_bspwm
+	/run/media/derrick/1D43-50D2/bspwm
+t/home/derrick/.local/share/vifm/Trash/000_System Volume Information
+	/run/media/derrick/1D43-50D2/System Volume Information
+t/home/derrick/.local/share/vifm/Trash/000_Movies
+	/run/media/derrick/1D43-50D2/Movies
+t/home/derrick/.local/share/vifm/Trash/000_LOST.DIR
+	/run/media/derrick/1D43-50D2/LOST.DIR
+t/home/derrick/.local/share/vifm/Trash/000_.xbfile
+	/run/media/derrick/1D43-50D2/.xbfile
+t/home/derrick/.local/share/vifm/Trash/000_.mediadb
+	/run/media/derrick/1D43-50D2/.mediadb
+t/home/derrick/.local/share/vifm/Trash/000_.LOST.DIR
+	/run/media/derrick/1D43-50D2/.LOST.DIR
+t/home/derrick/.local/share/vifm/Trash/000_Jeff Buckley - Hallelujah.mp3 Req
+	/run/media/derrick/1D43-50D2/Jeff Buckley - Hallelujah.mp3 Req
+t/home/derrick/.local/share/vifm/Trash/000_memory.rb
+	/home/derrick/.bin/memory.rb
+t/home/derrick/.local/share/vifm/Trash/000_SanDiskSecureAccess
+	/run/media/derrick/64AD-97E4/SanDiskSecureAccess
+t/home/derrick/.local/share/vifm/Trash/000_Back Up Your Files to the Cloud.pdf
+	/run/media/derrick/64AD-97E4/Back Up Your Files to the Cloud.pdf
+t/home/derrick/.local/share/vifm/Trash/000_SanDiskSecureAccessV3.1_win.exe
+	/run/media/derrick/64AD-97E4/SanDiskSecureAccessV3.1_win.exe
 
 # State:
 f
