@@ -21,9 +21,10 @@ bspc config -m HDMI2 top_padding    12
 bspc config -m DP1 top_padding      12
 bspc config border_width            2
 bspc config window_gap              10
-bspc config split_ratio             0.50
+bspc config split_ratio             0.51
 bspc config borderless_monocle      true
 bspc config gapless_monocle         true
+bspc config paddingless_monocle     true
 bspc config click_to_focus          true
 bspc config focused_border_color    '#1793D1'
 bspc config pointer_modifier        mod1
@@ -31,6 +32,9 @@ bspc config pointer_modifier        mod1
 
 # desktop rules and autostart
 redshift-gtk &
+
+#start Chinese input
+fcitx &
 
 bspc rule -a Gimp desktop='^3' state=floating follow=on
 bspc rule -a Inkscape desktop='^4' state=floating follow=on
@@ -46,19 +50,16 @@ stalonetray &
 bspc rule -a Pavucontrol desktop='^8'
 pavucontrol &
 
-bspc rule -a URxvt:cmus desktop='^8'
-urxvt -name cmus -title cmus -e cmus &
+bspc rule -a Tilix:cmus desktop='^8'
+#urxvt -name cmus -title cmus -e cmus &
 
-bspc rule -a URxvt:mutt desktop='^2'
-urxvt -name mutt -title mutt -e mutt &
+bspc rule -a Tilix:neomutt desktop='^2'
+bspc rule -a Tilix:vifm desktop='^1'
+bspc rule -a Tilix:term1 desktop='^1'
+#bspc rule -a Xterm:bashrun state=floating center=true rectangle=10x20
 
-bspc rule -a URxvt:vifm desktop='^1'
-urxvt -name vifm -title vifm -e vifm &
-
-bspc rule -a URxvt:term1 desktop='^1'
-urxvt -name term1 &
-
-bspc rule -a Xterm:Bashrun state=floating center=true rectangle=10x20
-
-bspc desktop 0 --focus
-
+bspc desktop='^1' --focus
+tilix --new-process -t term1 --name term1 &
+tilix --new-process -t neomutt --name neomutt -e neomutt &
+tilix --new-process -t vifm --name vifm -e vifm &
+tilix --new-process -t cmus --name cmus -e cmus &

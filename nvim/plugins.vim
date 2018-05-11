@@ -9,18 +9,9 @@ Plug 'tpope/vim-surround'
 " Markdown
 Plug 'tpope/vim-markdown'
 
-" Vinegar
-Plug 'tpope/vim-vinegar'
 
 " Syntastic
 Plug 'scrooloose/syntastic'
-
-" nerdtree
-" Plug 'scrooloose/nerdtree'
-
-" Perl Support
-" Plug 'WolfgangMehner/perl-support'
-Plug 'vim-perl/vim-perl', { 'for': 'perl', 'do': 'make clean carp dancer highlight-all-pragmas moose test-more try-tiny' }
 
 " Airline themes
 Plug 'vim-airline/vim-airline'
@@ -28,10 +19,6 @@ Plug 'vim-airline/vim-airline-themes'
 
 " Various themes
 Plug 'tomasr/molokai'
-
-" For composition
-"Plug 'reedes/vim-lexical'
-"Plug 'reedes/vim-pencil'
 
 " Add templates
 Plug 'aperezdc/vim-template'
@@ -45,18 +32,9 @@ Plug 'dhruvasagar/vim-table-mode'
 " Vimwiki Plugin
 Plug 'vimwiki/vimwiki'
 
-" Ctrl-P
-" Plug 'ctrlpvim/ctrlp.vim'
+" vim-autoclose
+Plug 'townk/vim-autoclose'
 
-" Ucomplete me
-" Plug 'vim-scripts/ucompleteme'
-
-" Complete for c
-" Plug 'vim-scripts/c.vim'
-" Plug 'https://github.com/vim-scripts/c.vim.git'
-
-" Markdown plugin
-" Plug 'euclio/vim-markdown-composer'
 
 " Make sure you use single quotes
 " Plug 'junegunn/seoul256.vim'

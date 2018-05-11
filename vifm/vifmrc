@@ -141,6 +141,8 @@ command! make !!make %a
 command! mkcd :mkdir %a | cd %a
 command! vgrep vim "+grep %a"
 command! reload :write | restart
+command! umc sudo umount /dev/sdc1
+command! umd sudo umount /dev/sdd1
 
 " ------------------------------------------------------------------------------
 
@@ -465,7 +467,7 @@ nnoremap <f5> :copy<cr>
 nnoremap <f6> :move<cr>
 nnoremap <f7> :mkdir<space>
 nnoremap <f8> :delete<cr>
-nnoremap <F9> :touch
+nnoremap <F9> :touch<space>
 
 " quick navigation
 nnoremap bhm :cd ~/music/<cr>

@@ -1,5 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/home/derrick/code/ruby/Euler'
 let g:netrw_dirhist_2='/home'
 let g:netrw_dirhist_3='/'
+let g:netrw_dirhist_4='/home/derrick/code/ruby'
+let g:netrw_dirhist_5='/home/derrick/code/ruby/Rubyist'
+let g:netrw_dirhist_6='/run/media/derrick/media2/video/300 (2006) [1080p]'
+let g:netrw_dirhist_7='/home/derrick/code/ruby/99bottles/99bottles/test'
+let g:netrw_dirhist_8='/home/derrick/code/ruby/Euler'

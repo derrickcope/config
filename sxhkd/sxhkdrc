@@ -4,12 +4,17 @@
 
 # terminal emulator
 super + Return
-	urxvt 
+	tilix --new-process 
 
 # panel
- super + shift + Backspace
-    pkill -x panel; bspc quit
+super + F12 
+  pkill -x panel; bspc quit
 
+super + F11
+  i3lock --image=/home/derrick/pictures/screenshot/lockscreen.png
+
+super + F10
+ ~/scripts/screenshot.sh
 
 # program launcher
 super + space

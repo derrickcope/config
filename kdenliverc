@@ -1,20 +1,26 @@
+[DownloadDialog Settings]
+Height 1080=444
+Width 1920=700
+
 [KFileDialog Settings]
-Recent Files[$e]=10 Snowboard Butter Tricks to Learn First-G9qlTInKbNE.mkv,file:$HOME/pilates/synapseeducation/marketing/derrickwechatqr.png,file:$HOME/nike/2017NSC/Nike Synapse logo.png,file:$HOME/pilates/synapsestudio/synapselogonew/Synapse bby logo.jpg,file:$HOME/pilates/synapsestudio/synapselogonew/Synapse white logo.png,file:$HOME/pilates/synapsestudio/synapselogonew/flowRoot5229.png,file:$HOME/10 Beginner Snowboard Skills - First Day Riding-S0kX1JeecSQ.mkv,file:$HOME/downloads/10 Snowboard Butter Tricks to Learn First-G9qlTInKbNE.mkv
-Recent URLs[$e]=file:$HOME/downloads/,file:$HOME/pilates/synapsestudio/synapselogonew/,file:$HOME/pilates/synapsestudio/,file:$HOME/nike/2017NSC/,file:$HOME/pilates/synapseeducation/marketing/
+Recent Files[$e]=10 Snowboard Butter Tricks to Learn First-G9qlTInKbNE.mkv,file:$HOME/nike/2018NSC/VID_20180123_151923.mp4,file:$HOME/pilates/synapseeducation/marketing/derrickwechatqr.png,file:$HOME/nike/2017NSC/Nike Synapse logo.png,file:$HOME/pilates/synapsestudio/synapselogonew/Synapse bby logo.jpg,file:$HOME/pilates/synapsestudio/synapselogonew/Synapse white logo.png,file:$HOME/pilates/synapsestudio/synapselogonew/flowRoot5229.png
+Recent URLs[$e]=file:$HOME/downloads/,file:$HOME/pilates/synapsestudio/synapselogonew/,file:$HOME/pilates/synapsestudio/,file:$HOME/nike/2017NSC/,file:$HOME/pilates/synapseeducation/marketing/,file:$HOME/nike/2018NSC/
 
 [MainWindow]
-Height 1080=1058
-State=AAAA/wAAAAD9AAAAAQAAAAIAAAeAAAABJPwBAAAADPsAAAAYAG4AbwB0AGUAcwBfAHcAaQBkAGcAZQB0AAAAAAD/////AAAARgD////7AAAADgBsAGkAYgByAGEAcgB5AAAAAAD/////AAAAWAD////7AAAAGgBhAHUAZABpAG8AcwBwAGUAYwB0AHIAdQBtAAAAAAD/////AAAAaQD////7AAAAFgBwAHIAbwBqAGUAYwB0AF8AYgBpAG4BAAAAAAAAANUAAABYAP////wAAADbAAABcQAAAQEA////+gAAAAABAAAAAvsAAAAYAGUAZgBmAGUAYwB0AF8AcwB0AGEAYwBrAQAAAAD/////AAABAQD////7AAAAHgBjAGwAaQBwAF8AcAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAAEQA/////AAAAlIAAAH1AAAAugD////6AAAAAQEAAAAC+wAAAB4AdAByAGEAbgBzAGkAdABpAG8AbgBfAGwAaQBzAHQBAAAAAP////8AAABWAP////sAAAAWAGUAZgBmAGUAYwB0AF8AbABpAHMAdAEAAAAA/////wAAALoA/////AAABE0AAAMzAAABQAD////6AAAAAQEAAAAC+wAAABgAYwBsAGkAcABfAG0AbwBuAGkAdABvAHIBAAAAAP////8AAAFAAP////sAAAAeAHAAcgBvAGoAZQBjAHQAXwBtAG8AbgBpAHQAbwByAQAAAAD/////AAABQAD////7AAAAGAB1AG4AZABvAF8AaABpAHMAdABvAHIAeQAAAAAA/////wAAAEYA////+wAAABYAdgBlAGMAdABvAHIAcwBjAG8AcABlAAAAAAD/////AAABKAD////7AAAAEAB3AGEAdgBlAGYAbwByAG0AAAAAAP////8AAACgAP////sAAAAUAHIAZwBiAF8AcABhAHIAYQBkAGUAAAAAAP////8AAACdAP////sAAAASAGgAaQBzAHQAbwBnAHIAYQBtAAAAAAD/////AAABOQD///8AAAeAAAACpAAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABgAZQB4AHQAcgBhAFQAbwBvAGwAQgBhAHIBAAACFP////8AAAAAAAAAAA==
+Height 1080=1044
+State=AAAA/wAAAAD9AAAAAQAAAAIAAAOtAAABJPwBAAAADPsAAAAYAG4AbwB0AGUAcwBfAHcAaQBkAGcAZQB0AAAAAAD/////AAAARgD////7AAAADgBsAGkAYgByAGEAcgB5AAAAAAD/////AAAAWAD////7AAAAGgBhAHUAZABpAG8AcwBwAGUAYwB0AHIAdQBtAAAAAAD/////AAAAaQD////7AAAAFgBwAHIAbwBqAGUAYwB0AF8AYgBpAG4BAAAAAAAAAGcAAABYAP////wAAABtAAAAtAAAAFYA////+gAAAAABAAAAAvsAAAAYAGUAZgBmAGUAYwB0AF8AcwB0AGEAYwBrAQAAAAD/////AAAAVgD////7AAAAHgBjAGwAaQBwAF8AcAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAAEQA/////AAAAScAAADyAAAAugD////6AAAAAQEAAAAC+wAAAB4AdAByAGEAbgBzAGkAdABpAG8AbgBfAGwAaQBzAHQBAAAAAP////8AAABWAP////sAAAAWAGUAZgBmAGUAYwB0AF8AbABpAHMAdAEAAAAA/////wAAALoA/////AAAAh8AAAGOAAABQAD////6AAAAAQEAAAAC+wAAABgAYwBsAGkAcABfAG0AbwBuAGkAdABvAHIBAAAAAP////8AAAFAAP////sAAAAeAHAAcgBvAGoAZQBjAHQAXwBtAG8AbgBpAHQAbwByAQAAAAD/////AAABQAD////7AAAAGAB1AG4AZABvAF8AaABpAHMAdABvAHIAeQAAAAAA/////wAAAEYA////+wAAABYAdgBlAGMAdABvAHIAcwBjAG8AcABlAAAAAAD/////AAABKAD////7AAAAEAB3AGEAdgBlAGYAbwByAG0AAAAAAP////8AAACgAP////sAAAAUAHIAZwBiAF8AcABhAHIAYQBkAGUAAAAAAP////8AAACdAP////sAAAASAGgAaQBzAHQAbwBnAHIAYQBtAAAAAAD/////AAABOQD///8AAAOtAAAClQAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABgAZQB4AHQAcgBhAFQAbwBvAGwAQgBhAHIBAAACH/////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
-Width 1920=1920
+Width 1920=941
 
 [Recent Dirs]
-KdenliveClipFolder[$e]=$HOME/pilates/synapseeducation/marketing/,$HOME/nike/2017NSC/,$HOME/pilates/synapsestudio/synapselogonew/
-KdenliveProjectsFolder[$e]=$HOME/nike/2017NSC,$HOME/nike/2017NSC/,$HOME/Documents
+KdenliveClipFolder[$e]=$HOME/nike/2018NSC/,$HOME/pilates/synapseeducation/marketing/,$HOME/nike/2017NSC/
+KdenliveProjectsFolder[$e]=$HOME/nike/2018NSC,$HOME/nike/2017NSC,$HOME/nike/2017NSC/
 
 [Recent Files]
 File1[$e]=$HOME/nike/2017NSC/pilatessnow.kdenlive
+File2[$e]=$HOME/nike/2018NSC/2018nikeintro.kdenlive
 Name1[$e]=pilatessnow.kdenlive
+Name2[$e]=2018nikeintro.kdenlive
 
 [Scope_Histogram]
 autoRefresh=true
@@ -50,8 +56,27 @@ paintmode=0
 realtime=false
 rec601=false
 
+[TitleWidget]
+background_alpha=0
+background_color=0,0,0
+dialog_geometry=AdnQywACAAAAAAGW////TAAABbEAAAPlAAABmP///04AAAWvAAAD4wAAAAEAAAAAB4A=
+font_color=85,170,255
+font_family=Sans Serif,-1,24,5,50,0,0,0,0,0
+font_italic=false
+font_outline=0
+font_outline_color=invalid
+font_pixel_size=24
+font_underlined=false
+font_weight=50
+rect_background_alpha=255
+rect_background_color=0,0,0
+rect_foreground_alpha=255
+rect_foreground_color=0,0,0
+rect_line_width=0
+use_grid=false
+
 [bin]
-treeviewheaders=AAAA/wAAAAAAAAABAAAAAQAAAAABAAAAAAAAAAAAAAADBgAAAAIAAAACAAAAZAAAAAEAAAA4AAAAwQAAAAMBAQABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAMAAADBAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAPoAAAAAD8=
+treeviewheaders=AAAA/wAAAAAAAAABAAAAAQAAAAABAAAAAAAAAAAAAAADBgAAAAIAAAACAAAAZAAAAAEAAAA4AAAAsAAAAAMBAQABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAMAAACwAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAPoAAAAAD8=
 
 [capture]
 decklink_extension=mov
@@ -74,6 +99,9 @@ rendererpath[$e]=/bin/melt
 proxyextension=mpg
 proxyparams=-vf scale=640:-1 -g 5 -qscale 6 -ab 128k -vcodec mpeg2video -acodec mp2
 
+[sdl]
+volume=51
+
 [timeline]
 trackheight=59
 
@@ -83,9 +111,9 @@ default_profile=atsc_1080p_25
 defaultrescaleheight=180
 force_breeze=true
 monitor_audio=false
-producerslist=qimage,qtext,kdenlivetitle,avformat,avformat-novalidate,sdl_image,slowmotion,pgm,framebuffer,abnormal,color,colour,consumer,hold,loader,melt,melt_file,noise,timewarp,tone,decklink,xml,xml-string,xml-nogl,blipflash,count,frei0r.ising0r,frei0r.lissajous0r,frei0r.nois0r,frei0r.onecol0r,frei0r.partik0l,frei0r.plasma,frei0r.test_pat_B,frei0r.test_pat_C,frei0r.test_pat_G,frei0r.test_pat_I,frei0r.test_pat_L,frei0r.test_pat_R,pango,pixbuf
+producerslist=qimage,qtext,kdenlivetitle,avformat,avformat-novalidate,sdl_image,slowmotion,pgm,framebuffer,abnormal,color,colour,consumer,hold,loader,melt,melt_file,noise,timewarp,tone,decklink,xml,xml-string,xml-nogl,blipflash,count,frei0r.ising0r,frei0r.lissajous0r,frei0r.nois0r,frei0r.onecol0r,frei0r.partik0l,frei0r.plasma,frei0r.test_pat_B,frei0r.test_pat_C,frei0r.test_pat_G,frei0r.test_pat_I,frei0r.test_pat_L,frei0r.test_pat_R
 project_display_ratio=1.7777777777777777
 selected_effecttab=1
 
 [version]
-version=16.12.3
+version=17.12.1

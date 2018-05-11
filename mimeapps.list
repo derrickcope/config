@@ -13,6 +13,7 @@ application/x-extension-xhtml=userapp-Firefox-TKH3MY.desktop;
 application/x-extension-xht=userapp-Firefox-TKH3MY.desktop;
 image/jpeg=gpicview.desktop;
 application/x-bittorrent=transmission-gtk.desktop;
+application/octet-stream=nvim.desktop;
 
 [Default Applications]
 x-scheme-handler/http=userapp-Firefox-TKH3MY.desktop

@@ -41,7 +41,7 @@
 # Bookmarks:
 
 # TUI:
-ar
+al
 q0
 v2
 ov
@@ -50,381 +50,522 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
-	blocks
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr/blocks
-	memory.rb
-10
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
-	blocks
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
-	barr.rb
-2
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3
-	bin
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/bin
-	console
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3
-	lib
-4
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
-	barr
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
-	manager.rb
+d/home/derrick/downloads
+	The Day Of The Jackal (1973) [BluRay] [720p] [YTS.AM]
+9
+d/home/derrick
+	.config
 3
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
-	barr
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3
-	lib
-4
-d/home/derrick/.gem/ruby/2.5.0/gems
-	barr-0.2.3
-1
-d/home/derrick/.gem/ruby/2.5.0
-	gems
+d/home/derrick/.config
+	bspwm
 6
-d/home/derrick/.gem/ruby
-	2.5.0
+d/home/derrick/.config/bspwm
+	bspwmrc
+1
+d/home/derrick/.config
+	bspwm
+6
+d/home/derrick
+	alignpilates
+33
+d/home/derrick/alignpilates
+	Align-PIlates 2017_SINGLES_LOW_RES.PDF
 3
-d/home/derrick/.gem
+d/home/derrick
+	code
+21
+d/home/derrick/code
 	ruby
+8
+d/home/derrick/code/ruby
+	Cookbook
+6
+d/home/derrick/code/ruby/Cookbook
+	chpt12
+6
+d/home/derrick/code/ruby/Cookbook/chpt12
+	..
+0
+d/home/derrick/code/ruby/Cookbook
+	chpt12
+6
+d/home/derrick/code/ruby
+	Cookbook
+6
+d/home/derrick/code/ruby/Cookbook
+	chpt10
+5
+d/home/derrick/code/ruby/Cookbook/chpt10
+	alias.rb
 1
+d/home/derrick/code/ruby/Cookbook
+	chpt08
+4
+d/home/derrick/code/ruby/Cookbook/chpt08
+	rectangle.rb
+1
+d/home/derrick/code/ruby/Cookbook
+	chpt06
+3
+d/home/derrick/code/ruby/Cookbook/chpt06
+	tempfile.rb
+3
+d/home/derrick/code/ruby/Cookbook
+	chpt12
+6
+d/home/derrick/code/ruby/Cookbook/chpt12
+	thumbnail.jpg
+2
+d/home/derrick/code/ruby/Cookbook
+	chpt12
+6
+d/home/derrick/code/ruby
+	Cookbook
+6
+d/home/derrick/code
+	ruby
+8
+d/home/derrick
+	pilates
+30
+d/home/derrick/pilates
+	synapseeducation
+10
+d/home/derrick/pilates/synapseeducation
+	EOM
+3
+d/home/derrick/pilates
+	synapseeducation
+10
+d/home/derrick
+	downloads
+28
+d/home/derrick/downloads
+	Full Metal Jacket (1987)
+4
+d/home/derrick/downloads/Full Metal Jacket (1987)
+	Full.Metal.Jacket.1987.720p.BrRip.YIFY.mp4
+2
+d/home/derrick/downloads
+	The Sting (1973) [BluRay] [720p] [YTS.AM]
+12
+d/home/derrick/downloads/The Sting (1973) [BluRay] [720p] [YTS.AM]
+	www.YTS.AM.jpg
+2
+d/home/derrick/downloads
+	Fawlty Towers
+4
+d/home/derrick/downloads/Fawlty Towers
+	Fawlty Towers - Xvid - 1 of 12.avi
+1
+d/home/derrick/downloads
+	The Avengers (2012)
+10
+d/home/derrick/downloads/The Avengers (2012)
+	Dog Day Afternoon (1975) [YTS.AG]
+1
+d/home/derrick/downloads
+	The Avengers (2012)
+10
+d/home/derrick/downloads/The Avengers (2012)
+	The.Avengers.2012.720p.BluRay.x264.YIFY.mp4
+1
+d/home/derrick/downloads
+	Fawlty Towers
+7
 d/home/derrick
 	.config
 3
 d/home/derrick/.config
-	bspwm
-6
-d/home/derrick/.config/bspwm
-	bspwmrc
-1
+	neomutt
+25
+d/home/derrick/.config/neomutt
+	siginfo
+8
 d/home/derrick/.config
-	mpv
-23
+	neomutt
+25
 d/home/derrick
 	.config
 3
 d/home/derrick/.config
-	bspwm
+	neomutt
+25
+d/home/derrick/.config/neomutt
+	neomuttrc
 6
-d/home/derrick/.config/bspwm
-	bspwmrc
-1
 d/home/derrick/.config
-	bspwm
-6
+	neomutt
+25
 d/home/derrick
-	xiamenlbp.pdf
-53
+	.config
+3
 d/home
 	derrick
 1
 d/
-	home
-4
+	usr
+17
+d/usr
+	share
+9
+d/usr/share
+	nvim
+49
+d/usr/share/nvim
+	runtime
+1
+d/usr/share/nvim/runtime
+	..
+0
+d/usr/share/nvim
+	runtime
+1
+d/usr/share
+	nvim
+49
+d/usr
+	share
+9
+d/usr/share
+	vim
+43
+d/usr/share/vim
+	vimfiles
+1
+d/usr/share/vim/vimfiles
+	syntax
+1
+d/usr/share/vim/vimfiles/syntax
+	..
+0
+d/usr/share/vim/vimfiles
+	syntax
+1
+d/usr/share/vim
+	vimfiles
+1
+d/usr/share
+	nvim
+5
+d/usr/share/nvim
+	runtime
+1
+d/usr/share/nvim/runtime
+	plugin
+10
+d/usr/share/nvim/runtime/plugin
+	gzip.vim
+2
+d/usr/share/nvim/runtime
+	syntax
+12
+d/home/derrick
+	.config
+3
+d/home/derrick/.config
+	vifm
+34
+d/home/derrick/.config/vifm
+	..
+0
+d/home/derrick/.config
+	vlc
+35
+d/home/derrick/.config/vlc
+	..
+0
+d/home/derrick/.config
+	neomutt
+25
+d/home/derrick/.config/neomutt
+	neomuttrc
+6
+d/home/derrick/.config
+	neomutt
+25
+d/home/derrick
+	.config
+3
 d/home
 	derrick
 1
+d/
+	usr
+17
+d/usr
+	share
+9
+d/usr/share
+	nvim
+5
+d/usr/share/nvim
+	runtime
+1
+d/usr/share/nvim/runtime
+	syntax
+12
+d/usr/share/nvim/runtime/syntax
+	neomuttrc.vim
+49
+d/usr/share/nvim/runtime
+	syntax
+12
+d/usr/share/nvim/runtime/syntax
+	neomuttrc.vim
+49
+d/usr/share/nvim/runtime
+	syntax
+12
+d/usr/share/nvim
+	runtime
+1
+d/usr/share/nvim/runtime
+	syntax
+12
+d/usr/share/nvim
+	runtime
+1
+d/usr/share
+	xsessions
+51
+d/usr
+	share
+9
+d/
+	etc
+3
+d/etc
+	neomuttrc
+17
+d/
+	etc
+3
 d/home/derrick
-	.gem
-6
-d/home/derrick/.gem
-	specs
-2
-d/home/derrick/.gem/specs
-	..
-0
-d/home/derrick/.gem
-	ruby
-1
-d/home/derrick/.gem/ruby
-	2.5.0
+	.config
 3
-d/home/derrick/.gem/ruby/2.5.0
-	bin
-1
-d/home/derrick/.gem/ruby/2.5.0/bin
-	barr_i3ipc
-2
-d/home/derrick/.gem/ruby/2.5.0
-	gems
+d/home/derrick/.config
+	bspwm
 6
-d/home/derrick/.gem/ruby/2.5.0/gems
-	barr-0.2.3
+d/home/derrick/.config/bspwm
+	bspwmrc
 1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3
-	lib
-4
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
-	barr
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
-	blocks
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr/blocks
-	memory.rb
-10
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
-	blocks
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
-	barr
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3
-	exe
-3
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/exe
-	barr_i3ipc
-2
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3
-	examples
-2
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/examples
-	i3_cpu_mem.rb
-7
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3
-	lib
-4
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
-	barr
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
-	blocks
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr/blocks
-	bspwm.rb
-2
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
-	blocks
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr/blocks
-	bspwm.rb
-2
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
-	blocks
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
-	barr
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3
-	examples
-2
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/examples
-	bsp.rb
-4
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3
-	lib
-4
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
-	barr
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
-	blocks
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr/blocks
-	bspwm.rb
-2
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
-	blocks
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
-	barr
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
-	blocks
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr/blocks
-	bspwm.rb
-2
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
-	blocks
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
-	barr
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3
-	lib
-4
-d/home/derrick/.gem/ruby/2.5.0/gems
-	barr-0.2.3
-1
-d/home/derrick/.gem/ruby/2.5.0
-	gems
-6
-d/home/derrick/.gem/ruby
-	2.5.0
-3
-d/home/derrick/.gem
-	ruby
-1
-d/home/derrick
-	.gem
-6
-d/home/derrick/.gem
-	ruby
-1
-d/home/derrick/.gem/ruby
-	2.5.0
-3
-d/home/derrick/.gem/ruby/2.5.0
-	bin
-1
-d/home/derrick/.gem/ruby/2.5.0/bin
-	barr_i3ipc
-2
-d/home/derrick/.gem/ruby/2.5.0
-	gems
-6
-d/home/derrick/.gem/ruby/2.5.0/gems
-	barr-0.2.3
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3
-	lib
-4
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
-	barr
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
-	blocks
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr/blocks
-	memory.rb
-10
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
-	manager.rb
-3
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
-	barr
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
-	blocks
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr/blocks
-	memory.rb
-10
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
-	blocks
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
-	barr
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
-	blocks
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr/blocks
-	memory.rb
-10
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
-	blocks
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
-	barr
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
-	blocks
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr/blocks
-	bspwm.rb
-2
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
-	block.rb
-2
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
-	barr
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
-	blocks
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr/blocks
-	ip.rb
-8
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib/barr
-	blocks
-1
-d/home/derrick/.gem/ruby/2.5.0/gems/barr-0.2.3/lib
-	barr.rb
-2
 d
 
 # Right window history (oldest to newest):
-D/run/media/derrick
-	1D43-50D2
+D/home/derrick
+	personal
+23
+D/home/derrick/personal
+	jackson
 1
-D/run/media/derrick/1D43-50D2
-	Jeff Buckley - Hallelujah.mp3 Req
+D/home/derrick/personal/jackson
+	Report Card - Q4 2016-2017  - Jackson Cope.pdf
 1
-D/run/media/derrick/1D43-50D2/Jeff Buckley - Hallelujah.mp3 Req
-	..
-0
-D/run/media/derrick/1D43-50D2
-	00 - Have You Ever Seen The Rain.mp3
-1
-D/run/media/derrick
-	1D43-50D2
-1
-D/run/media/derrick/1D43-50D2
-	00 - Have You Ever Seen The Rain.mp3
+D/home/derrick/personal
+	jackson
 1
 D/home/derrick
-	scripts
-20
+	personal
+23
 D/home
 	derrick
 1
 D/home/derrick
+	.config
+3
+D/home/derrick/.config
+	vifm
+33
+D/home/derrick/.config/vifm
 	scripts
-20
-D/home
-	derrick
-1
-D/home/derrick
-	.bin
-1
-D/home/derrick/.bin
-	time_and_date.rb
-18
-D/run/media/derrick
-	4540-D527
-1
-D/run/media/derrick/4540-D527
-	..
-0
-D/run/media/derrick
-	4540-D527
-1
-D/run/media
-	derrick
-1
-D/run
-	media
-8
-D/home/derrick
-	.bin
-1
-D/home/derrick/.bin
-	time_and_date.rb
-19
-D/home/derrick
-	.bin
-1
-D/home/derrick/.bin
-	time_and_date.rb
-19
-D/home/derrick
-	.bin
-1
-D/home/derrick/.bin
-	memory.rb
-11
+2
+D/home/derrick/.config/vifm/scripts
+	imgt
+2
+D/home/derrick/.config/vifm
+	scripts
+2
+D/home/derrick/.config
+	vifm
+33
 D/home/derrick
 	pictures
+43
+D/home/derrick/pictures
+	barrelpilates.png
+30
+D/home/derrick
+	pictures
+43
+D/home
+	derrick
+1
+D/home/derrick
+	.config
+3
+D/home/derrick/.config
+	vifm
+33
+D/home/derrick/.config/vifm
+	scripts
+2
+D/home/derrick/.config/vifm/scripts
+	imgt
+2
+D/home/derrick/.config/vifm
+	scripts
+2
+D/home/derrick/.config
+	vifm
+33
+D/home/derrick
+	personal
 42
+D/home/derrick/personal
+	synapsechop.png
+41
+D/home/derrick
+	pilates
+44
+D/home/derrick/pilates
+	synapseeducation
+10
+D/home/derrick/pilates/synapseeducation
+	posters
+10
+D/home/derrick/pilates/synapseeducation/posters
+	Level1final
+1
+D/home/derrick/pilates/synapseeducation/posters/Level1final
+	reflevelonesm.jpg
+36
+D/home/derrick/pilates/synapseeducation/posters
+	Level1final
+1
+D/home/derrick/pilates/synapseeducation
+	CourseResources
+2
+D/home/derrick/pilates/synapseeducation/CourseResources
+	Chapter5PG3rd.pdf
+10
+D/home/derrick/pilates/synapseeducation
+	FitnessScreeningnew.pdf
+31
+D/home/derrick/pilates
+	synapseeducation
+10
+D/home/derrick/pilates/synapseeducation
+	EOM
+3
+D/home/derrick/pilates/synapseeducation/EOM
+	EOMcnnew.odp
+3
+D/home/derrick/pilates/synapseeducation
+	EOM
+3
+D/home/derrick/pilates
+	synapseeducation
+10
+D/home/derrick
+	toesox
+48
+D/home/derrick/toesox
+	ShanghaiSandalOrder.5.2018.xlsx
+37
+D/home/derrick
+	pilates
+44
+D/home/derrick/pilates
+	synapseeducation
+10
+D/home/derrick/pilates/synapseeducation
+	marketing
+8
+D/home/derrick/pilates/synapseeducation/marketing
+	..
+0
+D/home/derrick/pilates/synapseeducation
+	S1 2013 01.odg
+35
+D/home/derrick/pilates
+	Projects
+7
+D/home/derrick/pilates/Projects
+	..
+0
+D/home/derrick/pilates
+	Sherri Betz
+8
+D/home/derrick
+	pilates
+44
+D/home/derrick/pilates
+	PMA
+5
+D/home/derrick/pilates/PMA
+	..
+0
+D/home/derrick/pilates
+	Projects
+7
+D/home/derrick/pilates/Projects
+	RTLcnnew.odg
+8
+D/home/derrick/pilates
+	synapsestudio
+11
+D/home/derrick/pilates/synapsestudio
+	marketing
+8
+D/home/derrick/pilates/synapsestudio/marketing
+	..
+0
+D/home/derrick/pilates/synapsestudio
+	marketing
+8
+D/home/derrick/pilates
+	synapseeducation
+10
+D/home/derrick/pilates/synapseeducation
+	mat
+9
+D/home/derrick/pilates
+	synapseeducation
+10
+D/home/derrick
+	pilates
+20
+D/home/derrick/pilates
+	PMA
+5
+D/home/derrick/pilates/PMA
+	Pilatestimeline
+12
+D/home/derrick/pilates/PMA/Pilatestimeline
+	002.jpg
+3
+D/home/derrick/pilates/PMA
+	derrick
+14
+D/home/derrick/pilates/PMA/derrick
+	..
+0
+D/home/derrick/pilates/PMA
+	PMAcec.png
+36
+D/home/derrick/pilates
+	synapseeducation
+10
+D/home/derrick/pilates/synapseeducation
+	marketing
+8
+D/home/derrick/pilates
+	synapseeducation
+10
+D/home/derrick
+	pictures
+19
 D/home/derrick/pictures
 	pilatestimeline
 6
@@ -435,227 +576,87 @@ D/home/derrick/pictures
 	pilatestimeline
 6
 D/home/derrick
-	.bin
-1
-D/home/derrick/.bin
-	memory.rb
-11
+	toesox
+24
+D/home/derrick/toesox
+	toesoxauthorization.pdf
+40
 D/home/derrick
-	.config
-3
-D/home/derrick/.config
-	bspwm
-6
-D/home/derrick/.config/bspwm
-	bspwmrc
+	.mutt
+4
+D/home/derrick/.mutt
+	cache
 1
-D/home/derrick/.config
+D/home/derrick/.mutt/cache
+	bodies
+1
+D/home/derrick/.mutt
+	cache
+1
+D/home/derrick
+	mail
+38
+D/home/derrick/mail
 	..
 0
 D/home/derrick
-	.bin
-1
-D/home/derrick/.bin
-	memory.rb
-11
-D/home/derrick
-	.config
-3
-D/home/derrick/.config
-	bspwm
-6
-D/home/derrick/.config/bspwm
-	bspwmrc
-1
-D/home/derrick/.config
-	bspwm
-6
-D/home/derrick
-	downloads
-34
-D/home/derrick/downloads
-	Lord of the Rings Series (epub and mobi)
-6
-D/home/derrick/downloads/Lord of the Rings Series (epub and mobi)
-	Lord of the Rings - 01 - The Fellowship of the Ring - J. R. R. Tolkien.jpg
-6
-D/home/derrick/downloads
-	Lord of the Rings Series (epub and mobi)
-6
-D/home/derrick
-	code
-33
-D/home
-	derrick
-1
-D/home/derrick
-	.config
-3
-D/home/derrick/.config
-	bspwm
-6
-D/home/derrick/.config/bspwm
-	bspwmrc
-1
-D/home/derrick/.config
-	bspwm
-6
-D/home/derrick
-	.bin
-1
-D/home/derrick/.bin
-	bsp.rb
-7
-D/home/derrick
-	.bin
-1
-D/home
-	derrick
-1
-D/home/derrick
-	pictures
-42
-D/home/derrick/pictures
-	Synapse
-3
-D/home/derrick/pictures/Synapse
-	..
-0
-D/home/derrick/pictures
-	Synapse
-3
-D/home/derrick/pictures/Synapse
-	..
-0
-D/home/derrick/pictures
-	..
-0
-D/home/derrick
-	pictures
-42
-D/home/derrick/pictures
-	..
-0
-D/run/media/derrick
-	KINGSTON
-1
-D/run/media/derrick/KINGSTON
-	备份
-2
-D/run/media/derrick/KINGSTON/备份
-	Level 2
-1
-D/run/media/derrick/KINGSTON/备份/Level 2
-	IMG_00161.JPG
-10
-D/run/media/derrick/KINGSTON/备份
-	瑞怡普拉提
-3
-D/run/media/derrick/KINGSTON/备份/瑞怡普拉提
-	..
-0
-D/run/media/derrick/KINGSTON/备份
-	瑞怡普拉提
-3
-D/run/media/derrick/KINGSTON
-	挑选
-3
-D/run/media/derrick/KINGSTON/挑选
-	Capture One Catalog3487.jpg
+	.mutt
 15
-D/run/media/derrick/KINGSTON
-	挑选
+D/home/derrick/.mutt
+	sigderrick
+8
+D/home/derrick
+	.config
 3
-D/run/media/derrick
-	64AD-97E4
-1
-D/run/media/derrick/64AD-97E4
-	..
-0
-D/run/media/derrick
-	64AD-97E4
-1
-D/run/media
+D/home/derrick/.config
+	neomutt
+25
+D/home/derrick/.config/neomutt
+	neomuttrc
+6
+D/home/derrick/.config
+	neomutt
+25
+D/home/derrick
+	.config
+3
+D/home
 	derrick
 1
-D/run
-	media
-8
 D/
-	run
-12
+	usr
+17
+D/usr
+	share
+9
+D/usr/share
+	nvim
+49
+D/usr/share/nvim
+	runtime
+1
+D/usr/share/nvim/runtime
+	ftplugin
+5
+D/usr/share/nvim/runtime/ftplugin
+	neomuttrc.vim
+40
+D/run/media/derrick
+	..
+0
 D/home/derrick
 	.config
 3
 D/home/derrick/.config
-	bspwm
+	neomutt
+25
+D/home/derrick/.config/neomutt
+	neomuttrc
 6
-D/home/derrick/.config/bspwm
-	bspwmrc
-1
-D/home/derrick/.config
-	bspwm
-6
-D/home/derrick/.config/bspwm
-	bspwmrc
-1
-D/home/derrick/.config
-	sxhkd
-29
-D/home/derrick/.config/sxhkd
-	sxhkdrc
-1
-D/home/derrick/.config
-	bspwm
-6
-D/home/derrick/.config/bspwm
-	bspwmrc
-1
-D/home/derrick/.config
-	bspwm
-6
-D/home/derrick
-	code
-19
-D/home/derrick/code
-	ruby
-8
-D/home/derrick/code/ruby
-	Euler
-4
-D/home/derrick/code/ruby/Euler
-	euler#39.rb
-27
-D/home/derrick/code/ruby
-	Euler
-4
-D/home/derrick/code
-	ruby
-8
-D/home/derrick
-	.bin
-1
-D/home/derrick/.bin
-	mon_desk.rb
-13
-D/home/derrick
-	.bin
-1
-D/home/derrick/.bin
-	mon_desk.rb
-13
-D/home/derrick
-	.config
-3
-D/home/derrick/.config
-	bspwm
-6
-D/home/derrick/.config/bspwm
-	bspwmrc
-1
 D
 
 # Command line history (oldest to newest):
+:lsblk
 :mkdir thesaurus
 :touch sources.txt
 :shell ls
@@ -695,7 +696,6 @@ D
 :mkdir cur
 :mkdir new
 :mkdir tmp
-:q
 :mkdir scripts
 :mkdir Learningruby
 :mkdir textneck
@@ -722,6 +722,18 @@ D
 :mkdir audio
 :panel
 :mkdir panel
+:mkdir 2018NSC
+:df
+:sudo umount /dev/sdc1
+:mkdir Practical
+:mkdir 99bottles
+:mkdir Catcherrb
+:quit
+:Q
+:q
+:umd
+:umc
+:mkdir neomutt
 
 # Search history (oldest to newest):
 /cron
@@ -731,22 +743,10 @@ D
 /2pdf
 /topdf
 /lemon
+/nv
+/neo
 
 # Prompt history (oldest to newest):
-p2018nikeapplication.xlsx
-ptest
-palonaharmony.jpg
-p20170127_pmoney_podcast012716.mp3
-pMatrix.vifm
-pBlooderrick
-pElektricsheep
-pSF_Sketchfest_with_Nathan_Fillion.mp3
-paddtolist
-paddchimplist
-prtlquestions.docx
-pnikehuikan2017.svg
-pTresandDad2004.png
-pTresandDad2004.jpg
 ptest01.jpg
 ptest02.jpg
 ptest.mp3
@@ -810,11 +810,48 @@ peuler#17.rb
 pPracticing
 pStartgem
 pmon_desk.rb
+pxtitle.rb
+p2018NSCderrick.mp4
+pfall2018
+pChinaFall2018.xlsx
+pTaiwanFall2018.xlsx
+pshow_captcha.color.png
+pAWP
+pLemonbar
+pwintitle.rb
+psynapsewhitelogo.png
+psynapsewhitelogo.svg
+psynapseblacklogo.png
+psynapseblacklogo.svg
+psynapsewhitelogo.pdf
+psynapsebbylogo.pdf
+psynapsebbylogo.png
+psynapselogoblack.png
+p[UsaBit.com]_Pirates of Silicon Valley 1999 DVDRip x264-REQU3ST.mkv
+pPirates_of_Silicon_Valley.mkv
+plockscreen.png
+ppolestarstudioexam.v13.pdf
+pcracklib.txt
+pepisode265.somepodcast.mp3
+psn652:madeupname.mp3
+pfromwarehouse.xlxs
+pfromwarehouse.xlsx
+pergonomic.jpg
+pRef2cover.svg
+pAlign-PIlatesC1reformer.pdf
+pAlign-PIlatesC1reformer.jpg
+pAlign-PIlatesC1reformer.xcf
+pAlign Pilates C1 Reformer.mkv
+pRailsConf 2014 - All the Little Things by Sandi Metz-8bZh5LMaSmE.mkv
+pcatcherrb.rb
+p.notmutt
+pnotneomuttrc
+pneomuttrc
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/derrick/.local/share/vifm/Trash/000_SanDiskSecureAccessV3.1_win.exe
+""/home/derrick/.local/share/vifm/Trash/000_neomuttrc
 
 # Directory stack (oldest to newest):
 
@@ -1523,6 +1560,454 @@ t/home/derrick/.local/share/vifm/Trash/000_Back Up Your Files to the Cloud.pdf
 	/run/media/derrick/64AD-97E4/Back Up Your Files to the Cloud.pdf
 t/home/derrick/.local/share/vifm/Trash/000_SanDiskSecureAccessV3.1_win.exe
 	/run/media/derrick/64AD-97E4/SanDiskSecureAccessV3.1_win.exe
+t/home/derrick/.local/share/vifm/Trash/000_time_and_date.rb
+	/home/derrick/.bin/time_and_date.rb
+t/home/derrick/.local/share/vifm/Trash/000_two_temperatures.rb
+	/home/derrick/.bin/two_temperatures.rb
+t/home/derrick/.local/share/vifm/Trash/000_mon_desk.rb
+	/home/derrick/.bin/mon_desk.rb
+t/home/derrick/.local/share/vifm/Trash/000_barr_example.rb
+	/home/derrick/.bin/barr_example.rb
+t/home/derrick/.local/share/vifm/Trash/000_bsp.rb
+	/home/derrick/.bin/bsp.rb
+t/home/derrick/.local/share/vifm/Trash/001_SanDiskSecureAccess
+	/run/media/derrick/D9FD-5124/SanDiskSecureAccess
+t/home/derrick/.local/share/vifm/Trash/001_Back Up Your Files to the Cloud.pdf
+	/run/media/derrick/D9FD-5124/Back Up Your Files to the Cloud.pdf
+t/home/derrick/.local/share/vifm/Trash/001_SanDiskSecureAccessV3.1_win.exe
+	/run/media/derrick/D9FD-5124/SanDiskSecureAccessV3.1_win.exe
+t/home/derrick/.local/share/vifm/Trash/000_audio.fireside.fm
+	/home/derrick/code/ruby/Bastards/audio.fireside.fm
+t/home/derrick/.local/share/vifm/Trash/000_587a5cb1-8fe1-4bfb-b3dc-34375523fae1.mp3
+	/home/derrick/code/ruby/Bastards/587a5cb1-8fe1-4bfb-b3dc-34375523fae1.mp3
+t/home/derrick/.local/share/vifm/Trash/000_jp.mp3
+	/home/derrick/code/ruby/Bastards/jp.mp3
+t/home/derrick/.local/share/vifm/Trash/000_jp.mp3.1
+	/home/derrick/code/ruby/Bastards/jp.mp3.1
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%ruby%Bastards%mechanizeform.rb.swp
+	/home/derrick/.local/share/nvim/swap/%home%derrick%code%ruby%Bastards%mechanizeform.rb.swp
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%.bin%panelruby.rb.swp
+	/home/derrick/.local/share/nvim/swap/%home%derrick%.bin%panelruby.rb.swp
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%ruby%Rubyist%enums.rb.swp
+	/home/derrick/.local/share/nvim/swap/%home%derrick%code%ruby%Rubyist%enums.rb.swp
+t/home/derrick/.local/share/vifm/Trash/000_2018NSCderrick.mp4
+	/home/derrick/nike/2018NSC/2018NSCderrick.mp4
+t/home/derrick/.local/share/vifm/Trash/000_2018nscderrick.mp4
+	/home/derrick/nike/2018NSC/2018nscderrick.mp4
+t/home/derrick/.local/share/vifm/Trash/000_33threadsboxes.jpg
+	/home/derrick/downloads/33threadsboxes.jpg
+t/home/derrick/.local/share/vifm/Trash/000_2018.jpg
+	/home/derrick/downloads/2018.jpg
+t/home/derrick/.local/share/vifm/Trash/000_2018nikeapplication.xlsx
+	/home/derrick/downloads/2018nikeapplication.xlsx
+t/home/derrick/.local/share/vifm/Trash/000_Supplier Creation Request Form_EN_Rev08.xlsm
+	/home/derrick/downloads/Supplier Creation Request Form_EN_Rev08.xlsm
+t/home/derrick/.local/share/vifm/Trash/000_Supplier Creation Request Form_EN_Rev08.xlsx
+	/home/derrick/downloads/Supplier Creation Request Form_EN_Rev08.xlsx
+t/home/derrick/.local/share/vifm/Trash/000_Synapse Agenda.docx
+	/home/derrick/downloads/Synapse Agenda.docx
+t/home/derrick/.local/share/vifm/Trash/000_The+Shoulder+Girdle+Complex.jpg
+	/home/derrick/downloads/The+Shoulder+Girdle+Complex.jpg
+t/home/derrick/.local/share/vifm/Trash/000_Toesox审核所需资料.docx
+	/home/derrick/downloads/Toesox审核所需资料.docx
+t/home/derrick/.local/share/vifm/Trash/000_WebCrawler.html
+	/home/derrick/downloads/WebCrawler.html
+t/home/derrick/.local/share/vifm/Trash/000_anatomyofmovement.pdf
+	/home/derrick/downloads/anatomyofmovement.pdf
+t/home/derrick/.local/share/vifm/Trash/000_anatomy-of-breathing.jpg
+	/home/derrick/downloads/anatomy-of-breathing.jpg
+t/home/derrick/.local/share/vifm/Trash/000_external_internal_intercostals.jpg
+	/home/derrick/downloads/external_internal_intercostals.jpg
+t/home/derrick/.local/share/vifm/Trash/000_learning-ruby.tar.gz
+	/home/derrick/downloads/learning-ruby.tar.gz
+t/home/derrick/.local/share/vifm/Trash/000_posturescoresheet.pdf
+	/home/derrick/downloads/posturescoresheet.pdf
+t/home/derrick/.local/share/vifm/Trash/000_shoulder_dislocation_anatomy.jpg
+	/home/derrick/downloads/shoulder_dislocation_anatomy.jpg
+t/home/derrick/.local/share/vifm/Trash/000_shoulder_dislocation_anatomy03.jpg
+	/home/derrick/downloads/shoulder_dislocation_anatomy03.jpg
+t/home/derrick/.local/share/vifm/Trash/000_spacecycle.jpg
+	/home/derrick/downloads/spacecycle.jpg
+t/home/derrick/.local/share/vifm/Trash/000_taiwanINV13319-2017.pdf
+	/home/derrick/downloads/taiwanINV13319-2017.pdf
+t/home/derrick/.local/share/vifm/Trash/000_webcrawler.pdf
+	/home/derrick/downloads/webcrawler.pdf
+t/home/derrick/.local/share/vifm/Trash/000_KB_English_Workman.svg.png
+	/home/derrick/downloads/KB_English_Workman.svg.png
+t/home/derrick/.local/share/vifm/Trash/000_Lordosis-Resource.pdf
+	/home/derrick/downloads/Lordosis-Resource.pdf
+t/home/derrick/.local/share/vifm/Trash/000_LungCapacity.jpg
+	/home/derrick/downloads/LungCapacity.jpg
+t/home/derrick/.local/share/vifm/Trash/000_Dunkirk (2017) [YTS.AG]
+	/home/derrick/downloads/Dunkirk (2017) [YTS.AG]
+t/home/derrick/.local/share/vifm/Trash/000_Frantic (1988) [YTS.AG]
+	/home/derrick/downloads/Frantic (1988) [YTS.AG]
+t/home/derrick/.local/share/vifm/Trash/000_Hickok (2017) [YTS.AG]
+	/home/derrick/downloads/Hickok (2017) [YTS.AG]
+t/home/derrick/.local/share/vifm/Trash/000_LBJ (2016) [YTS.AG]
+	/home/derrick/downloads/LBJ (2016) [YTS.AG]
+t/home/derrick/.local/share/vifm/Trash/000_Ray Donovan Season 1 (1080p x265 Joy)
+	/home/derrick/downloads/Ray Donovan Season 1 (1080p x265 Joy)
+t/home/derrick/.local/share/vifm/Trash/000_Ray Donovan Season 5 Mp4 720p
+	/home/derrick/downloads/Ray Donovan Season 5 Mp4 720p
+t/home/derrick/.local/share/vifm/Trash/000_Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
+	/home/derrick/downloads/Ray.Donovan.SEASON.04.S04.COMPLETE.720p.WEBRip.2CH.x265.HEVC-PSA
+t/home/derrick/.local/share/vifm/Trash/000_The Silence Of The Lambs (1991)
+	/home/derrick/downloads/The Silence Of The Lambs (1991)
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%ruby%Barr%bsp_tree.rb.swp
+	/home/derrick/.local/share/nvim/swap/%home%derrick%code%ruby%Barr%bsp_tree.rb.swp
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%ruby%Barr%desktop.rb.swp
+	/home/derrick/.local/share/nvim/swap/%home%derrick%code%ruby%Barr%desktop.rb.swp
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%ruby%Euler%euler#42.rb.swp
+	/home/derrick/.local/share/nvim/swap/%home%derrick%code%ruby%Euler%euler#42.rb.swp
+t/home/derrick/.local/share/vifm/Trash/000_xtitle.rb
+	/home/derrick/.bin/xtitle.rb
+t/home/derrick/.local/share/vifm/Trash/000_manual.html
+	/home/derrick/downloads/manual.html
+t/home/derrick/.local/share/vifm/Trash/000_KindleGen Legal Notices 2013-02-19 Linux.txt
+	/home/derrick/downloads/KindleGen Legal Notices 2013-02-19 Linux.txt
+t/home/derrick/.local/share/vifm/Trash/000_EULA.txt
+	/home/derrick/downloads/EULA.txt
+t/home/derrick/.local/share/vifm/Trash/000_EULA_Chinese.txt
+	/home/derrick/downloads/EULA_Chinese.txt
+t/home/derrick/.local/share/vifm/Trash/000_EULA_Dutch.txt
+	/home/derrick/downloads/EULA_Dutch.txt
+t/home/derrick/.local/share/vifm/Trash/000_EULA_French.txt
+	/home/derrick/downloads/EULA_French.txt
+t/home/derrick/.local/share/vifm/Trash/000_EULA_German.txt
+	/home/derrick/downloads/EULA_German.txt
+t/home/derrick/.local/share/vifm/Trash/000_EULA_Italian.txt
+	/home/derrick/downloads/EULA_Italian.txt
+t/home/derrick/.local/share/vifm/Trash/000_EULA_Japanese.txt
+	/home/derrick/downloads/EULA_Japanese.txt
+t/home/derrick/.local/share/vifm/Trash/000_EULA_Spanish.txt
+	/home/derrick/downloads/EULA_Spanish.txt
+t/home/derrick/.local/share/vifm/Trash/000_docs
+	/home/derrick/downloads/docs
+t/home/derrick/.local/share/vifm/Trash/000_The Martian (2015) [YTS.AG]
+	/home/derrick/downloads/The Martian (2015) [YTS.AG]
+t/home/derrick/.local/share/vifm/Trash/000_G.I. Jane (1997)
+	/home/derrick/downloads/G.I. Jane (1997)
+t/home/derrick/.local/share/vifm/Trash/000_Heavy Metal (1981)
+	/home/derrick/downloads/Heavy Metal (1981)
+t/home/derrick/.local/share/vifm/Trash/000_Force 10 From Navarone (1978) [YTS.AG]
+	/home/derrick/downloads/Force 10 From Navarone (1978) [YTS.AG]
+t/home/derrick/.local/share/vifm/Trash/000_The Imitation Game (2014)
+	/home/derrick/downloads/The Imitation Game (2014)
+t/home/derrick/.local/share/vifm/Trash/000_The Oxford Murders (2008) [YTS.AG]
+	/home/derrick/downloads/The Oxford Murders (2008) [YTS.AG]
+t/home/derrick/.local/share/vifm/Trash/000_The Tailor Of Panama (2001) [YTS.AG]
+	/home/derrick/downloads/The Tailor Of Panama (2001) [YTS.AG]
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%ruby%Euler%euler#54.rb.swp
+	/home/derrick/.local/share/nvim/swap/%home%derrick%code%ruby%Euler%euler#54.rb.swp
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%ruby%Wicked%chapt01%zip.rb.swp
+	/home/derrick/.local/share/nvim/swap/%home%derrick%code%ruby%Wicked%chapt01%zip.rb.swp
+t/home/derrick/.local/share/vifm/Trash/000_%tmp%mutt-nucskull-1000-736-569363542177583028.swp
+	/home/derrick/.local/share/nvim/swap/%tmp%mutt-nucskull-1000-736-569363542177583028.swp
+t/home/derrick/.local/share/vifm/Trash/000_%tmp%mutt-nucskull-1000-6806-14028338821997970482.swp
+	/home/derrick/.local/share/nvim/swap/%tmp%mutt-nucskull-1000-6806-14028338821997970482.swp
+t/home/derrick/.local/share/vifm/Trash/000_matcover.jpg
+	/home/derrick/pilates/synapseeducation/mat/matcover.jpg
+t/home/derrick/.local/share/vifm/Trash/000_matcover.jpg.png
+	/home/derrick/pilates/synapseeducation/mat/matcover.jpg.png
+t/home/derrick/.local/share/vifm/Trash/000_matcover.png
+	/home/derrick/pilates/synapseeducation/mat/matcover.png
+t/home/derrick/.local/share/vifm/Trash/000_mat2cover.png
+	/home/derrick/pilates/synapseeducation/mat/mat2cover.png
+t/home/derrick/.local/share/vifm/Trash/000_pic.png
+	/home/derrick/code/ruby/Projects/pic.png
+t/home/derrick/.local/share/vifm/Trash/000_sn0652.mp3
+	/home/derrick/code/ruby/Projects/sn0652.mp3
+t/home/derrick/.local/share/vifm/Trash/000_lnl31.mp3
+	/home/derrick/code/ruby/Projects/lnl31.mp3
+t/home/derrick/.local/share/vifm/Trash/000_LNL31.mp3
+	/home/derrick/code/ruby/Projects/LNL31.mp3
+t/home/derrick/.local/share/vifm/Trash/000_1b0884f0-a4db-4361-9c1f-405aef3ec9f7.mp3
+	/home/derrick/code/ruby/Projects/1b0884f0-a4db-4361-9c1f-405aef3ec9f7.mp3
+t/home/derrick/.local/share/vifm/Trash/000_podcast.mp3
+	/home/derrick/code/ruby/Projects/podcast.mp3
+t/tmp/.vifm-Trash-1000/000_open-uri20180305-4033-1o8hujt
+	/tmp/open-uri20180305-4033-1o8hujt
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%ruby%Projects%podcast.yml.swp
+	/home/derrick/.local/share/nvim/swap/%home%derrick%code%ruby%Projects%podcast.yml.swp
+t/home/derrick/.local/share/vifm/Trash/000_podcastnew.mp3
+	/home/derrick/code/ruby/Projects/podcastnew.mp3
+t/home/derrick/.local/share/vifm/Trash/000_Late Night Linux – Episode 32.mp3
+	/home/derrick/code/ruby/Projects/Late Night Linux – Episode 32.mp3
+t/home/derrick/.local/share/vifm/Trash/000_Linux Action News 43.mp3
+	/home/derrick/code/ruby/Projects/Linux Action News 43.mp3
+t/home/derrick/.local/share/vifm/Trash/000_latenightlinux–episode32.mp3
+	/home/derrick/code/ruby/Projects/latenightlinux–episode32.mp3
+t/home/derrick/.local/share/vifm/Trash/000_linuxactionnews43.mp3
+	/home/derrick/code/ruby/Projects/linuxactionnews43.mp3
+t/home/derrick/.local/share/vifm/Trash/000_sn653:memcrashed.mp3
+	/home/derrick/code/ruby/Projects/sn653:memcrashed.mp3
+t/home/derrick/.local/share/vifm/Trash/000_Ghost In The Shell (2017) [YTS.AG]
+	/run/media/derrick/C881-FC2C/Ghost In The Shell (2017) [YTS.AG]
+t/home/derrick/.local/share/vifm/Trash/001_LOST.DIR
+	/run/media/derrick/C881-FC2C/LOST.DIR
+t/home/derrick/.local/share/vifm/Trash/000_Pitch Perfect 3 2017 1080p HC WEBRip AAC 2.0 x264
+	/run/media/derrick/C881-FC2C/Pitch Perfect 3 2017 1080p HC WEBRip AAC 2.0 x264
+t/home/derrick/.local/share/vifm/Trash/001_System Volume Information
+	/run/media/derrick/C881-FC2C/System Volume Information
+t/home/derrick/.local/share/vifm/Trash/000_The Dark Tower (2017) [1080p] [YTS.AG]
+	/run/media/derrick/C881-FC2C/The Dark Tower (2017) [1080p] [YTS.AG]
+t/home/derrick/.local/share/vifm/Trash/000_The Nice Guys (2016) [1080p] [YTS.AG]
+	/run/media/derrick/C881-FC2C/The Nice Guys (2016) [1080p] [YTS.AG]
+t/home/derrick/.local/share/vifm/Trash/001_appstore_download_cache
+	/run/media/derrick/C881-FC2C/appstore_download_cache
+t/home/derrick/.local/share/vifm/Trash/000_EOMcnnew.odp
+	/run/media/derrick/C881-FC2C/EOMcnnew.odp
+t/home/derrick/.local/share/vifm/Trash/000_EOMcnnew.pdf
+	/run/media/derrick/C881-FC2C/EOMcnnew.pdf
+t/home/derrick/.local/share/vifm/Trash/000_Jason.Bourne.2016.HC.HDRip.XviD.AC3-EVO.avi
+	/run/media/derrick/C881-FC2C/Jason.Bourne.2016.HC.HDRip.XviD.AC3-EVO.avi
+t/home/derrick/.local/share/vifm/Trash/000_pilatesintro.odg
+	/run/media/derrick/C881-FC2C/pilatesintro.odg
+t/home/derrick/.local/share/vifm/Trash/000_pilatesintro.pdf
+	/run/media/derrick/C881-FC2C/pilatesintro.pdf
+t/home/derrick/.local/share/vifm/Trash/000_.cm0013
+	/run/media/derrick/C881-FC2C/.cm0013
+t/home/derrick/.local/share/vifm/Trash/000_.~lock.EOMcnnew.odp#
+	/run/media/derrick/C881-FC2C/.~lock.EOMcnnew.odp#
+t/home/derrick/.local/share/vifm/Trash/000_episode265:thecaliforniashakes.mp3
+	/home/derrick/code/ruby/Projects/episode265:thecaliforniashakes.mp3
+t/home/derrick/.local/share/vifm/Trash/000_securitynow
+	/home/derrick/code/ruby/Projects/securitynow
+t/home/derrick/.local/share/vifm/Trash/000_techtalktoday
+	/home/derrick/code/ruby/Projects/techtalktoday
+t/home/derrick/.local/share/vifm/Trash/000_coderradio
+	/home/derrick/code/ruby/Projects/coderradio
+t/home/derrick/.local/share/vifm/Trash/000_dailytechnewsshow
+	/home/derrick/code/ruby/Projects/dailytechnewsshow
+t/home/derrick/.local/share/vifm/Trash/000_dvorakunplugged
+	/home/derrick/code/ruby/Projects/dvorakunplugged
+t/home/derrick/.local/share/vifm/Trash/000_jbunfilter
+	/home/derrick/code/ruby/Projects/jbunfilter
+t/home/derrick/.local/share/vifm/Trash/000_latenightlinux
+	/home/derrick/code/ruby/Projects/latenightlinux
+t/home/derrick/.local/share/vifm/Trash/000_linuxactionnews
+	/home/derrick/code/ruby/Projects/linuxactionnews
+t/home/derrick/.local/share/vifm/Trash/000_meetthepress
+	/home/derrick/code/ruby/Projects/meetthepress
+t/home/derrick/.local/share/vifm/Trash/000_noagendashow
+	/home/derrick/code/ruby/Projects/noagendashow
+t/home/derrick/.local/share/vifm/Trash/000_nprplanetmoney
+	/home/derrick/code/ruby/Projects/nprplanetmoney
+t/home/derrick/.local/share/vifm/Trash/000_tms
+	/home/derrick/code/ruby/Projects/tms
+t/home/derrick/.local/share/vifm/Trash/000_twit
+	/home/derrick/code/ruby/Projects/twit
+t/home/derrick/.local/share/vifm/Trash/000_wbur-onpoint
+	/home/derrick/code/ruby/Projects/wbur-onpoint
+t/home/derrick/.local/share/vifm/Trash/000_twig448:raspberrypiday
+	/home/derrick/code/ruby/Projects/twig448:raspberrypiday
+t/home/derrick/.local/share/vifm/Trash/000_somepodcast.mp3
+	/home/derrick/code/ruby/Projects/somepodcast.mp3
+t/home/derrick/.local/share/vifm/Trash/000_thisweekingoogle(mp3)
+	/home/derrick/code/ruby/Projects/thisweekingoogle(mp3)
+t/home/derrick/.local/share/vifm/Trash/000_Coco (2017) [YTS.AG]
+	/home/derrick/downloads/Coco (2017) [YTS.AG]
+t/home/derrick/.local/share/vifm/Trash/000_Bright (2017) [YTS.AG]
+	/home/derrick/downloads/Bright (2017) [YTS.AG]
+t/home/derrick/.local/share/vifm/Trash/000_thisweekingoogle
+	/home/derrick/code/ruby/Projects/thisweekingoogle
+t/home/derrick/.local/share/vifm/Trash/000_themorningstream
+	/home/derrick/code/ruby/Projects/themorningstream
+t/home/derrick/.local/share/vifm/Trash/000_perl5
+	/home/derrick/perl5
+t/home/derrick/.local/share/vifm/Trash/000_.~lock.LEROMreformerhandout.odg#
+	/home/derrick/pilates/synapseeducation/workshops/.~lock.LEROMreformerhandout.odg#
+t/home/derrick/.local/share/vifm/Trash/000_.~lock.Nike1500712b.odg#
+	/home/derrick/pilates/synapseeducation/workshops/.~lock.Nike1500712b.odg#
+t/home/derrick/.local/share/vifm/Trash/000_.~lock.pilateseasy.odg#
+	/home/derrick/pilates/synapseeducation/workshops/.~lock.pilateseasy.odg#
+t/home/derrick/.local/share/vifm/Trash/000_.~lock.rotatepilates.odg#
+	/home/derrick/pilates/synapseeducation/workshops/.~lock.rotatepilates.odg#
+t/home/derrick/.local/share/vifm/Trash/000_podcasts
+	/home/derrick/podcasts
+t/home/derrick/.local/share/vifm/Trash/001_coderradio
+	/home/derrick/test/coderradio
+t/home/derrick/.local/share/vifm/Trash/000_dhunplugged
+	/home/derrick/test/dhunplugged
+t/home/derrick/.local/share/vifm/Trash/003_latenightlinux
+	/home/derrick/test/latenightlinux
+t/home/derrick/.local/share/vifm/Trash/003_linuxactionnews
+	/home/derrick/test/linuxactionnews
+t/home/derrick/.local/share/vifm/Trash/000_linuxunplugged
+	/home/derrick/test/linuxunplugged
+t/home/derrick/.local/share/vifm/Trash/000_noagenda
+	/home/derrick/test/noagenda
+t/home/derrick/.local/share/vifm/Trash/000_onpoint
+	/home/derrick/test/onpoint
+t/home/derrick/.local/share/vifm/Trash/000_planetmoney
+	/home/derrick/test/planetmoney
+t/home/derrick/.local/share/vifm/Trash/000_securitynow(mp3)
+	/home/derrick/test/securitynow(mp3)
+t/home/derrick/.local/share/vifm/Trash/003_techtalktoday
+	/home/derrick/test/techtalktoday
+t/home/derrick/.local/share/vifm/Trash/001_themorningstream
+	/home/derrick/test/themorningstream
+t/home/derrick/.local/share/vifm/Trash/003_thisweekingoogle(mp3)
+	/home/derrick/test/thisweekingoogle(mp3)
+t/home/derrick/.local/share/vifm/Trash/000_thisweekintech(mp3)
+	/home/derrick/test/thisweekintech(mp3)
+t/home/derrick/.local/share/vifm/Trash/000_unfilter
+	/home/derrick/test/unfilter
+t/run/media/derrick/D9FD-5124/.vifm-Trash-1000/000_appstore_download_cache
+	/run/media/derrick/D9FD-5124/appstore_download_cache
+t/run/media/derrick/D9FD-5124/.vifm-Trash-1000/000_Casino.Royale.2006.1080p.BRrip.x264.YIFY.mp4
+	/run/media/derrick/D9FD-5124/Casino.Royale.2006.1080p.BRrip.x264.YIFY.mp4
+t/run/media/derrick/D9FD-5124/.vifm-Trash-1000/000_Love.Actually.2003.720p.BRRip.x264-x0r.mkv
+	/run/media/derrick/D9FD-5124/Love.Actually.2003.720p.BRRip.x264-x0r.mkv
+t/run/media/derrick/D9FD-5124/.vifm-Trash-1000/000_Master.And.Commander.The.Far.Side.Of.The.World.2003.1080p.BluRay.AAC.x264-tomcat12[ETRG].mp4
+	/run/media/derrick/D9FD-5124/Master.And.Commander.The.Far.Side.Of.The.World.2003.1080p.BluRay.AAC.x264-tomcat12[ETRG].mp4
+t/run/media/derrick/D9FD-5124/.vifm-Trash-1000/000_Ref1cnnew.pdf
+	/run/media/derrick/D9FD-5124/Ref1cnnew.pdf
+t/run/media/derrick/D9FD-5124/.vifm-Trash-1000/000_Ref1cover.jpg
+	/run/media/derrick/D9FD-5124/Ref1cover.jpg
+t/run/media/derrick/D9FD-5124/.vifm-Trash-1000/000_Serpico.1973.720p.BluRay.x264-[YTS.AG].chs.shooter.srt
+	/run/media/derrick/D9FD-5124/Serpico.1973.720p.BluRay.x264-[YTS.AG].chs.shooter.srt
+t/run/media/derrick/D9FD-5124/.vifm-Trash-1000/000_Serpico.1973.720p.BluRay.x264-[YTS.AG].mp4
+	/run/media/derrick/D9FD-5124/Serpico.1973.720p.BluRay.x264-[YTS.AG].mp4
+t/run/media/derrick/D9FD-5124/.vifm-Trash-1000/000_The.Amazing.Spider.Man.2.2014.1080p.BluRay.x264.YIFY.chs.shooter.ass
+	/run/media/derrick/D9FD-5124/The.Amazing.Spider.Man.2.2014.1080p.BluRay.x264.YIFY.chs.shooter.ass
+t/run/media/derrick/D9FD-5124/.vifm-Trash-1000/000_The.Amazing.Spider.Man.2.2014.1080p.BluRay.x264.YIFY.mp4
+	/run/media/derrick/D9FD-5124/The.Amazing.Spider.Man.2.2014.1080p.BluRay.x264.YIFY.mp4
+t/run/media/derrick/D9FD-5124/.vifm-Trash-1000/000_The.Girl.With.The.Dragon.Tattoo.2011.720p.BluRay.x264.YIFY.chs.shooter.srt
+	/run/media/derrick/D9FD-5124/The.Girl.With.The.Dragon.Tattoo.2011.720p.BluRay.x264.YIFY.chs.shooter.srt
+t/run/media/derrick/D9FD-5124/.vifm-Trash-1000/000_The.Girl.With.The.Dragon.Tattoo.2011.720p.BluRay.x264.YIFY.mp4
+	/run/media/derrick/D9FD-5124/The.Girl.With.The.Dragon.Tattoo.2011.720p.BluRay.x264.YIFY.mp4
+t/run/media/derrick/D9FD-5124/.vifm-Trash-1000/000_The.Thomas.Crown.Affair.1999.720p.BluRay.x264.[YTS.AG].chs.shooter.srt
+	/run/media/derrick/D9FD-5124/The.Thomas.Crown.Affair.1999.720p.BluRay.x264.[YTS.AG].chs.shooter.srt
+t/run/media/derrick/D9FD-5124/.vifm-Trash-1000/000_The.Thomas.Crown.Affair.1999.720p.BluRay.x264.[YTS.AG].mp4
+	/run/media/derrick/D9FD-5124/The.Thomas.Crown.Affair.1999.720p.BluRay.x264.[YTS.AG].mp4
+t/run/media/derrick/D9FD-5124/.vifm-Trash-1000/000_Wild.2014.720p.BluRay.x264.YIFY.mp4
+	/run/media/derrick/D9FD-5124/Wild.2014.720p.BluRay.x264.YIFY.mp4
+t/run/media/derrick/D9FD-5124/.vifm-Trash-1000/000_.LOST.DIR
+	/run/media/derrick/D9FD-5124/.LOST.DIR
+t/run/media/derrick/D9FD-5124/.vifm-Trash-1000/000_.mediadb
+	/run/media/derrick/D9FD-5124/.mediadb
+t/home/derrick/.local/share/vifm/Trash/000_test
+	/home/derrick/test
+t/home/derrick/.local/share/vifm/Trash/000_Documents
+	/home/derrick/Documents
+t/home/derrick/.local/share/vifm/Trash/000_The Hobbit An Unexpected Journey (2012)
+	/run/media/derrick/64AD-97E4/The Hobbit An Unexpected Journey (2012)
+t/home/derrick/.local/share/vifm/Trash/000_.android_secure
+	/run/media/derrick/64AD-97E4/.android_secure
+t/home/derrick/.local/share/vifm/Trash/002_LOST.DIR
+	/run/media/derrick/64AD-97E4/LOST.DIR
+t/home/derrick/.local/share/vifm/Trash/000_Billions.S02E01.Risk.Management.1080p.AMZN.WEBRip.DD5.1.HEVC.x265.mkv.part
+	/home/derrick/downloads/Billions.S02E01.Risk.Management.1080p.AMZN.WEBRip.DD5.1.HEVC.x265.mkv.part
+t/home/derrick/.local/share/vifm/Trash/000_Star.Trek.Discovery.S01E01.720p.720p.HDTV.x264-AVS[eztv].mkv.part
+	/home/derrick/downloads/Star.Trek.Discovery.S01E01.720p.720p.HDTV.x264-AVS[eztv].mkv.part
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%.bin%bsp_tree.rb.swp
+	/home/derrick/.local/share/nvim/swap/%home%derrick%.bin%bsp_tree.rb.swp
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%ruby%Barr%mem.rb.swp
+	/home/derrick/.local/share/nvim/swap/%home%derrick%code%ruby%Barr%mem.rb.swp
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%ruby%Catcherrb%catcherrb.rb.swp
+	/home/derrick/.local/share/nvim/swap/%home%derrick%code%ruby%Catcherrb%catcherrb.rb.swp
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%ruby%Cookbook%chpt05%tohistogram.5.12.rb.swp
+	/home/derrick/.local/share/nvim/swap/%home%derrick%code%ruby%Cookbook%chpt05%tohistogram.5.12.rb.swp
+t/home/derrick/.local/share/vifm/Trash/000_Star.Trek.Discovery.S01E03.iNTERNAL.WEB.x264-STRiFE[eztv].mkv.part
+	/home/derrick/downloads/Star.Trek.Discovery.S01E03.iNTERNAL.WEB.x264-STRiFE[eztv].mkv.part
+t/home/derrick/.local/share/vifm/Trash/000_catcherrb.rb
+	/home/derrick/code/ruby/Catcherrb/catcherrb.rb
+t/home/derrick/.local/share/vifm/Trash/002_coderradio
+	/home/derrick/code/ruby/Catcherrb/coderradio
+t/home/derrick/.local/share/vifm/Trash/001_dhunplugged
+	/home/derrick/code/ruby/Catcherrb/dhunplugged
+t/home/derrick/.local/share/vifm/Trash/004_latenightlinux
+	/home/derrick/code/ruby/Catcherrb/latenightlinux
+t/home/derrick/.local/share/vifm/Trash/004_linuxactionnews
+	/home/derrick/code/ruby/Catcherrb/linuxactionnews
+t/home/derrick/.local/share/vifm/Trash/001_linuxunplugged
+	/home/derrick/code/ruby/Catcherrb/linuxunplugged
+t/home/derrick/.local/share/vifm/Trash/001_noagenda
+	/home/derrick/code/ruby/Catcherrb/noagenda
+t/home/derrick/.local/share/vifm/Trash/001_onpoint
+	/home/derrick/code/ruby/Catcherrb/onpoint
+t/home/derrick/.local/share/vifm/Trash/001_planetmoney
+	/home/derrick/code/ruby/Catcherrb/planetmoney
+t/home/derrick/.local/share/vifm/Trash/001_securitynow(mp3)
+	/home/derrick/code/ruby/Catcherrb/securitynow(mp3)
+t/home/derrick/.local/share/vifm/Trash/004_techtalktoday
+	/home/derrick/code/ruby/Catcherrb/techtalktoday
+t/home/derrick/.local/share/vifm/Trash/002_themorningstream
+	/home/derrick/code/ruby/Catcherrb/themorningstream
+t/home/derrick/.local/share/vifm/Trash/004_thisweekingoogle(mp3)
+	/home/derrick/code/ruby/Catcherrb/thisweekingoogle(mp3)
+t/home/derrick/.local/share/vifm/Trash/001_thisweekintech(mp3)
+	/home/derrick/code/ruby/Catcherrb/thisweekintech(mp3)
+t/home/derrick/.local/share/vifm/Trash/001_unfilter
+	/home/derrick/code/ruby/Catcherrb/unfilter
+t/home/derrick/.local/share/vifm/Trash/000_auto_complete
+	/home/derrick/code/vim/Practical vim/auto_complete
+t/home/derrick/.local/share/vifm/Trash/000_copy_and_paste
+	/home/derrick/code/vim/Practical vim/copy_and_paste
+t/home/derrick/.local/share/vifm/Trash/000_ctags
+	/home/derrick/code/vim/Practical vim/ctags
+t/home/derrick/.local/share/vifm/Trash/000_customizations
+	/home/derrick/code/vim/Practical vim/customizations
+t/home/derrick/.local/share/vifm/Trash/000_ex_mode
+	/home/derrick/code/vim/Practical vim/ex_mode
+t/home/derrick/.local/share/vifm/Trash/000_files
+	/home/derrick/code/vim/Practical vim/files
+t/home/derrick/.local/share/vifm/Trash/000_global
+	/home/derrick/code/vim/Practical vim/global
+t/home/derrick/.local/share/vifm/Trash/000_grep
+	/home/derrick/code/vim/Practical vim/grep
+t/home/derrick/.local/share/vifm/Trash/000_insert_mode
+	/home/derrick/code/vim/Practical vim/insert_mode
+t/home/derrick/.local/share/vifm/Trash/000_jumps
+	/home/derrick/code/vim/Practical vim/jumps
+t/home/derrick/.local/share/vifm/Trash/000_macros
+	/home/derrick/code/vim/Practical vim/macros
+t/home/derrick/.local/share/vifm/Trash/000_motions
+	/home/derrick/code/vim/Practical vim/motions
+t/home/derrick/.local/share/vifm/Trash/000_normal_mode
+	/home/derrick/code/vim/Practical vim/normal_mode
+t/home/derrick/.local/share/vifm/Trash/000_patterns
+	/home/derrick/code/vim/Practical vim/patterns
+t/home/derrick/.local/share/vifm/Trash/000_quickfix
+	/home/derrick/code/vim/Practical vim/quickfix
+t/home/derrick/.local/share/vifm/Trash/000_search
+	/home/derrick/code/vim/Practical vim/search
+t/home/derrick/.local/share/vifm/Trash/000_spell_check
+	/home/derrick/code/vim/Practical vim/spell_check
+t/home/derrick/.local/share/vifm/Trash/000_substitution
+	/home/derrick/code/vim/Practical vim/substitution
+t/home/derrick/.local/share/vifm/Trash/000_the_vim_way
+	/home/derrick/code/vim/Practical vim/the_vim_way
+t/home/derrick/.local/share/vifm/Trash/000_visual_mode
+	/home/derrick/code/vim/Practical vim/visual_mode
+t/home/derrick/.local/share/vifm/Trash/000_essential.vim
+	/home/derrick/code/vim/Practical vim/essential.vim
+t/home/derrick/.local/share/vifm/Trash/000_code
+	/home/derrick/code/vim/Practical vim/code
+t/home/derrick/.local/share/vifm/Trash/001_catcherrb.rb
+	/home/derrick/.bin/catcherrb.rb
+t/home/derrick/.local/share/vifm/Trash/000_EOMcnnew.odg
+	/run/media/derrick/C881-FC2C/EOMcnnew.odg
+t/home/derrick/.local/share/vifm/Trash/000_EOMcnnewppt.pdf
+	/run/media/derrick/C881-FC2C/EOMcnnewppt.pdf
+t/home/derrick/.local/share/vifm/Trash/000_kitty
+	/home/derrick/.config/kitty
+t/home/derrick/.local/share/vifm/Trash/000_Teen Wolf (1985) [YTS.AG]
+	/home/derrick/downloads/Teen Wolf (1985) [YTS.AG]
+t/home/derrick/.local/share/vifm/Trash/000_Collateral (2004)
+	/home/derrick/downloads/Collateral (2004)
+t/home/derrick/.local/share/vifm/Trash/000_Darkest Hour (2017) [YTS.AM]
+	/home/derrick/downloads/Darkest Hour (2017) [YTS.AM]
+t/home/derrick/.local/share/vifm/Trash/000_Tombstone (1993)
+	/home/derrick/downloads/Tombstone (1993)
+t/home/derrick/.local/share/vifm/Trash/000_Logan Lucky (2017) [YTS.AG]
+	/home/derrick/downloads/Logan Lucky (2017) [YTS.AG]
+t/home/derrick/.local/share/vifm/Trash/000_Dog Day Afternoon (1975) [YTS.AG]
+	/home/derrick/downloads/The Avengers (2012)/Dog Day Afternoon (1975) [YTS.AG]
+t/home/derrick/.local/share/vifm/Trash/000_neomuttrc
+	/home/derrick/.config/neomutt/neomuttrc
 
 # State:
 f

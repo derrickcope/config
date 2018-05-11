@@ -48,7 +48,7 @@ filetype plugin on
 "Search
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-set hlsearch                                    " When there is a previous search pattern, highlight all
+"set hlsearch                                    " When there is a previous search pattern, highlight all
                                                 " its matches.
  
 set incsearch                                   " While typing a search command, show immediately where the
@@ -106,8 +106,6 @@ let g:table_mode_corner="|"
 let g:textutil_txt_encoding='utf-8'
 "set ffs=unix,dos,mac                           "set ffs=unix,dos,mac
 
-
-
 let g:vimwiki_list = [{ 'syntax': 'markdown', 'ext': '.md' }]
                                                 " set documents in markdown syntax
                                                 "
@@ -139,6 +137,8 @@ nmap <Leader>nh :nohlsearch<cr>                 " turn off highlighting
 nmap <Leader><Space> :Vexplore<cr>
 nnoremap <C-L> :bnext<cr>                       " control l next buffer
 nnoremap <C-H> :bNext<cr>                       " control h previous buffer
+"nnoremap <C-S-L> :wincmd l<cr>
+"nnoremap <C-S-H> :wincmd h<cr>
 nmap <Leader>s :set spell!<cr>                  " spell on
 nmap <Leader>ns :set nospell!<cr>               " spell off
 nmap <Leader>cs :set spell spellang=cn<cr>       " spell on cn

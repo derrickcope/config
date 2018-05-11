@@ -341,8 +341,8 @@
        outer_style="0"
        align_mode="1">
       <group
-         id="lineheight"
-         display_unit="1" />
+         display_unit="1"
+         id="lineheight" />
     </eventcontext>
     <eventcontext
        id="nodes"
@@ -429,12 +429,12 @@
        offset="0"
        offsetunits="cm" />
     <group
-       id="measure"
-       fontsize="10"
-       precision="2"
-       scale="100"
+       unit="mm"
        offset="5"
-       unit="mm" />
+       scale="100"
+       precision="2"
+       fontsize="10"
+       id="measure" />
   </group>
   <group
      id="palette">
@@ -579,8 +579,8 @@
        panel_wrap="0"
        panel_border="0"
        page="0"
-       x="768"
-       y="353"
+       x="2036"
+       y="336"
        w="383"
        h="398"
        visible="1"
@@ -595,8 +595,8 @@
        panel_mode="1"
        panel_wrap="0"
        panel_border="0"
-       x="768"
-       y="109"
+       x="1983"
+       y="219"
        w="383"
        h="885"
        visible="1"
@@ -636,7 +636,7 @@
        panel_wrap="0"
        panel_border="0"
        x="637"
-       y="87"
+       y="81"
        w="645"
        h="930"
        visible="0"
@@ -669,7 +669,7 @@
        panel_wrap="0"
        panel_border="0"
        x="754"
-       y="316"
+       y="304"
        w="412"
        h="472"
        visible="0"
@@ -687,7 +687,7 @@
        default="org.inkscape.output.svg.inkscape"
        append_extension="1"
        enable_preview="1"
-       path="/home/derrick/pictures/pilatestimeline"
+       path="/home/derrick/pilates/synapseeducation/reformer/Reformer3"
        use_current_dir="1" />
     <group
        id="save_copy"
@@ -698,11 +698,11 @@
     <group
        id="open"
        enable_preview="1"
-       path="/home/derrick/pictures/Synapse/" />
+       path="/home/derrick/pilates/synapseeducation/reformer/Reformer2/" />
     <group
        id="import"
        enable_preview="1"
-       path="/home/derrick/pilates/synapsestudio/synapselogonew/"
+       path="/home/derrick/pilates/synapseeducation/reformer/Level 6/"
        ask="1"
        link="embed"
        scale="auto"
@@ -770,19 +770,19 @@
        on-blur="0.50"
        animate-time="100" />
     <group
-       placement="5"
-       state="2"
-       visible="1"
-       h="438"
-       w="398"
-       y="333"
-       x="761"
-       panel_border="0"
-       panel_wrap="0"
-       panel_mode="1"
-       panel_ratio="100"
+       id="inputdevices"
        panel_size="1"
-       id="inputdevices" />
+       panel_ratio="100"
+       panel_mode="1"
+       panel_wrap="0"
+       panel_border="0"
+       x="761"
+       y="333"
+       w="398"
+       h="438"
+       visible="1"
+       state="2"
+       placement="5" />
   </group>
   <group
      id="printing">
@@ -1078,7 +1078,7 @@
      org.ekips.filter.extractimage.filepath="carola" />
   <group
      id="desktop"
-     style="line-height:25px;font-size:64px;-inkscape-font-specification:'Schumacher Clean Wide Bold';font-family:'Schumacher Clean Wide';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#000000;fill-opacity:1;stroke:#f3f2f0;stroke-opacity:1">
+     style="line-height:25px;font-size:48px;-inkscape-font-specification:'Schumacher Clean Wide Bold';font-family:'Schumacher Clean Wide';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#f6af32;fill-opacity:1;stroke:#f3f2f0;stroke-opacity:1">
     <group
        width="1918"
        height="1060"

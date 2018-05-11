@@ -1,8 +1,16 @@
-add ~/podcasts/
+add ~/music/
 clear
-refresh
-help
+add ~/podcasts/
 rem ~/podcasts
+rem 
+help
+remove ~/podcasts
+add ~/music/Prince - 4ever (2CD 2016) [FLAC]/
+h
+add ~/music
+~/music
+add 
+refresh
 rm ~/podcasts
 add ~/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/
 stop
@@ -10,15 +18,11 @@ pause
 ? stop
 pause ?
 ?
-h
-add ~/music
 s
 man
-add ~/music/
 cleal
 remove
 add ~
 add
-~/music
 add ~/podcasts
 add ~/music/podcasts/

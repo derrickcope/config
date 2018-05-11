@@ -15,3 +15,11 @@ pavucontrol.ini
 screenkey.json
 /gpicview/gpicview.conf
 nvim/plugged/
+/neomutt/aliases
+/neomutt/certificates
+/neomutt/sigderrick
+/neomutt/siginfo
+/neomutt/sigme
+/neomutt/neomuttrc
+
+
