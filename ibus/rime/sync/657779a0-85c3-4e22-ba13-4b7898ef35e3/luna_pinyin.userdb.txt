@@ -1,7 +1,0 @@
-# Rime user dictionary
-#@/db_name	luna_pinyin.userdb
-#@/db_type	userdb
-#@/rime_version	1.2.9
-#@/tick	1
-#@/user_id	657779a0-85c3-4e22-ba13-4b7898ef35e3
-zhong 	中	c=1 d=1 t=1
