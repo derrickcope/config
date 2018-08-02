@@ -133,8 +133,8 @@
          id="rect"
          style="fill:blue;"
          usecurrent="1"
-         width="26.0675"
-         height="5"
+         width="412.037"
+         height="73.4192"
          rx="0"
          ry="0" />
       <eventcontext
@@ -386,12 +386,13 @@
        usepressure="1"
        width="15"
        population="70"
-       mode="1"
+       mode="2"
        rotation_variation="0"
        scale_variation="0"
        standard_deviation="70"
        mean="0"
-       offset="100" />
+       offset="100"
+       over_transparent="1" />
     <eventcontext
        id="gradient"
        selcue="1" />
@@ -579,8 +580,8 @@
        panel_wrap="0"
        panel_border="0"
        page="0"
-       x="2036"
-       y="336"
+       x="766"
+       y="339"
        w="383"
        h="398"
        visible="1"
@@ -595,8 +596,8 @@
        panel_mode="1"
        panel_wrap="0"
        panel_border="0"
-       x="1983"
-       y="219"
+       x="766"
+       y="95"
        w="383"
        h="885"
        visible="1"
@@ -611,8 +612,8 @@
        panel_wrap="0"
        panel_border="0"
        rotateCounterClockwise="0"
-       x="2435"
-       y="96"
+       x="781"
+       y="443"
        w="357"
        h="206" />
     <group
@@ -651,7 +652,7 @@
        panel_border="0"
        page="17"
        x="588"
-       y="339"
+       y="345"
        w="743"
        h="402" />
     <group
@@ -687,7 +688,7 @@
        default="org.inkscape.output.svg.inkscape"
        append_extension="1"
        enable_preview="1"
-       path="/home/derrick/pilates/synapseeducation/reformer/Reformer3"
+       path="/home/derrick/downloads"
        use_current_dir="1" />
     <group
        id="save_copy"
@@ -698,7 +699,7 @@
     <group
        id="open"
        enable_preview="1"
-       path="/home/derrick/pilates/synapseeducation/reformer/Reformer2/" />
+       path="/home/derrick/downloads/" />
     <group
        id="import"
        enable_preview="1"
@@ -740,7 +741,7 @@
        panel_border="0"
        x="226"
        y="317"
-       w="216"
+       w="218"
        h="189" />
     <group
        id="extensioneditor" />
@@ -776,8 +777,8 @@
        panel_mode="1"
        panel_wrap="0"
        panel_border="0"
-       x="761"
-       y="333"
+       x="759"
+       y="319"
        w="398"
        h="438"
        visible="1"
@@ -1078,7 +1079,7 @@
      org.ekips.filter.extractimage.filepath="carola" />
   <group
      id="desktop"
-     style="line-height:25px;font-size:48px;-inkscape-font-specification:'Schumacher Clean Wide Bold';font-family:'Schumacher Clean Wide';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#f6af32;fill-opacity:1;stroke:#f3f2f0;stroke-opacity:1">
+     style="line-height:25px;font-size:21.33333333px;-inkscape-font-specification:'Schumacher Clean Wide Bold';font-family:'Schumacher Clean Wide';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill:#ffffff">
     <group
        width="1918"
        height="1060"

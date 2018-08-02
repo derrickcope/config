@@ -4,8 +4,7 @@
 
 # terminal emulator
 super + Return
-	tilix --new-process 
-
+  termite &
 # panel
 super + F12 
   pkill -x panel; bspc quit
@@ -14,7 +13,7 @@ super + F11
   i3lock --image=/home/derrick/pictures/screenshot/lockscreen.png
 
 super + F10
- ~/scripts/screenshot.sh
+  ~/scripts/screenshot.sh
 
 # program launcher
 super + space
@@ -23,9 +22,8 @@ super + space
 # make sxhkd reload its configuration files:
 super + shift + Return
 	pkill -USR1 -x sxhkd; \
-    notify-send "sxhkd config reloaded"
+    notify-send "sxhkd reloaded"
 
-#
 # bspwm hotkeys
 #
 

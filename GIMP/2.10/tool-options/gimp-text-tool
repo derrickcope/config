@@ -1,0 +1,12 @@
+# GIMP gimp-text-tool options
+
+(foreground (color-rgb 1.000000 1.000000 1.000000))
+(palette "Default")
+(font "Sans-serif")
+(font-size 28.000000)
+(hint-style full)
+(justify center)
+(letter-spacing 9.000000)
+(box-mode fixed)
+
+# end of gimp-text-tool options

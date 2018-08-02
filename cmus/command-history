@@ -1,5 +1,15 @@
-add ~/music/
+save /home/derrick/music/playlist2.m3u
 clear
+load -p ~/music/playlist.m3u
+load ~/music/playlist.m3u
+save ~/music/playlist.m3u
+player-stop
+player-play
+save
+s
+add ~/music
+add ~/music/Jeff Buckley/
+add ~/music/
 add ~/podcasts/
 rem ~/podcasts
 rem 
@@ -7,7 +17,6 @@ help
 remove ~/podcasts
 add ~/music/Prince - 4ever (2CD 2016) [FLAC]/
 h
-add ~/music
 ~/music
 add 
 refresh
@@ -18,7 +27,6 @@ pause
 ? stop
 pause ?
 ?
-s
 man
 cleal
 remove

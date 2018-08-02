@@ -1,4 +1,3 @@
-/home/derrick/music/Jeff Buckley - Hallelujah.mp3 Req/Jeff Buckley - Hallelujah.mp3
 /home/derrick/music/Marvin Gaye/What's Going On (Deluxe Edition)/1-02 What's Happening Brother.mp3
 /home/derrick/music/Marvin Gaye/What's Going On (Deluxe Edition)/1-03 Flyin' High (In the Friendly Sky ).mp3
 /home/derrick/music/Marvin Gaye/What's Going On (Deluxe Edition)/1-06 Mercy Mercy Me.mp3
@@ -20,60 +19,6 @@
 /home/derrick/music/Marvin Gaye/What's Going On (Deluxe Edition)/2-13 What's Going On (Original Singles Version).mp3
 /home/derrick/music/Marvin Gaye/What's Going On (Deluxe Edition)/2-14 God Is Love (Original Singles Version).mp3
 /home/derrick/music/Pink Floyd - Dark Side Of The Moon (2015 Remastered)/Pink Floyd - Dark Side Of The Moon.flac
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1978 - Outlandos d'Amour [2003 Remaster]/The Police - Outlandos d'Amour [2003 Remaster].cue/1
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/The Police - Reggatta de Blanc [2003 Remaster].cue/1
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/1
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/The Police - Ghost in the Machine [2003 Remaster].cue/1
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1983 - Synchronicity [2003 Remaster]/The Police - Synchronicity [2003 Remaster].cue/1
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1978 - Outlandos d'Amour [2003 Remaster]/The Police - Outlandos d'Amour [2003 Remaster].cue/2
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/The Police - Reggatta de Blanc [2003 Remaster].cue/2
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/2
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/The Police - Ghost in the Machine [2003 Remaster].cue/2
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1983 - Synchronicity [2003 Remaster]/The Police - Synchronicity [2003 Remaster].cue/2
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1978 - Outlandos d'Amour [2003 Remaster]/The Police - Outlandos d'Amour [2003 Remaster].cue/3
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/The Police - Reggatta de Blanc [2003 Remaster].cue/3
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/3
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/The Police - Ghost in the Machine [2003 Remaster].cue/3
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1983 - Synchronicity [2003 Remaster]/The Police - Synchronicity [2003 Remaster].cue/3
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1978 - Outlandos d'Amour [2003 Remaster]/The Police - Outlandos d'Amour [2003 Remaster].cue/4
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/The Police - Reggatta de Blanc [2003 Remaster].cue/4
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/4
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/The Police - Ghost in the Machine [2003 Remaster].cue/4
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1983 - Synchronicity [2003 Remaster]/The Police - Synchronicity [2003 Remaster].cue/4
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1978 - Outlandos d'Amour [2003 Remaster]/The Police - Outlandos d'Amour [2003 Remaster].cue/5
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/The Police - Reggatta de Blanc [2003 Remaster].cue/5
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/5
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/The Police - Ghost in the Machine [2003 Remaster].cue/5
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1983 - Synchronicity [2003 Remaster]/The Police - Synchronicity [2003 Remaster].cue/5
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1978 - Outlandos d'Amour [2003 Remaster]/The Police - Outlandos d'Amour [2003 Remaster].cue/6
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/The Police - Reggatta de Blanc [2003 Remaster].cue/6
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/6
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/The Police - Ghost in the Machine [2003 Remaster].cue/6
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1983 - Synchronicity [2003 Remaster]/The Police - Synchronicity [2003 Remaster].cue/6
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1978 - Outlandos d'Amour [2003 Remaster]/The Police - Outlandos d'Amour [2003 Remaster].cue/7
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/The Police - Reggatta de Blanc [2003 Remaster].cue/7
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/7
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/The Police - Ghost in the Machine [2003 Remaster].cue/7
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1983 - Synchronicity [2003 Remaster]/The Police - Synchronicity [2003 Remaster].cue/7
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1978 - Outlandos d'Amour [2003 Remaster]/The Police - Outlandos d'Amour [2003 Remaster].cue/8
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/The Police - Reggatta de Blanc [2003 Remaster].cue/8
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/8
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/The Police - Ghost in the Machine [2003 Remaster].cue/8
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1983 - Synchronicity [2003 Remaster]/The Police - Synchronicity [2003 Remaster].cue/8
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1978 - Outlandos d'Amour [2003 Remaster]/The Police - Outlandos d'Amour [2003 Remaster].cue/9
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/The Police - Reggatta de Blanc [2003 Remaster].cue/9
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/9
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/The Police - Ghost in the Machine [2003 Remaster].cue/9
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1983 - Synchronicity [2003 Remaster]/The Police - Synchronicity [2003 Remaster].cue/9
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1978 - Outlandos d'Amour [2003 Remaster]/The Police - Outlandos d'Amour [2003 Remaster].cue/10
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/The Police - Reggatta de Blanc [2003 Remaster].cue/10
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/10
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/The Police - Ghost in the Machine [2003 Remaster].cue/10
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1983 - Synchronicity [2003 Remaster]/The Police - Synchronicity [2003 Remaster].cue/10
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1979 - Regatta de Blanc [2003 Remaster]/The Police - Reggatta de Blanc [2003 Remaster].cue/11
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1980 - Zenyatta Mondatta [2003 Remaster]/The Police - Zenyatta Mondatta [2003 Remaster].cue/11
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1981 - Ghost in the Machine [2003 Remaster]/The Police - Ghost in the Machine [2003 Remaster].cue/11
-cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [FLAC]/1983 - Synchronicity [2003 Remaster]/The Police - Synchronicity [2003 Remaster].cue/11
 /home/derrick/music/Guardians Of The Galaxy/Guardians_Of_The_Galaxy_01_FLAC/106-10cc-im_not_in_love.flac
 /home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2009 - Starstrukk (3OH!3 Feat. Katy Perry) (CDS) - (320 kbps)/01. Starstrukk (Explicit Bonus).mp3
 /home/derrick/music/Katy Perry - Discography (2001-2015) [MP3-320KBPS] [JRR] [truHD]/Singles & Other Charted Songs/2009 - Starstrukk (3OH!3 Feat. Katy Perry) (CDS) - (320 kbps)/02. Starstrukk (Discotech Remix).mp3
@@ -997,6 +942,41 @@ cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [
 /home/derrick/music/Bob Dylan - Studio Discography [1962 - 2016] [320Kbps] [Pirate Shovon]/[2012] - Tempest/08 - Tin Angel.mp3
 /home/derrick/music/Bob Dylan - Studio Discography [1962 - 2016] [320Kbps] [Pirate Shovon]/[2012] - Tempest/09 - Tempest.mp3
 /home/derrick/music/Bob Dylan - Studio Discography [1962 - 2016] [320Kbps] [Pirate Shovon]/[2012] - Tempest/10 - Roll On John.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/01. Like A Rolling Stone.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/02. Blowin' In The Wind.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/03. Subterranean Homesick Blues.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/04. Lay, Lady, Lay.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/05. Knockin' On Heaven's Door.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/06. I Want You.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/07. All Along The Watchtower.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/08. Tangled Up In Blue.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/09. Don't Think Twice, It's All Right.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/10. Hurricane.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/11. Just Like A Woman.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/12. Mr. Tambourine Man.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/13. It Ain't Me, Babe.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/14. The Times They Are A-Changin'.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/15. Duquesne Whistle.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/16. Baby, Stop Crying.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/17. Make You Feel My Love.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/18. Thunder On The Mountain.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/19. Maggie's Farm.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/20. Rainy Day Women #12 & 35.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/21. Girl From The North Country.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/22. Positively 4th Street.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/23. A Hard Rain's A-Gonna Fall.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/24. Shelter From The Storm.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/25. Mississippi.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/26. (Quinn The Eskimo) The Mighty Quinn.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/27. I Shall Be Released.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/28. It's All Over Now, Baby Blue.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/29. Forever Young.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/30. Gotta Serve Somebody.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/31. Things Have Changed.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/32. Jokerman.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/33. Not Dark Yet.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/34. Ring Them Bells.mp3
+/home/derrick/music/Bob Dylan - The Very Best Of Bob Dylan (Deluxe Edition) [2013]/35. Beyond Here Lies Nothin'.mp3
 /home/derrick/music/Bob Dylan - Studio Discography [1962 - 2016] [320Kbps] [Pirate Shovon]/[2015] - Shadows in the Night/01 - I'm A Fool To Want You.mp3
 /home/derrick/music/Bob Dylan - Studio Discography [1962 - 2016] [320Kbps] [Pirate Shovon]/[2015] - Shadows in the Night/02 - The Night We Called It A Day.mp3
 /home/derrick/music/Bob Dylan - Studio Discography [1962 - 2016] [320Kbps] [Pirate Shovon]/[2015] - Shadows in the Night/03 - Stay With Me.mp3
@@ -1974,6 +1954,7 @@ cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [
 /home/derrick/music/James Taylor - Before This World (2015) {FLAC} vtwin88cube/09.Far Afghanistan.flac
 /home/derrick/music/James Taylor - Before This World (2015) {FLAC} vtwin88cube/10.Wild Mountain Thyme.flac
 /home/derrick/music/Guardians Of The Galaxy/Guardians_Of_The_Galaxy_02_FLAC/09-jay_and_the_americans-come_a_little_bit_closer.flac
+/home/derrick/music/Jeff Buckley/Jeff Buckley - Hallelujah.mp3
 /home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1986] The Bridge/01 - Running On Ice.mp3
 /home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1986] The Bridge/02 - This Is The Time.mp3
 /home/derrick/music/BILLY JOEL - DISCOGRAPHY (1970-10) [CHANNEL NEO]/[1986] The Bridge/03 - A Matter Of Trust.mp3
@@ -2832,26 +2813,6 @@ cue:///home/derrick/music/The Police - Remastered Studio Discography 1978-1983 [
 /home/derrick/music/paul simon - graceland/09 - Crazy Love, Vol. II.mp3
 /home/derrick/music/paul simon - graceland/10 - That Was Your Mother.mp3
 /home/derrick/music/paul simon - graceland/11 - All Around The World or The Myth Of Fingerprints.mp3
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/Prince - 4Ever.cue/1
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/Prince - 4Ever.cue/2
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/Prince - 4Ever.cue/3
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/Prince - 4Ever.cue/4
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/Prince - 4Ever.cue/5
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/Prince - 4Ever.cue/6
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/Prince - 4Ever.cue/7
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/Prince - 4Ever.cue/8
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/Prince - 4Ever.cue/9
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/Prince - 4Ever.cue/10
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/Prince - 4Ever.cue/11
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/Prince - 4Ever.cue/12
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/Prince - 4Ever.cue/13
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/Prince - 4Ever.cue/14
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/Prince - 4Ever.cue/15
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/Prince - 4Ever.cue/16
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/Prince - 4Ever.cue/17
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/Prince - 4Ever.cue/18
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/Prince - 4Ever.cue/19
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/Prince - 4Ever.cue/20
 /home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/01. Kiss.flac
 /home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/02. Sign 'O' The Times.flac
 /home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/03. Alphabet St..flac
@@ -2872,26 +2833,6 @@ cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/Prince - 4Ever
 /home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/18. 7 (Album Edit).flac
 /home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/19. Peach.flac
 /home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 2/20. Nothing Compares 2 U.flac
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/Prince - 4Ever .cue/1
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/Prince - 4Ever .cue/2
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/Prince - 4Ever .cue/3
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/Prince - 4Ever .cue/4
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/Prince - 4Ever .cue/5
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/Prince - 4Ever .cue/6
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/Prince - 4Ever .cue/7
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/Prince - 4Ever .cue/8
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/Prince - 4Ever .cue/9
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/Prince - 4Ever .cue/10
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/Prince - 4Ever .cue/11
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/Prince - 4Ever .cue/12
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/Prince - 4Ever .cue/13
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/Prince - 4Ever .cue/14
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/Prince - 4Ever .cue/15
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/Prince - 4Ever .cue/16
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/Prince - 4Ever .cue/17
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/Prince - 4Ever .cue/18
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/Prince - 4Ever .cue/19
-cue:///home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/Prince - 4Ever .cue/20
 /home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/01. 1999.flac
 /home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/02. Little Red Corvette.flac
 /home/derrick/music/Prince - 4ever (2CD 2016) [FLAC]/Disc 1/03. When Doves Cry.flac

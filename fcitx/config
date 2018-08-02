@@ -27,7 +27,7 @@ TriggerKey=SHIFT_SPACE
 # Super+Right Ctrl
 # Disabled
 # Custom
-#SwitchKey=L_SHIFT
+SwitchKey=SHIFT Both
 # Custom switch key
 #CustomSwitchKey=
 # Activate input method

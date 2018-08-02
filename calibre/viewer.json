@@ -1,0 +1,28 @@
+{
+  "main_window_state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAL9AAAAAwAAAAAAAAAAAAAAAPwCAAAAAfsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIgA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABwAYgBvAG8AawBtAGEAcgBrAHMALQBkAG8AYwBrAAAAAAD/////AAAAzQD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABmAG8AbwB0AG4AbwB0AGUAcwAtAGQAbwBjAGsAAAAAAP////8AAAA6AP///wAAA3EAAAPtAAAAAQAAAAIAAAABAAAAAvwAAAACAAAAAAAAAAEAAAAQAHQAbwBvAGwAXwBiAGEAcgMAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAASAHQAbwBvAGwAXwBiAGEAcgAyAQAAAAD/////AAAAAAAAAAA="
+  }, 
+  "in_paged_mode": true, 
+  "viewer_window_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAAAKAAAAFgAAA7oAAAQtAAAADAAAABgAAAO4AAAEKwAAAAEAAAAAB4A="
+  }, 
+  "viewer_toc_isvisible": false, 
+  "multiplier": 1.0, 
+  "viewer_open_history": [
+    "/tmp/calibre_3.28.0_tmp_efeHCp/5nfcYW_view_device_book.epub", 
+    "/home/derrick/ebooks/Steve Klabnik/The Rust Programming Language (45)/The Rust Programming Language - Steve Klabnik.epub", 
+    "/home/derrick/ebooks/Unknown/Programming Rust (30)/Programming Rust - Unknown.epub", 
+    "/home/derrick/ebooks/Klabnik, Steve/the rust progamming language (44)/the rust progamming language - Klabnik, Steve.epub", 
+    "/tmp/calibre_3.28.0_tmp_efeHCp/aUjNGm_view_device_book.epub", 
+    "/tmp/calibre_3.28.0_tmp_efeHCp/BtureT_view_device_book.epub", 
+    "/home/derrick/ebooks/Benjamin Klein/The VimL Primer (27)/The VimL Primer - Benjamin Klein.epub", 
+    "/home/derrick/ebooks/Pat Shaughnessy/Ruby Under a Microscope_ An Illustrated Guide to Ruby Internals (39)/Ruby Under a Microscope_ An Illustrated Gu - Pat Shaughnessy.epub", 
+    "/home/derrick/ebooks/Unknown/rubycookbook (37)/rubycookbook - Unknown.epub", 
+    "/home/derrick/ebooks/Unknown/The AWK Programming Language (35)/The AWK Programming Language - Unknown.epub", 
+    "/home/derrick/ebooks/Klabnik, Steve/the rust progamming language (2)/the rust progamming language - Klabnik, Steve.epub", 
+    "/home/derrick/ebooks/Klabanix/therustprogamminglanguage (2)/therustprogamminglanguage - Klabanix.epub", 
+    "/home/derrick/ebooks/Thomas, Dave/Programming Elixir_ Functional __ Concurrent __ Pragmatic __ Fun (3)/Programming Elixir_ Functional __ Concurre - Thomas, Dave.epub"
+  ]
+}

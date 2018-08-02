@@ -63,7 +63,8 @@ set noiec
 " Selected color scheme
 
 " colorscheme Default
-colorscheme Matrix
+" colorscheme Matrix
+colorscheme Custom
 
 " Format for displaying time in file list. For example:
 " TIME_STAMP_FORMAT=%m/%d-%H:%M
@@ -143,6 +144,7 @@ command! vgrep vim "+grep %a"
 command! reload :write | restart
 command! umc sudo umount /dev/sdc1
 command! umd sudo umount /dev/sdd1
+command! pimg tiv -w 100 *.jpg
 
 " ------------------------------------------------------------------------------
 
@@ -255,12 +257,14 @@ filextype *.bmp,*.jpg,*.jpeg,*.png,*.gif,*.xpm
 
 " View images in the terminal
 fileviewer *.bmp,*.jpg,*.jpeg,*.png,*.gif,*.xpm
-         \ /home/derrick/.config/vifm/scripts/imgt %px %py %pw %ph %c 
-         \ %pc
-         \ /home/derrick/.config/vifm/scripts/imgc %px %py %pw %ph
+         "\ display %c
+         "\ ~/build/terminal-image-viewer/imagepro.py %c
+          \ /home/derrick/.config/vifm/scripts/imgt %px %py %pw %ph %c 
+          \ %pc
+          \ /home/derrick/.config/vifm/scripts/imgc %px %py %pw %ph
 
-" fileviewer *.bmp,*.jpg,*.jpeg,*.png,*.gif,*.xpm
-"         \ convert -identify %f -verbose /dev/null
+"fileviewer *.bmp,*.jpg,*.jpeg,*.png,*.gif,*.xpm
+"           \ display -thumbnail 50x50\> %c
 
 " OpenRaster
 filextype *.ora
