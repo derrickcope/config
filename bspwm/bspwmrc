@@ -56,7 +56,7 @@ bspc rule -a Termite:cmus desktop='^8'
 bspc rule -a Termite:neomutt desktop='^2'
 bspc rule -a Termite:vifm desktop='^1'
 bspc rule -a Termite:term1 desktop='^1'
-#bspc rule -a Xterm:bashrun state=floating center=true rectangle=10x20
+bspc rule -a XTerm:* state=floating center=true rectangle=10x20
 
 bspc desktop='^1' --focus
 #tilix --new-process -t term1 --name term1 &

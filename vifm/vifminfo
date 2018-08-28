@@ -41,7 +41,7 @@
 # Bookmarks:
 
 # TUI:
-ar
+al
 q0
 v2
 ov
@@ -51,281 +51,56 @@ r2
 
 # Left window history (oldest to newest):
 d/home/derrick/.config
-	nvim
-30
-d/home/derrick/.config/nvim
-	init.vim
-12
-d/home/derrick/.config
-	gconf
-17
+	vifm
+39
 d/home/derrick
 	code
-41
+13
 d/home/derrick/code
-	rails
-9
-d/home/derrick/code/rails
-	toy_app
-3
-d/home/derrick/code/rails/toy_app
-	app
-3
-d/home/derrick/code/rails/toy_app/app
-	models
-7
-d/home/derrick/code/rails/toy_app/app/models
-	user.rb
-4
-d/home/derrick/code/rails/toy_app/app
-	models
-7
-d/home/derrick/code/rails/toy_app/app/models
-	user.rb
-4
-d/home/derrick/code/rails/toy_app/app
-	views
-8
-d/home/derrick/code/rails/toy_app/app/views
-	users
-3
-d/home/derrick/code/rails/toy_app/app/views/users
-	index.html.erb
-4
-d/home/derrick/code/rails/toy_app/app/views
-	users
-3
-d/home/derrick/code/rails/toy_app/app
-	models
-7
-d/home/derrick/code/rails/toy_app/app/models
-	concerns
-1
-d/home/derrick/code/rails/toy_app/app/models/concerns
-	..
-0
-d/home/derrick/code/rails/toy_app/app/models
-	user.rb
-4
-d/home/derrick/code/rails/toy_app/app
-	models
-7
-d/home/derrick/code/rails/toy_app
-	db
-6
-d/home/derrick/code/rails/toy_app/db
-	migrate
-1
-d/home/derrick/code/rails/toy_app/db/migrate
-	20180726062336_create_users.rb
-1
-d/home/derrick/code/rails/toy_app/db
-	development.sqlite3
-2
-d/home/derrick/code/rails/toy_app
-	app
-3
-d/home/derrick/code/rails/toy_app/app
-	models
-7
-d/home/derrick/code/rails/toy_app/app/models
-	user.rb
-4
-d/home/derrick/code/rails/toy_app/app
-	controllers
-3
-d/home/derrick/code/rails/toy_app/app/controllers
-	application_controller.rb
-2
-d/home/derrick/code/rails/toy_app/app
-	models
-7
-d/home/derrick/code/rails/toy_app/app/models
-	concerns
-1
-d/home/derrick/code/rails/toy_app/app
-	models
-7
-d/home/derrick/code/rails/toy_app
-	app
-3
-d/home/derrick/code/rails/toy_app/app
-	views
-8
-d/home/derrick/code/rails/toy_app/app/views
-	users
-3
-d/home/derrick/code/rails/toy_app/app/views/users
-	edit.html.erb
-3
-d/home/derrick/code/rails/toy_app/app/views
-	users
-3
-d/home/derrick/code/rails/toy_app/app
-	models
-7
-d/home/derrick/code/rails/toy_app/app/models
-	application_record.rb
-2
-d/home/derrick/code/rails/toy_app/app
-	models
-7
-d/home/derrick/code/rails/toy_app/app/models
-	micropost.rb
-3
-d/home/derrick/code/rails/toy_app/app
-	models
-7
-d/home/derrick/code/rails/toy_app/app/models
-	user.rb
-4
-d/home/derrick/code/rails/toy_app/app
-	models
-7
-d/home/derrick/code/rails/toy_app
-	app
-3
-d/home/derrick/downloads
-	Shock And Awe (2017) [WEBRip] [720p] [YTS.AM]
+	rust
+11
+d/home/derrick/code/rust
+	Udemy
 5
-d/home/derrick/downloads/Shock And Awe (2017) [WEBRip] [720p] [YTS.AM]
-	..
-0
-d/home/derrick/downloads
-	Flo Rida Discography[Chava Bobby]
-2
-d/home/derrick
-	videos
-53
-d/home/derrick/videos
-	..
-0
-d/home/derrick
-	pilates videos
-49
-d/home/derrick/pilates videos
-	..
-0
-d/home/derrick
-	music
-43
-d/home/derrick/music
-	..
-0
-d/home/derrick
-	pilates videos
-48
-d/home/derrick/pilates videos
-	..
-0
-d/home/derrick
-	scripts
-25
-d/home/derrick/downloads
-	Star Trek II The Wrath of Khan (1982)
-4
-d/home/derrick/downloads/Star Trek II The Wrath of Khan (1982)
-	Star.Trek.II.The.Wrath.of.Khan.1982.720p.BRrip.x264.YIFY.mp4
-1
-d/home/derrick
-	.xscreensaver
-57
-d/home/derrick/downloads
-	rubynotesforprofessionals.pdf
-48
-d/home/derrick
-	Documents
-37
-d/home/derrick/Documents
-	alignc2proreformer.mp4
-3
-d/home/derrick
-	Downloads
-38
-d/home/derrick/Downloads
-	..
-0
-d/home/derrick
-	Documents
-37
-d/home/derrick/Documents
-	titles
-1
-d/home/derrick
-	Documents
-37
-d/home/derrick/Documents
-	titles
-1
-d/home/derrick/Documents/titles
-	..
-0
-d/home/derrick/Documents
-	..
-0
-d/home/derrick
-	downloads
-40
-d/home/derrick/downloads
-	Marvel Week+ (07-25-2018)
-4
-d/home/derrick/downloads/Marvel Week+ (07-25-2018)
-	
-4
-d/home/derrick/downloads
-	..
-0
-d/home/derrick
-	alignpilates
-37
-d/home/derrick/alignpilates
-	Align-Pilates C2-Pro Pilates.mp4
-9
-d/home/derrick
-	Desktop
-36
-d/home/derrick/Desktop
-	..
-0
-d/home/derrick
-	alignpilates
-37
-d/home/derrick/alignpilates
-	home
-1
-d/home/derrick/alignpilates/home
-	derrick
-1
-d/home/derrick/alignpilates/home/derrick
-	Documents
-1
-d/home/derrick/alignpilates/home/derrick/Documents
-	..
-0
-d/home/derrick/alignpilates/home/derrick
-	Documents
-1
-d/home/derrick/alignpilates/home
-	derrick
-1
-d/home/derrick/alignpilates
-	alignc2prorefsm.mp4
-16
-d/home/derrick/downloads
-	The Secret Rules Of Modern Living Algorithms (2015) [WEBRip] [720p] [YTS.AM]
+d/home/derrick/code/rust/Udemy
+	typecast.rs
 5
-d/home/derrick/downloads/The Secret Rules Of Modern Living Algorithms (2015) [WEBRip] [720p] [YTS.AM]
-	The.Secret.Rules.Of.Modern.Living.Algorithms.2015.720p.WEBRip.x264-[YTS.AM].mp4
-1
-d/home/derrick/downloads
-	Jumanji Welcome To The Jungle (2017) [WEBRip] [720p] [YTS.AM]
-3
-d/home/derrick/downloads/Jumanji Welcome To The Jungle (2017) [WEBRip] [720p] [YTS.AM]
-	Jumanji.Welcome.To.The.Jungle.2017.720p.WEBRip.x264-[YTS.AM].mp4
-1
-d/home/derrick/downloads
-	Jumanji Welcome To The Jungle (2017) [WEBRip] [720p] [YTS.AM]
-3
+d/home/derrick/code/rust
+	Udemy
+5
+d/home/derrick/code
+	rust
+11
+d/home/derrick
+	.config
+5
+d/home/derrick/.config
+	vifm
+39
+d/home/derrick/.config/vifm
+	vifmrc
+5
+d/home/derrick/.config
+	libfm
+24
+d/home/derrick
+	code
+39
+d/home/derrick/code
+	rust
+11
+d/home/derrick/code/rust
+	Udemy
+5
+d/home/derrick/code/rust/Udemy
+	typecast.rs
+5
+d/home/derrick/code/rust
+	Udemy
+5
+d/home/derrick/code
+	rust
+11
 d/home/derrick
 	pilates
 49
@@ -336,101 +111,287 @@ d/home/derrick/pilates/synapseeducation
 	workshops
 16
 d/home/derrick/pilates/synapseeducation/workshops
-	retro
-10
-d/home/derrick/pilates/synapseeducation/workshops/retro
-	retro.md
-11
+	posture
+9
+d/home/derrick/pilates/synapseeducation/workshops/posture
+	..
+0
 d/home/derrick/pilates/synapseeducation/workshops
-	retro
-10
-d/home/derrick/pilates/synapseeducation/workshops/retro
-	retro.md
-11
+	pilatesbreath
+8
+d/home/derrick/pilates/synapseeducation/workshops/pilatesbreath
+	pilatesbreath.md
+3
 d/home/derrick/pilates/synapseeducation/workshops
-	tubepilates
+	pilatesbreath
+8
+d/home/derrick/pilates/synapseeducation
+	workshops
+16
+d/home/derrick/pilates
+	synapseeducation
+10
+d/home/derrick
+	.config
 4
+d/home/derrick/.config
+	vifm
+39
+d/home/derrick/.config/vifm
+	vifm-help.txt
+3
+d/home/derrick/.config
+	vifm
+39
+d/home/derrick
+	pilates
+49
+d/home/derrick/pilates
+	synapseeducation
+10
+d/home/derrick/pilates/synapseeducation
+	workshops
+16
+d/home/derrick/pilates/synapseeducation/workshops
+	pilatesbreath
+8
+d/home/derrick/pilates/synapseeducation/workshops/pilatesbreath
+	handoutfooter.png
+2
+d/home/derrick/pilates/synapseeducation/workshops
+	pilatesbreath
+8
+d/home/derrick/pilates/synapseeducation
+	workshops
+16
+d/home/derrick/pilates
+	synapseeducation
+10
+d/home/derrick
+	pictures
+48
+d/home/derrick/pictures
+	DSCN5365.JPG
+21
+d/home/derrick
+	pictures
+48
+d/home
+	derrick
+1
+d/
+	home
+4
+d/home
+	derrick
+1
+d/home/derrick
+	.getmail
+9
+d/home/derrick/.getmail
+	getme
+3
+d/home/derrick
+	.getmail
+9
+d/home/derrick/.getmail
+	getme
+3
+d/home/derrick
+	.getmail
+9
+d/home/derrick/.getmail
+	getme
+3
+d/home/derrick
+	.notmutt
+19
+d/home/derrick/.notmutt
+	..
+0
+d/home/derrick
+	.config
+5
+d/home/derrick/.config
+	neomutt
+29
+d/home/derrick/.config/neomutt
+	..
+0
+d/home/derrick/.config
+	..
+0
+d/home/derrick
+	.config
+5
+d/home/derrick/.config
+	sqlitebrowser
+35
+d/home/derrick
+	.procmailrc
+53
+d/home
+	derrick
+1
+d/home/derrick
+	downloads
+11
+d/home/derrick/downloads
+	Fall 2017 China-taiwan.xlsx
+4
+d/home/derrick
+	Documents
+6
+d/home/derrick/Documents
+	..
+0
+d/home/derrick
+	downloads
+11
+d/home/derrick/downloads
+	Fall 2018 International Order Form 3.xlsx
+5
+d/home/derrick
+	Documents
+6
+d/home/derrick/Documents
+	..
+0
+d/home/derrick
+	build
+11
+d/home/derrick/build
+	joshuto
+5
+d/home/derrick/build/joshuto
+	target
+4
+d/home/derrick/build/joshuto/target
+	debug
+1
+d/home/derrick/build/joshuto/target/debug
+	joshuto
+8
+d/home/derrick/build/joshuto/target
+	debug
+1
+d/home/derrick/build/joshuto
+	target
+4
+d/home/derrick/build
+	joshuto
+5
+d/home/derrick
+	build
+11
+d/home
+	derrick
+1
+d/home/derrick
+	.config
+5
+d/home/derrick/.config
+	bspwm
+8
+d/home/derrick/.config/bspwm
+	bspwmrc
+1
+d/home/derrick/.config
+	sxhkd
+36
+d/home/derrick/.config/sxhkd
+	sxhkdrc
+1
+d/home/derrick/.config
+	sqlitebrowser
+35
+d/home/derrick
+	pictures
+49
+d/home/derrick/pictures
+	DSCN5361.JPG
+17
+d/home/derrick
+	.config
+4
+d/home/derrick/.config
+	termite
+37
+d/home/derrick/.config/termite
+	config
+1
+d/home/derrick/.config
+	bashrun
+7
+d/home/derrick/.config/bashrun
+	rc
+2
+d/home/derrick/.config
+	sxhkd
+36
+d/home/derrick/.config/sxhkd
+	sxhkdrc
+1
+d/home/derrick/.config
+	bspwm
+8
+d/home/derrick/.config/bspwm
+	bspwmrc
+1
+d/home/derrick/.config
+	bashrun
+7
+d/home/derrick/.config/bashrun
+	rc
+2
+d/home/derrick/.config
+	bspwm
+8
+d/home/derrick/.config/bspwm
+	bspwmrc
+1
 d
 
 # Right window history (oldest to newest):
-D/run/media/derrick/media2/video/MASH
-	Season 7
-7
-D/run/media/derrick/media2/video/MASH/Season 7
-	Episode 23 - A Night at Rosie's.mkv
-23
-D/run/media/derrick/media2/video/MASH
-	Season 7
-7
 D/run/media/derrick/media2/video
-	Master.And.Commander.2003.1080p.BluRay.AAC.x264-tomcat12[ETRG]
-19
-D/run/media/derrick/media2/video/Master.And.Commander.2003.1080p.BluRay.AAC.x264-tomcat12[ETRG]
-	ETRG.mp4
+	MASH
+37
+D/run/media/derrick/media2/video/MASH
+	Season 8
+8
+D/run/media/derrick/media2/video/MASH/Season 8
+	Episode 25 - April Fools.mkv
+25
+D/run/media/derrick/media2/video/MASH
+	Season 9
+9
+D/run/media/derrick/media2/video/MASH/Season 9
+	Episode 1 - The Best of Enemies.mkv
+1
+D/run/media/derrick
+	media2
+2
+D/run/media/derrick/media2
+	video
+12
+D/run/media/derrick/media2/video
+	Die.Hard.2.1990.BRRip.720p.x265.2Ch.HAAC2-Sunil-KITE-METeam
+4
+D/run/media/derrick/media2/video/Die.Hard.2.1990.BRRip.720p.x265.2Ch.HAAC2-Sunil-KITE-METeam
+	Die.Hard.2.1990.BRRip.720p.x265.2Ch.HAAC2-Sunil-KITE-METeam.mkv
 1
 D/run/media/derrick/media2/video
-	Master.And.Commander.2003.1080p.BluRay.AAC.x264-tomcat12[ETRG]
-19
+	Shogun.1980.Restored.Complete.Bluray.1080p.DTS-HD.x264-Grym
+41
 D/run/media/derrick/media2
 	video
 12
 D/run/media/derrick
 	media2
-1
-D/home/derrick
-	code
-40
-D/home/derrick/code
-	rails
-9
-D/home/derrick/code/rails
-	hello_app
-2
-D/home/derrick/code/rails/hello_app
-	
-2
-D/home/derrick/code/rails
-	..
-0
-D/home/derrick/code
-	rails
-9
-D/home/derrick
-	code
-15
-D/home/derrick/code
-	rails
-9
-D/home/derrick/code/rails
-	broadway
-1
-D/home/derrick/code/rails/broadway
-	config
-4
-D/home/derrick/code/rails/broadway/config
-	routes.rb
-12
-D/run/media/derrick
-	D9FD-5124
-1
-D/run/media/derrick/D9FD-5124
-	Groundhog.Day.1993.BrRip.720p.x264.YIFY.mp4
-13
-D/run/media/derrick
-	D9FD-5124
 1
 D/run/media
 	derrick
 1
-D/run
-	media
-8
-D/
-	run
-12
-D/home/derrick/downloads
-	atoyapp.pdf
-22
 D/run/media/derrick
 	media2
 1
@@ -439,28 +400,28 @@ D/run/media/derrick/media2
 12
 D/run/media/derrick/media2/video
 	MASH
-17
-D/run/media/derrick/media2/video/MASH
-	Season 7
-7
-D/run/media/derrick/media2/video/MASH/Season 7
-	Episode 23 - A Night at Rosie's.mkv
-23
-D/run/media/derrick/media2/video/MASH
-	Season 8
 8
-D/run/media/derrick/media2/video/MASH/Season 8
-	Episode 1 - Too Many Cooks.mkv
-1
-D/home/derrick
-	scripts
-27
-D/home/derrick/scripts
-	.getmail
+D/run/media/derrick/media2/video/MASH
+	Season 9
+9
+D/run/media/derrick/media2/video/MASH/Season 9
+	Episode 2 - Letters.mkv
 2
-D/home/derrick/downloads
-	atoyapp.pdf
-22
+D/run/media/derrick/media2/video/MASH
+	Season 9
+9
+D/run/media/derrick/media2/video
+	MASH
+8
+D/run/media/derrick/media2
+	video
+12
+D/run/media/derrick
+	..
+0
+D/run
+	..
+0
 D/run/media/derrick
 	media2
 1
@@ -469,48 +430,132 @@ D/run/media/derrick/media2
 12
 D/run/media/derrick/media2/video
 	MASH
-17
-D/run/media/derrick/media2/video/MASH
-	Season 8
 8
-D/run/media/derrick/media2/video/MASH/Season 8
-	Episode 11 - Life Time.mkv
+D/run/media/derrick/media2/video/MASH
+	Season 9
+9
+D/run/media/derrick/media2/video/MASH/Season 9
+	Episode 2 - Letters.mkv
+2
+D/run/media/derrick/media2/video/MASH
+	Season 10
+10
+D/run/media/derrick/media2/video/MASH/Season 10
+	Episode 13 - A Holy Mess.mkv
+13
+D/run/media/derrick
+	USB DISK
+1
+D/run/media/derrick/USB DISK
+	Fall 2018
+3
+D/run/media/derrick/USB DISK/Fall 2018
+	Tavi Noir
+1
+D/run/media/derrick/USB DISK/Fall 2018/Tavi Noir
+	..
+0
+D/run/media/derrick/USB DISK/Fall 2018
+	ToeSox
+2
+D/run/media/derrick/USB DISK/Fall 2018/ToeSox
+	Lifestyle Photography
+2
+D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Lifestyle Photography
+	Back Cover 2 (Final).jpg
 11
-D/run/media/derrick/media2/video/MASH
-	Season 8
-8
-D/run/media/derrick/media2/video
-	MASH
-17
-D/run/media/derrick/media2
-	video
-12
+D/run/media/derrick/USB DISK/Fall 2018/ToeSox
+	Lifestyle Photography
+2
+D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Lifestyle Photography
+	ToeSox FW18 Jpeg Small
+1
+D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Lifestyle Photography/ToeSox FW18 Jpeg Small
+	.__DSF1778_BellarinaGryLime.jpg
+1
+D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Lifestyle Photography
+	ToeSox FW18 Jpeg Small
+1
+D/run/media/derrick/USB DISK/Fall 2018/ToeSox
+	Product Photography
+3
+D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography
+	Grip
+3
+D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography/Grip
+	Ankle (Delivery 1)
+1
+D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography/Grip/Ankle (Delivery 1)
+	Socks_Grip_Ankle_FT_Frost.jpg
+2
+D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography/Grip
+	Elle
+4
+D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography
+	Grip
+3
+D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography/Grip
+	Elle
+4
+D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography
+	Grip
+3
+D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography/Grip
+	Mia
+7
+D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography/Grip/Mia
+	Delivery 1
+1
+D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography/Grip/Mia/Delivery 1
+	Socks_Grip_Mia_FT_Edge_D1.jpg
+4
+D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography/Grip/Mia
+	Delivery 1
+1
+D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography/Grip
+	Mia
+7
+D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography
+	Grip
+3
+D/run/media/derrick/USB DISK/Fall 2018/ToeSox
+	Product Photography
+3
+D/run/media/derrick/USB DISK/Fall 2018
+	ToeSox
+2
+D/run/media/derrick/USB DISK/Fall 2018/ToeSox
+	Product Photography
+3
+D/run/media/derrick/USB DISK/Fall 2018
+	Tavi Noir
+1
+D/run/media/derrick/USB DISK
+	Spring 2019
+4
+D/run/media/derrick/USB DISK/Spring 2019
+	ToeSox
+2
+D/run/media/derrick/USB DISK/Spring 2019/ToeSox
+	ToeSox SS19 No Price.pdf
+3
+D/run/media/derrick/USB DISK/Spring 2019
+	ToeSox
+2
+D/run/media/derrick/USB DISK
+	Spring 2019
+4
+D/run/media/derrick
+	USB DISK
+1
+D/run/media
+	derrick
+1
 D/run/media/derrick
 	media2
-1
-D/home/derrick
-	.config
-5
-D/home/derrick/.config
-	bspwm
-8
-D/home/derrick/.config/bspwm
-	bspwmrc
-1
-D/run/media/derrick
-	media2
-1
+2
 D/run/media/derrick/media2
 	video
-12
-D/run/media/derrick/media2/video
-	MASH
-17
-D/run/media/derrick/media2/video/MASH
-	Season 8
-8
-D/run/media/derrick/media2/video/MASH/Season 8
-	Episode 12 - Dear Uncle Abdul.mkv
 12
 D/run
 	..
@@ -523,106 +568,49 @@ D/run/media/derrick/media2
 12
 D/run/media/derrick/media2/video
 	MASH
-17
-D/run/media/derrick/media2/video/MASH
-	Season 8
 8
-D/run/media/derrick/media2/video/MASH/Season 8
-	Episode 14 - Stars and Stripes.mkv
-14
 D/run/media/derrick/media2/video/MASH
-	Season 8
-8
-D/run/media/derrick/media2/video
-	MASH
-17
-D/run/media/derrick/media2/video/MASH
-	Season 8
-8
-D/run/media/derrick/media2/video/MASH/Season 8
-	Episode 16 - Bottle Fatigue.mkv
+	Season 10
+10
+D/run/media/derrick/media2/video/MASH/Season 10
+	Episode 16 - Where There's a Will, There's a War.mkv
 16
 D/run/media/derrick/media2/video/MASH
-	Season 8
-8
-D/run/media/derrick/media2/video
-	The.Big.Short.2015.DVDScr.XVID.AC3.HQ.Hive-CM8
-53
-D/run/media/derrick/media2/video/The.Big.Short.2015.DVDScr.XVID.AC3.HQ.Hive-CM8
-	The.Big.Short.2015.DVDScr.XVID.AC3.HQ.Hive-CM8.avi
-1
+	Season 10
+10
 D/run/media/derrick/media2/video
 	MASH
-11
-D/run/media/derrick/media2/video/MASH
-	Season 8
 8
-D/run/media/derrick/media2/video/MASH/Season 8
-	Episode 19 - Morale Victory.mkv
-19
-D/run/media/derrick/media2/video/MASH
-	Season 8
-8
-D/run/media/derrick/media2/video
-	MASH
-11
 D/run/media/derrick/media2
 	video
 12
 D/run/media/derrick
 	media2
-1
-D/run/media/derrick/media2
-	ebooks
-5
-D/run/media/derrick/media2/ebooks
-	..
-0
-D/run/media/derrick/media2
-	video
-12
-D/run/media/derrick/media2/video
-	Michael Clayton (2007)
-15
-D/run/media/derrick/media2
-	pilatesvideos
-10
-D/run/media/derrick/media2/pilatesvideos
-	..
-0
-D/run/media/derrick/media2
-	pilatesvideos
-10
-D/run/media/derrick/media2/pilatesvideos
-	Carolashares
 2
-D/run/media/derrick/media2
-	music
-8
-D/run/media/derrick/media2/music
-	..
-0
-D/run/media/derrick/media2
-	pilatesvideos
-10
-D/run/media/derrick/media2/pilatesvideos
-	飞阳与杨光，现代舞视频2-142508592.f4v
-57
+D/run/media
+	derrick
+1
 D/run
 	..
 0
-D/home/derrick
-	alignpilates
-39
-D/home/derrick/alignpilates
-	Align-Pilates C2-Pro Pilates.mp4
-7
-D/home/derrick
-	alignpilates
-39
-D/home/derrick/alignpilates
-	Align-Pilates C2-Pro Pilates.mp4
-8
+D/run/media/derrick
+	C881-FC2C
+1
+D/run/media/derrick/C881-FC2C
+	Deadpool 2 (2018) [BluRay] [1080p] [YTS.AM]
+6
+D/run/media/derrick/C881-FC2C/Deadpool 2 (2018) [BluRay] [1080p] [YTS.AM]
+	Deadpool.2.2018.1080p.BluRay.x264-[YTS.AM].mp4
+2
+D/run/media/derrick/C881-FC2C
+	Deadpool 2 (2018) [BluRay] [1080p] [YTS.AM]
+6
+D/run/media/derrick
+	C881-FC2C
+1
+D/run/media
+	..
+0
 D/run/media/derrick
 	media2
 1
@@ -631,38 +619,43 @@ D/run/media/derrick/media2
 12
 D/run/media/derrick/media2/video
 	MASH
+8
+D/run/media/derrick/media2/video/MASH
+	Season 10
+10
+D/run/media/derrick/media2/video/MASH/Season 10
+	Episode 16 - Where There's a Will, There's a War.mkv
+16
+D/run/media/derrick/media2/video/MASH
+	Season 11
+11
+D/run/media/derrick/media2/video/MASH/Season 11
+	Episode 10 - U.N., the Night and the Music.mkv
+10
+D/home/derrick/downloads
+	respict.mp3
+43
+D/run/media/derrick
+	media2
+1
+D/run/media/derrick/media2
+	video
 12
-D/run/media/derrick/media2/video/MASH
-	Season 8
-8
-D/run/media/derrick/media2/video/MASH/Season 8
-	Episode 20 - Lend a Hand.mkv
-20
-D/run/media/derrick/media2/video/MASH
-	Season 8
-8
 D/run/media/derrick/media2/video
 	MASH
-12
-D/home/derrick
-	pilates
-49
-D/home/derrick/pilates
-	synapseeducation
-10
-D/home/derrick/pilates/synapseeducation
+8
+D/run/media/derrick/media2/video/MASH
+	Season 11
+11
+D/run/media/derrick/media2/video/MASH/Season 11
+	..
+0
+D/run
 	..
 0
 D
 
 # Command line history (oldest to newest):
-:mkdir thesaurus
-:touch sources.txt
-:shell ls
-:ls
-:cd /
-:gd ~
-:cd
 :!umount /dev/sdc1
 :mkcd
 :touch imgt
@@ -725,14 +718,12 @@ D
 :mkdir Practical
 :mkdir 99bottles
 :mkdir Catcherrb
-:quit
 :mkdir neomutt
 :mkdir ConfidentRuby
 :clear
 :mkdir vim-cmus
 :mkdir plugin
 :mkdir markdown
-:mkdir
 :mkdir Breaking.Bad
 :help trash
 :help
@@ -743,7 +734,6 @@ D
 :pimg 
 :pimg
 :Q
-:q
 :touch mapping.vim
 :brighalfpress.02.jpg
 :brighalfpress.03.jpg
@@ -751,11 +741,21 @@ D
 :!ls
 :mkdir rails
 :touch singruby.txt
-:umc
-:umb
-:umd
 :mkdir 
 :mkdir tubepilates
+:mkdir
+:mkdir pilatesbreath
+:ls
+:la
+:umb
+:tiv %f
+:!tiv %f
+:q
+:um
+:umdd
+:umc
+:umd
+:quit
 
 # Search history (oldest to newest):
 /cron
@@ -777,10 +777,12 @@ D
 /mash
 /align
 /marve
+/enem
+/Intr
+/MA
+/Di
 
 # Prompt history (oldest to newest):
-prevchest.201.bw.jpg
-prevchest.202.bw.jpg
 pp131.pl
 psample.txt
 pmutt
@@ -879,11 +881,12 @@ pGemfile.old
 pGemfile
 ppilates videos
 pAlign-Pilates C2-Pro Pilates.mp4
+pzombies.mp3
+prespict.mp3
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/derrick/.local/share/vifm/Trash/000_home
 
 # Directory stack (oldest to newest):
 
@@ -2562,6 +2565,30 @@ t/home/derrick/.local/share/vifm/Trash/000_pilates videos
 	/home/derrick/pilates videos
 t/home/derrick/.local/share/vifm/Trash/000_home
 	/home/derrick/alignpilates/home
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%pilates%synapseeducation%workshops%tubepilates%tubingpilates.md.swp
+	/home/derrick/.config/nvim/.swap/%home%derrick%pilates%synapseeducation%workshops%tubepilates%tubingpilates.md.swp
+t/home/derrick/.local/share/vifm/Trash/000_.gem
+	/run/media/derrick/BCKUP/derrick/.gem
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%rails%sample_app%app%views%layouts%application.html.erb.swp
+	/home/derrick/.config/nvim/.swap/%home%derrick%code%rails%sample_app%app%views%layouts%application.html.erb.swp
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%rust%Screencast%reldate%src%main.rs.swp
+	/home/derrick/.config/nvim/.swap/%home%derrick%code%rust%Screencast%reldate%src%main.rs.swp
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%rust%Introtorust%tuples.rs.swp
+	/home/derrick/.config/nvim/.swap/%home%derrick%code%rust%Introtorust%tuples.rs.swp
+t/home/derrick/.local/share/vifm/Trash/000_Ben-Hur.1959.720p.BluRay.x264-[YTS.AG].mp4
+	/run/media/derrick/F017-2DD1/Ben-Hur.1959.720p.BluRay.x264-[YTS.AG].mp4
+t/home/derrick/.local/share/vifm/Trash/000_Inherit.the.Wind.1960.720p.BluRay.x264.YIFY.chs.shooter.srt
+	/run/media/derrick/F017-2DD1/Inherit.the.Wind.1960.720p.BluRay.x264.YIFY.chs.shooter.srt
+t/home/derrick/.local/share/vifm/Trash/000_Inherit.the.Wind.1960.720p.BluRay.x264.YIFY.mp4
+	/run/media/derrick/F017-2DD1/Inherit.the.Wind.1960.720p.BluRay.x264.YIFY.mp4
+t/home/derrick/.local/share/vifm/Trash/000_The Shawshank Redemption 1994.720p.BRRip.x264.YIFY.chs.shooter.srt
+	/run/media/derrick/F017-2DD1/The Shawshank Redemption 1994.720p.BRRip.x264.YIFY.chs.shooter.srt
+t/home/derrick/.local/share/vifm/Trash/000_The Shawshank Redemption 1994.720p.BRRip.x264.YIFY.mp4
+	/run/media/derrick/F017-2DD1/The Shawshank Redemption 1994.720p.BRRip.x264.YIFY.mp4
+t/home/derrick/.local/share/vifm/Trash/000_Uncle.Buck.1989.720p.BluRay.x264.YIFY.chs.shooter.srt
+	/run/media/derrick/F017-2DD1/Uncle.Buck.1989.720p.BluRay.x264.YIFY.chs.shooter.srt
+t/home/derrick/.local/share/vifm/Trash/000_Uncle.Buck.1989.720p.BluRay.x264.YIFY.mp4
+	/run/media/derrick/F017-2DD1/Uncle.Buck.1989.720p.BluRay.x264.YIFY.mp4
 
 # State:
 f

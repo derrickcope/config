@@ -25,4 +25,4 @@ nmap  <leader>cp :CmusPlay<cr>                  " cmus start play
 nmap  <leader>ce :PlaySelectedSong<cr>          " cmus play selected song from playlist 
 
 " FZF
-nmap <Leader><Space> :!fzf<cr>
+nmap <Leader><Space> :FZF<cr>
