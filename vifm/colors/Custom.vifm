@@ -6,22 +6,21 @@ highlight clear
 
 highlight Win             cterm=none ctermfg=yellow    ctermbg=default
 
-highlight TopLine         cterm=none ctermfg=yellow       ctermbg=cyan
-highlight TopLineSel      cterm=none ctermfg=yellow       ctermbg=cyan
-highlight StatusLine      cterm=none ctermfg=yellow       ctermbg=cyan
-highlight Border          cterm=none ctermfg=yellow       ctermbg=cyan
-
-highlight Selected        cterm=bold ctermfg=red    ctermbg=default
-highlight CurrLine        cterm=none ctermfg=black    ctermbg=green
+highlight TopLine         cterm=bold ctermfg=yellow       ctermbg=blue
+highlight TopLineSel      cterm=bold ctermfg=yellow       ctermbg=blue
+highlight StatusLine      cterm=bold ctermfg=yellow       ctermbg=blue
+highlight Border          cterm=bold ctermfg=yellow       ctermbg=blue
+highlight Selected        cterm=bold ctermfg=red          ctermbg=default
+highlight CurrLine        cterm=bold ctermfg=blue        ctermbg=yellow
 
 highlight WildMenu        cterm=underline,reverse ctermfg=white ctermbg=black
 highlight CmdLine         cterm=none ctermfg=white ctermbg=black
 highlight ErrorMsg        cterm=none ctermfg=red ctermbg=black
 
-highlight Directory       cterm=bold ctermfg=magenta ctermbg=default
+highlight Directory       cterm=none ctermfg=blue ctermbg=default
 highlight Link            cterm=none ctermfg=yellow ctermbg=default
 highlight BrokenLink      cterm=none ctermfg=red ctermbg=default
 highlight Socket          cterm=none ctermfg=yellow ctermbg=default
 highlight Device          cterm=none ctermfg=yellow ctermbg=default
 highlight Fifo            cterm=none ctermfg=yellow ctermbg=default
-highlight Executable      cterm=none ctermfg=cyan ctermbg=default
+highlight Executable      cterm=none ctermfg=green ctermbg=default

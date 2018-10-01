@@ -50,20 +50,21 @@ stalonetray &
 bspc rule -a Pavucontrol desktop='^8'
 pavucontrol &
 
-bspc rule -a Termite:cmus desktop='^8'
+bspc rule -a Alacritty:cmus desktop='^8'
 #urxvt -name cmus -title cmus -e cmus &
 
-bspc rule -a Termite:neomutt desktop='^2'
-bspc rule -a Termite:vifm desktop='^1'
-bspc rule -a Termite:term1 desktop='^1'
-bspc rule -a XTerm:* state=floating center=true rectangle=10x20
+bspc rule -a Alacritty:neomutt desktop='^2'
+bspc rule -a Alacritty:vifm desktop='^1'
+bspc rule -a Alacritty:term1 desktop='^1'
+bspc rule -a XTerm:* monitor=focused state=floating focus=on follow=on rectangle=300x20+500+0
 
 bspc desktop='^1' --focus
-#tilix --new-process -t term1 --name term1 &
-#tilix --new-process -t neomutt --name neomutt -e neomutt &
-#tilix --new-process -t vifm --name vifm -e vifm &
-#tilix --new-process -t cmus --name cmus -e cmus &
-termite --name term1 &
-termite --name neomutt -e neomutt &
-termite --name vifm -e vifm &
-termite --name cmus -e cmus &
+#termite --name term1 &
+#termite --name neomutt -e neomutt &
+#termite --name vifm -e vifm &
+#termite --name cmus -e cmus &
+alacritty --class neomutt -e neomutt &
+alacritty --class vifm -e vifm &
+alacritty --class cmus -e cmus &
+alacritty --class term1 &
+

@@ -103,7 +103,7 @@ set foldcolumn=1
 "set foldopen=all 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-"Cursor
+"Colorscheme
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "highlight Cursor guifg=white guibg=black
 "highlight iCursor guifg=white guibg=cyan
@@ -112,12 +112,6 @@ set foldcolumn=1
 "set guicursor+=n-v-c:blinkon0
 "set guicursor+=i:blinkwait10
 set guicursor=n-v-c:block,i-ci-ve:ver25,r-cr:hor20,o:hor50
-
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" plugin variables 
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-
 "colorscheme flattened_dark
 "colorscheme onedark
 "colorscheme candy
@@ -125,10 +119,27 @@ set guicursor=n-v-c:block,i-ci-ve:ver25,r-cr:hor20,o:hor50
 "colorscheme twilight
 colorscheme molokai
 "colorscheme lxvc
+
+hi MatchParen guibg=#000000 guifg=#FD971F cterm=reverse,bold
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Statusline
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+set laststatus=2
+set statusline=[%n]\ %<%F\ \ \ [%M%R%H%W%Y][%{&ff}]\ \ %=\ line:%l/%L\ col:%c\ \ \ %p%%\ \ \ @%{strftime(\"%H:%M:%S\")}
+
+au InsertEnter * hi StatusLine ctermbg=0 ctermfg=blue
+au InsertLeave * hi StatusLine ctermbg=0 ctermfg=gray
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" plugin variables 
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
 "airline configs
-let g:airline_theme='dark'
-let g:airline#extensions#tabline#enabled = 1
-let g:airline_powerline_fonts =1
+"let g:airline_theme='dark'
+"let g:airline#extensions#tabline#enabled = 1
+"et g:airline_powerline_fonts =1
+
+"file browser
 let g:netrw_liststyle = 3                       " netrw view style
 let g:netrw_banner = 0                          " no netrw banner
 let g:netrw_browse_split = 4                    " vertical split netrw 
@@ -152,7 +163,10 @@ let g:syntastic_always_populate_loc_list = 1
 let g:syntastic_auto_loc_list = 1
 let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
+let g:syntastic_loc_list_height = 3
 
+" RustFmt
+let g:rustfmt_autosave = 1
 
 """""""""""""""""""""""""""""""""""""""""""""""""
 " mappings

@@ -50,249 +50,39 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/derrick/.config
-	vifm
-39
-d/home/derrick
-	code
-13
-d/home/derrick/code
-	rust
-11
-d/home/derrick/code/rust
-	Udemy
-5
-d/home/derrick/code/rust/Udemy
-	typecast.rs
-5
-d/home/derrick/code/rust
-	Udemy
-5
-d/home/derrick/code
-	rust
-11
-d/home/derrick
-	.config
-5
-d/home/derrick/.config
-	vifm
-39
-d/home/derrick/.config/vifm
-	vifmrc
-5
-d/home/derrick/.config
-	libfm
-24
-d/home/derrick
-	code
-39
-d/home/derrick/code
-	rust
-11
-d/home/derrick/code/rust
-	Udemy
-5
-d/home/derrick/code/rust/Udemy
-	typecast.rs
-5
-d/home/derrick/code/rust
-	Udemy
-5
-d/home/derrick/code
-	rust
-11
-d/home/derrick
-	pilates
-49
-d/home/derrick/pilates
-	synapseeducation
-10
-d/home/derrick/pilates/synapseeducation
-	workshops
-16
-d/home/derrick/pilates/synapseeducation/workshops
-	posture
-9
-d/home/derrick/pilates/synapseeducation/workshops/posture
-	..
-0
-d/home/derrick/pilates/synapseeducation/workshops
-	pilatesbreath
-8
-d/home/derrick/pilates/synapseeducation/workshops/pilatesbreath
-	pilatesbreath.md
-3
-d/home/derrick/pilates/synapseeducation/workshops
-	pilatesbreath
-8
-d/home/derrick/pilates/synapseeducation
-	workshops
-16
-d/home/derrick/pilates
-	synapseeducation
-10
-d/home/derrick
-	.config
+d/home/derrick/downloads
+	roots_miniseries_boxset
 4
-d/home/derrick/.config
-	vifm
-39
-d/home/derrick/.config/vifm
-	vifm-help.txt
-3
-d/home/derrick/.config
-	vifm
-39
-d/home/derrick
-	pilates
-49
-d/home/derrick/pilates
-	synapseeducation
-10
-d/home/derrick/pilates/synapseeducation
-	workshops
-16
-d/home/derrick/pilates/synapseeducation/workshops
-	pilatesbreath
-8
-d/home/derrick/pilates/synapseeducation/workshops/pilatesbreath
-	handoutfooter.png
-2
-d/home/derrick/pilates/synapseeducation/workshops
-	pilatesbreath
-8
-d/home/derrick/pilates/synapseeducation
-	workshops
-16
-d/home/derrick/pilates
-	synapseeducation
-10
-d/home/derrick
-	pictures
-48
-d/home/derrick/pictures
-	DSCN5365.JPG
-21
-d/home/derrick
-	pictures
-48
-d/home
-	derrick
-1
-d/
-	home
-4
-d/home
-	derrick
-1
-d/home/derrick
-	.getmail
-9
-d/home/derrick/.getmail
-	getme
-3
-d/home/derrick
-	.getmail
-9
-d/home/derrick/.getmail
-	getme
-3
-d/home/derrick
-	.getmail
-9
-d/home/derrick/.getmail
-	getme
-3
-d/home/derrick
-	.notmutt
-19
-d/home/derrick/.notmutt
-	..
-0
 d/home/derrick
 	.config
 5
 d/home/derrick/.config
-	neomutt
-29
-d/home/derrick/.config/neomutt
-	..
-0
-d/home/derrick/.config
-	..
-0
-d/home/derrick
-	.config
+	alacritty
 5
+d/home/derrick/.config/alacritty
+	alacritty.yml
+1
 d/home/derrick/.config
-	sqlitebrowser
+	ranger
 35
-d/home/derrick
-	.procmailrc
-53
-d/home
-	derrick
-1
-d/home/derrick
-	downloads
-11
-d/home/derrick/downloads
-	Fall 2017 China-taiwan.xlsx
-4
-d/home/derrick
-	Documents
-6
-d/home/derrick/Documents
+d/home/derrick/.config/ranger
 	..
 0
-d/home/derrick
-	downloads
-11
-d/home/derrick/downloads
-	Fall 2018 International Order Form 3.xlsx
+d/home/derrick/.config
+	nvim
+31
+d/home/derrick/.config/nvim
+	init.vim
+12
+d/home/derrick/.config
+	alacritty
 5
-d/home/derrick
-	Documents
-6
-d/home/derrick/Documents
-	..
-0
-d/home/derrick
-	build
-11
-d/home/derrick/build
-	joshuto
-5
-d/home/derrick/build/joshuto
-	target
-4
-d/home/derrick/build/joshuto/target
-	debug
+d/home/derrick/.config/alacritty
+	alacritty.yml
 1
-d/home/derrick/build/joshuto/target/debug
-	joshuto
-8
-d/home/derrick/build/joshuto/target
-	debug
-1
-d/home/derrick/build/joshuto
-	target
-4
-d/home/derrick/build
-	joshuto
-5
-d/home/derrick
-	build
-11
-d/home
-	derrick
-1
-d/home/derrick
-	.config
-5
 d/home/derrick/.config
 	bspwm
-8
+9
 d/home/derrick/.config/bspwm
 	bspwmrc
 1
@@ -303,71 +93,281 @@ d/home/derrick/.config/sxhkd
 	sxhkdrc
 1
 d/home/derrick/.config
-	sqlitebrowser
-35
+	sxhkd
+36
 d/home/derrick
-	pictures
-49
-d/home/derrick/pictures
-	DSCN5361.JPG
+	.config
+5
+d/home
+	derrick
+1
+d/home/derrick
+	downloads
+42
+d/home/derrick/downloads
+	roots_miniseries_boxset
+4
+d/home/derrick/downloads/roots_miniseries_boxset
+	Roots_miniseries_ep1-6
+2
+d/home/derrick/downloads/roots_miniseries_boxset/Roots_miniseries_ep1-6
+	roots_episode4.w13.mkv
+3
+d/home/derrick/downloads/roots_miniseries_boxset
+	Roots_miniseries_ep1-6
+2
+d/home/derrick/downloads
+	roots_miniseries_boxset
+4
+d/home/derrick
+	.config
+5
+d/home/derrick/.config
+	nvim
+31
+d/home/derrick/.config/nvim
+	.netrwhist
+9
+d/home/derrick/.config
+	alacritty
+5
+d/home/derrick/.config/alacritty
+	alacritty.yml
+1
+d/home/derrick/.config
+	vifm
+39
+d/home/derrick/.config/vifm
+	colors
+1
+d/home/derrick/.config/vifm/colors
+	Default.vifm
+2
+d/home/derrick/.config/vifm
+	colors
+1
+d/home/derrick/.config/vifm/colors
+	Matrix.vifm
+3
+d/home/derrick/.config/vifm
+	scripts
+2
+d/home/derrick/.config
+	vifm
+39
+d/home/derrick/.config/vifm
+	vifminfo
+4
+d/home/derrick/.config
+	vifm
+39
+d/home/derrick
+	nike
+20
+d/home
+	derrick
+1
+d/home/derrick
+	nike
+20
+d/home
+	derrick
+1
+d/home/derrick
+	.config
+5
+d/home/derrick/.config
+	alacritty
+5
+d/home/derrick/.config/alacritty
+	alacritty.yml
+1
+d/home/derrick/.config
+	vifm
+39
+d/home/derrick/.config/vifm
+	colors
+1
+d/home/derrick/.config/vifm/colors
+	Matrix.vifm
+3
+d/home/derrick/.config/vifm
+	colors
+1
+d/home/derrick/.config
+	alacritty
+5
+d/home/derrick
+	.config
+5
+d/home/derrick/.config
+	alacritty
+5
+d/home/derrick/.config/alacritty
+	alacritty.yml
+1
+d/home/derrick/.config
+	nvim
+31
+d/home/derrick/.config/nvim
+	init.vim
+12
+d/home/derrick/.config
+	vifm
+39
+d/home/derrick/.config/vifm
+	colors
+1
+d/home/derrick/.config/vifm/colors
+	Custom.vifm
+1
+d/home/derrick/.config/vifm
+	colors
+1
+d/home/derrick/.config
+	vifm
+39
+d/home/derrick
+	ebooks
+43
+d/home/derrick/ebooks
+	Steve Klabnik
+17
+d/home/derrick/ebooks/Steve Klabnik
+	..
+0
+d/home/derrick/ebooks
+	Steve Klabnik
 17
 d/home/derrick
+	ebooks
+43
+d/home
+	derrick
+1
+d/home/derrick
 	.config
+5
+d/home/derrick/.config
+	alacritty
+5
+d/home/derrick/.config/alacritty
+	alacritty.yml
+1
+d/home/derrick/.config
+	vifm
+39
+d/home/derrick/.config/vifm
+	colors
+1
+d/home/derrick/.config/vifm/colors
+	Custom.vifm
+1
+d/home/derrick/.config/vifm
+	colors
+1
+d/home/derrick/.config
+	neomutt
+30
+d/home/derrick/.config/neomutt
+	color
+3
+d/home/derrick/.config
+	vifm
+39
+d/home/derrick/.config/vifm
+	colors
+1
+d/home/derrick/.config/vifm/colors
+	Custom.vifm
+1
+d/home/derrick/.config/vifm
+	colors
+1
+d/home/derrick/.config
+	nvim
+31
+d/home/derrick/.config/nvim
+	colors
 4
+d/home/derrick/.config/nvim/colors
+	molokai.vim
+9
+d/home/derrick/.config/nvim
+	init.vim
+12
 d/home/derrick/.config
-	termite
-37
-d/home/derrick/.config/termite
-	config
-1
-d/home/derrick/.config
-	bashrun
-7
-d/home/derrick/.config/bashrun
-	rc
+	nvim
+31
+d/home/derrick
+	downloads
+42
+d/home/derrick/downloads
+	roots_miniseries_boxset
+4
+d/home/derrick/downloads/roots_miniseries_boxset
+	Roots_miniseries_ep1-6
 2
-d/home/derrick/.config
-	sxhkd
-36
-d/home/derrick/.config/sxhkd
-	sxhkdrc
+d/home/derrick/downloads/roots_miniseries_boxset/Roots_miniseries_ep1-6
+	roots_miniseries_episodes5_6.mkv
+5
+d/home/derrick/downloads/roots_miniseries_boxset
+	Roots_the_gift
+3
+d/home/derrick/downloads/roots_miniseries_boxset/Roots_the_gift
+	Roots_the_gift_w13.mkv
 1
-d/home/derrick/.config
-	bspwm
-8
-d/home/derrick/.config/bspwm
-	bspwmrc
+d/home/derrick/downloads/roots_miniseries_boxset
+	Roots_30th_anniversary
 1
-d/home/derrick/.config
-	bashrun
-7
-d/home/derrick/.config/bashrun
-	rc
+d/home/derrick/downloads/roots_miniseries_boxset/Roots_30th_anniversary
+	..
+0
+d/home/derrick/downloads/roots_miniseries_boxset
+	Roots_miniseries_ep1-6
 2
-d/home/derrick/.config
-	bspwm
-8
-d/home/derrick/.config/bspwm
-	bspwmrc
+d/home/derrick/downloads/roots_miniseries_boxset/Roots_miniseries_ep1-6
+	roots_miniseries_episodes5_6.mkv
+5
+d/home/derrick/downloads/roots_miniseries_boxset
+	Roots_the_next_generation
+4
+d/home/derrick/downloads/roots_miniseries_boxset/Roots_the_next_generation
+	..
+0
+d/home/derrick/downloads/roots_miniseries_boxset
+	Roots_miniseries_ep1-6
+2
+d/home/derrick/downloads/roots_miniseries_boxset/Roots_miniseries_ep1-6
+	Roots_mini_series_s1.ep2.w13.mkv
+2
+d/home/derrick/downloads/roots_miniseries_boxset
+	Roots_miniseries_ep1-6
+2
+d/home/derrick/downloads
+	A Time To Kill (1996)
+1
+d/home/derrick/downloads/A Time To Kill (1996)
+	A.Time.to.Kill.1996.720p.BrRip.x264.YIFY.mp4
 1
 d
 
 # Right window history (oldest to newest):
-D/run/media/derrick/media2/video
-	MASH
-37
-D/run/media/derrick/media2/video/MASH
-	Season 8
-8
-D/run/media/derrick/media2/video/MASH/Season 8
-	Episode 25 - April Fools.mkv
-25
-D/run/media/derrick/media2/video/MASH
-	Season 9
-9
-D/run/media/derrick/media2/video/MASH/Season 9
-	Episode 1 - The Best of Enemies.mkv
+D/run/media/derrick/media2
+	ebooks
+5
+D/run/media/derrick
+	media2
+2
+D/run/media
+	derrick
 1
+D/home/derrick
+	scripts
+52
+D/home/derrick/scripts
+	screenshot.sh
+33
 D/run/media/derrick
 	media2
 2
@@ -375,284 +375,284 @@ D/run/media/derrick/media2
 	video
 12
 D/run/media/derrick/media2/video
-	Die.Hard.2.1990.BRRip.720p.x265.2Ch.HAAC2-Sunil-KITE-METeam
-4
-D/run/media/derrick/media2/video/Die.Hard.2.1990.BRRip.720p.x265.2Ch.HAAC2-Sunil-KITE-METeam
-	Die.Hard.2.1990.BRRip.720p.x265.2Ch.HAAC2-Sunil-KITE-METeam.mkv
+	Robin Hood Prince of Thieves (1991) [1080p]
+34
+D/run/media/derrick/media2/video/Robin Hood Prince of Thieves (1991) [1080p]
+	Robin.Hood.Prince.of.Thieves.1991.1080p.BluRay.x264.YIFY.mp4
 1
 D/run/media/derrick/media2/video
-	Shogun.1980.Restored.Complete.Bluray.1080p.DTS-HD.x264-Grym
+	Any.Given.Sunday[1999]DvDrip[Eng]-kirklestat
+8
+D/run/media/derrick/media2/video/Any.Given.Sunday[1999]DvDrip[Eng]-kirklestat
+	Any.Given.Sunday[1999]DvDrip[Eng]-kirklestat.avi
+1
+D/home/derrick
+	code
 41
-D/run/media/derrick/media2
-	video
-12
-D/run/media/derrick
-	media2
+D/home/derrick/code
+	rust
+11
+D/home/derrick/code/rust
+	Euler
 1
-D/run/media
+D/home/derrick/code/rust/Euler
+	euler03.rs
+4
+D/home/derrick/code/rust
+	Euler
+1
+D/home/derrick/code
+	rust
+11
+D/home/derrick
+	ebooks
+35
+D/home/derrick/ebooks
+	..
+0
+D/home/derrick
+	ebooks
+35
+D/home
 	derrick
 1
-D/run/media/derrick
-	media2
+D/home/derrick
+	.config
+5
+D/home/derrick/.config
+	nvim
+30
+D/home/derrick/.config/nvim
+	plugins.vim
+14
+D/home/derrick/.config
+	nvim
+30
+D/home/derrick/.config/nvim
+	.swap
 1
-D/run/media/derrick/media2
-	video
-12
-D/run/media/derrick/media2/video
-	MASH
-8
-D/run/media/derrick/media2/video/MASH
-	Season 9
-9
-D/run/media/derrick/media2/video/MASH/Season 9
-	Episode 2 - Letters.mkv
-2
-D/run/media/derrick/media2/video/MASH
-	Season 9
-9
-D/run/media/derrick/media2/video
-	MASH
-8
-D/run/media/derrick/media2
-	video
-12
-D/run/media/derrick
+D/home/derrick/.config/nvim/.swap
 	..
 0
-D/run
-	..
-0
-D/run/media/derrick
-	media2
+D/home/derrick/.config/nvim
+	.swap
 1
-D/run/media/derrick/media2
-	video
-12
-D/run/media/derrick/media2/video
-	MASH
-8
-D/run/media/derrick/media2/video/MASH
-	Season 9
-9
-D/run/media/derrick/media2/video/MASH/Season 9
-	Episode 2 - Letters.mkv
-2
-D/run/media/derrick/media2/video/MASH
-	Season 10
-10
-D/run/media/derrick/media2/video/MASH/Season 10
-	Episode 13 - A Holy Mess.mkv
+D/home/derrick/.config
+	nvim
+30
+D/home/derrick
+	.config
+5
+D/home
+	derrick
+1
+D/
+	home
+4
+D/home/derrick
+	.local
 13
-D/run/media/derrick
-	USB DISK
+D/home/derrick/.local
+	share
 1
-D/run/media/derrick/USB DISK
-	Fall 2018
+D/home/derrick/.local/share
+	nvim
+14
+D/home/derrick/.local/share/nvim
+	swap
 3
-D/run/media/derrick/USB DISK/Fall 2018
-	Tavi Noir
-1
-D/run/media/derrick/USB DISK/Fall 2018/Tavi Noir
+D/home/derrick/.local/share/nvim/swap
 	..
 0
-D/run/media/derrick/USB DISK/Fall 2018
-	ToeSox
-2
-D/run/media/derrick/USB DISK/Fall 2018/ToeSox
-	Lifestyle Photography
-2
-D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Lifestyle Photography
-	Back Cover 2 (Final).jpg
-11
-D/run/media/derrick/USB DISK/Fall 2018/ToeSox
-	Lifestyle Photography
-2
-D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Lifestyle Photography
-	ToeSox FW18 Jpeg Small
-1
-D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Lifestyle Photography/ToeSox FW18 Jpeg Small
-	.__DSF1778_BellarinaGryLime.jpg
-1
-D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Lifestyle Photography
-	ToeSox FW18 Jpeg Small
-1
-D/run/media/derrick/USB DISK/Fall 2018/ToeSox
-	Product Photography
+D/home/derrick/.local/share/nvim
+	swap
 3
-D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography
-	Grip
-3
-D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography/Grip
-	Ankle (Delivery 1)
-1
-D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography/Grip/Ankle (Delivery 1)
-	Socks_Grip_Ankle_FT_Frost.jpg
-2
-D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography/Grip
-	Elle
-4
-D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography
-	Grip
-3
-D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography/Grip
-	Elle
-4
-D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography
-	Grip
-3
-D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography/Grip
-	Mia
-7
-D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography/Grip/Mia
-	Delivery 1
-1
-D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography/Grip/Mia/Delivery 1
-	Socks_Grip_Mia_FT_Edge_D1.jpg
-4
-D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography/Grip/Mia
-	Delivery 1
-1
-D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography/Grip
-	Mia
-7
-D/run/media/derrick/USB DISK/Fall 2018/ToeSox/Product Photography
-	Grip
-3
-D/run/media/derrick/USB DISK/Fall 2018/ToeSox
-	Product Photography
-3
-D/run/media/derrick/USB DISK/Fall 2018
-	ToeSox
-2
-D/run/media/derrick/USB DISK/Fall 2018/ToeSox
-	Product Photography
-3
-D/run/media/derrick/USB DISK/Fall 2018
-	Tavi Noir
-1
-D/run/media/derrick/USB DISK
-	Spring 2019
-4
-D/run/media/derrick/USB DISK/Spring 2019
-	ToeSox
-2
-D/run/media/derrick/USB DISK/Spring 2019/ToeSox
-	ToeSox SS19 No Price.pdf
-3
-D/run/media/derrick/USB DISK/Spring 2019
-	ToeSox
-2
-D/run/media/derrick/USB DISK
-	Spring 2019
-4
-D/run/media/derrick
-	USB DISK
-1
-D/run/media
-	derrick
-1
-D/run/media/derrick
-	media2
-2
-D/run/media/derrick/media2
-	video
-12
-D/run
+D/home/derrick/.local/share/nvim/swap
 	..
 0
-D/run/media/derrick
-	media2
-1
-D/run/media/derrick/media2
-	video
-12
-D/run/media/derrick/media2/video
-	MASH
-8
-D/run/media/derrick/media2/video/MASH
-	Season 10
-10
-D/run/media/derrick/media2/video/MASH/Season 10
-	Episode 16 - Where There's a Will, There's a War.mkv
-16
-D/run/media/derrick/media2/video/MASH
-	Season 10
-10
-D/run/media/derrick/media2/video
-	MASH
-8
-D/run/media/derrick/media2
-	video
-12
-D/run/media/derrick
-	media2
-2
-D/run/media
-	derrick
-1
-D/run
+D/home/derrick/.local/share/nvim
+	swap
+3
+D/home/derrick/.local/share
+	nvim
+14
+D/home/derrick/.local/share/nvim
+	swap
+3
+D/home/derrick/.local/share/nvim/swap
 	..
 0
-D/run/media/derrick
-	C881-FC2C
+D/home/derrick/.local/share/nvim
+	swap
+3
+D/home/derrick/.local/share
+	nvim
+14
+D/home/derrick/.local
+	share
 1
-D/run/media/derrick/C881-FC2C
-	Deadpool 2 (2018) [BluRay] [1080p] [YTS.AM]
-6
-D/run/media/derrick/C881-FC2C/Deadpool 2 (2018) [BluRay] [1080p] [YTS.AM]
-	Deadpool.2.2018.1080p.BluRay.x264-[YTS.AM].mp4
-2
-D/run/media/derrick/C881-FC2C
-	Deadpool 2 (2018) [BluRay] [1080p] [YTS.AM]
-6
-D/run/media/derrick
-	C881-FC2C
+D/home/derrick
+	.config
+5
+D/home/derrick/.config
+	nvim
+30
+D/home/derrick/.config/nvim
+	.swap
 1
-D/run/media
+D/home/derrick/.config/nvim/.swap
 	..
 0
-D/run/media/derrick
-	media2
+D/home/derrick/.config/nvim
+	.undo
+2
+D/home/derrick/.config/nvim/.undo
+	..
+0
+D/home/derrick/.config/nvim
+	.undo
+2
+D/home/derrick/.config
+	nvim
+30
+D/home/derrick
+	.local
+13
+D/home/derrick/.local
+	share
 1
-D/run/media/derrick/media2
-	video
-12
-D/run/media/derrick/media2/video
-	MASH
-8
-D/run/media/derrick/media2/video/MASH
-	Season 10
-10
-D/run/media/derrick/media2/video/MASH/Season 10
-	Episode 16 - Where There's a Will, There's a War.mkv
-16
-D/run/media/derrick/media2/video/MASH
-	Season 11
-11
-D/run/media/derrick/media2/video/MASH/Season 11
-	Episode 10 - U.N., the Night and the Music.mkv
-10
+D/home/derrick/.local/share
+	nvim
+14
+D/home/derrick/.local/share/nvim
+	swap
+3
+D/home/derrick/.local/share/nvim/swap
+	..
+0
+D/home/derrick/.local/share/nvim
+	swap
+3
+D/home/derrick/.local/share
+	nvim
+14
+D/home/derrick/.local
+	share
+1
+D/home/derrick
+	downloads
+42
 D/home/derrick/downloads
 	respict.mp3
 43
+D/home/derrick
+	code
+41
+D/home/derrick/code
+	rust
+11
+D/home/derrick/code/rust
+	Udemy
+5
+D/home/derrick/code/rust/Udemy
+	communicator
+1
+D/home/derrick/code/rust/Udemy/communicator
+	src
+2
+D/home/derrick/code/rust/Udemy/communicator/src
+	network
+1
+D/home/derrick/code/rust/Udemy/communicator/src/network
+	mod.rs
+1
+D/home/derrick/code/rust/Udemy/communicator/src
+	network
+1
+D/home/derrick/code/rust/Udemy/communicator
+	src
+2
+D/home/derrick/code/rust/Udemy/communicator/src
+	lib.rs
+3
 D/run/media/derrick
 	media2
-1
+2
 D/run/media/derrick/media2
 	video
 12
 D/run/media/derrick/media2/video
-	MASH
-8
-D/run/media/derrick/media2/video/MASH
-	Season 11
-11
-D/run/media/derrick/media2/video/MASH/Season 11
+	Apocalypse Now (1979) [BluRay] [720p] [YTS.AM]
+9
+D/run/media/derrick/media2
+	ecourses
+6
+D/run/media/derrick/media2/ecourses
 	..
 0
+D/run/media/derrick/media2
+	ecourses
+6
+D/run/media/derrick
+	media2
+2
+D/run/media
+	derrick
+1
+D/run
+	media
+8
+D/
+	run
+12
 D/run
 	..
 0
+D/run/media/derrick
+	1D43-50D2
+1
+D/run/media/derrick/1D43-50D2
+	euler05.rs
+2
+D/run/media/derrick
+	..
+0
+D/run/media
+	derrick
+1
+D/run/media/derrick
+	media2
+2
+D/run/media/derrick/media2
+	ebooks
+5
+D/run/media/derrick/media2/ebooks
+	..
+0
+D/run/media/derrick/media2
+	video
+12
+D/run/media/derrick/media2/video
+	Avengers Age of Ultron (2015)
+10
+D/run/media/derrick/media2
+	ebooks
+5
+D/run/media/derrick/media2/ebooks
+	..
+0
+D/home/derrick/downloads
+	..
+0
+D/home/derrick
+	.openshot_qt
+12
+D/home/derrick/.openshot_qt
+	..
+0
+D/home/derrick
+	.xinitrc
+52
 D
 
 # Command line history (oldest to newest):
@@ -747,15 +747,15 @@ D
 :mkdir pilatesbreath
 :ls
 :la
-:umb
 :tiv %f
 :!tiv %f
-:q
 :um
 :umdd
-:umc
-:umd
 :quit
+:umb
+:umd
+:q
+:umc
 
 # Search history (oldest to newest):
 /cron
@@ -781,10 +781,11 @@ D
 /Intr
 /MA
 /Di
+/pac
+/jim
+/pacman
 
 # Prompt history (oldest to newest):
-pp131.pl
-psample.txt
 pmutt
 ppasture.pl
 pSynapse.exam.multchoice.packet.mat.v1.0.FEB2015.odg
@@ -883,10 +884,13 @@ ppilates videos
 pAlign-Pilates C2-Pro Pilates.mp4
 pzombies.mp3
 prespict.mp3
+peuler03.rs
+pProgramming Rust: Fast, Safe Systems Development.epub
 
 # Local filter history (oldest to newest):
 
 # Registers:
+""/home/derrick/.local/share/vifm/Trash/001_ranger
 
 # Directory stack (oldest to newest):
 
@@ -2589,6 +2593,222 @@ t/home/derrick/.local/share/vifm/Trash/000_Uncle.Buck.1989.720p.BluRay.x264.YIFY
 	/run/media/derrick/F017-2DD1/Uncle.Buck.1989.720p.BluRay.x264.YIFY.chs.shooter.srt
 t/home/derrick/.local/share/vifm/Trash/000_Uncle.Buck.1989.720p.BluRay.x264.YIFY.mp4
 	/run/media/derrick/F017-2DD1/Uncle.Buck.1989.720p.BluRay.x264.YIFY.mp4
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%rust%Udemy%functions.rs.swp
+	/home/derrick/.config/nvim/.swap/%home%derrick%code%rust%Udemy%functions.rs.swp
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%rust%Udemy%guessrandom%src%main.rs.swp
+	/home/derrick/.config/nvim/.swap/%home%derrick%code%rust%Udemy%guessrandom%src%main.rs.swp
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%rust%Udemy%struct02.rs.swp
+	/home/derrick/.config/nvim/.swap/%home%derrick%code%rust%Udemy%struct02.rs.swp
+t/home/derrick/.local/share/vifm/Trash/000_00 - Have You Ever Seen The Rain.mp3
+	/run/media/derrick/1D43-50D2/00 - Have You Ever Seen The Rain.mp3
+t/home/derrick/.local/share/vifm/Trash/000_01 - Piano Man.mp3
+	/run/media/derrick/1D43-50D2/01 - Piano Man.mp3
+t/home/derrick/.local/share/vifm/Trash/000_01 Choking Kind.mp3
+	/run/media/derrick/1D43-50D2/01 Choking Kind.mp3
+t/home/derrick/.local/share/vifm/Trash/000_01 Juice Newton - It's a Heartache.mp3
+	/run/media/derrick/1D43-50D2/01 Juice Newton - It's a Heartache.mp3
+t/home/derrick/.local/share/vifm/Trash/000_02 Super Duper Love (Are You Diggin On Me).mp3
+	/run/media/derrick/1D43-50D2/02 Super Duper Love (Are You Diggin On Me).mp3
+t/home/derrick/.local/share/vifm/Trash/000_02. Father And Son.flac
+	/run/media/derrick/1D43-50D2/02. Father And Son.flac
+t/home/derrick/.local/share/vifm/Trash/000_03 - Captain Jack.mp3
+	/run/media/derrick/1D43-50D2/03 - Captain Jack.mp3
+t/home/derrick/.local/share/vifm/Trash/000_03 Fell in Love With a Boy.mp3
+	/run/media/derrick/1D43-50D2/03 Fell in Love With a Boy.mp3
+t/home/derrick/.local/share/vifm/Trash/000_04 Juice Newton - Love's Been a Little Bit Hard on Me.mp3
+	/run/media/derrick/1D43-50D2/04 Juice Newton - Love's Been a Little Bit Hard on Me.mp3
+t/home/derrick/.local/share/vifm/Trash/000_04 Victim of a Foolish Heart.mp3
+	/run/media/derrick/1D43-50D2/04 Victim of a Foolish Heart.mp3
+t/home/derrick/.local/share/vifm/Trash/000_05 - Come Away With Me.m4a
+	/run/media/derrick/1D43-50D2/05 - Come Away With Me.m4a
+t/home/derrick/.local/share/vifm/Trash/000_05 Dirty Man.mp3
+	/run/media/derrick/1D43-50D2/05 Dirty Man.mp3
+t/home/derrick/.local/share/vifm/Trash/000_05 Do Right Woman, Do Right Man.mp3
+	/run/media/derrick/1D43-50D2/05 Do Right Woman, Do Right Man.mp3
+t/home/derrick/.local/share/vifm/Trash/000_05-I Am A Rock (Album Version).mp3
+	/run/media/derrick/1D43-50D2/05-I Am A Rock (Album Version).mp3
+t/home/derrick/.local/share/vifm/Trash/000_05. Changes.mp3
+	/run/media/derrick/1D43-50D2/05. Changes.mp3
+t/home/derrick/.local/share/vifm/Trash/000_05. The First Cut Is The Deepest.flac
+	/run/media/derrick/1D43-50D2/05. The First Cut Is The Deepest.flac
+t/home/derrick/.local/share/vifm/Trash/000_06 (You Make Me Feel Like) A Natural Woman.mp3
+	/run/media/derrick/1D43-50D2/06 (You Make Me Feel Like) A Natural Woman.mp3
+t/home/derrick/.local/share/vifm/Trash/000_06 Some Kind of Wonderful.mp3
+	/run/media/derrick/1D43-50D2/06 Some Kind of Wonderful.mp3
+t/home/derrick/.local/share/vifm/Trash/000_06-glen_campbell-southern_nights.flac
+	/run/media/derrick/1D43-50D2/06-glen_campbell-southern_nights.flac
+t/home/derrick/.local/share/vifm/Trash/000_07 - New York State of Mind.mp3
+	/run/media/derrick/1D43-50D2/07 - New York State of Mind.mp3
+t/home/derrick/.local/share/vifm/Trash/000_07 Bridge Over Troubled Water.mp3
+	/run/media/derrick/1D43-50D2/07 Bridge Over Troubled Water.mp3
+t/home/derrick/.local/share/vifm/Trash/000_07 I've Fallen in Love With You.mp3
+	/run/media/derrick/1D43-50D2/07 I've Fallen in Love With You.mp3
+t/home/derrick/.local/share/vifm/Trash/000_08 I Had a Dream.mp3
+	/run/media/derrick/1D43-50D2/08 I Had a Dream.mp3
+t/home/derrick/.local/share/vifm/Trash/000_08-looking_glass-brandy_(youre_a_fine_girl).flac
+	/run/media/derrick/1D43-50D2/08-looking_glass-brandy_(youre_a_fine_girl).flac
+t/home/derrick/.local/share/vifm/Trash/000_09 - For My Lover.mp3
+	/run/media/derrick/1D43-50D2/09 - For My Lover.mp3
+t/home/derrick/.local/share/vifm/Trash/000_09 All the King's Horses.mp3
+	/run/media/derrick/1D43-50D2/09 All the King's Horses.mp3
+t/home/derrick/.local/share/vifm/Trash/000_09-April Come She Will.mp3
+	/run/media/derrick/1D43-50D2/09-April Come She Will.mp3
+t/home/derrick/.local/share/vifm/Trash/000_09. Ziggy Stardust.mp3
+	/run/media/derrick/1D43-50D2/09. Ziggy Stardust.mp3
+t/home/derrick/.local/share/vifm/Trash/000_10 For The Love Of You.mp3
+	/run/media/derrick/1D43-50D2/10 For The Love Of You.mp3
+t/home/derrick/.local/share/vifm/Trash/000_10. Hard Headed Woman.flac
+	/run/media/derrick/1D43-50D2/10. Hard Headed Woman.flac
+t/home/derrick/.local/share/vifm/Trash/000_10. Suffragette City.mp3
+	/run/media/derrick/1D43-50D2/10. Suffragette City.mp3
+t/home/derrick/.local/share/vifm/Trash/000_11 - Life's Been Good.mp3
+	/run/media/derrick/1D43-50D2/11 - Life's Been Good.mp3
+t/home/derrick/.local/share/vifm/Trash/000_12 - The Downeaster 'Alexa'.mp3
+	/run/media/derrick/1D43-50D2/12 - The Downeaster 'Alexa'.mp3
+t/home/derrick/.local/share/vifm/Trash/000_12-cat_stevens-father_and_son.flac
+	/run/media/derrick/1D43-50D2/12-cat_stevens-father_and_son.flac
+t/home/derrick/.local/share/vifm/Trash/000_12. Under Pressure (with Queen).mp3
+	/run/media/derrick/1D43-50D2/12. Under Pressure (with Queen).mp3
+t/home/derrick/.local/share/vifm/Trash/000_13 - My Life.mp3
+	/run/media/derrick/1D43-50D2/13 - My Life.mp3
+t/home/derrick/.local/share/vifm/Trash/000_14 - Talkin' Bout A Revolution.mp3
+	/run/media/derrick/1D43-50D2/14 - Talkin' Bout A Revolution.mp3
+t/home/derrick/.local/share/vifm/Trash/000_14 Eleanor Rigby [-].mp3
+	/run/media/derrick/1D43-50D2/14 Eleanor Rigby [-].mp3
+t/home/derrick/.local/share/vifm/Trash/000_14-The 59Th Street Bridge Song (Feelin' Groovy) (Album Version).mp3
+	/run/media/derrick/1D43-50D2/14-The 59Th Street Bridge Song (Feelin' Groovy) (Album Version).mp3
+t/home/derrick/.local/share/vifm/Trash/000_18 - Allentown.mp3
+	/run/media/derrick/1D43-50D2/18 - Allentown.mp3
+t/home/derrick/.local/share/vifm/Trash/000_18 - I'll Be Your Baby Tonight.m4a
+	/run/media/derrick/1D43-50D2/18 - I'll Be Your Baby Tonight.m4a
+t/home/derrick/.local/share/vifm/Trash/000_20-A Hazy Shade Of Winter (Album Version).mp3
+	/run/media/derrick/1D43-50D2/20-A Hazy Shade Of Winter (Album Version).mp3
+t/home/derrick/.local/share/vifm/Trash/000_23. Peace Train.flac
+	/run/media/derrick/1D43-50D2/23. Peace Train.flac
+t/home/derrick/.local/share/vifm/Trash/000_34 - Honky Tonk Women - The Rolling Stones.mp3
+	/run/media/derrick/1D43-50D2/34 - Honky Tonk Women - The Rolling Stones.mp3
+t/home/derrick/.local/share/vifm/Trash/000_40 - Wild Horses - The Rolling Stones.mp3
+	/run/media/derrick/1D43-50D2/40 - Wild Horses - The Rolling Stones.mp3
+t/home/derrick/.local/share/vifm/Trash/000_101-blue_swede-hooked_on_a_feeling.flac
+	/run/media/derrick/1D43-50D2/101-blue_swede-hooked_on_a_feeling.flac
+t/home/derrick/.local/share/vifm/Trash/000_105-elvin_bishop-fooled_around_and_fell_in_love.flac
+	/run/media/derrick/1D43-50D2/105-elvin_bishop-fooled_around_and_fell_in_love.flac
+t/home/derrick/.local/share/vifm/Trash/000_108-redbone-come_and_get_your_love.flac
+	/run/media/derrick/1D43-50D2/108-redbone-come_and_get_your_love.flac
+t/home/derrick/.local/share/vifm/Trash/000_110-rupert_holmes-escape_(the_pina_colada_song).flac
+	/run/media/derrick/1D43-50D2/110-rupert_holmes-escape_(the_pina_colada_song).flac
+t/home/derrick/.local/share/vifm/Trash/000_111-the_five_stairsteps-o-o-h_child.flac
+	/run/media/derrick/1D43-50D2/111-the_five_stairsteps-o-o-h_child.flac
+t/home/derrick/.local/share/vifm/Trash/000_112-marvin_gaye_and_tammi_terrell-aint_no_mountain_high_enough.flac
+	/run/media/derrick/1D43-50D2/112-marvin_gaye_and_tammi_terrell-aint_no_mountain_high_enough.flac
+t/home/derrick/.local/share/vifm/Trash/000_Jeff Buckley - Hallelujah.mp3
+	/run/media/derrick/1D43-50D2/Jeff Buckley - Hallelujah.mp3
+t/home/derrick/.local/share/vifm/Trash/000_You Can'T Always Get What You Want.mp3
+	/run/media/derrick/1D43-50D2/You Can'T Always Get What You Want.mp3
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%rust%Euler%euler02.rs.swp
+	/home/derrick/.config/nvim/.swap/%home%derrick%code%rust%Euler%euler02.rs.swp
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2016-05-13 11:18:14.png
+	/home/derrick/pictures/screenshot/screenshot 2016-05-13 11:18:14.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2016-06-06 17:23:04.png
+	/home/derrick/pictures/screenshot/screenshot 2016-06-06 17:23:04.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2016-06-06 17:23:14.png
+	/home/derrick/pictures/screenshot/screenshot 2016-06-06 17:23:14.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2016-07-18 02:41:30.png
+	/home/derrick/pictures/screenshot/screenshot 2016-07-18 02:41:30.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2016-09-30 18:11:38.png
+	/home/derrick/pictures/screenshot/screenshot 2016-09-30 18:11:38.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2016-09-30 18:11:47.png
+	/home/derrick/pictures/screenshot/screenshot 2016-09-30 18:11:47.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2016-09-30 18:14:47.png
+	/home/derrick/pictures/screenshot/screenshot 2016-09-30 18:14:47.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2016-09-30 18:17:52.png
+	/home/derrick/pictures/screenshot/screenshot 2016-09-30 18:17:52.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2016-09-30 18:18:26.png
+	/home/derrick/pictures/screenshot/screenshot 2016-09-30 18:18:26.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2016-09-30 18:18:38.png
+	/home/derrick/pictures/screenshot/screenshot 2016-09-30 18:18:38.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2016-09-30 18:33:00.png
+	/home/derrick/pictures/screenshot/screenshot 2016-09-30 18:33:00.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2016-09-30 18:33:13.png
+	/home/derrick/pictures/screenshot/screenshot 2016-09-30 18:33:13.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2016-09-30 18:33:24.png
+	/home/derrick/pictures/screenshot/screenshot 2016-09-30 18:33:24.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2016-09-30 18:33:33.png
+	/home/derrick/pictures/screenshot/screenshot 2016-09-30 18:33:33.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2016-09-30 18:34:10.png
+	/home/derrick/pictures/screenshot/screenshot 2016-09-30 18:34:10.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2016-09-30 18:34:18.png
+	/home/derrick/pictures/screenshot/screenshot 2016-09-30 18:34:18.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2016-09-30 18:34:26.png
+	/home/derrick/pictures/screenshot/screenshot 2016-09-30 18:34:26.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2016-09-30 19:16:45.png
+	/home/derrick/pictures/screenshot/screenshot 2016-09-30 19:16:45.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2016-09-30 19:49:21.png
+	/home/derrick/pictures/screenshot/screenshot 2016-09-30 19:49:21.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2016-09-30 19:49:40.png
+	/home/derrick/pictures/screenshot/screenshot 2016-09-30 19:49:40.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2016-09-30 19:49:59.png
+	/home/derrick/pictures/screenshot/screenshot 2016-09-30 19:49:59.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2016-09-30 19:52:14.png
+	/home/derrick/pictures/screenshot/screenshot 2016-09-30 19:52:14.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2017-01-02 19:16:32.png
+	/home/derrick/pictures/screenshot/screenshot 2017-01-02 19:16:32.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2017-02-05 19:33:18.png
+	/home/derrick/pictures/screenshot/screenshot 2017-02-05 19:33:18.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2017-08-01 16:54:52.png
+	/home/derrick/pictures/screenshot/screenshot 2017-08-01 16:54:52.png
+t/home/derrick/.local/share/vifm/Trash/000_screenshot 2017-08-01 16:55:12.png
+	/home/derrick/pictures/screenshot/screenshot 2017-08-01 16:55:12.png
+t/run/media/derrick/media2/.vifm-Trash-1000/000_mpv-shot0001.jpg
+	/run/media/derrick/media2/video/Any.Given.Sunday[1999]DvDrip[Eng]-kirklestat/mpv-shot0001.jpg
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%rust%Udemy%assfunc.rs.swp
+	/home/derrick/.config/nvim/.swap/%home%derrick%code%rust%Udemy%assfunc.rs.swp
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%rust%Udemy%primefactors.rs.swp
+	/home/derrick/.config/nvim/.swap/%home%derrick%code%rust%Udemy%primefactors.rs.swp
+t/home/derrick/.local/share/vifm/Trash/000_%home%derrick%code%rust%Udemy%rss%src%main.rs.swp
+	/home/derrick/.config/nvim/.swap/%home%derrick%code%rust%Udemy%rss%src%main.rs.swp
+t/home/derrick/.local/share/vifm/Trash/000_%tmp%neomutt-nucskull-1000-11717-12794886195548177423.swp
+	/home/derrick/.local/share/nvim/swap/%tmp%neomutt-nucskull-1000-11717-12794886195548177423.swp
+t/home/derrick/.local/share/vifm/Trash/000_Centennial (TV mini-series 1978–1979)(DVD 1+2)Marjan TBS
+	/home/derrick/downloads/Centennial (TV mini-series 1978–1979)(DVD 1+2)Marjan TBS
+t/home/derrick/.local/share/vifm/Trash/000_~Get Your Files Here - www.appwikia.com
+	/home/derrick/downloads/~Get Your Files Here - www.appwikia.com
+t/home/derrick/.local/share/vifm/Trash/000_jumpintoacar.mp4
+	/home/derrick/downloads/jumpintoacar.mp4
+t/home/derrick/.local/share/vifm/Trash/000_hangzhouagreement.new.docx
+	/home/derrick/downloads/hangzhouagreement.new.docx
+t/home/derrick/.local/share/vifm/Trash/000_prism.jpg
+	/home/derrick/downloads/prism.jpg
+t/home/derrick/.local/share/vifm/Trash/000_prismen.png
+	/home/derrick/downloads/prismen.png
+t/home/derrick/.local/share/vifm/Trash/000_prismen.svg
+	/home/derrick/downloads/prismen.svg
+t/home/derrick/.local/share/vifm/Trash/000_respict.mp3
+	/home/derrick/downloads/respict.mp3
+t/home/derrick/.local/share/vifm/Trash/000_~Get More PC and Apps Tips Here !.url
+	/home/derrick/downloads/~Get More PC and Apps Tips Here !.url
+t/home/derrick/.local/share/vifm/Trash/000_rings.mp4
+	/home/derrick/downloads/rings.mp4
+t/home/derrick/.local/share/vifm/Trash/000_^ Just one Click to Get More Tutorials.url
+	/home/derrick/downloads/^ Just one Click to Get More Tutorials.url
+t/home/derrick/.local/share/vifm/Trash/000_SO00189659.xls
+	/home/derrick/downloads/SO00189659.xls
+t/home/derrick/.local/share/vifm/Trash/000_%E5%90%88%E4%BD%9C%E7%BB%8F%E8%90%A5%E5%90%88%E5%90%8C%EF%BC%88%E5%85%AC%E5%8F%B8%E4%B8%8E%E6%95%99%E7%BB%83%EF%BC%89.docx
+	/home/derrick/downloads/%E5%90%88%E4%BD%9C%E7%BB%8F%E8%90%A5%E5%90%88%E5%90%8C%EF%BC%88%E5%85%AC%E5%8F%B8%E4%B8%8E%E6%95%99%E7%BB%83%EF%BC%89.docx
+t/home/derrick/.local/share/vifm/Trash/000_Deflection_of_light_ray_passing_through_prism.png
+	/home/derrick/downloads/Deflection_of_light_ray_passing_through_prism.png
+t/home/derrick/.local/share/vifm/Trash/000_atoyapp.pdf
+	/home/derrick/downloads/atoyapp.pdf
+t/home/derrick/.local/share/vifm/Trash/000_catskel.jpg
+	/home/derrick/downloads/catskel.jpg
+t/home/derrick/.local/share/vifm/Trash/000_zombies.mp3
+	/home/derrick/downloads/zombies.mp3
+t/home/derrick/.local/share/vifm/Trash/000_Trash
+	/home/derrick/.local/share/Trash
+t/home/derrick/.local/share/vifm/Trash/000_ranger
+	/home/derrick/.local/share/ranger
+t/home/derrick/.local/share/vifm/Trash/001_ranger
+	/home/derrick/.config/ranger
 
 # State:
 f

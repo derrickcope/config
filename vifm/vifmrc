@@ -62,7 +62,7 @@ set noiec
 
 " Selected color scheme
 
-" colorscheme Default
+"colorscheme Default
 " colorscheme Matrix
 colorscheme Custom
 

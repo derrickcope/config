@@ -18,8 +18,8 @@ Plug 'junegunn/fzf.vim'
 Plug 'vim-syntastic/syntastic'
 
 " Airline themes
-Plug 'vim-airline/vim-airline'
-Plug 'vim-airline/vim-airline-themes'
+"Plug 'vim-airline/vim-airline'
+"Plug 'vim-airline/vim-airline-themes'
 
 " Various themes
 Plug 'tomasr/molokai'

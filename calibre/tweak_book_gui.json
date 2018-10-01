@@ -1,7 +1,40 @@
 {
+  "reports-ui-state": {}, 
+  "saved_seaches_state": {
+    "wrap": true, 
+    "direction": "down", 
+    "where": "current"
+  }, 
   "recent-books": [
+    "/home/derrick/ebooks/Unknown/Programming Rust (30)/Programming Rust - Unknown.epub", 
     "/home/derrick/ebooks/Klabnik, Steve/the rust progamming language (2)/the rust progamming language - Klabnik, Steve.epub", 
     "/home/derrick/ebooks/Unknown/therustprogamminglanguage (2)/therustprogamminglanguage - Unknown.epub"
   ], 
-  "reports-ui-state": {}
+  "main_window_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywACAAAAAAAKAAAAFgAAA7oAAAQtAAAADAAAABgAAAO4AAAEKwAAAAEAAAAAB4A="
+  }, 
+  "find-widget-state": {
+    "direction": "down", 
+    "case_sensitive": false, 
+    "mode": "normal", 
+    "wrap": true, 
+    "where": "current", 
+    "dot_all": false
+  }, 
+  "main_window_state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAD9AAAABAAAAAAAAADRAAADwfwCAAAABfsAAAAkAGYAaQBsAGUAcwAtAGIAcgBvAHcAcwBlAHIALQBkAG8AYwBrAQAAAD0AAAPBAAAAWQD////7AAAAHgB0AG8AYwAtAHYAaQBlAHcAZQByAC0AZABvAGMAawAAAAAA/////wAAAFkA////+wAAACAAdABlAHgAdAAtAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAA/////wAAAHwA////+wAAACAAYwBoAGUAYwBrAHAAbwBpAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAIoA////+wAAACYAcwBhAHYAZQBkAC0AcwBlAGEAcgBjAGgAZQBzAC0AZABvAGMAawAAAAAA/////wAAAgcA////AAAAAQAAAlEAAAPB/AIAAAAC+wAAABgAcAByAGUAdgBpAGUAdwAtAGQAbwBjAGsBAAAAPQAAA8EAAABAAP////sAAAAaAGwAaQB2AGUALQBjAHMAcwAtAGQAbwBjAGsAAAAAAP////8AAABZAP///wAAAAIAAAAAAAAAAPwBAAAAAfsAAAAeAGMAaABlAGMAawAtAGIAbwBvAGsALQBkAG8AYwBrAAAAAAD/////AAAAkAD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABpAG4AcwBwAGUAYwB0AG8AcgAtAGQAbwBjAGsAAAAAAP////8AAAApAP///wAAAH8AAAPBAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGcAbABvAGIAYQBsAC0AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAC0AYgBhAHIBAAABJv////8AAAAAAAAAAAAAABYAcABsAHUAZwBpAG4AcwAtAGIAYQByAAAAAAD/////AAAAAAAAAAA="
+  }, 
+  "text_search_widget_state": {
+    "where": "current", 
+    "mode": "normal", 
+    "dot_all": true, 
+    "case_sensitive": false
+  }, 
+  "search-panel-visible": false, 
+  "check-book-splitter-state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAEAAAAC//////////8A/////wEAAAABAA=="
+  }
 }
