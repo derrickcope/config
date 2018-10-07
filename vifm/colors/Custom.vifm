@@ -4,12 +4,12 @@
 
 highlight clear
 
-highlight Win             cterm=none ctermfg=yellow    ctermbg=default
+highlight Win             cterm=none ctermfg=white    ctermbg=default
 
-highlight TopLine         cterm=bold ctermfg=yellow       ctermbg=blue
-highlight TopLineSel      cterm=bold ctermfg=yellow       ctermbg=blue
-highlight StatusLine      cterm=bold ctermfg=yellow       ctermbg=blue
-highlight Border          cterm=bold ctermfg=yellow       ctermbg=blue
+highlight TopLine         cterm=none ctermfg=yellow       ctermbg=blue
+highlight TopLineSel      cterm=none ctermfg=yellow       ctermbg=blue
+highlight StatusLine      cterm=none ctermfg=yellow       ctermbg=blue
+highlight Border          cterm=none ctermfg=yellow       ctermbg=blue
 highlight Selected        cterm=bold ctermfg=red          ctermbg=default
 highlight CurrLine        cterm=bold ctermfg=blue        ctermbg=yellow
 

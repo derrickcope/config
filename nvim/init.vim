@@ -11,14 +11,10 @@ set shiftwidth=2                                " Number of spaces to use for ea
  
 set expandtab                                   " Use the appropriate number of spaces to insert a <Tab>.
 
-set directory=~/.config/nvim/.swap//
+set directory=.
 
-set undodir=~/.config/nvim/.undo//
-                                                " 
-                                                " Spaces are used in indents with the '>' and '<' commands
-                                                " and when 'autoindent' is on. To insert a real tab when
-                                                " 'expandtab' is on, use CTRL-V <Tab>.
- 
+set undodir=.
+
 set smarttab                                    "  When on, a <Tab> in front of a line inserts blanks
                                                 " 
                                                 " according to 'shiftwidth'. 'tabstop' is used in other
@@ -105,13 +101,16 @@ set foldcolumn=1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "Colorscheme
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+"set termguicolors
 "highlight Cursor guifg=white guibg=black
-"highlight iCursor guifg=white guibg=cyan
-"set guicursor=n-v-c:block-Cursor
-"set guicursor+=i:ver100-iCursor
+"highlight Cursor2 guifg=white guibg=cyan
+"set guicursor=n-v-c:block-Cursor/lCursor
+"set guicursor+=i-ci-ve:ver30-Cursor2/lCursor2
+"set guicursor+=r-cr:hor30
+"set guicursor+=o:hor30
 "set guicursor+=n-v-c:blinkon0
 "set guicursor+=i:blinkwait10
-set guicursor=n-v-c:block,i-ci-ve:ver25,r-cr:hor20,o:hor50
+set guicursor=n-v-c:block,i-ci-ve:ver30,r-cr:hor30,o:hor30
 "colorscheme flattened_dark
 "colorscheme onedark
 "colorscheme candy

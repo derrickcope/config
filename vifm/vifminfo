@@ -41,7 +41,7 @@
 # Bookmarks:
 
 # TUI:
-al
+ar
 q0
 v2
 ov
@@ -50,24 +50,69 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/derrick/downloads
-	roots_miniseries_boxset
-4
 d/home/derrick
-	.config
-5
-d/home/derrick/.config
-	alacritty
-5
-d/home/derrick/.config/alacritty
-	alacritty.yml
-1
-d/home/derrick/.config
-	ranger
+	music
 35
-d/home/derrick/.config/ranger
-	..
-0
+d/home/derrick/music
+	paul simon - graceland
+53
+d/home/derrick
+	mount
+34
+d/home
+	derrick
+1
+d/home/derrick
+	.local
+4
+d/home/derrick/.local
+	share
+1
+d/home/derrick/.local/share
+	vifm
+16
+d/home/derrick/.local/share/vifm
+	Trash
+1
+d/home/derrick/.local/share/vifm/Trash
+	001_ranger
+8
+d/home/derrick/.local/share/vifm
+	Trash
+1
+d/home/derrick/.local/share
+	vifm
+16
+d/home/derrick/.local
+	share
+1
+d/home/derrick
+	.config
+4
+d/home/derrick/.config
+	vifm
+39
+d/home/derrick/.config/vifm
+	vifmrc
+5
+d/home/derrick/.config
+	openbox
+32
+d/home/derrick
+	nike
+44
+d/home
+	derrick
+1
+d/home/derrick
+	.config
+5
+d/home/derrick/.config
+	alacritty
+5
+d/home/derrick/.config/alacritty
+	alacritty.yml
+1
 d/home/derrick/.config
 	nvim
 31
@@ -81,53 +126,11 @@ d/home/derrick/.config/alacritty
 	alacritty.yml
 1
 d/home/derrick/.config
-	bspwm
-9
-d/home/derrick/.config/bspwm
-	bspwmrc
-1
-d/home/derrick/.config
-	sxhkd
-36
-d/home/derrick/.config/sxhkd
-	sxhkdrc
-1
-d/home/derrick/.config
-	sxhkd
-36
+	alacritty
+5
 d/home/derrick
 	.config
 5
-d/home
-	derrick
-1
-d/home/derrick
-	downloads
-42
-d/home/derrick/downloads
-	roots_miniseries_boxset
-4
-d/home/derrick/downloads/roots_miniseries_boxset
-	Roots_miniseries_ep1-6
-2
-d/home/derrick/downloads/roots_miniseries_boxset/Roots_miniseries_ep1-6
-	roots_episode4.w13.mkv
-3
-d/home/derrick/downloads/roots_miniseries_boxset
-	Roots_miniseries_ep1-6
-2
-d/home/derrick/downloads
-	roots_miniseries_boxset
-4
-d/home/derrick
-	.config
-5
-d/home/derrick/.config
-	nvim
-31
-d/home/derrick/.config/nvim
-	.netrwhist
-9
 d/home/derrick/.config
 	alacritty
 5
@@ -135,69 +138,27 @@ d/home/derrick/.config/alacritty
 	alacritty.yml
 1
 d/home/derrick/.config
-	vifm
-39
-d/home/derrick/.config/vifm
-	colors
-1
-d/home/derrick/.config/vifm/colors
-	Default.vifm
-2
-d/home/derrick/.config/vifm
-	colors
-1
-d/home/derrick/.config/vifm/colors
-	Matrix.vifm
-3
-d/home/derrick/.config/vifm
-	scripts
-2
-d/home/derrick/.config
-	vifm
-39
-d/home/derrick/.config/vifm
-	vifminfo
-4
-d/home/derrick/.config
-	vifm
-39
+	README.md
+44
 d/home/derrick
-	nike
+	.config
+5
+d/home/derrick/.config
+	alacritty
+5
+d/home/derrick/.config/alacritty
+	alacritty.yml
+1
+d/home/derrick/.config
+	QtProject.conf
+43
+d/home/derrick
+	.bashrc
 20
 d/home
 	derrick
 1
 d/home/derrick
-	nike
-20
-d/home
-	derrick
-1
-d/home/derrick
-	.config
-5
-d/home/derrick/.config
-	alacritty
-5
-d/home/derrick/.config/alacritty
-	alacritty.yml
-1
-d/home/derrick/.config
-	vifm
-39
-d/home/derrick/.config/vifm
-	colors
-1
-d/home/derrick/.config/vifm/colors
-	Matrix.vifm
-3
-d/home/derrick/.config/vifm
-	colors
-1
-d/home/derrick/.config
-	alacritty
-5
-d/home/derrick
 	.config
 5
 d/home/derrick/.config
@@ -213,35 +174,23 @@ d/home/derrick/.config/nvim
 	init.vim
 12
 d/home/derrick/.config
-	vifm
-39
-d/home/derrick/.config/vifm
-	colors
-1
-d/home/derrick/.config/vifm/colors
-	Custom.vifm
-1
-d/home/derrick/.config/vifm
-	colors
-1
-d/home/derrick/.config
-	vifm
-39
+	nvim
+31
 d/home/derrick
-	ebooks
-43
-d/home/derrick/ebooks
-	Steve Klabnik
-17
-d/home/derrick/ebooks/Steve Klabnik
-	..
-0
-d/home/derrick/ebooks
-	Steve Klabnik
-17
+	build
+38
+d/home/derrick/build
+	alacritty
+1
+d/home/derrick/build/alacritty
+	alacritty.yml
+28
+d/home/derrick/build
+	alacritty
+1
 d/home/derrick
-	ebooks
-43
+	.bashrc
+32
 d/home
 	derrick
 1
@@ -249,50 +198,74 @@ d/home/derrick
 	.config
 5
 d/home/derrick/.config
-	alacritty
+	vifm
+39
+d/home/derrick/.config/vifm
+	colors
+1
+d/home/derrick/.config/vifm/colors
+	Custom.vifm
+1
+d/home/derrick/.config/vifm
+	colors
+1
+d/home/derrick/.config/vifm/colors
+	Custom.vifm
+1
+d/home/derrick/.config/vifm
+	colors
+1
+d/home/derrick/.config
+	volumeicon
+41
+d/home/derrick/.config/volumeicon
+	volumeicon
+1
+d/home/derrick/.config
+	cmus
+12
+d/home/derrick/.config/cmus
+	playlist.pl
 5
-d/home/derrick/.config/alacritty
-	alacritty.yml
-1
 d/home/derrick/.config
+	cmus
+12
+d/home/derrick
+	.local
+13
+d/home/derrick/.local
+	share
+1
+d/home/derrick/.local/share
 	vifm
-39
-d/home/derrick/.config/vifm
-	colors
+16
+d/home/derrick/.local/share/vifm
+	Trash
 1
-d/home/derrick/.config/vifm/colors
-	Custom.vifm
+d/home/derrick/.local/share/vifm/Trash
+	..
+0
+d/home/derrick/.local/share/vifm
+	Trash
 1
-d/home/derrick/.config/vifm
-	colors
-1
-d/home/derrick/.config
-	neomutt
-30
-d/home/derrick/.config/neomutt
-	color
+d/home/derrick/.local/share
+	nvim
+13
+d/home/derrick/.local/share/nvim
+	swap
 3
-d/home/derrick/.config
-	vifm
-39
-d/home/derrick/.config/vifm
-	colors
+d/home/derrick/.local/share
+	nvim
+13
+d/home/derrick/.local
+	share
 1
-d/home/derrick/.config/vifm/colors
-	Custom.vifm
-1
-d/home/derrick/.config/vifm
-	colors
-1
+d/home/derrick
+	.config
+5
 d/home/derrick/.config
 	nvim
 31
-d/home/derrick/.config/nvim
-	colors
-4
-d/home/derrick/.config/nvim/colors
-	molokai.vim
-9
 d/home/derrick/.config/nvim
 	init.vim
 12
@@ -300,254 +273,86 @@ d/home/derrick/.config
 	nvim
 31
 d/home/derrick
-	downloads
-42
-d/home/derrick/downloads
-	roots_miniseries_boxset
-4
-d/home/derrick/downloads/roots_miniseries_boxset
-	Roots_miniseries_ep1-6
-2
-d/home/derrick/downloads/roots_miniseries_boxset/Roots_miniseries_ep1-6
-	roots_miniseries_episodes5_6.mkv
-5
-d/home/derrick/downloads/roots_miniseries_boxset
-	Roots_the_gift
+	code
+39
+d/home/derrick/code
+	rust
+11
+d/home/derrick/code/rust
+	Oreilly
 3
-d/home/derrick/downloads/roots_miniseries_boxset/Roots_the_gift
-	Roots_the_gift_w13.mkv
-1
-d/home/derrick/downloads/roots_miniseries_boxset
-	Roots_30th_anniversary
-1
-d/home/derrick/downloads/roots_miniseries_boxset/Roots_30th_anniversary
-	..
-0
-d/home/derrick/downloads/roots_miniseries_boxset
-	Roots_miniseries_ep1-6
-2
-d/home/derrick/downloads/roots_miniseries_boxset/Roots_miniseries_ep1-6
-	roots_miniseries_episodes5_6.mkv
+d/home/derrick/code/rust/Oreilly
+	frayedknot
+7
+d/home/derrick/code/rust
+	Oreilly
+3
+d/home/derrick/code/rust/Oreilly
+	frayedknot.rs
+8
+d/home/derrick/code/rust
+	Oreilly
+3
+d/home/derrick/code
+	rust
+11
+d/home/derrick
+	.config
 5
-d/home/derrick/downloads/roots_miniseries_boxset
-	Roots_the_next_generation
-4
-d/home/derrick/downloads/roots_miniseries_boxset/Roots_the_next_generation
+d/home/derrick/.config
+	nvim
+31
+d/home/derrick/.config/nvim
+	.undo
+2
+d/home/derrick/.config/nvim/.undo
 	..
 0
-d/home/derrick/downloads/roots_miniseries_boxset
-	Roots_miniseries_ep1-6
+d/home/derrick/.config/nvim
+	.undo
 2
-d/home/derrick/downloads/roots_miniseries_boxset/Roots_miniseries_ep1-6
-	Roots_mini_series_s1.ep2.w13.mkv
+d/home/derrick/.config/nvim/.undo
+	..
+0
+d/home/derrick/.config/nvim
+	.undo
 2
-d/home/derrick/downloads/roots_miniseries_boxset
-	Roots_miniseries_ep1-6
-2
-d/home/derrick/downloads
-	A Time To Kill (1996)
+d/home/derrick/.config
+	nvim
+31
+d/home/derrick
+	code
+33
+d/home/derrick/code
+	rust
+11
+d/home/derrick/code/rust
+	Oreilly
+3
+d/home/derrick/code/rust/Oreilly
+	frayedknot.rs
+7
+d/home/derrick/code/rust
+	Oreilly
+3
+d/home/derrick/code
+	rust
+11
+d/home/derrick/code/rust
+	Oreilly
+3
+d/home/derrick/code/rust/Oreilly
+	examples
 1
-d/home/derrick/downloads/A Time To Kill (1996)
-	A.Time.to.Kill.1996.720p.BrRip.x264.YIFY.mp4
+d/home/derrick/code/rust/Oreilly/examples
+	fern_sim
+8
+d/home/derrick/code/rust/Oreilly
+	examples
 1
 d
 
 # Right window history (oldest to newest):
-D/run/media/derrick/media2
-	ebooks
-5
-D/run/media/derrick
-	media2
-2
-D/run/media
-	derrick
-1
-D/home/derrick
-	scripts
-52
-D/home/derrick/scripts
-	screenshot.sh
-33
-D/run/media/derrick
-	media2
-2
-D/run/media/derrick/media2
-	video
-12
-D/run/media/derrick/media2/video
-	Robin Hood Prince of Thieves (1991) [1080p]
-34
-D/run/media/derrick/media2/video/Robin Hood Prince of Thieves (1991) [1080p]
-	Robin.Hood.Prince.of.Thieves.1991.1080p.BluRay.x264.YIFY.mp4
-1
-D/run/media/derrick/media2/video
-	Any.Given.Sunday[1999]DvDrip[Eng]-kirklestat
-8
-D/run/media/derrick/media2/video/Any.Given.Sunday[1999]DvDrip[Eng]-kirklestat
-	Any.Given.Sunday[1999]DvDrip[Eng]-kirklestat.avi
-1
-D/home/derrick
-	code
-41
-D/home/derrick/code
-	rust
-11
-D/home/derrick/code/rust
-	Euler
-1
-D/home/derrick/code/rust/Euler
-	euler03.rs
-4
-D/home/derrick/code/rust
-	Euler
-1
-D/home/derrick/code
-	rust
-11
-D/home/derrick
-	ebooks
-35
-D/home/derrick/ebooks
-	..
-0
-D/home/derrick
-	ebooks
-35
-D/home
-	derrick
-1
-D/home/derrick
-	.config
-5
-D/home/derrick/.config
-	nvim
-30
-D/home/derrick/.config/nvim
-	plugins.vim
-14
-D/home/derrick/.config
-	nvim
-30
-D/home/derrick/.config/nvim
-	.swap
-1
-D/home/derrick/.config/nvim/.swap
-	..
-0
-D/home/derrick/.config/nvim
-	.swap
-1
-D/home/derrick/.config
-	nvim
-30
-D/home/derrick
-	.config
-5
-D/home
-	derrick
-1
-D/
-	home
-4
-D/home/derrick
-	.local
-13
-D/home/derrick/.local
-	share
-1
-D/home/derrick/.local/share
-	nvim
-14
-D/home/derrick/.local/share/nvim
-	swap
-3
-D/home/derrick/.local/share/nvim/swap
-	..
-0
-D/home/derrick/.local/share/nvim
-	swap
-3
-D/home/derrick/.local/share/nvim/swap
-	..
-0
-D/home/derrick/.local/share/nvim
-	swap
-3
-D/home/derrick/.local/share
-	nvim
-14
-D/home/derrick/.local/share/nvim
-	swap
-3
-D/home/derrick/.local/share/nvim/swap
-	..
-0
-D/home/derrick/.local/share/nvim
-	swap
-3
-D/home/derrick/.local/share
-	nvim
-14
-D/home/derrick/.local
-	share
-1
-D/home/derrick
-	.config
-5
-D/home/derrick/.config
-	nvim
-30
-D/home/derrick/.config/nvim
-	.swap
-1
-D/home/derrick/.config/nvim/.swap
-	..
-0
-D/home/derrick/.config/nvim
-	.undo
-2
-D/home/derrick/.config/nvim/.undo
-	..
-0
-D/home/derrick/.config/nvim
-	.undo
-2
-D/home/derrick/.config
-	nvim
-30
-D/home/derrick
-	.local
-13
-D/home/derrick/.local
-	share
-1
-D/home/derrick/.local/share
-	nvim
-14
-D/home/derrick/.local/share/nvim
-	swap
-3
-D/home/derrick/.local/share/nvim/swap
-	..
-0
-D/home/derrick/.local/share/nvim
-	swap
-3
-D/home/derrick/.local/share
-	nvim
-14
-D/home/derrick/.local
-	share
-1
-D/home/derrick
-	downloads
-42
-D/home/derrick/downloads
-	respict.mp3
-43
-D/home/derrick
-	code
-41
 D/home/derrick/code
 	rust
 11
@@ -651,8 +456,203 @@ D/home/derrick/.openshot_qt
 	..
 0
 D/home/derrick
-	.xinitrc
-52
+	scripts
+21
+D/home/derrick/scripts
+	screenshot.sh
+33
+D/home/derrick
+	scripts
+21
+D/home/derrick/scripts
+	openbox
+13
+D/run/media/derrick
+	4540-D527
+1
+D/run/media/derrick/4540-D527
+	minigrep
+5
+D/home/derrick/downloads
+	American Hustle (2013)
+2
+D/home/derrick/downloads/American Hustle (2013)
+	American.Hustle.2013.720p.BluRay.x264.YIFY.mp4
+1
+D/home/derrick/downloads
+	American Hustle (2013)
+3
+D/home/derrick
+	code
+10
+D/home/derrick/code
+	rust
+11
+D/home/derrick/code/rust
+	Euler
+1
+D/home/derrick/code/rust/Euler
+	euler06.rs
+8
+D/run/media/derrick
+	media2
+1
+D/run/media/derrick/media2
+	pilatesvideos
+10
+D/run/media/derrick/media2/pilatesvideos
+	A Movement
+1
+D/run/media/derrick/media2/pilatesvideos/A Movement
+	A Movement of Movement.m4v
+1
+D/run
+	..
+0
+D/run/media/derrick
+	media2
+1
+D/run/media/derrick/media2
+	video
+12
+D/run/media/derrick/media2/video
+	Defiance (2008)
+34
+D/run/media/derrick/media2
+	pictures
+9
+D/run/media/derrick/media2/pictures
+	Synapsepics
+12
+D/run/media/derrick/media2/pictures/Synapsepics
+	image10.png
+20
+D/run/media/derrick/media2/pictures
+	Synapsepics
+12
+D/run/media/derrick/media2
+	pilatesvideos
+10
+D/run/media/derrick/media2/pilatesvideos
+	A Movement
+1
+D/run/media/derrick/media2
+	video
+12
+D/run/media/derrick/media2/video
+	Defiance (2008)
+34
+D/run/media/derrick/media2
+	video
+12
+D/home/derrick
+	downloads
+11
+D/home/derrick/downloads
+	Peter Gabriel - Studio Discography [FLAC] [h33t] - Kitlope
+4
+D/home/derrick/downloads/Peter Gabriel - Studio Discography [FLAC] [h33t] - Kitlope
+	Peter Gabriel - So 1986
+13
+D/home/derrick/downloads/Peter Gabriel - Studio Discography [FLAC] [h33t] - Kitlope/Peter Gabriel - So 1986
+	03. Don't Give Up - Peter Gabriel.flac
+3
+D/home/derrick/downloads/Peter Gabriel - Studio Discography [FLAC] [h33t] - Kitlope
+	Peter Gabriel - So 1986
+13
+D/home/derrick/downloads
+	Peter Gabriel - Studio Discography [FLAC] [h33t] - Kitlope
+4
+D/run/media/derrick
+	media2
+1
+D/run/media/derrick/media2
+	music
+8
+D/run/media/derrick/media2/music
+	..
+0
+D/run/media/derrick/media2
+	music
+8
+D/run
+	..
+0
+D/
+	run
+12
+D/home/derrick
+	.config
+4
+D/home/derrick/.config
+	alacritty
+5
+D/home/derrick/.config/alacritty
+	alacritty.yml
+2
+D/home/derrick/.config
+	alacritty
+5
+D/home/derrick/.config/alacritty
+	alacritty.yml
+2
+D/home/derrick/.config
+	alacritty
+5
+D/home/derrick
+	.config
+4
+D/home/derrick/.config
+	nvim
+31
+D/home/derrick/.config/nvim
+	init.vim
+10
+D/home/derrick/.config
+	vifm
+39
+D/home/derrick/.config/vifm
+	colors
+1
+D/home/derrick/.config/vifm/colors
+	Custom.vifm
+1
+D/home/derrick/.config/vifm
+	colors
+1
+D/home/derrick/.config/vifm/colors
+	Custom.vifm
+1
+D/home/derrick/.config/vifm
+	colors
+1
+D/home/derrick/.config/vifm/colors
+	Custom.vifm
+1
+D/home/derrick/.config/vifm
+	colors
+1
+D/home/derrick/.config
+	vifm
+39
+D/home/derrick/.config/vifm
+	scripts
+2
+D/home/derrick/.config
+	vifm
+39
+D/home/derrick/.config/vifm
+	colors
+1
+D/home/derrick/.config/vifm/colors
+	Default.vifm
+2
+D/home/derrick/.config/vifm
+	colors
+1
+D/home/derrick/.config/vifm/colors
+	Custom.vifm
+1
 D
 
 # Command line history (oldest to newest):
@@ -754,8 +754,8 @@ D
 :quit
 :umb
 :umd
-:q
 :umc
+:q
 
 # Search history (oldest to newest):
 /cron
@@ -890,7 +890,8 @@ pProgramming Rust: Fast, Safe Systems Development.epub
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/derrick/.local/share/vifm/Trash/001_ranger
+""/home/derrick/.local/share/vifm/Trash/000_.swap
+""/home/derrick/.local/share/vifm/Trash/000_.undo
 
 # Directory stack (oldest to newest):
 
@@ -2809,6 +2810,26 @@ t/home/derrick/.local/share/vifm/Trash/000_ranger
 	/home/derrick/.local/share/ranger
 t/home/derrick/.local/share/vifm/Trash/001_ranger
 	/home/derrick/.config/ranger
+t/home/derrick/.local/share/vifm/Trash/000_neomutt
+	/home/derrick/scripts/neomutt
+t/home/derrick/.local/share/vifm/Trash/000_minigrep
+	/home/derrick/code/rust/Udemy/minigrep
+t/home/derrick/.local/share/vifm/Trash/000_euler08_new.rs
+	/home/derrick/code/rust/Oreilly/euler08_new.rs
+t/home/derrick/.local/share/vifm/Trash/000_euler08_new
+	/home/derrick/code/rust/Oreilly/euler08_new
+t/home/derrick/.local/share/vifm/Trash/000_euler08
+	/home/derrick/code/rust/Euler/euler08
+t/home/derrick/.local/share/vifm/Trash/000_euler07
+	/home/derrick/code/rust/Euler/euler07
+t/home/derrick/.local/share/vifm/Trash/000_euler06
+	/home/derrick/code/rust/Euler/euler06
+t/home/derrick/.local/share/vifm/Trash/000_volumeicon
+	/home/derrick/.config/volumeicon
+t/home/derrick/.local/share/vifm/Trash/000_.swap
+	/home/derrick/.config/nvim/.swap
+t/home/derrick/.local/share/vifm/Trash/000_.undo
+	/home/derrick/.config/nvim/.undo
 
 # State:
 f

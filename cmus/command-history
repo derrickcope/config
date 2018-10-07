@@ -1,5 +1,7 @@
-save /home/derrick/music/playlist2.m3u
+add /run/media/derrick/media2/music/
 clear
+add ~/music/
+save /home/derrick/music/playlist2.m3u
 load -p ~/music/playlist.m3u
 load ~/music/playlist.m3u
 save ~/music/playlist.m3u
@@ -9,7 +11,6 @@ save
 s
 add ~/music
 add ~/music/Jeff Buckley/
-add ~/music/
 add ~/podcasts/
 rem ~/podcasts
 rem 
