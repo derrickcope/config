@@ -266,7 +266,7 @@ fileviewer *.bmp,*.jpg,*.jpeg,*.png,*.gif,*.xpm
           "\ /home/derrick/.config/vifm/scripts/imgt %px %py %pw %ph %c 
           "\ %pc
           "\ /home/derrick/.config/vifm/scripts/imgc %px %py %pw %ph
-          \ /usr/bin/catimg -w 50 %c
+           \ /usr/bin/catimg %c
 
 "fileviewer *.bmp,*.jpg,*.jpeg,*.png,*.gif,*.xpm
 "           \ display -thumbnail 50x50\> %c

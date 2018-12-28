@@ -1,7 +1,13 @@
-add /run/media/derrick/media2/music/
+add ~/NAS/music/
 clear
-add ~/music/
+load -p ~/.config/cmus/playlist2.m3u
+save /home/derrick/.config/cmus//playlist2.m3u
 save /home/derrick/music/playlist2.m3u
+h
+delete
+remove
+add /run/media/derrick/media2/music/
+add ~/music/
 load -p ~/music/playlist.m3u
 load ~/music/playlist.m3u
 save ~/music/playlist.m3u
@@ -17,7 +23,6 @@ rem
 help
 remove ~/podcasts
 add ~/music/Prince - 4ever (2CD 2016) [FLAC]/
-h
 ~/music
 add 
 refresh
@@ -30,7 +35,6 @@ pause ?
 ?
 man
 cleal
-remove
 add ~
 add
 add ~/podcasts

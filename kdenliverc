@@ -3,7 +3,7 @@ Height 1080=444
 Width 1920=700
 
 [KFileDialog Settings]
-Recent Files[$e]=10 Snowboard Butter Tricks to Learn First-G9qlTInKbNE.mkv,file:$HOME/downloads/zombies.mp3,file:$HOME/alignpilates/Align-Pilates C2-Pro Pilates.mp4,file:$HOME/downloads/KOBE AND LEBRON PUPPET EPISODES INCLUDING 2017-1brEy4-2xls.mkv,file:$HOME/pilates/synapsestudio/synapselogonew/Synapse bby logo.jpg,file:$HOME/pilates/SuzanneMartin/Suzanne - welcome - YouTube [720p].mp4,file:$HOME/nike/2018NSC/VID_20180123_151923.mp4,file:$HOME/pilates/synapseeducation/marketing/derrickwechatqr.png,file:$HOME/nike/2017NSC/Nike Synapse logo.png,file:$HOME/pilates/synapsestudio/synapselogonew/flowRoot5229.png
+Recent Files[$e]=10 Snowboard Butter Tricks to Learn First-G9qlTInKbNE.mkv,file:$HOME/downloads/F' It - Full Movie - Austen Sweetin\\, Pat Moore\\, John Jackson - Forum Snowboards [HD]-CEjwPliXqT4.webm,file:$HOME/alignpilates/Align-Pilates C2-Pro Pilates.mp4,file:$HOME/downloads/KOBE AND LEBRON PUPPET EPISODES INCLUDING 2017-1brEy4-2xls.mkv,file:$HOME/pilates/synapsestudio/synapselogonew/Synapse bby logo.jpg,file:$HOME/pilates/SuzanneMartin/Suzanne - welcome - YouTube [720p].mp4,file:$HOME/nike/2018NSC/VID_20180123_151923.mp4,file:$HOME/pilates/synapseeducation/marketing/derrickwechatqr.png,file:$HOME/nike/2017NSC/Nike Synapse logo.png,file:$HOME/pilates/synapsestudio/synapselogonew/flowRoot5229.png
 Recent URLs[$e]=file:$HOME/nike/2017NSC/,file:$HOME/pilates/synapseeducation/marketing/,file:$HOME/nike/2018NSC/,file:$HOME/pilates/SuzanneMartin/,file:$HOME/pilates/,file:$HOME/downloads/,file:$HOME/alignpilates/
 
 [MainWindow]
@@ -107,7 +107,7 @@ proxyparams=-vf scale=640:-1 -g 5 -qscale 6 -ab 128k -vcodec mpeg2video -acodec 
 [sdl]
 audiobackend=sdl2_audio
 sdlAudioBackend=sdl2_audio
-volume=17
+volume=6
 
 [timeline]
 trackheight=59
@@ -124,4 +124,4 @@ selected_effecttab=1
 widgetstyle=Default
 
 [version]
-version=18.08.0
+version=18.08.3

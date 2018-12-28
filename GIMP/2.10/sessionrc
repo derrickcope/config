@@ -7,9 +7,8 @@
 
 (session-info "toplevel"
     (factory-entry "gimp-dock-window")
-    (position 0 385)
+    (position 234 194)
     (size 269 695)
-    (monitor 0)
     (open-on-exit)
     (aux-info
         (show-image-menu "false")
@@ -58,8 +57,8 @@
                     (show-button-bar "true"))))))
 (session-info "toplevel"
     (factory-entry "gimp-empty-image-window")
-    (position 10 22)
-    (size 1896 1044)
+    (position 0 0)
+    (size 1920 1080)
     (monitor 0)
     (open-on-exit))
 (session-info "toplevel"
@@ -95,9 +94,8 @@
     (position 1509 629))
 (session-info "toplevel"
     (factory-entry "gimp-toolbox-window")
-    (position 1674 443)
+    (position 73 232)
     (size 128 637)
-    (monitor 0)
     (open-on-exit)
     (gimp-toolbox))
 (session-info "toplevel"
@@ -121,6 +119,7 @@
 
 (hide-docks no)
 (single-window-mode no)
+(show-tabs yes)
 (tabs-position 0)
 (last-tip-shown 0)
 

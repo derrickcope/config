@@ -2,13 +2,15 @@
 # mailcap - MIME configuration file
 #
 
-text/html;                  firefox -new-tab %s; 
-image/*;                    gpicview %s;
-application/pdf;            mupdf %s;
-text/html;                  w3m -I %{charset} -T text/html; copiousoutput;
-image/png;                  gpicview %s;
-application/vnd.ms-excel;   localc %s;
-application/vnd.ms-word;    lowriter %s;
-application/octet-stream;   gpicview %s;
-text/plain;                 less %s;
+auto_view text/html application/x-gunzip image/gif image/png
+
+text/html;                  firefox %s
+image/*;                    gpicview %s
+video/*;                    mpv %s > /dev/null
+application/pdf;            mupdf %s
+text/html;                  w3m -I %{charset} -T text/html; copiousoutput
+application/vnd.ms-excel;   localc %s
+application/vnd.ms-word;    lowriter %s
+application/octet-stream;   gpicview %s
+text/plain;                 less %s
 
